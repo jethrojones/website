@@ -12,7 +12,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '29'
-last_modified_at: 2024-11-01 19:03:55
+last_modified_at: 2024-11-01 20:24:26
 ---
 
 TLDR; Plans based on equity, what kids need. In person for those who must, virtual for those who can, self-directed for others.
