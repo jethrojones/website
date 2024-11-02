@@ -21,7 +21,7 @@ When we looked at the data, and saw that over 400 students received Office Disci
 <<<<<<< HEAD
 [PBIS Initiatives at Copperview]({{ site.url }}/assets/PBIS%20initiatives%20at%20Copperview%20small.pdf) is just a brief overview of all that we did, but each little thing we did added up. Our ODRs were down the second year to about 270. We are on track to have less than 200 for the 2013-2014 school year. In just two years (if all goes well), we will have cut the number of ODRs in half! That is amazing, especially considering how many we started with in 2011-2012!
 =======
-[PBIS Initiatives at Copperview]({{%20site.url%20}}/assets/PBIS%20initiatives%20at%20Copperview%20small.pdf) is just a brief overview of all that we did, but each little thing we did added up. Our ODRs were down the second year to about 270. We are on track to have less than 200 for the 2013-2014 school year. In just two years (if all goes well), we will have cut the number of ODRs in half! That is amazing, especially considering how many we started with in 2011-2012!
+[PBIS Initiatives at Copperview]({{ site.url }}/assets/PBIS%20initiatives%20at%20Copperview%20small.pdf) is just a brief overview of all that we did, but each little thing we did added up. Our ODRs were down the second year to about 270. We are on track to have less than 200 for the 2013-2014 school year. In just two years (if all goes well), we will have cut the number of ODRs in half! That is amazing, especially considering how many we started with in 2011-2012!
 >>>>>>> parent of 03279a9 (Updated posts)
 
 
@@ -35,7 +35,7 @@ This graphic below shows the reduction in ODRs as of January in each year.
 <<<<<<< HEAD
 [ODRs over three years]({{ site.url }}/assets/odrs%20over%20three%20years.png)
 =======
-[ODRs over three years]({{%20site.url%20}}/assets/odrs%20over%20three%20years.png)
+[ODRs over three years]({{ site.url }}/assets/odrs%20over%20three%20years.png)
 >>>>>>> parent of 03279a9 (Updated posts)
 
 
@@ -55,8 +55,8 @@ Our first step was to create a matrix of behaviors in specific areas. As a schoo
 [our matrix]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.pdf). It is blank, so you can see what needs to be filled in. Here is one 
 [that is filled out]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.xlsx) (Excel file). You'll notice that we added expected adult behavior to the list in the third year. We didn't start there. We started with a blank page, and invited our teachers to be part of completing that process.
 =======
-[our matrix]({{%20site.url%20}}/assets/Copperview%20PBIS%20Matrix.pdf). It is blank, so you can see what needs to be filled in. Here is one 
-[that is filled out]({{%20site.url%20}}/assets/Copperview%20PBIS%20Matrix.xlsx) (Excel file). You'll notice that we added expected adult behavior to the list in the third year. We didn't start there. We started with a blank page, and invited our teachers to be part of completing that process.
+[our matrix]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.pdf). It is blank, so you can see what needs to be filled in. Here is one 
+[that is filled out]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.xlsx) (Excel file). You'll notice that we added expected adult behavior to the list in the third year. We didn't start there. We started with a blank page, and invited our teachers to be part of completing that process.
 >>>>>>> parent of 03279a9 (Updated posts)
 
 
