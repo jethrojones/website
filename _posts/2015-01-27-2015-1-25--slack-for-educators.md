@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '359'
-last_modified_at: 2024-11-01 20:24:26
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 We used a new product for our district collaboration at the conference we attended this weekend: Slack. Learn more 

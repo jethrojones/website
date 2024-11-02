@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '17'
-last_modified_at: 2024-11-01 20:24:26
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 A couple weeks ago, I released my 
