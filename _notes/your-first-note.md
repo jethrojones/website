@@ -1,7 +1,10 @@
 ---
 title: Your first seed
+<<<<<<< HEAD
 publish date: 2024-03-15
 last_modified_at: 2024-11-01 20:24:26
+=======
+>>>>>>> parent of 03279a9 (Updated posts)
 ---
 
 ### Welcome!
