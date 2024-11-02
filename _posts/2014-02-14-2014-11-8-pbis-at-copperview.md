@@ -18,7 +18,7 @@ At Copperview, we have done a lot of neat things to help our students improve th
 
 
 When we looked at the data, and saw that over 400 students received Office Discipline Referrals (ODRs) we knew we had to make some major changes. We did a lot. 
-[PBIS Initiatives at Copperview]({{%20site.url%20}}/assets/PBIS%20initiatives%20at%20Copperview%20small.pdf) is just a brief overview of all that we did, but each little thing we did added up. Our ODRs were down the second year to about 270. We are on track to have less than 200 for the 2013-2014 school year. In just two years (if all goes well), we will have cut the number of ODRs in half! That is amazing, especially considering how many we started with in 2011-2012!
+[PBIS Initiatives at Copperview]({{ site.url }}/assets/PBIS%20initiatives%20at%20Copperview%20small.pdf) is just a brief overview of all that we did, but each little thing we did added up. Our ODRs were down the second year to about 270. We are on track to have less than 200 for the 2013-2014 school year. In just two years (if all goes well), we will have cut the number of ODRs in half! That is amazing, especially considering how many we started with in 2011-2012!
 
 
 If you assume that each incident requires approximately 30 minutes of my time to deal with, and that kids are probably out of class for 30 minutes if they are involved in a situation, you will quickly see that more than 200 hours of my time and more than 200 hours of instructional time for those students are lost. That is a lot. You can teach kids a lot in 200 hours.
@@ -28,7 +28,7 @@ This graphic below shows the reduction in ODRs as of January in each year.
 
 
 !
-[ODRs over three years]({{%20site.url%20}}/assets/odrs%20over%20three%20years.png)
+[ODRs over three years]({{ site.url }}/assets/odrs%20over%20three%20years.png)
 
 
 #Be Safe, Be Kind, Be Responsible.
@@ -43,8 +43,8 @@ We simplified our school rules to just three that all students (Kindergarten thr
 
 
 Our first step was to create a matrix of behaviors in specific areas. As a school, we identified every area of the school where the students would be expected to act a certain way. Here's 
-[our matrix]({{%20site.url%20}}/assets/Copperview%20PBIS%20Matrix.pdf). It is blank, so you can see what needs to be filled in. Here is one 
-[that is filled out]({{%20site.url%20}}/assets/Copperview%20PBIS%20Matrix.xlsx) (Excel file). You'll notice that we added expected adult behavior to the list in the third year. We didn't start there. We started with a blank page, and invited our teachers to be part of completing that process.
+[our matrix]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.pdf). It is blank, so you can see what needs to be filled in. Here is one 
+[that is filled out]({{ site.url }}/assets/Copperview%20PBIS%20Matrix.xlsx) (Excel file). You'll notice that we added expected adult behavior to the list in the third year. We didn't start there. We started with a blank page, and invited our teachers to be part of completing that process.
 
 
 #Playworks
