@@ -1,7 +1,20 @@
 ---
-title: Your first seed
+last_modified_at: 
+permalink: 
+description: 
+title: 
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+creation date: 2024-03-04
+layout: post
 ---
 
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
