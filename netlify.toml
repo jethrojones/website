@@ -1,4 +1,4 @@
 [build]
   command = "jekyll build --trace"
   publish = "_site"
-  NETLIFY_BUILD_DEBUG = "true"
+
