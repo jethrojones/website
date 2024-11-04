@@ -73,7 +73,7 @@ Here's all my writings (numbers 14, 26, 19, and 32 were the most popular):
     https://x.com/jethrojones/status/1798171349439123493
 29. [[Striving]]
     https://x.com/jethrojones/status/1798565187106304218
-30. [[AI easy and Hard]]
+30. [[AI Easy and Hard]]
     https://x.com/jethrojones/status/1798800827488014671
 31. [[lifestyle is your choice]]
     https://x.com/jethrojones/status/1798926690468638884

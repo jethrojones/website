@@ -2,15 +2,15 @@
 last_modified_at: 2024-11-04 2024-11-04 13:25
 permalink: 
 description: 
-title: 
+title: AI Easy and Hard
 image: 
-published: "true"
+published: 2024-06-18
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
 creation date: 2024-06-18 16:17
-layout: post
+layout: note
 ---
 
 

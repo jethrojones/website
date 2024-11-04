@@ -1,8 +1,8 @@
 ---
-last_modified_at: 
+last_modified_at: 2024-11-04
 permalink: 
 description: 
-title: 
+title: How We Use AI In Schools
 image: 
 published: "true"
 sitemap: "true"
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 creation date: 2024-11-02 12:37
-layout:
+layout: note
 ---
 
 
@@ -65,9 +65,7 @@ This is still our only (hopefully) opportunity for a doctoral degree. Surely non
 In closing, and to be clear, I am speaking for myself, not for the rest of the cohort here. I don't know how they would feel about the content of this email. 
 
 Tom, I respect you and appreciate you taking the time to hear me out about this. The fact that you even reached out to begin with means a lot to me. Thank you for being an example and a leader worth following. 
-
-Thanks, 
-
-Jethro
-
 [^1]: I used AI to finish spelling acknowledge by pressing Tab on my computer as I was typing. Do I need to acknowledge that? And what is the proper way to acknowledge it? These are questions that I'm certain you don't want to waste your time arguing about. 
+- [[Organic Skills]]
+- [[AI Easy and Hard]]
+- [[AI Can Do Anything, But Not Something Specific]]
