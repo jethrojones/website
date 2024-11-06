@@ -4,11 +4,12 @@ permalink: sxbs
 description: 
 title: SchoolX Book Study - Transform your School with Purpose
 image: /assets/schoolx.jpg
-published: "false"
+published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category: events
+tags:
+  - sales
 creation date: 2024-11-04 14:51
 layout: page
 ---
