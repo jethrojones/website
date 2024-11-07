@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-07 23:40:35
+last_modified_at: 2024-11-07 23:44:12
 ---
 
 One of the great rules I have set up in Hazel is for our news broadcast each morning. It takes the news from the computer it is recorded on, moves it to my computer (with a little Dropbox help) and then moves it to my public Dropbox folder, where another Hazel rule cleans it out after 3 days.

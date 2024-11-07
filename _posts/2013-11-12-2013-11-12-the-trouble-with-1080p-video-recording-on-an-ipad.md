@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-07 23:40:35
+last_modified_at: 2024-11-07 23:44:12
 ---
 
 Recently, we have been using the iPads as video recording devices. They work great. We even have some nice 
