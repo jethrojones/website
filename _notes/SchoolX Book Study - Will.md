@@ -120,4 +120,4 @@ Join the first session risk-free. If you’re not completely satisfied after att
 ---
 
 **Contact Information**  
-Have questions? Reach out to us at **[send me an email](mailto:jethro@transformativeprincipal.com)**.
+Have questions? Or want bulk subscriptions: **[send me an email](mailto:jethro@transformativeprincipal.com)**.
