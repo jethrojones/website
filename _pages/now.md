@@ -1,4 +1,4 @@
-Last updated August 26, 2024
+## last updated November 8, 2024
 # Creating
 
 With the successful launch of my last two books, [SchoolX][0] and [How to be a Transformative Principal][1], I'm writing my third book: Bad Advice for New Principals, which should be out...whenever I finish it. 
