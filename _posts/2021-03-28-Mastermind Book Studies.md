@@ -2,7 +2,7 @@
 last_modified_at: 2024-11-11
 permalink: 
 description: 
-title: 
+title: Mastermind Book "Studies"
 image: 
 published: "true"
 sitemap: "true"
