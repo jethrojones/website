@@ -16,8 +16,7 @@ You, as a woman, are created in the image of God. We don't know much about Heave
 Through the act of motherhood, you can become more like them. I believe there are three spiritual gifts you can gain to be more like your Heavenly Parents.
 
 What does that mean?
-
- [![IMG_1058.PNG](https://world.hey.com/jethro/239bf49f/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUEp5N3k4PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccda84a5cc1a68faf74f0d60e831b2e9b3317f74/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--0b5e092e6240e14fab357b4c1013c9a0c881ff87/IMG_1058.PNG)](https://world.hey.com/jethro/239bf49f/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUEp5N3k4PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccda84a5cc1a68faf74f0d60e831b2e9b3317f74/IMG_1058.PNG?disposition=attachment "Download IMG_1058.PNG") 
+![Image of God]({{ site.url }}/assets/imageofgod.jpg)
 
 We are made up of our mind, body, and spirit. If we are created in the image of God, we inherit characteristics of Deity in all three of these areas. Our Heavenly Parents, like we, as earthly parents, pass our qualities onto our progeny. Imagine these three aspects as a three-circle Venn diagram. Mind, body, Spirit. And where the three circles overlap are the spiritual gifts of compassion discernment and intuition which we will talk about in just a moment
 
