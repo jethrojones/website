@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2024-11-11 23:59:02
 permalink: clippings
 description: 
 title: 
