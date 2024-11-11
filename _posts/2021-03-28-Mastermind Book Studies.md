@@ -2,7 +2,7 @@
 last_modified_at: 2024-11-11
 permalink: 
 description: 
-title: Mastermind Book "Studies"
+title: 'Mastermind Book "Studies"'
 image: 
 published: "true"
 sitemap: "true"
@@ -11,13 +11,11 @@ category:
 tags: 
 layout: post
 author: 
-title: "Mastermind Book "Studies""
 source: https://world.hey.com/jethro/mastermind-book-studies-8d59ed19
 clipped: 2024-11-11
 published: March 28, 2021
 topics: 
 ---
-
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
