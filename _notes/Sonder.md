@@ -16,7 +16,7 @@ layout: note
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-https://x.com/adammgrant/status/1855635021480030649?s=46
+[](https://x.com/adammgrant/status/1855635021480030649?s=46)
 
 [From this Adam Grant post on X](https://x.com/adammgrant/status/1855635021480030649?s=46)
 
