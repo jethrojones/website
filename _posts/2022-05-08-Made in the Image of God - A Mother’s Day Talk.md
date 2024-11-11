@@ -1,5 +1,6 @@
 ---
-category: "[[Clippings]]"
+category: 
+layout: post
 author: 
 title: Made in the Image of God - A Mother’s Day Talk
 source: https://world.hey.com/jethro/made-in-the-image-of-god-a-mother-s-day-talk-239bf49f
@@ -7,7 +8,7 @@ clipped: 2024-11-11
 published: 2022-05-08
 topics: 
 tags:
-  - clippings
+  - church
 ---
 
 You, as a woman, are created in the image of God. We don't know much about Heavenly Mother, so I won't speculate here, but we do know that we are created in the image of our heavenly parents.
