@@ -27,4 +27,6 @@ Organic skills are what have traditionally been termed the soft skills. The beau
 
 Mechanistic[^1] skills are the hard skills of math, engineering, and science. There's a definitive answer. There's a clear evidence of mastery. It's less context-dependent. You can make a multiple choice test on mechanistic skills, but if you try to make a multiple choice test on organic skills, you're sure to have some argument. 
 
+[[Patience]]
+
 [^1]: Or mechanical, but I prefer mechanistic, so it rhymes with organic
