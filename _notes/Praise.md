@@ -1,8 +1,4 @@
 ---
----
-
-last_modified_at: 2024-09-28 01:46:27
----
 permalink: praise
 date: 2024-06-07
 layout: post

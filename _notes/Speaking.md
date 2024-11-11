@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 date: 2024-03-01
+layout: page
 ---
 My main focus is the integration of leadership and technology. If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
