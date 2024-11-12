@@ -48,3 +48,5 @@ See examples below:
 ![](https://cdn-images-2.listennotes.com/images/podcasts/hb4gq2J5cWm/badge/)
 
 ![](https://cdn-images-2.listennotes.com/images/podcasts/_Cs5Op6jwFf/badge/)
+
+![let’s talk football](https://cdn-images-2.listennotes.com/images/podcasts/H4-dKbnN1Ji/badge/?_gl=1*zfo496*_gcl_au*NTA5MTg3ODkxLjE3Mjg3MzQxODQ.*_ga*MTU0MDczODEyOS4xNzI3OTA2NjA1*_ga_T0PZE2Z7L4*MTczMTM4OTYwMS43LjEuMTczMTM4OTYxNy40NC4wLjA.)

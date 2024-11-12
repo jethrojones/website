@@ -65,3 +65,4 @@ We can turn learning over to our students and really empower them in a powerful 
 So, how do we change education? We empower students to be the learners they are innately, and stop letting our public education put road blocks up that bore them and destroy their creativity.
 
 [[sdl]]
+[[Synergy]]
