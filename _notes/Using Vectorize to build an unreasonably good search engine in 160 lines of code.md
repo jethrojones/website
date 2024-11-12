@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: search-on-jekyll
+permalink: 
 description: Using ChatGPT to create search for this web site built using jekyll
 image: 
 published: 
