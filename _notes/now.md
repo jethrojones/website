@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-11-12 18:07:44
+last_modified_at: 2024-11-12 18:16:22
 permalink: now
 description: What's Jethro up to right now?
 title: Now
@@ -11,7 +11,7 @@ category:
 tags: 
 date: 2022-10-01
 layout: page
-last_modified_at: 2024-11-12 18:07:44
+last_modified_at: 2024-11-12 18:16:22
 ---
 ## Last updated November 8, 2024
 # Creating
