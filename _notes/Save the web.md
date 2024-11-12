@@ -8,7 +8,8 @@ created: 2024-11-11
 description: Highlight and capture web pages in your favorite browser with the new Obsidian Web Clipper extension.
 tags: 
 image: 
-category:
+category: 
+permalink: saveweb
 ---
 > Today, we’re introducing [Obsidian Web Clipper](https://obsidian.md/clipper) a new extension that helps you highlight and capture the web in your favorite browser. Anything you save is stored as durable Markdown files that you can read offline, and preserve for the long term.
 
