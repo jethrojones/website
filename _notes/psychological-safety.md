@@ -3,7 +3,7 @@ title: 'Psychological Safety - What it is, Why it''s Important, and How to Foste
 date: Fri, 22 Nov 2019 17:50:00 +0000
 draft: false
 tags: ['psychological safety', '#teamhabits']
-last_modified_at: 2024-09-28 01:46:28
+last_modified_at: 2024-11-12 17:39:20
 ---
 
 I was sitting in a leadership team meeting at my school last year, and we were discussing next steps for moving our school forward. A suggestion was made, not by me, and we decided that was the right step to take.
