@@ -57,9 +57,4 @@ category:
 | 12:09 - 1:09 | 5 | Related Arts |
 | 1:12 - 2:30 | 6 | CORE |
 
-<%* if (tp.frontmatter.source && tp.frontmatter.author) { -%>
-via [<% tp.frontmatter.author %>](<% tp.frontmatter.source %>)<%* } %>
-
-{% if page.source and page.author %}
-  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
-{% endif %}
+View the [[ChatGPT Conversation about Polson Middle School]]
