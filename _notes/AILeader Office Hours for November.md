@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: aiofficenov24
 description: 
 title: Schedules are a big puzzle, and I like puzzles
 image: 
