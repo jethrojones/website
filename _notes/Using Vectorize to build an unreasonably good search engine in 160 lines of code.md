@@ -3,7 +3,7 @@ last_modified_at:
 permalink: 
 description: Using ChatGPT to create search for this web site built using jekyll
 image: 
-published: 
+published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: "[[Clippings]]"
