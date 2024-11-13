@@ -21,7 +21,7 @@ Today was office hours for AI, which [I do every month](https://jethro.webinarni
 
 Kathryn asked a great question about how to adjust her bell schedule using AI. 
 
-This is the [[ChatGPT Conversation about Polson Middle School]]
+This is the [ChatGPT Conversation about Polson Middle School](https://www.dropbox.com/scl/fi/njjz0u88wvyv5osgh45b0/ChatGPT-Conversation-about-Polson-Middle-School.pdf?rlkey=usdddf8s8rmd99hwlzvnorl2e&dl=0)
 
 And this is the finalized schedule we came up with for [[Polson Middle School]].
 
