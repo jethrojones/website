@@ -12,7 +12,7 @@ image:
 category:
 ---
 Chat conversation about [[Polson Middle School]]
-
+I uploaded photos so I couldn't share the exact conversation with you!
 ###### You Said: 
 What do you make of these schedules? Time Period Class 8:00 - 8:08 HR Announcements 8:10 - 9:20 1 CORE 9:23 - 10:16 2 Related Arts 10:19 - 11:29 3 CORE 11:32 - 11:57 4 Lunch 12:00 - 12:53 5 Related Arts 12:55 - 2:05 6/7 CORE 2:07 - 2:30 8 PRIDE
 
