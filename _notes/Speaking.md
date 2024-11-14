@@ -14,13 +14,15 @@ layout: page
 ---
 My main focus is the integration of leadership and technology. If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
-## For More about AI Presentations, see [[Presentations on AI|here]].
+
 # Presentations & Speaking
 
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
 
 -   How to be a Transformative Principal
     -   With the leading podcast for educational administrators, Jethro Jones has interviewed over 300 leaders to find the keys to being transformative. This presentation includes insight from the greatest msteainds of our generation [seen here](http://transformativeprincipal.transistor.fm).
+- Eliminate Stress in Just 10 Seconds
+	- This presentation focuses on how leaders can eliminate stress, and overcome their saboteurs to become the best versions of themselves. I teach a strategy to help you recenter and get focused that takes just ten seconds. And it works! This is the basis for all my individual principal coaching. 
 -   It's not Just Fixed vs. Growth
     -   Based on the work of Ryan Gottfredson's Success Mindsets. Understanding the four mindsets (fixed vs. growth, closed vs. open, prevention vs. promotion, inward vs. outward) is a key to transforming your school culture. Learn about interventions to create positive mindsets that can change your school's identity. 
 -   SchoolX - Creating a school experience to help every child succeed. 
@@ -39,6 +41,7 @@ Sharing what I learn is very important to me. Here you will find links and resou
 -   Student Driven Learning
     -   This multi-day workshop is geared towards moving whole systems to a student-driven learning model. 
 
+## For More about AI Presentations, see [[Presentations on AI|here]].
 
 
 ---
@@ -51,8 +54,10 @@ Sharing what I learn is very important to me. Here you will find links and resou
 
 ---
 
+# 2025
 # 2024
-Monthly: AILeader Office Hours - 2nd Tuesday of each month.
+**Monthly**: AILeader Office Hours - 2nd Tuesday of each month.
+**Monthly:** [Big Impact Mixer](https://bigimpactmixer.com) - just for people who want to make a big impact. 
 
 January - Webinar - how to eliminate stress in just 10 seconds
 
@@ -62,11 +67,13 @@ June 2-3 - Arizona School Administrators Institute for Excellence - Relationship
 
 June 9-10 - Arizona School Administrator's Summer Conference - Hiring in trying times
 
-Juse 11 - Texas Association of School Principals - Going beyond AI Policy (fill-in for Shima)
+Juse 11 - Texas Association of School Principals - Going beyond AI Policy
 
 September 2024 - Buckeye Union School District - AI Policy and Beyond
 
 December 2024 - ALASBO & AML Presentations about AI
+
+
 # 2023
 March 1-2 - Olympia WA - Move Up Workshop for Assistant Principals
 

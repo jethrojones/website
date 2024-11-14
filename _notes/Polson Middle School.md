@@ -57,4 +57,4 @@ category:
 | 12:09 - 1:09 | 5 | Related Arts |
 | 1:12 - 2:30 | 6 | CORE |
 
-View the [[ChatGPT Conversation about Polson Middle School]]
+View the [ChatGPT Conversation about Polson Middle School](https://www.dropbox.com/scl/fi/njjz0u88wvyv5osgh45b0/ChatGPT-Conversation-about-Polson-Middle-School.pdf?rlkey=usdddf8s8rmd99hwlzvnorl2e&dl=0)

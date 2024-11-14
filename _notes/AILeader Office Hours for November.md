@@ -26,3 +26,5 @@ This is the [ChatGPT Conversation about Polson Middle School](https://www.dropbo
 And this is the finalized schedule we came up with for [[Polson Middle School]].
 
 We took her schedules from [this page](https://www.madison.k12.ct.us/polson-middle-school/general-info/daily-schedules).
+
+![](https://youtu.be/aR3KC0KklGY)
