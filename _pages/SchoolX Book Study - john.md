@@ -3,7 +3,7 @@ last_modified_at:
 permalink: john
 description: a unique and exciting book study of SchoolX - redesigning your school for the people right in front of you.
 title: SchoolX Book Study - Transform your School with Purpose
-image: /assets/sxbsblbs.png
+image: /assets/sxbsjohn.png
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
