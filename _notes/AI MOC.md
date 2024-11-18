@@ -15,18 +15,20 @@ layout: page
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
+# Everything AI
 This is the place to find everything about AI on my site (hopefully I can keep it updated!)
 
-[[aplus|The APLUS Framework for Adopting AI In Schools]]
-[[AIinschools]]
-[[AI Easy and Hard]]
-[[AILeader]]
-[[best ai tools]]
-[[Presentations on AI]]
-[[Can we trust the AI?]]
+- [[aplus|The APLUS Framework for Adopting AI In Schools]]
+- [[AIinschools]]
+- [[AI Easy and Hard]]
+- [[AILeader]]
+- [[best ai tools]]
+- [[Presentations on AI]]
+- [[Can we trust the AI?]]
 
-Blog Posts: 
+Blog Posts[^1]: 
 - [Testing a couple different solutions with AI](https://jethro.site/podcast/2023/12/22/testing-a-couple-different-solutions-with-ai/)
 - [How AI Is Relieving Burdens on Educators](https://jethro.site/2023/12/12/how-ai-is-relieving-burdens-on-educators/)
 - [Student AI Usage](https://jethro.site/2023/11/13/student-ai-usage/)
-
+[^1]: Blog posts were written prior to 2024 when I started updating my web site focused on a living journal of sorts.
