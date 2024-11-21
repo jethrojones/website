@@ -4,7 +4,7 @@ permalink: bimnov
 description: three reasons you need a podcast
 title: Three reasons you should have a podcast to go with your big impact!
 image: /assets/bimnov.png
-published: 2024-11-20
+published: 2024-11-18
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
@@ -26,6 +26,11 @@ If you want to join us this Thursday at 10 am, sign up at [Big Impact Mixer](htt
 
 See my podcast [[results]].
 
+# 3 Reason Why. 
+
+[[Don't call it a Substack. - Anil Dash|Open and Direct to your Listeners: Intimate]]
+## The Recording
+<iframe src="https://share.descript.com/embed/n9LD0kPC4Yf" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 # Questions for Breakout
 1. What would a podcast for your big impact look like? 
 2. Story, Solo, or Seeker?
