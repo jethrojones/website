@@ -24,6 +24,8 @@ Several of you already have podcasts. I hope you'll still attend and share how y
 
 If you want to join us this Thursday at 10 am, sign up at [Big Impact Mixer](https://bigimpactmixer.com), and I'll add you to this invite only experience. 
 
+See my podcast [[results]].
+
 # Questions for Breakout
 1. What would a podcast for your big impact look like? 
 2. Story, Solo, or Seeker?
