@@ -33,6 +33,6 @@ If you want to join us this Thursday at 10 am, sign up at [Big Impact Mixer](htt
 6. Make a list of or describe the person you're making the podcast for. 
 
 ## Next Steps
-Make it happen! If you want to consult with me for free, please schedule a [time here](http://cal.com/jethrojones/podcast).
+Make it happen! If you want to schedule a FREE consult with me about your podcast, please find a [time here](http://cal.com/jethrojones/podcast).
 
 
