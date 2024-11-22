@@ -5,7 +5,9 @@ last_modified_at: 2024-10-04 19:26:32
 These are the tools that are completely essential to me on a daily basis. There might be affiliate links here. 
 
 [Convertkit](https://partners.kit.com/zwdugtptgpu9) for building and sending an email list. 
+
 [Obsidian]() - This is my note-taking app. And the app where all the pages in this web site are created. 
+
 [Descript](https://get.descript.com/swu3aooczakr) - This is what I use for podcast editing, screencast recordings, and pretty much anything that uses spoken word. Incredibly powerful and so easy to use. 
 
 [Fastmail](https://ref.fm/u28470920z) - I have several different email providers. Fastmail is one of them. I use 1Password as well, and Fastmail creates one-off emails through a tight integration with 1Password so I don't have to use the same email address for everything. Helpful with things like data breaches, which are all too common these days. Fastmail is inexpensive, and is highly customizable. 
@@ -27,3 +29,5 @@ These are the tools that are completely essential to me on a daily basis. There 
 [AudioPen](https://audiopen.ai/?aff=neRMq) - This is one of my favorite AI tools. It takes my messy rambling thoughts and clarifies them for me in many different ways. I'm a talker, and sometimes it is easier to process through talking than writing, but I want both. Love this tool for that purpose. 
 
 [SmarterQueue](https://smarterqueue.com/?afmc=14r) - This is a social media posting automation tool. I can post to all my social networks from one place, scheduled in advanced, and that keeps me out of the feed of doom! 
+
+[Cal.com](https://cal.com) - I like this instead of calendly.com because it is free for single users and open source.
