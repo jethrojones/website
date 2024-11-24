@@ -72,8 +72,9 @@ I'll update this as the process continues.
 
 
 ## How to remove the Feed Limit in BlogTalkRadio Podcast Feeds
-Updated November 23, 2024
-Today, BlogTalkRadio shared that if you replace the www with beta in your podcast feed, it will come over.
+*Updated November 23, 2024*
+
+Today, BlogTalkRadio shared that if you replace the `www` with `beta` in your podcast feed, it will come over.
 
 ```
 - Replace the `www.` in your BlogTalkRadio RSS feed URL https://www.blogtalkradio.com/YourShowName/podcast with `beta.`
