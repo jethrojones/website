@@ -13,7 +13,6 @@ creation date: 2024-11-22 10:51
 layout: note
 ---
 
-
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 The podcast host [BlogTalkRadio is shutting down effective January 31, 2025](https://podnews.net/article/blogtalkradio-customer-email). 
 
@@ -70,3 +69,18 @@ To be a successful podcaster, you shouldn't have to know all the details, becaus
 This is the kind of lock-in that has no place on the open web. See [[Don't call it a Substack. - Anil Dash|Don't Call it a Substack]]. 
 
 I'll update this as the process continues. 
+
+
+## How to remove the Feed Limit in BlogTalkRadio Podcast Feeds
+Updated November 23, 2024
+Today, BlogTalkRadio shared that if you replace the www with beta in your podcast feed, it will come over.
+
+```
+- Replace the `www.` in your BlogTalkRadio RSS feed URL https://www.blogtalkradio.com/YourShowName/podcast with `beta.`
+
+For example, your updated RSS feed would look like this:
+
+`https://beta.blogtalkradio.com/YourShowName/podcast
+```
+
+Unfortunately, this brought all the episodes over but it did not include any audio files, as "- **2000 Episodes** [were] missing an audio file or have an unreachable audio file URL."

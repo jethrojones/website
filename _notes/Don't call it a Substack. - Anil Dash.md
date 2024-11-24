@@ -31,3 +31,5 @@ I also appreciate Anil’s post because Substack is the last blog I need to port
 {% if page.source and page.author %}
   <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
 {% endif %}
+
+See my frustrations with [[Trying to Export Substack]] and [[Move from BlogTalkRadio to Transistor]]
