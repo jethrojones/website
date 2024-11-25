@@ -1,4 +1,5 @@
 ---
+last_modified_at: 
 title: To Radiate Life A Prayer by Elbert Hubbard
 source: https://www.appleseeds.org/Hubbard_To-Radiate-Life.htm
 author:
@@ -8,7 +9,6 @@ created: 2024-11-24
 description: '"To Radiate Life: A Prayer" by Elbert Hubbard'
 tags:
   - clippings
-last_modified_at: 
 image: 
 category:
 ---

@@ -1,7 +1,4 @@
 ---
-<<<<<<< Updated upstream
-last_modified_at: 2024-11-25 18:42:13
-=======
 last_modified_at: 2024-11-25 18:42:13
 permalink: tedx
 description: Jethro shares how he combatted chronic absenteeism and raised attendance rates from 85% to 95% in a simple, sustainable, inexpensive way
@@ -14,7 +11,6 @@ category:
 tags: 
 creation date: 2024-09-27 18:50
 layout: note
->>>>>>> Stashed changes
 ---
 
 
