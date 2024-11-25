@@ -1,15 +1,15 @@
 ---
-title: "\"To Radiate Life: A Prayer\" by Elbert Hubbard"
-source: "https://www.appleseeds.org/Hubbard_To-Radiate-Life.htm"
+title: To Radiate Life A Prayer by Elbert Hubbard
+source: https://www.appleseeds.org/Hubbard_To-Radiate-Life.htm
 author:
-  - "Elbert Hubbard"
-published:
+  - Elbert Hubbard
+published: 
 created: 2024-11-24
-description: "\"To Radiate Life: A Prayer\" by Elbert Hubbard"
+description: '"To Radiate Life: A Prayer" by Elbert Hubbard'
 tags:
-  - "clippings"
-last_modified_at:
-image:
+  - clippings
+last_modified_at: 
+image: 
 category:
 ---
 > **T**he supreme prayer of my heart is not to be learned, rich, famous, powerful, or ‘good,' but simply to be radiant. I desire to radiate health, cheerfulness, calm courage, and good will. I wish to live without hate, whim, jealousy, envy, fear. I wish to be simple, honest, frank, natural, clean in mind and clean in body, unaffected – as ready to say ‘I do not know, if it be so, and to meet all men on an absolute equality – to face any obstacle and meet every difficulty unabashed and unafraid.
