@@ -8,7 +8,7 @@ created: 2024-11-24
 description: The importance of sharing enough to get people to ask questions. Because it applies to them.
 tags:
   - clippings
-last_modified_at: 
+last_modified_at: 2024-11-25 00:12:28
 image: 
 category:
 ---
