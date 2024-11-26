@@ -30,3 +30,5 @@ I've never really been very detail oriented, and I break things easily. And I do
 Those are not necessarily good qualities to have in a programmer. 
 
 But then, I play with something like chatGPT and I can even connect it to my text editor and Terminal and I think, maybe I can do enough to get a proof of concept and then turn it over to someone more skilled. 
+
+This is one of the challenges of [[learning]]. What do we focus on? We only have limited time.
