@@ -85,3 +85,80 @@ For example, your updated RSS feed would look like this:
 ```
 
 Unfortunately, this brought all the episodes over but it did not include any audio files, as "- **2000 Episodes** [were] missing an audio file or have an unreachable audio file URL."
+
+## Update November 25, 2024
+After not hearing back from blogtalkradio, I decided to set up a failsafe. Rather than working on things I should be, I decided to dive into this little rabbit hole. 
+
+### DownThemAll
+One of my favorite extensions for Chrome is this tool called [DownThemAll](https://www.downthemall.org/) which helps you download loads of files from a site. 
+
+The backend admin view allows you to view 25 posts at a time. This podcast has 4025 episodes! So how are we going to get them all? 
+
+Well, there are 165 pages of posts, so I'm just going to download them all! 
+
+**Filenames.** The first issue I ran into is that the filenames were downloaded as gibberish! They had filenames like: 
+
+> 566bb652-54f7-5ac7-b1dd-50b0d4d05fa2.mp3
+
+After some fiddling, I changed the "mask" to download the files and rename them like so: 
+
+> edutalk-2011-04-25.mp3
+
+This included the name of the show, followed by the date it was released. 
+
+Mp3 files contain data in them, called ID3 tags. This includes the Title. Just having the date wouldn't help me as much, so I needed to do some adjusting to match it with the right episode. 
+
+I turned to my old pal [Hazel](https://noodlesoft.com) to fix this problem. 
+
+Hazel is a tool that will rename files based on certain rules that you set up. I wrote my first book about being a paperless principal and used Hazel extensively in my day-to-day work. 
+
+I told Hazel to go through those files and pull out the word edutalk and add the Title tag from Spotlight, which led to filenames like this: 
+
+> 2011-04-25-SCHOOL BOARDS UPDATE.mp3
+
+Hazel can even make it so that title case is followed, instead of being in all caps: 
+
+> 2011-04-25-School Boards Update.mp3
+
+I don't really care about that, so I didn't bother, but I could if I wanted to. 
+
+### Scraping
+Worried that I might not be able to get all this content out. I decided to create a scraper of the web site. 
+
+I have no idea how to do that, but in building this site, I've learned a few things about Ruby, and I figured this could be a job for Ruby. 
+
+So, I booted up ChatGPT and asked it to make me a scraper. 
+
+Here's the whole chat Transcript. I've got to say, this is amazing that I can do this. 
+
+I copied the script from ChatGPT and pasted it in BBEdit, my editor of choice, and saved it in a folder called Scraper, then went to Terminal and had it run the script for me using: 
+
+```
+ruby scraper.rb
+```
+
+And then I suddenly had a folder full of markdown files to make it easy to get the content where I need it in Transistor. 
+
+Naturally I ran into a few problems with filenames being too long, filenames not being what I needed, redirects happening, and more, but I was able to continue working to fix them with the help of ChatGPT. 
+
+The pages are structured like this: 
+
+> https://www.blogtalkradio.com/edutalk/410
+
+So this page 410 is the last page. There's no page 411. 
+
+I told ChatGPT how it's structured and it gave me a new code. There were several iterations, and while researching I learned about [this site that explains](https://www.scraperapi.com/blog/ruby-web-scraping-build-a-powerful-web-scraper-with-ruby/) how to code it by hand. 
+
+As far as learning goes, the tutorial certainly gives me a better understanding of what I need to do. But the challenge is that it was so much faster to go back and forth with ChatGPT. 
+
+This makes the idea of [[learning]] so deep! There's so much that we still don't understand about how to learn most effectively. If I didn't have ChatGPT, I would have used the tutorial, but since I did, I just kept telling it where it went wrong. 
+
+In all, it took about 2 hours of working on this to make it happen with some sidetracks in there. Once the script was running effectively, it took about 8 minutes to pull all the content down from the site. 
+
+As a cool bonus, while there is a page 411, it just doesn't have any episodes on it, the ruby script would have continued to run forever probably had I not stopped it. 
+
+It did create about 4000 extra undated files that were the page navigation, play now, links, more. 
+
+What I probably should have done is saved this as a github project and updated it each time I made some changes. That would have been better, I'm sure. I'll get there, someday. 
+
+Here's what I don't know how to do, yet. How do I make these things work on the web? As in, how do I make an application on that I will be able to use, and potentially provide as a service to others? [[Should I learn to code]]?
