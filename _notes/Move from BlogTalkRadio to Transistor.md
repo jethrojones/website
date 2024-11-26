@@ -155,7 +155,7 @@ This makes the idea of [[learning]] so deep! There's so much that we still don't
 
 In all, it took about 2 hours of working on this to make it happen with some sidetracks in there. Once the script was running effectively, it took about 8 minutes to pull all the content down from the site. 
 
-As a cool bonus, while there is a page 411, it just doesn't have any episodes on it, the ruby script would have continued to run forever probably had I not stopped it. 
+As a cool bonus, while there is a page 411, it just doesn't have any episodes on it, the ruby script was programmed by ChatGPT to stop after 410 pages. That's awesome. 
 
 It did create about 4000 extra undated files that were the page navigation, play now, links, more. 
 
