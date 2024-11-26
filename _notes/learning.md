@@ -22,3 +22,6 @@ I've written and spoken extensively about this topic.
 
 I'll start gathering those things together here. 
 
+- [The Value of Spiritual Learning](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/)
+- 
+

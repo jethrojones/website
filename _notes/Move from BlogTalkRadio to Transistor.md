@@ -162,3 +162,7 @@ It did create about 4000 extra undated files that were the page navigation, play
 What I probably should have done is saved this as a github project and updated it each time I made some changes. That would have been better, I'm sure. I'll get there, someday. 
 
 Here's what I don't know how to do, yet. How do I make these things work on the web? As in, how do I make an application on that I will be able to use, and potentially provide as a service to others? [[Should I learn to code]]?
+
+I realized downloading them all by hand would be a pain, even if it was 25 at a time. That would still mean I need to download 165 sessions. So I had ChatGPT build a scraper for the MP3s. That ran for about 3.5 and then timed out with a TCPS Socket error. I don't know what that means, but quite the eventful day today!
+
+Could have been because my computer went to sleep, finally. 
