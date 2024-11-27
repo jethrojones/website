@@ -94,6 +94,13 @@ Just $197 for a 5-week immersive experience that will transform the way you lead
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study?promo=azsa" data-commerce>Join the Book Study</a>
 
+
+## Better with Buddies
+
+Schools 2-10 in a district are just $99
+
+Schools 11+ in a district are just $49! 
+
 ## Guarantee
 
 Join the first session risk-free. If you’re not completely satisfied after attending the first session, just let me know after that session is completed, and I'll issue a full refund—no questions asked—and you can KEEP the book!

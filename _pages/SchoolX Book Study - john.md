@@ -87,12 +87,18 @@ I want you to get a clear idea of what life can be like in the future if you sta
 - **Signed Copy** Delivered in December
 - **Live Groups Sessions** Starting in January
 
-### Investment:
+## Investment:
 Just $197 for a 5-week immersive experience that will transform the way you lead your school.
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study?promo=john" data-commerce>Join the Book Study</a>
 
+
+## Better with Buddies
+
+Schools 2-10 in a district are just $99
+
+Schools 11+ in a district are just $49! 
 ## Guarantee
 
 Join the first session risk-free. If you’re not completely satisfied after attending the first session, just let me know after that session is completed, and I'll issue a full refund—no questions asked—and you can KEEP the book!
