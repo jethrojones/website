@@ -129,7 +129,7 @@ I have no idea how to do that, but in building this site, I've learned a few thi
 
 So, I booted up ChatGPT and asked it to make me a scraper. 
 
-Here's the whole chat Transcript. I've got to say, this is amazing that I can do this. 
+Here's the [whole chat Transcript](https://chatgpt.com/share/6747281a-00c8-800f-9f5f-a7c76d1e3693). I've got to say, this is amazing that I can do this. 
 
 I copied the script from ChatGPT and pasted it in BBEdit, my editor of choice, and saved it in a folder called Scraper, then went to Terminal and had it run the script for me using: 
 
