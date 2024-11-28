@@ -32,8 +32,13 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+twitter_url: https://x.com/jethrojones
+linkedin_url: https://linkedin.com/in/jethrojones
+instagram_url: https://instagram.com/jethrojones
+rss_url: https://jethro.site/feed_notes.xml
+
 feed:
-    path: feed.xml
+    path: feed_notes.xml
     
 kramdown:
   input: GFM
