@@ -32,4 +32,4 @@ Some great images:
 ![without shrimp](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete3.jpg&w=200&h=200&output=jpg&q=65)
 
 
-![molcajete perspective](https://jethro.site/assets/mocajete1.jpg)
+![molcajete perspective](https://jethro.site/assets/molcajete1.jpg)
