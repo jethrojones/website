@@ -35,7 +35,6 @@ sass:
 twitter_url: https://x.com/jethrojones
 linkedin_url: https://linkedin.com/in/jethrojones
 instagram_url: https://instagram.com/jethrojones
-rss_url: https://jethro.site/feed_notes.xml
 
 feed:
     path: feed_notes.xml
