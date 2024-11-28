@@ -2,14 +2,15 @@
 last_modified_at: 
 permalink: 
 description: 
-title: January
+title: January - Molcajete
 image: 
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
-tags: 
-creation date: 2024-01-02 10:51
+tags:
+  - fsff
+creation date: 2024-01-08 10:51
 layout: note
 ---
 For this month's [[Fast Sunday Family Feast]] we had mocajete! 
@@ -31,3 +32,4 @@ Some great images:
 ![without shrimp](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete3.jpg&w=200&h=200&output=jpg&q=65)
 
 
+![molcajete perspective](https://jethro.site/assets/mocajete1.jpg)
