@@ -21,9 +21,10 @@ It's a Mexican stew in a mocajete lava rock bowl. It's just amazing.
 
 I've got to say, we nailed this recipe, even though we didn't get an actual molcajete bowl, we just made it in our cast iron skillet. 
 
-Here's the [recipe](https://recipes.crouton.app/recipes/488D14D1-F87A-4961-83AB-FD73A80E3CCB?locale=en). 
+[[Recipes]]
+- [Molcajete Preparando](https://recipes.crouton.app/recipes/488D14D1-F87A-4961-83AB-FD73A80E3CCB?locale=en). 
 
-Some great images: 
+## Some great images: 
 
 ![Molcajete perspective](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete1.jpg&w=200&h=200&output=jpg&q=65)
 

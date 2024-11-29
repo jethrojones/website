@@ -43,3 +43,18 @@ Thankfully, I only have 65 files on there, so if I just manually rename them to
 That should output them to [this page](https://jethro.site/2023/10/17/be-strong-so-you-can-be-humble/). Should be close enough. 
 
 The images are still hosted on substack, so I'll need to figure out how to manually bring those over also. 
+
+*Update: November 29, 2024*
+
+Regarding that 17,000 character single line of code. I tried something else (TextSoap) to make it work, and it didn't. So I used [ChatGPT](https://chatgpt.com/share/6749ced3-e130-800f-9d76-c07d539cc1d0) to get it reorganized. It was so much that it had to stop in the middle and I had to continue generating. But at least it is much cleaner and more readable now. 
+
+However, pasted into my text editor, that is still 121 lines of code for the entire file. 
+
+But still, it's terribly complex and so much there. When I write in Markdown, it's actually readable and understandable by a normal human. That's why I love it. Writing in Simple HTML is close, but it still doesn't hold a candle.
+
+If I take out what is unnecessary and write it in markdown, it not only looks prettier and is more readable, but it also is only 29 lines total. Please note: in markdown, each paragraph counts as one line, and there are six paragraphs in [this particular piece of writing](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/). 
+
+So this process of moving off of Substack is going to be quite time consuming and will require many steps to get what I want to happen. 
+
+This is the real problem with lock-in. And it's another way [[people ruin the internet]].
+
