@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 category: "[[Clippings]]"
 tags:
   - clippings
-creation date: 2024-11-11 12:47
+date: 2024-11-11 12:47
 layout: note
 author: "[[Matt Webb]]"
 title: Using Vectorize to build an unreasonably good search engine in 160 lines of code

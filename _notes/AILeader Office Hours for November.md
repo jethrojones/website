@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - ai
-creation date: 2024-11-12 13:54
+date: 2024-11-12 13:54
 layout: note
 ---
 

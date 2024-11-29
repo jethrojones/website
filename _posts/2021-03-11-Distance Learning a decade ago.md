@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Distance Learning a decade ago"
 source: https://world.hey.com/jethro/distance-learning-a-decade-ago-182d0945
 clipped: 2024-11-11
-published: 2021-03-11
+date: 2021-03-11
 ---
 
 

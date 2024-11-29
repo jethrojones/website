@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: []
-creation date: 2024-01-08 10:51
+date: 2024-01-08 10:51
 layout: note
 ---
 Here are a few articles about several pet peeves of mine. 

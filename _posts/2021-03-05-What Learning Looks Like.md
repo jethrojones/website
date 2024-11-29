@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "There’s no such thing as learning loss or learning gaps. OR What le..."
 source: https://world.hey.com/jethro/there-s-no-such-thing-as-learning-loss-or-learning-gaps-or-what-learning-actually-looks-like-d6955108
 clipped: 2024-11-11
-published: 2021-03-05
+date: 2021-03-05
 ---
 
 

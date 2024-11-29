@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Taking the time."
 source: https://world.hey.com/jethro/taking-the-time-0c7810dc
 clipped: 2024-11-11
-published: 2021-03-15
+date: 2021-03-15
 ---
 
 

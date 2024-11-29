@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - GREAT
-creation date: 2024-10-30 12:52
+date: 2024-10-30 12:52
 layout: post
 ---
 

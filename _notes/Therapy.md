@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: linklist
 tags:
   - quoting
-creation date: 2024-11-11 10:46
+date: 2024-11-11 10:46
 layout:
 ---
 

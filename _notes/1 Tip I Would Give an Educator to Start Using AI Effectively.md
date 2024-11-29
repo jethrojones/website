@@ -1,4 +1,5 @@
 ---
+date: 2024-07-08
 ---
 
 # 1 Tip I Would Give an Educator to Start Using AI Effectively

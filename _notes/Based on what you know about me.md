@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - ai
-creation date: 2024-11-24 06:54
+date: 2024-11-24 06:54
 layout:
 ---
 Hey, ChatGPT, based on what you know about me, draw a picture of what my life looks like:

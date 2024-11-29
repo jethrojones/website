@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - design
-creation date: 2024-10-24 12:07
+date: 2024-10-24 12:07
 layout: post
 ---
 

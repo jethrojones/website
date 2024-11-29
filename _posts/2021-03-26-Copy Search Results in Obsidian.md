@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
+date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 

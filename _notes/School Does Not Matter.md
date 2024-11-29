@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - covid
-creation date: OCT 14, 2021
+date: OCT 14, 2021
 layout: post
 ---
 

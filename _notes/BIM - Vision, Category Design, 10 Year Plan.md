@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: BIM
 tags: 
-creation date: 2024-10-14 10:44
+date: 2024-10-14 10:44
 layout: post
 ---
 

@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-creation date: 2024-01-08 10:51
+date: 2024-01-08 10:51
 layout: note
 ---
 There are a few design elements where [[people ruin the internet]]. 

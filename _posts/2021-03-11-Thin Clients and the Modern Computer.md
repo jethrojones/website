@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Thin Clients and the Modern Computer"
 source: https://world.hey.com/jethro/thin-clients-and-the-modern-computer-a695c492
 clipped: 2024-11-11
-published: 2021-03-11
+date: 2021-03-11
 ---
 
 

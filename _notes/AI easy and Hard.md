@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: 2024-06-18 16:17
+date: 2024-06-18 16:17
 layout: note
 ---
 

@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "The magic question"
 source: https://world.hey.com/jethro/the-magic-question-9e475a91
 clipped: 2024-11-11
-published: 2021-03-06
+date: 2021-03-06
 ---
 
 

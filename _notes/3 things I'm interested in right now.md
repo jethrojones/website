@@ -1,4 +1,5 @@
 ---
+date: 2024-05-07
 ---
 
 ### **_Day 2: 3 Topics I Am Exploring In My Life Right Now_**

@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "8 straight days - 200 hours - of leadership"
 source: https://world.hey.com/jethro/8-straight-days-200-hours-of-leadership-10eb0a6c
 clipped: 2024-11-11
-published: 2021-03-08
+date: 2021-03-08
 ---
 
 
