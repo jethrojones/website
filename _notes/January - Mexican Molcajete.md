@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-creation date: 2024-01-08 10:51
+date: 2024-01-08 10:51
 layout: note
 ---
 For this month's [[Fast Sunday Family Feast]] we had mocajete! 

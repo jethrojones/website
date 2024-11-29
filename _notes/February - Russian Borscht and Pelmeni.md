@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-creation date: 2024-02-04 10:51
+date: 2024-02-04 10:51
 layout: note
 ---
 This month for our [[Fast Sunday Family Feast]] we took it back to my mission for The Church of Jesus Christ of Latter-day Saints to Russia! 
@@ -33,22 +33,24 @@ The nostalgia from this one is off the charts!
 # Pictures
 
 Classic Katya. 
-![Pelmeni 1]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni1.jpeg&w=450&output=jpg&q=65)
+
+
+![Pelmeni 1](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni1.jpeg&w=450&output=jpg&q=65)
 
 One of the many jobs. 
-![Pelmeni 2]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni2.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 2](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni2.jpeg&w=450&output=jpg&q=65)
 
 Cookie sheet of Pelmeni
-![Pelmeni 3]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni3.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 3](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni3.jpeg&w=450&output=jpg&q=65)
 
 Painstaking process
-![Pelmeni 4]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni4.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 4](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni4.jpeg&w=450&output=jpg&q=65)
 
 Plated up
-![Pelmeni 5]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni5.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 5](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni5.jpeg&w=450&output=jpg&q=65)
 
 Heart shaped bun
-![Pelmeni 6]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni6.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 6](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni6.jpeg&w=450&output=jpg&q=65)
 
 The finished Pelmeni. So good. 
-![Pelmeni 7]http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni7.jpeg&w=450&output=jpg&q=65)
+![Pelmeni 7](http://images.weserv.nl/?url={{ site.url }}/assets/pelmeni7.jpeg&w=450&output=jpg&q=65)
