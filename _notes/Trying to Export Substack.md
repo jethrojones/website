@@ -4,7 +4,7 @@ permalink:
 description: 
 title: Trying to Export Substack
 image: 
-published: 2024-11-21
+date: 2024-11-21
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
