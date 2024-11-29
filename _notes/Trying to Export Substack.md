@@ -2,14 +2,13 @@
 last_modified_at: 
 permalink: 
 description: 
-title: 
+title: Trying to Export Substack
 image: 
-published: "true"
+published: 2024-11-21
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: 2024-11-21 15:04
 layout:
 ---
 
