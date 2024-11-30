@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-11-12 18:16:22
+last_modified_at: 2024-11-29
 permalink: now
 description: What's Jethro up to right now?
 title: Now
@@ -11,9 +11,8 @@ category:
 tags: 
 date: 2022-10-01
 layout: page
-last_modified_at: 2024-11-12 18:16:22
 ---
-## Last updated November 8, 2024
+## Last updated November 29, 2024
 # Creating
 
 With the successful launch of my last two books, [SchoolX][0] and [How to be a Transformative Principal][1], I'm writing my third book: Bad Advice for New Principals, which should be out...whenever I finish it. 
@@ -39,6 +38,8 @@ I just started a project that will help us all get closer to Christ.
 The Best time to start a ten year journal is a decade ago. 
 
 The second best time to start a ten year [journal is today][12].
+
+There's also a podcast following the stories of 12 awesome people over the next decade. 
 
 ## AI
 This year, I've been doing a lot of speaking, webinars, podcasts, and more about AI. There's so much! It's crazy. I'm really enjoying it and I'm happy to chat with you about your needs around AI. 
