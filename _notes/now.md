@@ -29,6 +29,8 @@ I'm currently working on a [Doctorate in Servant Leadership, Citizenship, and Ch
 
 Focus areas: Principal Leadership, through the [Transformative Mastermind][4], [Mental Fitness Coaching][5], and speaking [schools to be more student driven learning][6]. 
 
+I am also the fractional Executive Director of [Inland Northwest Cybersecurity Hub (Inch360)][13], a non profit focused on supporting cybersecurity in the Inland Northwest.
+
 - - -
 
 # Clarifying
@@ -39,7 +41,7 @@ The Best time to start a ten year journal is a decade ago.
 
 The second best time to start a ten year [journal is today][12].
 
-There's also a podcast following the stories of 12 awesome people over the next decade. 
+There's also a [podcast](https://adecadenevertobeforgotten.com) following the stories of 12 awesome people over the next decade. 
 
 ## AI
 This year, I've been doing a lot of speaking, webinars, podcasts, and more about AI. There's so much! It's crazy. I'm really enjoying it and I'm happy to chat with you about your needs around AI. 
@@ -71,3 +73,4 @@ Just launched: [edune.ws][9] - surfacing and sharing the best k12 news & content
 [10]: https://bepodcast.network
 [11]: https://transformativeprincipal.transistor.fm/summer-of-ai
 [12]: https://www.skool.com/a-decade-never-to-be-forgotten-4407/about
+[13]: https://inch360.org
