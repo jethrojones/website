@@ -1,17 +1,12 @@
 ---
-last_modified_at: 2024-11-29 16:14:37
----
-
 last_modified_at: 2024-09-28 01:46:27
----
 layout: post
 title: Frameworks
 date: 2024-03-10 11:39
 description: 
-publish: 
 permalink: 
 aliases: 
-publish date: 
+date: 2024-09-24
 tags:
 last_modified_at: 2024-11-29 16:14:37
 ---

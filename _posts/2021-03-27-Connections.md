@@ -8,15 +8,14 @@ published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
-tags: 
-date: 
+tags:  
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Connections"
 source: https://world.hey.com/jethro/connections-2819c945
 clipped: 2024-11-11
-published: 2021-03-27
+date: 2021-03-27
 topics: 
 ---
 
