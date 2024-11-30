@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Stumbling into PKM"
 source: https://world.hey.com/jethro/stumbling-into-pkm-4711564e
 clipped: 2024-11-11
-published: 2021-03-19
+date: 2021-03-19
 ---
 
 

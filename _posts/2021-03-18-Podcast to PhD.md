@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Podcast to PhD"
 source: https://world.hey.com/jethro/podcast-to-phd-9821a4b0
 clipped: 2024-11-11
-published: 2021-03-18
+date: 2021-03-18
 ---
 
 

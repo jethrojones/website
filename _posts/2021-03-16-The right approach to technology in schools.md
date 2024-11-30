@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "The right approach to technology in schools"
 source: https://world.hey.com/jethro/the-right-approach-to-technology-in-schools-7d47aefa
 clipped: 2024-11-11
-published: 2021-03-16
+date: 2021-03-16
 ---
 
 

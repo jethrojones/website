@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "More Obsidian Love"
 source: https://world.hey.com/jethro/more-obsidian-love-e774b708
 clipped: 2024-11-11
-published: 2021-03-26
+date: 2021-03-26
 topics: 
 ---
 

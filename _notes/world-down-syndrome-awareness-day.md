@@ -3,7 +3,6 @@ last_modified_at: 2024-09-28 01:46:28
 title: 'World Down Syndrome Awareness Day'
 date: 2011-03-21T20:56:00.001-07:00
 draft: false
-url: /2011/03/world-down-syndrome-awareness-day.html
 tags: 
 - DownSyndrome
 - love

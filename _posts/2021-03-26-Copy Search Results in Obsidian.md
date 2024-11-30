@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "Copy Search Results in Obsidian"
 source: https://world.hey.com/jethro/copy-search-results-in-obsidian-5c1121f5
 clipped: 2024-11-11
-published: 2021-03-23
+date: 2021-03-23
 topics: 
 ---
 

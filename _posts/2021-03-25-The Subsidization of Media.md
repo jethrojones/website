@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "The Subsidization of Media"
 source: https://world.hey.com/jethro/the-subsidization-of-media-ab91cd65
 clipped: 2024-11-11
-published: 2021-03-25
+date: 2021-03-25
 topics: 
 ---
 

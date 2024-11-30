@@ -9,14 +9,13 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: <% tp.file.creation_date() %>
 layout: post
 category: "[[Clippings]]"
 author: 
 title: "I gave my kid a phone, now what?"
 source: https://world.hey.com/jethro/i-gave-my-kid-a-phone-now-what-cbdbb22a
 clipped: 2024-11-11
-published: 2021-03-21
+date: 2021-03-21
 topics: 
 ---
 

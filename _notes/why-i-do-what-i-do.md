@@ -1,7 +1,7 @@
 ---
 last_modified_at: 2024-09-28 01:46:28
 title: This is why I do what I do [MUST WATCH VIDEO]
-date: 2018-12-01
+date: 2018-11-30
 draft: false
 tags:
   - synergy
