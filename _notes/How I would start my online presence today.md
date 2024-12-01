@@ -17,7 +17,7 @@ How should I get started with a web site today?
 
 I get asked this question more often than I care to admit. If it is free, it's probably not going to have what you need, and when you pay for services, you pay attention to them as well. 
 
-I would also direct you to my [[tools]] page for all the tools I use. 
+I would also direct you to my [[2024-10-04-tools|tools]] page for all the tools I use. 
 
 Lots of people use Wix, Squarespace, Wordpress, and more. 
 

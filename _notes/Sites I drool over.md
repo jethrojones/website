@@ -50,4 +50,5 @@ This is written in a dailies style. He has multiple posts per day, and he writes
 
 
 [[How this site is built]]
-[[tools]]
+
+[[2024-10-04-tools|My Go-To Tools]]

@@ -20,15 +20,6 @@ topics:
 ---
 
 
-{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
-
-Jethro Jones
-
-](https://world.hey.com/jethro)
-
-March 23, 2021
-
 I've been really struggling with the monumental task of combing through 400 interviews and show notes to find what I'm looking for.
 
 Let me describe my process here, one for myself, and two for anyone else looking for help in something similar.
@@ -70,3 +61,11 @@ Cool side feature. 
 I had a bunch of documents today that I needed to do something with, and so I did the same thing described above, but then I made those files a todo list, and deleted the todo list document when all the tasks were completed. It was a really handy way to do a short-term project that would only take a couple minutes, if well organized, but seemed to overwhelming to do any other way. Fixing those few documents has been on my todo list for years, and I did it in about 3 minutes today. 
 
 Sometimes, when you have the right tool, it can make things so much easier!
+
+This is not locking me in to using Obsidian, either, because these "links" to other notes still exist if Obsidian goes away, just not as conveniently. And that's OK. the '[[brackets]]' make it so that I can see the file name in those brackets. And, if I want to have different text appear, I can write it like this: 
+
+```
+[[filename.md|The words I want the reader to see]]
+```
+
+It's a pretty awesome, too. 
