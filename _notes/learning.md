@@ -2,7 +2,7 @@
 last_modified_at: 2024-11-30 02:29:25
 permalink: 
 description: 
-title: 
+title: My Thoughts on Learning
 image: /assets/learning.jpg
 published: "true"
 sitemap: "true"
@@ -16,6 +16,8 @@ layout:
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
+## All Learning is Personal
+
 I have deep thoughts about learning. 
 
 I've written and spoken extensively about this topic. 
@@ -23,6 +25,6 @@ I've written and spoken extensively about this topic.
 I'll start gathering those things together here. 
 
 - [The Value of Spiritual Learning](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/)
-- 
+- [[Fit looks like grit]]
 
-Most things take time. 
+There are many things that we need to learn that we only [[learn over time]], 

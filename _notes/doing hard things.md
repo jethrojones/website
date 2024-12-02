@@ -11,7 +11,7 @@ How much are you putting yourself outside of your comfort zone, intentionally?
 
 You learn things about yourself when you do hard things. 
 
-I read this quote in a book recently. ![[IMG_8536.png]]
+I read this quote in a book recently. ![[Fit-looks-like-grit.png]]
 
 > “When you get fit, it will look like grit.” That is, if you help someone find a good fit, they are more likely to display the characteristics of grit—like sticking with something—even if they didn’t before. ([Location 4370](https://readwise.io/to_kindle?action=open&asin=B07H1ZYWTM&location=4370))
 
