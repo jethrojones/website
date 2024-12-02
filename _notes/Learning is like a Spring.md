@@ -3,7 +3,7 @@ last_modified_at:
 permalink: 
 description: 
 title: 
-image: learningspring.png
+image: /assets/learningspring.png
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
