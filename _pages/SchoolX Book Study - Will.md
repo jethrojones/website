@@ -93,9 +93,10 @@ Just $197 for a 5-week immersive experience that will transform the way you lead
 
 ## Better with Buddies
 
-Schools 2-10 in a district are just $99
+Schools 2-10 in a district are just $99 each!
 
-Schools 11+ in a district are just $49! 
+Schools 11+ in a district are just $49 each!
+
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study?promo=WILL" data-commerce>Join the Book Study</a>
 
