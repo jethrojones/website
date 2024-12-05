@@ -11,6 +11,7 @@ last_modified_at: 2024-11-14 19:32:25
 # The Ultimate 2024 Inspirational Videos for Teachers and Students
 
 
+
 Everyone needs some inspiration every once in a while. I’ve collected here some of the greatest motivational videos that I’ve found. From inspiring that makes you cry, to teacher support, to inspiring students, I hope this helps. I’m sure there’s a ton more, and I hope if you find one that isn’t on this page, you’ll send me the 
 [link here](mailto:jethro@transformativeprincipal.com?subject=You're%20missing%20an%20inspirational%20video!!&body=Hey%20Jethro!%20Great%20site%2C%20but%20you're%20missing%20a%20great%20inspirational%20video.%20Here's%20the%20link%3A%20). I keep this page updated throughout the years, so check back often.
 
@@ -142,10 +143,15 @@ Jimmy Page talking about One Word - http://www.GetOneWord.com
 These videos are specifically good for students.
 
 
->[View this post on Instagram](https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)[A post shared by The Rainmaker Family (@therainmakerfamily)](https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)
+https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)[A post shared by The Rainmaker Family (@therainmakerfamily)](https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)
  
 Special Thanks: Hugo-Purpose.-What do you mean?-Everything has a purpose, even machines.-Clocks tell the time and trains take you places.-They do what they'r...
 
 Destiny belongs to the underdogs
 
 Make Your Bed speech - US Navy Admiral, William H. McRaven, delivers a speech about the importance of doing the little things like making your bed, embracing...
+
+
+{% include video_embed.html %}
+
+<script async data-uid="6da1a20aed" src="https://jethrojones.kit.com/6da1a20aed/index.js"></script>
