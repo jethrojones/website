@@ -27,5 +27,7 @@ I'll start gathering those things together here.
 - [The Value of Spiritual Learning](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/)
 - [[Fit looks like grit]]
 - [[Learning is like a Spring]]
+- [There’s no such thing as learning loss](https://jethro.site/learning/2021/03/05/What-Learning-Looks-Like/)
+- 
 
 There are many things that we need to learn that we only [[learn over time]]. 

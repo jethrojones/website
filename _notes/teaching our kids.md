@@ -26,6 +26,8 @@ For some people that fills them with anxiety thinking every little moment matter
 
 Quite the opposite is true. 
 
-They’ll only see and remember your authenticity. So, whoever you are striving to be is more important than who you are at that moment.
+They’ll only see and remember your authenticity. 
+
+So, whoever you are striving to be is more important than who you are at that moment.
 
 This is why [[learning]] and [[teaching]] are so important and why they must be differentiated, paid attention to, and understood in a deeper way. 
