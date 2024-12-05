@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Copy Search Results in Obsidian"
 source: https://world.hey.com/jethro/copy-search-results-in-obsidian-5c1121f5
