@@ -1,6 +1,7 @@
 ---
 layout: post
 
+last_modified_at: 2024-12-05 06:28:19
 ---
 I was sitting in a leadership team meeting at my school last year, and we were discussing next steps for moving our school forward. A suggestion was made, not by me, and we decided that was the right step to take.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 
+last_modified_at: 2024-12-05 06:28:19
 ---
 [[how-many-teachers-do-i-need-to-hire-for-social-distancing|Last Post]] we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 
+last_modified_at: 2024-12-05 06:28:19
 ---
 I took my daughter with me to work today for "Take Your Daughter to Work Day". She is 4 and loves preschool and can't wait to go to Kindergarten.  
   

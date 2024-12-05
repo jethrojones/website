@@ -1,6 +1,7 @@
 ---
 layout: post
 
+last_modified_at: 2024-12-05 06:28:19
 ---
 The other day I walked into a teacher's room and found he was supplementing Reading Street with a great video on YouTube. Though not in his case, there can be times when ads or related videos may not be appropriate for our kids, so here is [YouTube's acknowledgement and help for that problem](http://www.youtube.com/schools  )
   

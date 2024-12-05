@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 2024-12-05 06:28:19
 ---
 The 5Sigma Edu Conference is a place to learn with world-changing thinkers and innovators within the education community.
 
