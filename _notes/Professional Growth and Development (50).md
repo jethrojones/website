@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📚 Professional Growth and Development (50)
 
 1. Give me strategies for setting personal and professional goals to enhance my teaching practice.

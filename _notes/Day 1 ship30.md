@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 I've been waiting for this course to open for months. I missed the last one, and I was totally bummed. I joined Cole and Bush's Ship 30 for 30. Here are a few reasons why:
 
 I've published over 1000 podcast interviews and I've learned so much that I want to share with others

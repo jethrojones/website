@@ -1,11 +1,12 @@
 ---
----
+layout: post
 
+---
 last_modified_at: 2024-09-28 01:46:27
 ---
-last_modified_at: 2024-09-28 01:46:27
----
+layout: post
 
+---
 When people say kids aren't motivated they are lying to themselves. 
 
 Kids love to learn but they hate school. 

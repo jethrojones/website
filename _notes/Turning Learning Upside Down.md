@@ -1,17 +1,7 @@
 ---
-title: Turning Learning Upside Down
-date: Wed, 03 Jan 2018 15:36:08 +0000
-draft: false
-tags:
-  - learning
-  - personalized
-  - empower
-  - students
-  - acton
-  - Reflection
-permalink: upside-down
----
+layout: post
 
+---
 Twitter version: Read [this book](http://amzn.to/2qhqhQZ), and join me as I try to change education.
 
 I have been trying to change education from the inside out for YEARS! Ever since I started, I have been poking and prodding and trying to change and adapt it to better meet the needs of our students.

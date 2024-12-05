@@ -1,13 +1,7 @@
 ---
-title: 'Take your daughter to work day'
-date: 2012-04-26T14:52:00.001-07:00
-draft: false
-url: /2012/04/take-your-daughter-to-work-day.html
-tags: 
-- Kids
-last_modified_at: 2024-09-28 01:46:28
----
+layout: post
 
+---
 I took my daughter with me to work today for "Take Your Daughter to Work Day". She is 4 and loves preschool and can't wait to go to Kindergarten.  
   
 She had a great time at work with me and loved the attention she got from the students and loved being with big kids. She did really well, and we even got to ride the bus in the afternoon.  

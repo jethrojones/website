@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 ### 🏫 Building Classroom Community (50)
 
 1. Give me three examples of acts of kindness you can perform to strengthen our classroom community.

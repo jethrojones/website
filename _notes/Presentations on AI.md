@@ -1,10 +1,6 @@
 ---
-permalink: aip
-title: AI Presentations by Jethro Jones
-description: The presentations about AI that Jethro Jones has presented on throughout the country.
+layout: post
 ---
-
-
 # AI Presentations
 
 I do a variety of presentations about AI. You can see information about those below. 

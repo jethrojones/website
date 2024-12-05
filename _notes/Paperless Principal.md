@@ -1,10 +1,7 @@
 ---
-title: Paperless Principal
-date: Wed, 01 Aug 2012 13:05:00 +0000
-draft: false
-permalink: paperless
----
+layout: post
 
+---
 Principals are busy. They are being pulled in every direction imaginable and they can use all the help they can get. They also deal with immense amounts of information and they need a systematic way of dealing with all that information. I want to be able to help principals utilize technology to enhance their lives so that they can be more productive, efficient, and focus on what really matters, putting kids first. 
 
 The thing I love most about being in education is seeing kids "get it." It doesn't happen every day, and it isn't always a deep intellectual concept, but every time I see that light bulb go off in their eyes, I know that all my efforts are worth it. 

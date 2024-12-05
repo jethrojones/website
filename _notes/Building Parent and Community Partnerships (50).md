@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 👪 Building Parent and Community Partnerships (50)
 
 1. Provide examples of effective strategies for establishing open lines of communication between teachers, parents, and the community.

@@ -16,23 +16,9 @@ title: Using Vectorize to build an unreasonably good search engine in 160 lines 
 source: https://blog.partykit.io/posts/using-vectorize-to-build-search
 clipped: 2024-11-11
 ---
-
-[Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search).
-{% if page.source and page.author %}
-
-  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
-
-{% endif %}
-Since this site is built using Jekyll, I need to translate this to something that will be compatible for Jekyll. So I asked ChatGPT to make it work for me. I want search on this site, but that's pretty advanced for me. 
-
-[Here's what ChatGPT](https://chatgpt.com/share/67329983-5198-800f-b381-7ebb349d7862) came back with. This is going to take me some time to figure out. So, when it's done, you'll see a search bar up on top! Or somewhere! 
-
-I've found that I have to continually update and check back in when I use AI to help with this kind of stuff, but I think it will likely be worth it, and I'll update the steps when I figure it out! 
-
-Here’s how to implement search using PartyKit and Vectorize on a Jekyll site hosted on Netlify:
+layout: post
 
 ---
-
 **Prerequisites**
 
   

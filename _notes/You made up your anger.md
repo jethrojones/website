@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 Teachers make up their anger to justify yelling at students. 
 
 Whatever you're mad about, you made it up. 

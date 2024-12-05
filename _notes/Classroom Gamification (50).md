@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 🎮 Classroom Gamification (50)
 
 1. Give me an example of a gamified activity that can help students review key concepts from the previous lesson.

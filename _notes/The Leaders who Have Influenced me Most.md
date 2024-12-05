@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 You've probably never heard of the people who have influenced my leadership the most: 
 
 I owe a lot of the progress I've made to these people:

@@ -1,11 +1,12 @@
 ---
----
+layout: post
 
+---
 last_modified_at: 2024-09-28 01:46:27
 ---
-last_modified_at: 2024-09-28 01:46:27
----
+layout: post
 
+---
 https://x.com/renmiou/status/1797747724609294468
 
 Self-Esteem comes from adding value. 

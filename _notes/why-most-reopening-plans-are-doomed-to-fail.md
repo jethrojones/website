@@ -1,11 +1,7 @@
 ---
-last_modified_at: 2024-09-28 01:46:28
-title: 'Why most reopening plans are doomed to fail.'
-date: Wed, 01 Jul 2020 13:13:00 +0000
-draft: false
-tags: ['reopening schools', 'covid']
----
+layout: post
 
+---
 Why your plans are doomed to fail!
 
 Here’s the problem that I am seeing with reopening school questions on Facebook and social media.

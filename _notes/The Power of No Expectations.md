@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 Here's why you should ditch your high expectations and have NO expectations for people instead. 
 
 Short version, regardless of whatever expectations you have of people, you still can't control them. 

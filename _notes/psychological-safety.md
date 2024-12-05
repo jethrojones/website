@@ -1,11 +1,7 @@
 ---
-title: 'Psychological Safety - What it is, Why it''s Important, and How to Foster it.'
-date: Fri, 22 Nov 2019 17:50:00 +0000
-draft: false
-tags: ['psychological safety', '#teamhabits']
-last_modified_at: 2024-11-12 17:39:20
----
+layout: post
 
+---
 I was sitting in a leadership team meeting at my school last year, and we were discussing next steps for moving our school forward. A suggestion was made, not by me, and we decided that was the right step to take.
 
 Fast forward a couple months, and there was some complaining about the decision that was made. A staff member came to me and said that everyone in the staff was afraid of me. Not only did that hurt, but I thought, that can’t be true! I’m the nicest guy I know!

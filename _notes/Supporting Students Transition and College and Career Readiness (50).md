@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 🌱 Supporting Students Transition and College and Career Readiness (50)
 
 1. Analyze the essential skills and competencies needed for college and career readiness in the 21st century.

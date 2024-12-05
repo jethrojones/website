@@ -1,9 +1,7 @@
 ---
-title: Top 3 Podcasts 2019
-date: Tue, 18 Feb 2020 05:10:09 +0000
-draft: false
----
+layout: post
 
+---
 Most principals are running from one emergency to the next. I help principals find the actions needed to transform their schools so each student has an amazing experience.
 
 As an acting principal, I know there is is never enough time to do all that is your todo list, let alone transform your school to make it even better for students and teachers.

@@ -1,17 +1,6 @@
 ---
-last_modified_at: 
-permalink: 
-description: 
-title: 
-image: 
-published: "false"
-sitemap: "true"
-excerpt_separator: <!--more-->
-category: 
-tags: 
+layout: post
 ---
-
-
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 How should I get started with a web site today? 
 

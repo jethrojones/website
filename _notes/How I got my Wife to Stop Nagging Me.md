@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 For the last 9 months, I've been writing a handwritten love note to my wife every day. 
 
 ![notes]({{ site.url }}/assets/notes.jpeg)

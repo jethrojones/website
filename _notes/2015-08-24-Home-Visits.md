@@ -1,14 +1,7 @@
 ---
-category: "Clippings"
-author: "[[Jethro]]"
-title: Home Visits!
-source: https://www.jethrojones.com/blog/home-visits
-published: 2015-08-24
-topics: 
-tags:
-last_modified_at: 2024-12-05 05:10:55
----
+layout: post
 
+---
 On August 19th, 14 dedicated teachers, 3 super-star paraprofessionals, and a mental health clinician joined Assistant Principal [Damon Hargraves](http://twitter.com/damonhargraves) and myself as we visited the homes of all 435 students in our school! We originally got this idea from [the1199](https://instagram.com/p/5whI_fgAS4/) and added our own Kodiak twist to it.
 
 It was amazing.

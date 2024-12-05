@@ -1,14 +1,7 @@
 ---
-title: How Many Teachers Do I Need To Hire For Social Distancing?
-date: Tue, 23 Jun 2020 19:58:53 +0000
-draft: false
-tags:
-  - reopening
-  - schools
-  - covid
-last_modified_at: 2024-09-28 01:46:28
----
+layout: post
 
+---
 With the coronavirus closures, so many schools don’t know what it’s going to look like this fall.
 
 That’s understandable.

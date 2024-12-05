@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 🧠 Student-Centered Learning (50)
 
 1. Give me an example of a student-centered learning activity for teaching fractions in a math class.

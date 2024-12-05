@@ -1,10 +1,7 @@
 ---
-title: 'PBIS as Medicine'
-date: Tue, 07 Aug 2012 13:38:57 +0000
-draft: false
-last_modified_at: 2024-09-28 01:46:28
----
+layout: post
 
+---
 ​
 
 Our district recently hosted Dr. Terry Scott from the University of Louisville who spoke to us about PBIS. I've heard him a couple times and his description of PBIS as if it were used like a medical treatment is superb. It makes a lot of sense. When it becomes a matter of life and death, it becomes a lot easier to see why we would do things. For many of our students who are disadvantaged from the get-go, it really can be a matter of life and death.

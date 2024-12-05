@@ -1,11 +1,6 @@
 ---
-last_modified_at: 2024-09-28 01:46:28
-title: 'Trauma Podcast Map'
-date: Wed, 26 May 2021 17:27:07 +0000
-draft: false
-tags: ['podcast map', 'podcast', 'Trauma']
+layout: post
 ---
-
 Where do you start with trauma?
 
 It is tough to know the right place to start and who to listen to.

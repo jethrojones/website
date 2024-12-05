@@ -1,9 +1,7 @@
 ---
-title: 'Leadership Vs. Management'
-date: Fri, 03 Aug 2012 14:49:00 +0000
-draft: false
----
+layout: post
 
+---
 Over on [ConnectedPrincipals.com](http://connectedprincipals.com/archives/6018), George Couros says:
 
 > The thing is, you don’t have to tweet but _you do _have to keep up with your email, just like you have to keep up with paperwork.  Those are all details that have so much to do with management, and very little with leadership.

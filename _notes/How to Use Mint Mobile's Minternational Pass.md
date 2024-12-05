@@ -1,10 +1,7 @@
 ---
-permalink: mintlpass
-title: How to Use Mint Mobile's Minternational Pass
-description: Here's a detailed user experience of buying and using a Mint Mobile Minternational Pass and using it in Japan and Costa Rica
-publish date: 2024-09-12
----
+layout: post
 
+---
 I've been a Mint Mobile customer for years. It's a [great, and inexpensive](http://fbuy.me/r34At), service that works well. 
 
 But my problem was that I didn't know how to use the Minternational Pass, and I couldn't find much information about it. 

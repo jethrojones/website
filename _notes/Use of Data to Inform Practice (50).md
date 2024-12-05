@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📊 Use of Data to Inform Practice (50)
 
 1. "Create a list of 5 professional development activities that could be used to help teachers improve their skills in using data effectively."

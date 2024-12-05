@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 If You’re Interested In Learning @obsdmd, Subscribe To These 3 YouTube Channels
 
 Learning a new software is hard.

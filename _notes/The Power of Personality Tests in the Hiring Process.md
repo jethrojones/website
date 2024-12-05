@@ -1,10 +1,7 @@
 ---
-title: 'The Power of Personality Tests in the Hiring Process'
-date: Thu, 13 Feb 2020 04:00:28 +0000
-draft: false
-tags: ['hiring', 'personality', 'DISC', 'myers-briggs', '16personalities', 'hiring']
----
+layout: post
 
+---
 After experiencing a mid-year resignation, a principal came to me frustrated and upset. This principal thought that a good interview process could have filtered out a teacher that didn’t have what it takes to be a good teacher. Another principal also considered her own shortcomings as a leader and wondered if her weaknesses had driven this teacher out in the middle of the year.
 
 Of course, exit surveys won’t ever tell us anything worthwhile about why people really leave, but there are two things a principal can control when it comes to hiring and supporting teachers.

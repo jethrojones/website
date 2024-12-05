@@ -1,11 +1,7 @@
 ---
-title: 'Where to start...And an action item!'
-date: Wed, 24 Jun 2020 16:58:00 +0000
-draft: false
-tags: ['reopening schools', 'covid']
-last_modified_at: 2024-09-28 01:46:28
----
+layout: post
 
+---
 [[how-many-teachers-do-i-need-to-hire-for-social-distancing|Last Post]] we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
 
 I heard some interesting concerns. Here's a couple: 

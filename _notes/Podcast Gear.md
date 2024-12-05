@@ -1,8 +1,7 @@
 ---
-url: podgear
-date: 2024-05-09
----
+layout: post
 
+---
 My current recommendations for podcast gear for any podcaster: 
 
 | Equipment                                         | Cost |                                                                                                                                                                            |

@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📚 Pedagogical Approaches (50)
 
 1. Give me an example of a cooperative learning activity that encourages teamwork among students.

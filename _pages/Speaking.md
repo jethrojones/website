@@ -1,8 +1,6 @@
 ---
-last_modified_at: 2024-09-28 01:46:28
-permalink: /speaking
+layout: page
 ---
-
 # Presentations & Speaking
 
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
@@ -26,15 +24,12 @@ Sharing what I learn is very important to me. Here you will find links and resou
 -   Student Driven Learning
     -   This multi-day workshop is geared towards moving whole systems to a student-driven learning model. 
 
----
 
 ## TEDxCSDTeachers 
 ### [[Simplicity]]: How we increased attendance to 95%, and kept it there for 5 years.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz_zKCgCLnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
----
 
 # 2024
 Monthly: AILeader Office Hours - 2nd Tuesday of each month.

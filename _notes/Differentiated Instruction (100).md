@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 🎯 Differentiated Instruction (100)
 
 1. Give me an example of how you would differentiate a math lesson for students with varying levels of understanding in fractions.

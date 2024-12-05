@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📞 Parent-Teacher Communication (50)
 
 1. Give me strategies for establishing effective lines of communication with parents at the beginning of the school year.

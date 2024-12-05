@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📋 Assessment and Evaluation (50)
 
 1. Give me strategies for providing effective feedback to students.

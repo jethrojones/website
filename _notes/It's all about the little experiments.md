@@ -1,20 +1,6 @@
 ---
-last_modified_at: 2024-09-20
-permalink: 
-description: A summary of the Big Impact Mixer with Brian Pulliam
-title: It's all about the little experiments
-image: /assets/BIMexperiments.png
-published: "true"
-sitemap: "true"
-excerpt_separator: <!--more-->
-category: BIM
-tags:
-  - BIM
-  - newsletter
-publish date: 2024-09-20
+layout: post
 ---
-
-
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 We had a great time at the Big Impact Mixer yesterday. You can join us, you know. Just go [here](https://bigimpactmixer.com). 

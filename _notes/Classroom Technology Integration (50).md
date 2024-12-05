@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 📲 Classroom Technology Integration (50)
 
 1. Share examples of how you can effectively integrate technology tools into your teaching practice.

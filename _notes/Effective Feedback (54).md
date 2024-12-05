@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 # 🗣️ Effective Feedback (54)
 
 1. Give me specific examples of how you incorporate real-world applications into your lessons to engage students' interest.

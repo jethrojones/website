@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 How to get unstuck when you're stuck. 
 
 Take action. 

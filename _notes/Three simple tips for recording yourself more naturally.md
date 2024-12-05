@@ -1,6 +1,7 @@
 ---
----
+layout: post
 
+---
 Two things I've learned from podcasting for over a decade: 
 1. Every hates the sound of their voice
 2. People suck at recording solo episodes. 

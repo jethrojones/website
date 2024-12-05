@@ -15,12 +15,6 @@ layout: page
 ---
 
 
-{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-
-# SchoolX Book Study – Transform Your School with Purpose
-
----
-
 ## We're still suffering from the effects of COVID
 **Our schools are struggling, constantly, despite your best efforts**
 

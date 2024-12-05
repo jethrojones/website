@@ -1,17 +1,6 @@
 ---
-title: How to Build a Data Dashboard for your Teachers' Daily Use
-description: Lifelong Learning, overcoming trials, what education is really for, and data dahsboards
-publish: "true"
-permalink: data-dashboard
-aliases: 
-publish date: 2024-03-04
-tags:
-  - data
-  - dashboard
-  - newsletter
-last_modified_at: 2024-09-19
+layout: post
 ---
-
 I started a project 10 years ago, and I failed at it. 
 
 Last Saturday, I decided to tackle it again, and I nailed it. 
