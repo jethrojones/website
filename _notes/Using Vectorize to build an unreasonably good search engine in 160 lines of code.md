@@ -6,7 +6,7 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: "[[Clippings]]"
+category: "Clippings"
 tags:
   - clippings
 date: 2024-11-11 12:47

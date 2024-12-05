@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Podcast to PhD"
 source: https://world.hey.com/jethro/podcast-to-phd-9821a4b0

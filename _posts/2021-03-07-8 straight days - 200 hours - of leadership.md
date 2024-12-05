@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "8 straight days - 200 hours - of leadership"
 source: https://world.hey.com/jethro/8-straight-days-200-hours-of-leadership-10eb0a6c

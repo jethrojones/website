@@ -1,5 +1,5 @@
 ---
-category: "[[Clippings]]"
+category: "Clippings"
 author: "[[Jethro]]"
 title: Home Visits!
 source: https://www.jethrojones.com/blog/home-visits

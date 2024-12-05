@@ -1,5 +1,5 @@
 ---
-category: "[[Clippings]]"
+category: "Clippings"
 author: "[[Alycia Dioneda]]"
 title: Book fair controversy at Prairie Hill sparks community debate over book selection | Rockton-Roscoe News
 source: https://roscoenews.com/g/roscoe-il/n/275174/book-fair-controversy-prairie-hill-sparks-community-debate-over-book-selection

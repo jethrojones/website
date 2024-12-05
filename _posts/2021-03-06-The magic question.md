@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "The magic question"
 source: https://world.hey.com/jethro/the-magic-question-9e475a91

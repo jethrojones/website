@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "The right approach to technology in schools"
 source: https://world.hey.com/jethro/the-right-approach-to-technology-in-schools-7d47aefa

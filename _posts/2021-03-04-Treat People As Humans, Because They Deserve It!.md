@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Treat People As Humans, Because They Deserve It!"
 source: https://world.hey.com/jethro/treat-people-as-humans-because-they-deserve-it-d5ec7301

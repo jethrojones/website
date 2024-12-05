@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "The Subsidization of Media"
 source: https://world.hey.com/jethro/the-subsidization-of-media-ab91cd65

@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Oops, I forgot Evernote"
 source: https://world.hey.com/jethro/oops-i-forgot-evernote-d01dcd5b

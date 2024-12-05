@@ -7,7 +7,7 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: "[[Clippings]]"
+category: "Clippings"
 tags: 
 date: 2024-02-29 06:43
 layout: 

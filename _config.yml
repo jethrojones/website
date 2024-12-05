@@ -27,6 +27,7 @@ plugins:
 #  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
   
 sass:
   sass_dir:          _sass
@@ -35,6 +36,11 @@ sass:
 twitter_url: https://x.com/jethrojones
 linkedin_url: https://linkedin.com/in/jethrojones
 instagram_url: https://instagram.com/jethrojones
+
+paginate: 5 # Number of posts per page
+paginate_path: "/blog/page:num/" # Path for paginated pages
+
+
 
 feed:
     path: feed_notes.xml
@@ -58,4 +64,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "categories"
+    values:
+      layout: "category"
 

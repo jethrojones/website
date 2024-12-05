@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "The power of connection"
 source: https://world.hey.com/jethro/the-power-of-connection-d6e251f7

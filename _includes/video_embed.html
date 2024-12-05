@@ -1,0 +1,47 @@
+{% assign video = page.video_url %}
+
+{% if video contains "youtube.com" or video contains "youtu.be" %}
+{% assign video_cleaned = video | replace: 'youtu.be/', 'www.youtube.com/embed/' | replace: 'watch?v=', 'embed/' | split: '&' | first %}
+<iframe
+  width="560"
+  height="315"
+  src="{{ video_cleaned }}"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  loading="eager">
+</iframe>
+
+{% elsif video contains "instagram.com" %}
+{% if video contains "/reel/" %}
+<iframe
+  src="{{ video }}/embed"
+  width="400"
+  height="480"
+  frameborder="0"
+  scrolling="no"
+  allowtransparency="true"
+  loading="eager">
+</iframe>
+{% else %}
+<blockquote class="instagram-media" data-instgrm-permalink="{{ video }}" data-instgrm-version="14"></blockquote>
+<script async defer src="https://www.instagram.com/embed.js"></script>
+{% endif %}
+
+{% elsif video contains "twitter.com" %}
+<blockquote class="twitter-tweet"><a href="{{ video }}"></a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"></script>
+
+{% elsif video contains "share.transistor.fm" %}
+<iframe
+  width="100%"
+  height="180"
+  frameborder="no"
+  scrolling="no"
+  seamless
+  src="{{ video | replace: '/s/', '/e/' }}">
+</iframe>
+
+{% else %}
+<p><a href="{{ video }}" target="_blank">View the original</a></p>
+{% endif %}

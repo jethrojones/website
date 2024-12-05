@@ -1,12 +1,12 @@
 ---
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "There’s no such thing as learning loss or learning gaps. OR What le..."
 source: https://world.hey.com/jethro/there-s-no-such-thing-as-learning-loss-or-learning-gaps-or-what-learning-actually-looks-like-d6955108
 clipped: 2024-11-11
 published: 
 topics: 
-tags: [clippings]
+tags: 
 ---
 
 Lots of people these days are saying that there is learning loss and that we need to be concerned about it.

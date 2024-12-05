@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Taking the time."
 source: https://world.hey.com/jethro/taking-the-time-0c7810dc

@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Thin Clients and the Modern Computer"
 source: https://world.hey.com/jethro/thin-clients-and-the-modern-computer-a695c492

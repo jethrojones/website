@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "There’s no such thing as learning loss or learning gaps. OR What le..."
 source: https://world.hey.com/jethro/there-s-no-such-thing-as-learning-loss-or-learning-gaps-or-what-learning-actually-looks-like-d6955108

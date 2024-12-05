@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags:  
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Connections"
 source: https://world.hey.com/jethro/connections-2819c945

@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "More Obsidian Love"
 source: https://world.hey.com/jethro/more-obsidian-love-e774b708

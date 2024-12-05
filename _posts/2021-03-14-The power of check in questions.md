@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "The power of check in questions"
 source: https://world.hey.com/jethro/the-power-of-check-in-questions-6e65cda4

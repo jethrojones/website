@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "A Principal’s View on Homework"
 source: https://world.hey.com/jethro/a-principal-s-view-on-homework-ef4d6ad9

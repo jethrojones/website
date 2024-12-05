@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "Distance Learning a decade ago"
 source: https://world.hey.com/jethro/distance-learning-a-decade-ago-182d0945

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main>
+  <h1>Category: {{ page.category }}</h1>
+
+  <ul>
+    {% for post in page.posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if page.category == "Inspiration" %}
+    <!-- ConvertKit Form Embed -->
+    <div class="convertkit-form">
+      <script async data-uid="6da1a20aed" src="https://jethrojones.kit.com/6da1a20aed/index.js"></script>
+    </div>
+  {% endif %}
+</main>

@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "[[Clippings]]"
+category: "Clippings"
 author: 
 title: "I gave my kid a phone, now what?"
 source: https://world.hey.com/jethro/i-gave-my-kid-a-phone-now-what-cbdbb22a
