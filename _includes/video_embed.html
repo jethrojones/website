@@ -1,10 +1,14 @@
 {% assign video = page.video_url %}
 
 {% if video contains "youtube.com" or video contains "youtu.be" %}
+{% if video contains "/shorts/" %}
+{% assign video_cleaned = video | replace: '/shorts/', '/embed/' %}
+{% else %}
 {% assign video_cleaned = video | replace: 'youtu.be/', 'www.youtube.com/embed/' | replace: 'watch?v=', 'embed/' | split: '&' | first %}
+{% endif %}
 <iframe
   width="560"
-  height="315"
+  height="100%"
   src="{{ video_cleaned }}"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -13,24 +17,20 @@
 </iframe>
 
 {% elsif video contains "instagram.com" %}
-{% if video contains "/reel/" %}
+<blockquote class="instagram-media" data-instgrm-permalink="{{ video }}" data-instgrm-version="14" style="max-width: 100%; margin: 0 auto; padding: 0;">
+</blockquote>
+<script async defer src="https://www.instagram.com/embed.js"></script>
+
+{% elsif video contains "x.com" %}
+{% assign tweet_id = video | split: '/status/' | last %}
 <iframe
-  src="{{ video }}/embed"
-  width="400"
-  height="480"
+  src="https://platform.twitter.com/embed/index.html?dnt=true&frame=false&hideCard=false&hideThread=false&id={{ tweet_id }}"
+  width="550"
+  height="100%"
   frameborder="0"
   scrolling="no"
-  allowtransparency="true"
-  loading="eager">
+  allowfullscreen>
 </iframe>
-{% else %}
-<blockquote class="instagram-media" data-instgrm-permalink="{{ video }}" data-instgrm-version="14"></blockquote>
-<script async defer src="https://www.instagram.com/embed.js"></script>
-{% endif %}
-
-{% elsif video contains "twitter.com" %}
-<blockquote class="twitter-tweet"><a href="{{ video }}"></a></blockquote>
-<script async src="//platform.twitter.com/widgets.js"></script>
 
 {% elsif video contains "share.transistor.fm" %}
 <iframe
