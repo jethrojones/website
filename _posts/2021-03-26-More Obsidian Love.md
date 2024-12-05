@@ -9,23 +9,18 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
+- software
 layout: post
-category: "Clippings"
+category: "writing"
 author: 
 title: "More Obsidian Love"
 source: https://world.hey.com/jethro/more-obsidian-love-e774b708
-clipped: 2024-11-11
 date: 2021-03-26
 topics: 
 ---
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
-
-Jethro Jones
-
-](https://world.hey.com/jethro)
 
 March 26, 2021
 
