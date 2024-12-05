@@ -22,7 +22,7 @@ topics:
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-March 26, 2021
+
 
 As I'm playing with Obsidian more and more, I am just really loving it. It's got some features that are just dynamite.
 

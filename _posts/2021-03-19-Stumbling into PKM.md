@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "Clippings"
+category: "Writing"
 author: 
 title: "Stumbling into PKM"
 source: https://world.hey.com/jethro/stumbling-into-pkm-4711564e

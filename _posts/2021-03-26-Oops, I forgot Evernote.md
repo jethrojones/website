@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "Clippings"
+category: "Writing"
 author: 
 title: "Oops, I forgot Evernote"
 source: https://world.hey.com/jethro/oops-i-forgot-evernote-d01dcd5b
@@ -21,15 +21,9 @@ topics:
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
 
-Jethro Jones
 
-](https://world.hey.com/jethro)
-
-March 22, 2021
-
-I started using Evernote in 2008, so I had left out the 2000+ notes in my post [Stumbling into Personal Knowledge Management](https://world.hey.com/jethro/stumbling-into-pkm-4711564e).
+I started using Evernote in 2008, so I had left out the 2000+ notes in my post [Stumbling into Personal Knowledge Management](https://jethro.site/clippings/2021/03/19/stumbling-into-pkm/).
 
 Evernote served as a catchall for other things.
 
