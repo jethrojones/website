@@ -1,6 +1,6 @@
 ---
 last_modified_at: 2024-12-05 19:27:53
-permalink: 
+permalink: learning-notes
 description: 
 title: My Thoughts on Learning
 image: /assets/learning.jpg
