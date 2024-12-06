@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-12-05 05:10:55
+last_modified_at: 2024-12-06 18:19:35
 permalink: /blog/
 description: 
 title: Blog
