@@ -13,6 +13,9 @@ last_modified_at:
 image: 
 category:
 ---
+{% if page.source and page.author %}
+  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
+{% endif %}
 > ChatGPT, it turns out, is a woefully bad way to explore the historical record.
 
 I would say, ChatGPT is woefully bad way to seek truth. But to explore the historical record, it’s actually quite good. 
@@ -43,6 +46,3 @@ There's still a lot of questions about how to do this right.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6nhGmvv_w0?si=kQZDBYWEC_HzCW8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-{% if page.source and page.author %}
-  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
-{% endif %}
