@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-12-05 19:27:53
+last_modified_at: 2024-12-06 18:43:31
 permalink: learning-notes
 description: 
 title: My Thoughts on Learning
