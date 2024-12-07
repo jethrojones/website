@@ -7,7 +7,7 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: writing
 tags: 
 date: 2024-12-04 20:47
 layout: note

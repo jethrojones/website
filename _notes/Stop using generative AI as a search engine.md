@@ -11,7 +11,7 @@ tags:
   - ai
 last_modified_at: 
 image: 
-category:
+category: writing
 ---
 {% if page.source and page.author %}
   <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>

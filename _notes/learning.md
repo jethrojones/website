@@ -7,10 +7,10 @@ image: /assets/learning.jpg
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: learning
 tags: 
 date: 2024-11-25 18:56
-layout:
+layout: page
 ---
 
 
