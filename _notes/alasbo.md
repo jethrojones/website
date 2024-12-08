@@ -23,6 +23,7 @@ It was great to meet with you
 ## Sunday Workshop Information
 
 - [Connection Form](https://forms.gle/SCMqLuKk8CrkPJHy6)
-- [Best AI Tools](jethro.site/bestai)
+- [everything AI](https://jethro.site/ai)
+- [Best AI Tools](https://jethro.site/bestai)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [The Google Slide Deck](https://docs.google.com/presentation/d/1Z5F4k7PUjbqzjA08KdKv4_KxMQV-MIgCXfCM-fWmYgc/edit?usp=sharing)
