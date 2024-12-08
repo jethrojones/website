@@ -1,6 +1,6 @@
 ---
 layout: post
-
+category: ai
 ---
 # An Overview of Prompt Engineering for Educators
 

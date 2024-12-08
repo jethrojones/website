@@ -26,6 +26,7 @@ This is the place to find everything about AI on my site (hopefully I can keep i
 - [[Presentations on AI]]
 - [[Can we trust the AI?]]
 - [[Stop using generative AI as a search engine]]
+- [[An Overview of Prompt Engineering for Educators]]
 
 Blog Posts:
 - [Testing a couple different solutions with AI](https://jethro.site/podcast/2023/12/22/testing-a-couple-different-solutions-with-ai/)
