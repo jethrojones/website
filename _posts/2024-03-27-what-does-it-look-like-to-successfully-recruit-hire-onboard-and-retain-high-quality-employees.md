@@ -7,7 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
-meta: {}
+category: hiring
 last_modified_at: 2024-11-08 00:19:56
 date: 2024-03-27
 ---
