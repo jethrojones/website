@@ -13,7 +13,7 @@ layout: page
 date: 2024-11-04
 ---
 
-
+![SchoolX](http://images.weserv.nl/?url={{ site.url }}/assets/schoolx.jpg&w=450&output=jpg&q=65)
 ## We're still suffering from the effects of COVID
 **Our schools are struggling, constantly, despite your best efforts**
 
