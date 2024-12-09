@@ -38,15 +38,15 @@ We're going to dive into the book with an action plan.
 
 After learning the material, you'll actually make a plan for your school in these four phases:
 You'll learn how to use the Design Thinking in your daily work as a principal:
-![Design Thinking]({{ site.url }}/assets/sxbs-design.png)
+![Design Thinking](http://images.weserv.nl/?url={{ site.url }}/assets/sxbs-design.png&w=450&output=jpg&q=65)
 
 
 You'll learn how to resign your school for yourself, and prioritize your most important actions. 
-![Eisenhower Matrix]({{ site.url }}/assets/sxbs-matrix.png)
+![Eisenhower matrix](http://images.weserv.nl/?url={{ site.url }}/assets/sxbs-matrix.png&w=450&output=jpg&q=65)
 
 
 You'll learn how to support your teachers without your saboteurs getting in the way of their success. 
-![PQ Leadership]({{ site.url }}/assets/pq-leadership.png)
+![Pq leadership](http://images.weserv.nl/?url={{ site.url }}/assets/pq-leadership.png&w=450&output=jpg&q=65)
 
 You'll learn how to support your students to be "enrolled" in school, not just engaged in the technology sitting in front of them.
 
