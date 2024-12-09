@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-12-08 20:41:05
+last_modified_at: 2024-12-09 06:57:00
 permalink: alasbo
 description: A summary of connections and links to the
 title: Presentation Notes at ALASBO

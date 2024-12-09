@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-11-25 18:45:16
+last_modified_at: 2024-12-09 06:56:59
 title: Ask Questions
 source: https://www.jdilla.xyz/post/246
 author:

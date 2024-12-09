@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-11-30 02:29:25
+last_modified_at: 2024-12-09 06:56:59
 permalink: synergy
 description: Jethro describes the innovative way that he helped students perform better than ever before with a simple program called synergy
 title: Synergy
