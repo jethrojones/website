@@ -4,13 +4,12 @@ permalink:
 description: 
 title: How We Use AI In Schools
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-02 12:37
 layout: note
+date: 2024-11-02
 ---
 
 

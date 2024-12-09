@@ -4,13 +4,12 @@ permalink: now
 description: What's Jethro up to right now?
 title: Now
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2022-10-01
 layout: page
+date: 2022-10-01
 ---
 ## Last updated November 29, 2024
 # Creating

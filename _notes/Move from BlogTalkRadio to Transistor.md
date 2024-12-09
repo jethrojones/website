@@ -4,16 +4,16 @@ permalink:
 description: How to move your podcast from BlogTalkRadio to Transistor.
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-22 10:51
 layout: note
+date: 2024-11-22
 ---
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
 The podcast host [BlogTalkRadio is shutting down effective January 31, 2025](https://podnews.net/article/blogtalkradio-customer-email). 
 
 One of my colleagues has a podcast on that site, so he asked me to help him save his podcasts from being lost to the world. 
@@ -166,3 +166,7 @@ Here's what I don't know how to do, yet. How do I make these things work on the 
 I realized downloading them all by hand would be a pain, even if it was 25 at a time. That would still mean I need to download 165 sessions. So I had ChatGPT build a scraper for the MP3s. That ran for about 3.5 and then timed out with a TCPS Socket error. I don't know what that means, but quite the eventful day today!
 
 Could have been because my computer went to sleep, finally. 
+
+## Update December 8, 2024
+The blog is now totally transferred over. They were able to do it all on the backend and make it work! Wahoo! Check it out [here](https://edutalk.transistor.fm)
+

@@ -4,13 +4,12 @@ permalink: tedx
 description: Jethro shares how he combatted chronic absenteeism and raised attendance rates from 85% to 95% in a simple, sustainable, inexpensive way
 title: How to Combat Chronic Absenteeism
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-09-27 18:50
 layout: note
+date: 2024-09-27
 ---
 
 

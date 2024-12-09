@@ -4,13 +4,12 @@ permalink: tech4kids
 description: Jethro Jones offers an engaging, practical session that provides parents with real-world strategies for setting healthy boundaries around technology use for their children. In this presentation, Jethro provides actionable advice that empowers parents to protect their kids and foster responsible tech habits without frustration.
 title: Setting Healthy Tech Boundaries for Kids
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2020-05-01
 layout: page
+date: 2024-05-01
 ---
 layout: post
 

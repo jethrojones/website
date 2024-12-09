@@ -4,8 +4,7 @@ title: Not all screen time is created equal
 source: https://world.hey.com/dhh/house-rules-in-fortnite-16e0e5e8
 author:
   - David Heinemeir Hansson
-published: 2024-06-18
-created: 2024-11-12
+date: 2024-11-12
 description: We play a lot of Fortnite at our house. It's a great game for teaching kids cooperative discipline, and in a remarkably wholesome setting to boot (no blood, cartoon styling). I've had no qualms involving all three of our boys from an early age in the family squad, including our two youngest from around age four. Since we started playin...
 tags:
   - clippings

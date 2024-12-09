@@ -4,13 +4,12 @@ permalink: miracles
 description: 
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-07 09:45
-layout:
+layout: 
+date: 2024-11-07
 ---
 
 

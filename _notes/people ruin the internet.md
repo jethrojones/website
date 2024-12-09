@@ -4,13 +4,13 @@ permalink:
 description: 
 title: People Ruin the Internet
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
-tags: []
-date: 2024-01-08 10:51
+tags: 
+published: "true"
 layout: note
+date: 2024-01-08
 ---
 Here are a few articles about several pet peeves of mine. 
 

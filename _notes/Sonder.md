@@ -4,13 +4,12 @@ permalink: Sonder
 description: 
 title: Sonder
 image: /assets/sonder.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-10 08:11
 layout: note
+date: 2024-11-10
 ---
 
 

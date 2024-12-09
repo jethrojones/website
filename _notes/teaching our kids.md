@@ -4,13 +4,12 @@ permalink:
 description: 
 title: How we teach our kids does not happen how we think
 image: 
-published: "true"
+date: 2024-12-02 06:19
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - learning
-creation date: 2024-12-02 06:19
 layout: note
 ---
 

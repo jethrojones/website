@@ -4,14 +4,13 @@ permalink:
 description: 
 title: Recipes on the Web are the WORST!
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-date: 2024-01-08 10:51
 layout: note
+date: 2024-01-08
 ---
 There are a few design elements where [[people ruin the internet]]. 
 

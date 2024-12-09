@@ -4,14 +4,13 @@ permalink:
 description: 
 title: January - Molcajete
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: Food
 tags:
   - fsff
-date: 2024-01-08 10:51
 layout: note
+date: 2024-01-08
 ---
 For this month's [[Fast Sunday Family Feast]] we had mocajete! 
 
@@ -26,9 +25,8 @@ I've got to say, we nailed this recipe, even though we didn't get an actual molc
 
 ## Some great images: 
 
-![Molcajete perspective](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete1.jpg&w=200&h=200&output=jpg&q=65)
 
-![Molcajete Meat](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete2.jpg&w=200&h=200&output=jpg&q=65)
+![molcajete 2](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete2&w=450&output=jpg&q=65)
 
 
 

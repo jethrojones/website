@@ -2,8 +2,7 @@
 title: Holiness to the Lord in Everyday Life
 source: https://www.churchofjesuschrist.org/study/general-conference/2024/10/31gong?lang=eng
 author: Elder Gerrit W. Gong
-published: 2024-10-05T00:00:00.000Z, 2024-10-05T00:00:00.000Z
-created: 2024-11-24
+date: 2024-11-24
 description: Elder Gong invites us to make holiness part of our everyday life, which will draw us closer to the Lord and each other.
 tags:
   - clippings

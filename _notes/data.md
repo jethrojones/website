@@ -4,13 +4,13 @@ permalink: data
 description: how I lost all my data, and how I'm trying to get it back.
 title: You Should be Able to Take Your Data With You
 image: /assets/beforeafter.jpeg
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - data
 layout: post
+date: 2024-10-01
 ---
 
 

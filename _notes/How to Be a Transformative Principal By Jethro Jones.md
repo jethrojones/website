@@ -4,13 +4,12 @@ permalink: how2be
 description: 
 title: 
 image: /assets/how2becover.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2021-09-22
 layout: page
+date: 2021-09-22
 ---
 
 

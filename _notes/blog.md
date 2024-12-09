@@ -1,16 +1,14 @@
 ---
 last_modified_at: 2024-12-06 18:19:35
-permalink: /blog/
+permalink: blog
 description: 
 title: Blog
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-11 16:12
-layout: post
+layout: page
 ---
 <h1>Blog Posts</h1>
 

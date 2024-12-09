@@ -4,13 +4,12 @@ permalink: pm
 description: Notes from a project management course I took in 2010
 title: Project Management
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
+layout: 
 date: 2010-03-26
-layout:
 ---
 
 

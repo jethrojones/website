@@ -1,12 +1,11 @@
 ---
 layout: page
 title: The Ultimate Inspirational Videos for Teachers and Students
-categories: 
+category: 
 tags: 
 status: publish
-type: page
-published: "true"
 last_modified_at: 2024-11-14 19:32:25
+date: 2020-01-01
 ---
 # The Ultimate 2024 Inspirational Videos for Teachers and Students
 

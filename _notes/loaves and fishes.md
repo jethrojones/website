@@ -4,14 +4,13 @@ permalink: laf
 description: A transcript of a speech given by Dallas Jenkins, creator the "The Chosen" at BYU on October 30, 2024
 title: Loaves and Fishes, not the 5,000
 image: /assets/laf.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - GREAT
-date: 2024-10-30 12:52
 layout: post
+date: 2024-10-30
 ---
 
 

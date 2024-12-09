@@ -4,7 +4,6 @@ permalink:
 description: Fast Sunday Family Feast - A Jones Family Tradition
 title: Fast Sunday Family Feast - A Jones Family Tradition
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
@@ -12,8 +11,8 @@ tags:
   - family
   - traditions
   - fsff
-date: 2024-01-22 10:51
 layout: note
+date: 2024-01-22
 ---
 This year, we are starting a new tradition. 
 

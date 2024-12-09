@@ -4,13 +4,11 @@ permalink: aiprojects
 description: In this article, I discuss my almost failed attempt to get AI to extract data from a session I did with about 280 educators in Arizona last week. AI still really struggles doing very specific things, especially at a high level. Surprisingly, Google's NotebookLM was the best one.
 title: AI Can do Anything, But Not Something Specific
 image: /assets/ailogos.jpeg
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - ai
-date: 2024-09-30
 layout: post
 ---
 Twitter Version: AI still really struggles doing very specific things, especially at a high level. Surprisingly, Google's NotebookLM was the best one. 

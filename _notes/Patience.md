@@ -4,13 +4,12 @@ permalink:
 description: 
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-11 09:47
-layout:
+layout: note
+date: 2024-11-11
 ---
 
 
@@ -22,3 +21,5 @@ I don't want to wait for everything, but that's a part of life.
 Amazing and momentous things just take time. 
 
 But it is hard to wait. 
+
+[[humility]].

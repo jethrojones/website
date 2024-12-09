@@ -4,14 +4,13 @@ permalink:
 description: 
 title: Sites I want to model this site after
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: colophon
 tags:
   - design
-date: 2024-10-24 12:07
-layout: post
+layout: note
+date: 2024-10-24
 ---
 
 

@@ -4,14 +4,13 @@ permalink:
 description: 
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: linklist
 tags:
   - quoting
-date: 2024-11-11 10:46
-layout:
+layout: note
+date: 2024-11-11
 ---
 
 

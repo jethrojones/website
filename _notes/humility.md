@@ -4,13 +4,12 @@ permalink: rse
 description: Righteous Self-Esteem is the balance of pride humility, righteousness and wickedness
 title: 
 image: /assets/righteous-self-esteem.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-25 17:01
-layout:
+layout: note
+date: 2024-11-25
 ---
 
 

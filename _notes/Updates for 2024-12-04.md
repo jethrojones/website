@@ -4,13 +4,12 @@ permalink:
 description: 
 title: I made some big updates to the site today
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: writing
 tags: 
-date: 2024-12-04 20:47
 layout: note
+date: 2024-12-04
 ---
 I added: 
 - Blog categories to the [sidebar in blog posts](https://jethro.site/mastermind/2020/03/26/how-we-set-goals-in-the-mastermind/) (I realize that many of my posts don't have blog categories!)

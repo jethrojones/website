@@ -4,14 +4,13 @@ permalink: aiofficenov24
 description: 
 title: Schedules are a big puzzle, and I like puzzles
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - ai
-date: 2024-11-12 13:54
 layout: note
+date: 2024-11-12
 ---
 
 

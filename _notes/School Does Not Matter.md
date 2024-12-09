@@ -4,14 +4,13 @@ permalink: schooldoesnotmatter
 description: we made a grave mistake telling kids that school does not matter during the pandemic.
 title: How we told families school doesn't matter and what we can do to fix it.
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - covid
-date: OCT 14, 2021
-layout: post
+layout: note
+date: 2021-10-14
 ---
 
 

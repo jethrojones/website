@@ -4,13 +4,12 @@ permalink:
 description: 
 title: 
 image: /assets/aplus.jpeg
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-18 12:05
-layout:
+layout: 
+date: 2024-11-18
 ---
 
 

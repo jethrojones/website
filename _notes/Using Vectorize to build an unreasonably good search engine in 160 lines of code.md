@@ -3,18 +3,17 @@ last_modified_at:
 permalink: 
 description: Using ChatGPT to create search for this web site built using jekyll
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: "Clippings"
+category: Clippings
 tags:
   - clippings
-date: 2024-11-11 12:47
 layout: note
 author: "[[Matt Webb]]"
 title: Using Vectorize to build an unreasonably good search engine in 160 lines of code
 source: https://blog.partykit.io/posts/using-vectorize-to-build-search
 clipped: 2024-11-11
+date: 2024-11-11
 ---
 layout: post
 

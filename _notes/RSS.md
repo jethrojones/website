@@ -4,14 +4,13 @@ permalink:
 description: 
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: colophon
 tags:
-  - colophon
+  - rss
+layout: note
 date: 2024-09-27
-layout: post
 ---
 
 

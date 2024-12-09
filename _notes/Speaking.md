@@ -4,13 +4,12 @@ permalink: speaking
 description: Jethro Jones speaking page gives details about speaking engagements past, present and future
 title: Presentations and Speaking
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-03-01
 layout: page
+date: 2024-03-01
 ---
 layout: post
 

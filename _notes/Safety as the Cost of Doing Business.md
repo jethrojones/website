@@ -4,13 +4,12 @@ title: Sessions Health - Mental Health Practice Management Software and EHR
 source: https://www.sessionshealth.com/
 author:
   - "[[Safety as the Cost of Doing Business]]"
-published: 
-created: 2024-11-12
+date: 2024-11-12
 description: Jumpstart your mental health practice with Sessions Health. Managing your private practice or small clinic has never been more simple.
 tags:
   - clippings
 image: 
-category: 
+category:
 ---
 One of the things I talk about often with people is that safety should not be the goal of schools. It's the cost of doing business. To frame safety as the goal is to shirk our responsibility for both safety and learning. 
 

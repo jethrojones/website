@@ -4,13 +4,12 @@ permalink: learning-notes
 description: 
 title: My Thoughts on Learning
 image: /assets/learning.jpg
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: learning
 tags: 
-date: 2024-11-25 18:56
 layout: page
+date: 2024-11-25
 ---
 
 

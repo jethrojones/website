@@ -4,7 +4,6 @@ permalink: coach
 description: Jethro Jones helps people overcome their saboteurs through utilizing Positive Intelligence Coaching.
 title: Eliminate Stress and Improve Relationships in Just 10 Seconds
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
@@ -12,8 +11,8 @@ tags:
   - 16personalities
   - pq
   - coaching
-date: 2023-05-01
 layout: page
+date: 2023-05-01
 ---
 layout: post
 

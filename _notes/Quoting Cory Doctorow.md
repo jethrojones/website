@@ -3,8 +3,7 @@ last_modified_at:
 title: Quoting Cory Doctorow
 source: https://pluralistic.net/2024/11/02/ulysses-pact/#tie-yourself-to-a-federated-mast
 author: 
-published: 2023-08-06
-created: 2024-11-24
+date: 2024-11-24
 description: 
 tags:
   - clippings

@@ -4,12 +4,11 @@ permalink:
 description: 
 title: 
 image: /assets/learningspring.png
-published: "true"
+date: 2024-12-02 09:09
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: 2024-12-02 09:09
 layout:
 ---
 

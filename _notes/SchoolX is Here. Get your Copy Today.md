@@ -4,13 +4,12 @@ permalink:
 description: 
 title: 
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
+layout: note
 date: 2020-05-01
-layout: post
 ---
 
 

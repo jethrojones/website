@@ -4,8 +4,7 @@ title: Edit an episode with me (full podcast production walkthrough)
 source: https://www.youtube.com/live/nx-64DC1orU
 author:
   - "[[Skool Stories]]"
-published: "false"
-created: 2024-11-18
+date: 2024-11-18
 description: Hangout with me live while I edit an upcoming episode
 tags:
   - clippings

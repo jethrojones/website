@@ -4,13 +4,12 @@ permalink: buhsd
 description: Tools and resources from Buckeye Union High School District's Day of Learning
 title: BUHSD Day of Learning
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-09-22
 layout: page
+date: 2024-09-22
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # BUHSD Day of Learning September 23, 2024

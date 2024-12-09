@@ -4,8 +4,7 @@ title: Ask Questions
 source: https://www.jdilla.xyz/post/246
 author:
   - James Dillard
-published: 
-created: 2024-11-24
+date: 2024-11-24
 description: The importance of sharing enough to get people to ask questions. Because it applies to them.
 tags:
   - clippings

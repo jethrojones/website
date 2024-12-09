@@ -4,13 +4,12 @@ permalink: endofinternet
 description: A new(?) service called Posthaven promises not to be sold or shut down, ever.
 title: On Lasting Forever
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-10-14 13:57
 layout: post
+date: 2024-10-14
 ---
 
 

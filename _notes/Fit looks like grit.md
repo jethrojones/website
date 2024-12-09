@@ -4,12 +4,11 @@ permalink:
 description: 
 title: 
 image: /assets/Fit-looks-like-grit.png
-published: "true"
+date: 2024-12-02 08:12
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-creation date: 2024-12-02 08:12
 layout:
 ---
 

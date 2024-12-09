@@ -4,15 +4,14 @@ permalink: organic
 description: When looking at soft skills vs. hard skills, we need a more clear framework. I adopt the framework of organic and mechanistic skills.
 title: Organic Skills are the New Soft Skills
 image: /assets/organic.webp
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - skills
   - organic
-date: 2024-10-04 14:55
-layout: post
+layout: note
+date: 2024-10-04
 ---
 
 

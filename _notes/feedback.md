@@ -4,15 +4,14 @@ permalink: feedback
 description: How to give feedback that teachers actually want to hear. Because, trust me, they don't want a Compliment sandwich.
 title: Teachers Don't Actually Want Feedback. Here's What they do Want
 image: /assets/feedback_ai.webp
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: how2be
 tags:
   - feedback
   - rejectthepremise
-date: 2024-09-28
 layout: post
+date: 2024-09-28
 ---
 
 

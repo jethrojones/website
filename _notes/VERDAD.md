@@ -4,14 +4,13 @@ permalink:
 description: 
 title: VERDAD
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: linklist
+category: Clippings
 tags:
   - quoting
-date: 2024-11-07 15:08
 layout: note
+date: 2024-11-07
 ---
 
 

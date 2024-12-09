@@ -4,8 +4,7 @@ title: Don't call it a Substack. - Anil Dash
 source: https://www.anildash.com/2024/11/19/dont-call-it-a-substack/
 author:
   - "[[Anil Dash]]"
-published: 2024-11-19
-created: 2024-11-21
+date: 2024-11-21
 description: A blog about making culture. Since 1999.
 tags:
   - clippings

@@ -4,14 +4,13 @@ permalink:
 description: Additional insight into my story on parents.com
 title: I was quoted in a story from Parents Magazine
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - quoted
-date: 2024-10-14 17:19
 layout: post
+date: 2024-10-14
 ---
 
 

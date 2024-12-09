@@ -4,13 +4,12 @@ permalink: election
 description: 
 title: Election Day, but no Trust
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-05 10:33
 layout: post
+date: 2024-11-05
 ---
 
 

@@ -4,12 +4,10 @@ permalink: ai
 description: 
 title: Everything AI
 image: /assets/aplus.jpeg
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-18 12:13
 layout: page
 ---
 

@@ -4,13 +4,11 @@ permalink: BIMsep
 description: An 84% pay cut? Would you do it? Come see how Brian justified that decision at the Big Impact Mixer this coming Thursday.
 title: An 84% Pay Cut? Would You Take it?
 image: /assets/sepbim.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: events
 tags:
   - BIM
-  - events
 date: 2024-09-13
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}

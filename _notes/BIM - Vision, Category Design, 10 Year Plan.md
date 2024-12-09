@@ -4,13 +4,12 @@ permalink: BIMoct
 description: A notice letting people know the Big Impact Mixer agenda for this Thursday.
 title: "[Big Impact Mixer] - Vision, Category Design, 10 Year Plan"
 image: /assets/Octoberbim.png
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: BIM
 tags: 
-date: 2024-10-14 10:44
 layout: post
+date: 2024-10-14
 ---
 
 

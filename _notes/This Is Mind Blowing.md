@@ -4,19 +4,17 @@ permalink:
 description: 
 title: This Is Mind Blowing.
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: "Clippings"
+category: Clippings
 tags: 
-date: 2024-02-29 06:43
 layout: 
 author: minchoi on Twitter
 url: https://twitter.com/minchoi/status/1762812204884074979
 cover: https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA.jpg
-date: 2024-02-29
 source: twitter
-rating:
+rating: 
+date: 2024-02-29
 ---
 
 

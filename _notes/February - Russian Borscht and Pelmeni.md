@@ -4,13 +4,12 @@ permalink:
 description: 
 title: February - Borscht and Pelmeni
 image: 
-published: 2024-02-04
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-date: 2024-02-04 10:51
+date: 2024-02-04
 layout: note
 ---
 This month for our [[Fast Sunday Family Feast]] we took it back to my mission for The Church of Jesus Christ of Latter-day Saints to Russia! 

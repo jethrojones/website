@@ -4,12 +4,11 @@ permalink: bimnov
 description: three reasons you need a podcast
 title: Three reasons you should have a podcast to go with your big impact!
 image: /assets/bimnov.png
-published: 2024-11-18
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2024-11-18 13:34
+date: 2024-11-18
 layout: note
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}

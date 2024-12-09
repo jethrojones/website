@@ -4,14 +4,13 @@ permalink: fsff-brazil
 description: What's Jethro up to right now?
 title: December - Brazilian Feijoada
 image: 
-published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags:
   - fsff
-date: 2024-12-01
 layout: note
+date: 2024-12-01
 ---
 When I was a kid, my dad loved to reminisce about his time as a missionary in Northern Brazil back in the late sixties. 
 

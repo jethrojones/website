@@ -3,8 +3,7 @@ title: Stop using generative AI as a search engine
 source: https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire
 author:
   - "[[Elizabeth Lopatto]]"
-published: 2024-12-05
-date: 2024-12-06
+date: 2024-12-05
 description: Ana Navarro-Cardenas used ChatGPT to make an erroneous claim about presidential pardons. It turns out that just scratches the surface of what Gen AI gets wrong.
 tags:
   - clippings

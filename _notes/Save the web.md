@@ -3,8 +3,7 @@ last_modified_at: 2024-11-11
 title: Save the web
 source: https://obsidian.md/blog/save-the-web/
 author: "[[@obsdmd]]"
-published: 
-created: 2024-11-11
+date: 2024-11-11
 description: Highlight and capture web pages in your favorite browser with the new Obsidian Web Clipper extension.
 tags: 
 image: 

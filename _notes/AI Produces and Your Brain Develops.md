@@ -4,7 +4,6 @@ title: AI Produces and Your Brain Develops
 source: https://world.hey.com/hargraves/ai-produces-and-your-brain-develops-d17aae6e
 author:
   - Damon hargraves
-published: 
 date: 2024-12-04
 description: (AI art produced by Grok.x.ai with prompting from a human) Unlike a new computer, your brain won't require any new operating systems for you figure out in order to use it. Unlike an app or website, it won't be abandoned, forcing you to change the way you work arbitrarily. Your memory, your brain, your mind is always with you. You might...
 tags:
