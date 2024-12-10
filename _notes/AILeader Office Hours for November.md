@@ -11,6 +11,7 @@ tags:
   - ai
 layout: note
 date: 2024-11-12
+video_url: https://youtu.be/aR3KC0KklGY
 ---
 
 
@@ -27,3 +28,5 @@ And this is the finalized schedule we came up with for [[Polson Middle School]].
 We took her schedules from [this page](https://www.madison.k12.ct.us/polson-middle-school/general-info/daily-schedules).
 
 ![](https://youtu.be/aR3KC0KklGY)
+
+{% include video_embed.html %}

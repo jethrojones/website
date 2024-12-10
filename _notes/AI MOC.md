@@ -30,3 +30,7 @@ Blog Posts:
 - [Testing a couple different solutions with AI](https://jethro.site/podcast/2023/12/22/testing-a-couple-different-solutions-with-ai/)
 - [How AI Is Relieving Burdens on Educators](https://jethro.site/2023/12/12/how-ai-is-relieving-burdens-on-educators/)
 - [Student AI Usage](https://jethro.site/2023/11/13/student-ai-usage/)
+
+## AILeader Office Hours
+- [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
+- 
