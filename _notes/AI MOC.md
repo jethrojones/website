@@ -8,7 +8,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-layout: page
+layout: note
 ---
 
 
