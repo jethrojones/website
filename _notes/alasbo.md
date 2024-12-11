@@ -20,10 +20,9 @@ Thanks for coming to my session(s) at ALASBO.
 It was great to meet with you!
 
 # Keynote Supplements
-- Presentation
+- [Presentation](https://www.dropbox.com/scl/fi/u65nyag66sjmlhke291xl/ALASBO-AI-Keynote.pdf?rlkey=5nk1wpdokk5yyv7gj067xqqqw&dl=0)
 - [LebraHQ](https://lebrahq.com)
 - [Katya's Talk using ChatGPT](https://chatgpt.com/share/60a9e11a-768c-4be5-9a01-7da5118d072f)
-- 
 
 # Sunday Workshop Information
 
