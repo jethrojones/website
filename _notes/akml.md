@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-12-11 07:46:15
+last_modified_at: 2024-12-11 07:50:40
 permalink: akml
 description: A summary of connections and links regarding my AKML Presentations
 title: Presentation Notes at Alaska Municipal League
