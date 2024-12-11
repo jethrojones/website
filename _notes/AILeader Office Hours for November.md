@@ -30,3 +30,5 @@ We took her schedules from [this page](https://www.madison.k12.ct.us/polson-midd
 ![](https://youtu.be/aR3KC0KklGY)
 
 {% include video_embed.html %}
+
+[[AI MOC]]

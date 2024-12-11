@@ -26,3 +26,5 @@ This has powerful implications, because you can share [quotes like this one here
 The beauty here is that it at least provides a forum for disagreement, because when it comes to misinformation, the question is really misinformation according to whom? There are many things that were misinformation in the past, but are now common knowledge and accepted as true. 
 
 My biggest problem with labeling anything misinformation is that it typically means that something doesn't fit a particular narrative, rather than it is actually misinformation. 
+
+[[AI MOC]]

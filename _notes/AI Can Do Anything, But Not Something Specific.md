@@ -197,3 +197,5 @@ Begrudgingly, this is the best response, because it did what I needed it to do o
 | NotebookLM (Google)        | Actually completed the challenge, gave me a list of all the projects.                                                         | Made a terrible podcast 🤷‍♂️ [Listen Here](https://notebooklm.google.com/notebook/3922364f-54c4-492e-9cd8-683a7f1b6dca/audio). Results, once removed from the chat, weren't formatted for ease of use. | ⭐⭐⭐⭐☆        |
 
 Have a Good Life.
+
+[[AI MOC]]
