@@ -32,6 +32,7 @@ This is the place to find everything about AI on my site (hopefully I can keep i
     <p>There are no notes linking to this note.</p>
   </div>
   {% endif %}
+  <pre>{{ page.backlinks | jsonify }}</pre>
 </div>
 
 
