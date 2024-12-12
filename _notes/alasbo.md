@@ -27,7 +27,7 @@ You can start automating routine tasks, generate powerful data insights, and hel
 - [[AI MOC|Everything AI]]
 - [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
-- Presentation (*coming soon*)
+- [Presentation](https://www.dropbox.com/s/fwo6ls4whzhdti7/2024-12-11-ALASBO%20AI%20for%20Beginners.pdf?dl=0) 
 
 # Tuesday Keynote - _Using AI To Improve Human Relationships_
 Jethro Jones will lead participants through exercises with AI that will help them improve relationships with those they work with and those they serve. He will demonstrate some tools that help with that and share some insights into how to use these tools to build us up, rather than divide us.
