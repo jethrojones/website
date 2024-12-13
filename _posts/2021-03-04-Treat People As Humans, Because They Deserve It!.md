@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "Clippings"
+category: "self-care"
 author: 
 title: "Treat People As Humans, Because They Deserve It!"
 source: https://world.hey.com/jethro/treat-people-as-humans-because-they-deserve-it-d5ec7301
@@ -21,15 +21,9 @@ date: 2021-03-04
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
 
-Jethro Jones
 
-](https://world.hey.com/jethro)
-
-March 4, 2021
-
-Several years ago, [Amy Fast](https://twitter.com/fastcrayon), a principal in McMinnville, Oregon, said something profound to me. I didn’t understand it [fully at the time](https://transformativeprincipal.org/episode133), but I’ve repeated it to hundreds of people at this point.
+Several years ago, [Amy Fast](https://twitter.com/fastcrayon), a principal in McMinnville, Oregon, said something profound to me. I didn’t understand it [fully at the time](https://transformativeprincipal.org/s3/133), but I’ve repeated it to hundreds of people at this point.
 
 She said, “In fact, I wouldn't even say we need to fill their cups as a means to an end. Like let's not fill their cups so that they can give to students, but let's fill their cups because they're human beings and they deserve it.”
 
