@@ -1,6 +1,6 @@
 ---
 layout: post
-last_modified_at: 2024-12-09 06:57:00
+last_modified_at: 2024-12-13 16:27:24
 date: 2024-03-27
 ---
 I have lots of thoughts about onboarding. Here's a blog post about it: 
