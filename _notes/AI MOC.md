@@ -20,7 +20,7 @@ This is the place to find everything about AI on my site (hopefully I can keep i
 - [[aplus|The APLUS Framework for Adopting AI In Schools]]
 - [[AIinschools]]
 - [[AI Easy and Hard]]
-- [AILeader](aileader.info)
+- [AILeader](https://aileader.info)
 - [[best ai tools]]
 - [[Presentations on AI]]
 - [[Can we trust the AI?]]
