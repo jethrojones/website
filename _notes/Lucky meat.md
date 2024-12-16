@@ -1,15 +1,15 @@
 ---
 last_modified_at: 2024-12-16
-title: "Lucky meat"
-source: "https://interconnected.org/home/2012/03/26/lucky_meat"
+title: Lucky Meat
+source: https://interconnected.org/home/2012/03/26/lucky_meat
 author:
-  - "Matt Webb"
-published:
+  - Matt Webb
+permalink: luckymeat
 created: 2024-12-16
-description: "Posted on Monday 26 Mar 2012. 520 words, 4 links. By Matt Webb."
+description: A modern twist on an old idea - lucky meat and MSCHF
 tags:
-  - "clippings"
-image:
+  - clippings
+image: 
 category:
 ---
 One of the things I love about the internet is the ability to see an idea seeded years ago and then make it happen. 
