@@ -3,7 +3,7 @@ last_modified_at:
 title: Ethan Mollick on Knowing When to Use AI
 source: https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to
 author:
-  - "[[Ethan Mollick]]"
+  - Ethan Mollick
 date: 2024-12-10T21:18:46-09:00
 description: Notes on the Practical Wisdom of AI Use
 tags:
