@@ -24,9 +24,9 @@ Matt Webb had the idea in 2012 to create a restaurant called "Lucky Meat" where 
 
 Turns out, that actually happened, [with a little twist](https://ourcowangus.com).
 
-> We have pre-sold Angus as ==1200==== burgers ![](https://ourcowangus.com/img/small/burger.png)==  and ==4 handbags ![](https://ourcowangus.com/img/small/handbag.png)== which he will become in 452 days![^btw]
+> We have pre-sold Angus as ==1200== burgers ![](https://ourcowangus.com/img/small/burger.png)  and ==4 handbags ![](https://ourcowangus.com/img/small/handbag.png)== which he will become in 452 days![^btw]
 
-> If you own an Angus Token, you can cancel your pre-order in the [Remorse Portal](https://ourcowangus.com/portal#remorse) to potentially save Angus. Once 50% of token holders do this,==Angus will live.==
+> If you own an Angus Token, you can cancel your pre-order in the [Remorse Portal](https://ourcowangus.com/portal#remorse) to potentially save Angus. Once 50% of token holders do this, ==Angus will live.==
 > [CANCEL PRE-ORDER](https://ourcowangus.com/portal#remorse)
 > Don’t have a token, but still want to save Angus? [Buy one on StockX](http://stockx.com/MSCHF-Our-Cow-Angus-Burger-3-Pack-Token), then cancel its pre-order.
 
