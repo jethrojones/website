@@ -6,8 +6,7 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  passthrough_url: http://www.leadershipwithpurpose.net/home/a-personal-dilemma-great-teacher-vs-instructional-leader
+source: http://www.leadershipwithpurpose.net/home/a-personal-dilemma-great-teacher-vs-instructional-leader
 last_modified_at: 2024-11-01 19:03:50
 ---
 
@@ -25,3 +24,7 @@ I need to be a good teacher, and I need to be able to recognize good teaching, b
 
 
 It is about more than whether or not I am a good teacher. Being a good instructional leader is more about allowing teachers to feel comfortable getting feedback, knowing that I am not judging them, but constantly pushing them to be their best selves.
+
+{% if page.source and page.author %}
+  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
+{% endif %}
