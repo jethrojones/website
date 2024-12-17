@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 source: http://www.leadershipwithpurpose.net/home/a-personal-dilemma-great-teacher-vs-instructional-leader
-last_modified_at: 2024-11-01 19:03:50
+last_modified_at: 2024-12-17 22:59:45
 ---
 
 Shawn Davids:
