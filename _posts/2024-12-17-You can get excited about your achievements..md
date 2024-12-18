@@ -1,8 +1,8 @@
 ---
-title: "You can get excited about your achievements."
+title: "You can get excited about your achievements"
 date: 2024-12-17T22:03:09.477Z
 categories: [inspiration]
-video_url: "https://www.instagram.com/share/BADeixxaQQ"
+video_url: "https://www.instagram.com/reel/DA0hFL1tghr/?igsh=QkFKMjJrSDBjNQ%3D%3D"
 layout: post
 ---
 
