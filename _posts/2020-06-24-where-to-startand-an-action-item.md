@@ -7,11 +7,11 @@ tags:
 - reopening schools
 status: publish
 type: post
-published: true
-meta:
-  _thumbnail_id: '35'
+date: 2020-06-24
 last_modified_at: 2024-11-01 19:03:55
----[Last post](https://www.jethrojones.com/blog/how-many-teachers-do-i-need-to-hire-for-social-distancing) we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
+---
+
+[Last post](https://www.jethrojones.com/blog/how-many-teachers-do-i-need-to-hire-for-social-distancing) we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
 
 I heard some interesting concerns. Here's a couple: 
 

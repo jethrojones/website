@@ -23,7 +23,7 @@ Well, guess what? You now know so many things you can do to be a transformative 
 
 But how do you put this knowledge into action? How2Be is a coaching program to help you master the essentials to become a transformative principal!
 
-![how2be9.png]({{ site.url }}/assets/how2be9.png)
+![how2be9](http://images.weserv.nl/?url={{ site.url }}/assets/how2be9.png&w=450&output=jpg&q=65)
 
 We focus on the following 9 skills:
 

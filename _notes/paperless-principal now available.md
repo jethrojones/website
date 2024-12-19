@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Paperless Principal Book
-categories: []
-tags: []
+categories: 
+tags: 
 status: publish
 type: page
-published: true
-meta: {}
 last_modified_at: 2024-12-19 00:26:59
+date: 2013-07-01
 ---
 
-##Now Available: Paperless Principal
+## Now Available: Paperless Principal
 
+[[Paperless Principal]]
+
+[[Paperless Principal Submitted]]
 
 Have you ever wanted to be paperless, but thought it was impossible in a school? 
 
@@ -28,7 +30,6 @@ In this book you will learn how to:
 4. Use specific pieces of software to make your technology work for you. 
 
 5. Create workflows step-by-step so that it is easy for you to repeat it later. 
-
 
 
 

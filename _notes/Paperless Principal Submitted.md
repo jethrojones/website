@@ -2,7 +2,7 @@
 layout: post
 
 ---
-The Paperless Principal Book has just been submitted to published by Apple. In celebration of the waiting period being able to buy it [here](http://itunes.apple.com/us/book/paperless-principal/id558201943?ls=1), I am giving away the following iOS apps that I talk about in the book:
+The [[Paperless Principal]] Book has just been submitted to published by Apple. In celebration of the waiting period being able to buy it [here](http://itunes.apple.com/us/book/paperless-principal/id558201943?ls=1), I am giving away the following iOS apps that I talk about in the book:
 
 ​[TextExpander Touch​](http://itunes.apple.com/us/app/textexpander/id326180690?mt=8) \- Use your TextExpander library of snippets on your iOS device. 
 
