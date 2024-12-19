@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 meta: {}
-last_modified_at: 2024-12-18 22:18:34
+last_modified_at: 2024-12-19 00:26:59
 ---
 
 [Damon Hargraves](http://www.damonhargraves.com) and I presented at a district inservice about Learning Goals and Scales. The feedback was pretty positive. This presentation has helped our faculty and those in attendance to understand how to write and scale learning goals. Hopefully it is beneficial to you, too.

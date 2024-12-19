@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 meta: {}
-last_modified_at: 2024-12-18 22:18:34
+last_modified_at: 2024-12-19 00:26:59
 ---
 Have you made resolutions or tried to achieve something big, but just gave up?I have.It is frustrating.New Year’s isn’t for resolutions, it is for new beginnings. It is about creating a new life from what was this year.And it is something that can be learned.I changed a lot last year.I learned how to overcome my past failures, and made some pretty incredible strides in my own life.I’ve been successful at setting goals before, but never this successful.I’d love for you to have that opportunity as well. You 
 [can start with the LifeScore Assessment HERE](http://bestyearever.me/jjones/2019assessment)!Enter your email address and I'll send it to you as soon as it is available.

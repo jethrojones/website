@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 meta: {}
-last_modified_at: 2024-12-18 22:18:35
+last_modified_at: 2024-12-19 00:26:59
 ---
 
 # Why do all education-related photographs and designs have to be so ugly and useless? 
