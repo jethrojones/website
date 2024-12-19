@@ -78,4 +78,6 @@ I have been podcasting since 2008, in various forms. Since then, I have created 
 
 I now help other people who are mission driven to create their own podcasts and connect with the right people in the right way to build powerful communities where people take action. 
 
-If you want to talk about how a podcast can help you make a big impact, hit reply. 
+If you want to talk about how a podcast can help you make a big impact, please reach out. 
+
+View the [Presentation here](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view).
