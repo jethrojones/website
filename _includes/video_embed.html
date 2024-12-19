@@ -21,6 +21,7 @@
 </blockquote>
 <script async defer src="https://www.instagram.com/embed.js"></script>
 
+
 {% elsif video contains "x.com" %}
 {% assign tweet_id = video | split: '/status/' | last %}
 <iframe
@@ -45,3 +46,4 @@
 {% else %}
 <p><a href="{{ video }}" target="_blank">View the original</a></p>
 {% endif %}
+<p><a href="{{ video }}" target="_blank">View the original content</a></p>

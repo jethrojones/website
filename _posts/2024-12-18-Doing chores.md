@@ -1,8 +1,8 @@
 ---
-title: "When you give kindness it comes back to you"
-date: 2024-12-18T18:27:08.911Z
+title: "Doing chores"
+date: 2024-12-18T23:23:08.668Z
 categories: [inspiration]
-video_url: "https://www.instagram.com/reel/DAY74CrPgeQ/?igsh=QkFIY1A0UVFhQg%3D%3D"
+video_url: "https://www.instagram.com/reel/DBM3_1Qv0WB/?igsh=QkFHVGJFTlZFVQ%3D%3D"
 layout: post
 ---
 
