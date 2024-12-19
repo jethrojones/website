@@ -5,7 +5,7 @@ categories:
 tags: 
 status: publish
 published: true
-last_modified_at: 2024-12-19 00:26:59
+last_modified_at: 2024-12-19 01:00:53
 date: 2020-07-01
 ---
 # Is it mathematically possible to rotate 1550 students 5 days a week in school and maintain 6 feet social distancing?
