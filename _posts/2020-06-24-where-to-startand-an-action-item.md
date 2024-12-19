@@ -8,7 +8,7 @@ tags:
 status: publish
 type: post
 date: 2020-06-24
-last_modified_at: 2024-11-01 19:03:55
+last_modified_at: 2024-12-19 01:11:45
 ---
 
 [Last post](https://www.jethrojones.com/blog/how-many-teachers-do-i-need-to-hire-for-social-distancing) we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
