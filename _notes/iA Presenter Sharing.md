@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: /iashare
 description: Explore the simplicity and beauty of iA Presenter, a powerful tool for creating and sharing presentations effortlessly. Learn how it enables instant web sharing, responsive slides, and customizable speaker notes, all while maintaining a clean, minimalist design. Discover why I love its features, like auto-expiration and easy export options, and how it fits seamlessly into my plain-text approach to content creation. See my latest presentation.
 title: iA Presenter Now Allows Sharing on the Web
 image: /assets/iapresenter.png

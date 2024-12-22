@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/web presence.png
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 How should I get started with a web site today? 
