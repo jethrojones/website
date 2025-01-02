@@ -27,4 +27,13 @@ Second here are all the links to my AI Stuff on my site:
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [LebraHQ](https://lebrahq.com)
 - [[Ethan Mollick on Knowing When to Use AI]]
+- [Example of student handbook interrogation](https://app.schoolai.com/student-space?code=FRW9)
+
+## Solve Real Problems
+### Data
+- Interrogate data in a secured place.​
+- Research your student handbook: [Example](https://app.schoolai.com/student-space?code=FRW9)​
+- Brainstorming partner for a real problem: [Example](https://app.schoolai.com/student-space?code=VT0U)​
+- Partner for developing a specific project: [Example](https://app.schoolai.com/student-space?code=O7NB)
+### Communication
 - 
