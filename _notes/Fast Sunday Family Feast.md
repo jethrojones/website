@@ -53,3 +53,4 @@ Here's our Fast Sunday Family Feast Plans:
 - [[October - German Stuffed Paprika]]
 - [[November - Indian Butter Chicken]]
 - [[December - Brazilian Feijoada]]
+- [[Argentinian Food - January 2025]]
