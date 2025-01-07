@@ -134,6 +134,11 @@ allowfullscreen></iframe>
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a  class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study"  data-commerce>Join the Book Study</a>
 
+## Better with Buddies
+Get a group of principals from your district together for a bigger discount. 
+- 2-10 principals $147 each
+- 11+ principals $97 each
+
 ---
 
 **Contact Information**  
