@@ -14,12 +14,19 @@ date: 2024-11-04
 ---
 
 ![SchoolX](http://images.weserv.nl/?url={{ site.url }}/assets/schoolx.jpg&w=450&output=jpg&q=65)
-## We're still suffering from the effects of COVID
-**Our schools are struggling, constantly, despite your best efforts**
+## It's still a slog
+**Our schools are struggling, constantly, despite our best efforts**
 
 Are you a school leader frustrated with outdated systems and strategies that don’t fully serve your students or staff? 
 
 Are you searching for a transformative approach to make a meaningful impact?
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/HQiRNKYF4N4"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 No matter how hard you work, your school will always need more attention. 
 ## Every day, countless students and teachers miss out on their potential because the school environment isn’t meeting their needs. But it doesn’t have to be this way!
@@ -73,7 +80,7 @@ I want you to get a clear idea of what life can be like in the future if you sta
 
 ## What's Included
 
-- **Bi-Weekly Group Sessions:** Discuss and dive deep into each chapter of **SchoolX**.
+- **Every-three-week group sessions:** Discuss and dive deep into each chapter of **SchoolX**.
 - **Exclusive Resources:** Worksheets, frameworks, and tools to apply the concepts immediately.
 - **Community Access:** Connect with other school leaders sharing the same journey.
 - **Bonus Q&A with Jethro Jones:** Get direct insights from me, the author.
@@ -81,8 +88,16 @@ I want you to get a clear idea of what life can be like in the future if you sta
 - **Signed Copy** Delivered in December
 - **Live Groups Sessions** Starting in January
 
+## Course Outline and Meeting Dates
+All meetings take place via Zoom at 3 pm on the following dates: 
+- January 6
+- **Bonus Make Up Added** - January 13
+- January 27
+- February 10
+- March 3
+3 weeks between sessions allows you to practice and implement the things you are learning. 
 ### Investment:
-Just $197 for a 5-week immersive experience that will transform the way you lead your school.
+Just $197 for a 8-week immersive experience that will transform the way you lead your school.
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study" data-commerce>Join the Book Study</a>
@@ -95,17 +110,26 @@ Join the first session risk-free. If you’re not completely satisfied after att
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study" data-commerce>Join the Book Study</a>
 
 
-### Testimonials From Previous Book Studies Led by Jethro
+### Testimonials From Book Studies Led by Jethro
 
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/XycKWvF-umk"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 > “This is the best 5 hours I have spent in a long time! I feel less isolated; I feel affirmed in prior knowledge and in expansion of future capability.” – Anonymous participant, How To Be A Transformative Principal Book Study
 
-
+<iframe width="315" height="560" src="https://www.youtube.com/embed/D8rYPlZE0JA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > You killed it, man! Thanks a ton. I'm down in Kennewick, and knowing you're up in Spokane -- and recalling your offer from the first day -- I'd love to have the opportunity to catch up with you sometime. I'll drop my email in the next field. Thanks again -- I so very much appreciate it all! - Ken Holton, Principal, How to be a Transformative Principal Book Study
 
+<iframe width="315" height="560" src="https://www.youtube.com/embed/S8EJt0XXSAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > This has been the best PD I've received in 2yrs of my MA work & current internship...I'd pay for it again in a heartbeat! Jethro was real, transparent, encouraging & idea inspiring during each session & I'd love to find future podcasts, trainings, Zooms, anything that he leads!!! - Brandon Olson, Central Valley School District Intern
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/eKqdZnByFS0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a  class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study"  data-commerce>Join the Book Study</a>
