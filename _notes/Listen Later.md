@@ -1,16 +1,17 @@
 ---
 last_modified_at: 2025-01-07
-title: "Listen Later"
-source: "https://www.listenlater.net/?referrer=kyV9NmZBdeJV4wcL"
+title: Listen Later
+source: https://www.listenlater.net/?referrer=kyV9NmZBdeJV4wcL
 author:
-  - "Yalim Gerger"
-published:
+  - Yalim Gerger
+published: 
 date: 2025-01-07
-description:
+description: 
 tags:
-  - "clippings"
-image:
-category:
+  - clippings
+image: 
+category: 
+permalink: listenlater
 ---
 From 2006-2008 I was in a Masters program with a 40 minute commute each way to school, and a 40 minute commute to work. 
 
