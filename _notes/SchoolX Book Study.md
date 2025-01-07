@@ -91,7 +91,7 @@ I want you to get a clear idea of what life can be like in the future if you sta
 ## Course Outline and Meeting Dates
 All meetings take place via Zoom at 3 pm on the following dates: 
 - January 6
-- **Bonus Make Up Added** - January 13
+- **Bonus Make Up Added** - January 20
 - January 27
 - February 10
 - March 3
