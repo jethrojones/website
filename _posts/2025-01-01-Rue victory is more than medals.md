@@ -1,5 +1,5 @@
 ---
-title: "Rue victory is more than medals"
+title: "True victory is more than medals"
 date: 2025-01-01T20:14:19.827Z
 categories: [inspiration]
 video_url: "https://www.instagram.com/reel/DENs3KmNNFH/?igsh=MWF5aWszMXVhaWN6Yg=="

@@ -4,14 +4,13 @@ title: Listen Later
 source: https://www.listenlater.net/?referrer=kyV9NmZBdeJV4wcL
 author:
   - Yalim Gerger
-published: 
 date: 2025-01-07
 description: 
 tags:
   - clippings
 image: 
 category: 
-permalink: listenlater
+permalink: /listenlater
 ---
 I'm adding a new tool to my [[best ai tools]] list. 
 

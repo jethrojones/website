@@ -29,6 +29,17 @@ module Jekyll
       self.data['slug'] = slug
       self.data['posts'] = posts
       self.data['title'] = "Category: #{category.capitalize}"
+        # RSS feed
+      create_feed_page(site, base, display_name, slug, docs)
+  	end
+
+  	def create_feed_page(site, base, display_name, slug, docs)
+    feed = Page.new(site, base, "categories/#{slug}", "feed.xml")
+    feed.process("feed.xml")
+    feed.content = File.read(File.join(base, "_feed_category.xml"))
+    feed.data['category'] = display_name.downcase
+    site.pages << feed
+ 	end
     end
   end
 end

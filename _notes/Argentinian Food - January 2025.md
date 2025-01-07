@@ -30,10 +30,11 @@ Alfrajores, Dulce de Leche cookies are our dessert, and Cali prepped those last 
 Finally, we have some salsa, and we made a lot! So we will have this for the next few weeks! It is essentially Argentinian pico de gallo. 
 
 Here are our recipes: 
-[Provoleta](https://recipes.crouton.app/recipes/DA4F8052-1280-4967-BF42-A1DFE222CFB7?locale=en)
-[Mexican Rice](https://recipes.crouton.app/recipes/3EA131D7-ACDD-4EEC-817A-7A3673A8E230?locale=en)
-[Salsa Criolla](https://mediterraneanlatinloveaffair.com/wprm_print/argentinian-salsa-criolla)
-[Alfrajores - Dulce de Leche cookies](https://recipes.crouton.app/recipes/3665A91B-A79E-48C9-B1BD-63A0E4490070?locale=en)
+- [Provoleta](https://recipes.crouton.app/recipes/DA4F8052-1280-4967-BF42-A1DFE222CFB7?locale=en)
+- [Mexican Rice](https://recipes.crouton.app/recipes/3EA131D7-ACDD-4EEC-817A-7A3673A8E230?locale=en)
+- [Salsa Criolla](https://mediterraneanlatinloveaffair.com/wprm_print/argentinian-salsa-criolla)
+- [Alfrajores - Dulce de Leche cookies](https://recipes.crouton.app/recipes/3665A91B-A79E-48C9-B1BD-63A0E4490070?locale=en)
+
 For the meat, we just put some Adobo seasoning on it and grilled it at 250°F for a while, then cut it up into small slices. 
 
 And some pictures.
