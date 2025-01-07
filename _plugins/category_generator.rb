@@ -42,4 +42,3 @@ module Jekyll
  	end
     end
   end
-end
