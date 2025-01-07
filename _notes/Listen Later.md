@@ -13,6 +13,8 @@ image:
 category: 
 permalink: listenlater
 ---
+I'm adding a new tool to my [[best ai tools]] list. 
+
 From 2006-2008 I was in a Masters program with a 40 minute commute each way to school, and a 40 minute commute to work. 
 
 I had to read a lot. But I didn't have time since I was spending so much time in the car. 
