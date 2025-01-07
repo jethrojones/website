@@ -37,3 +37,12 @@ Here are our recipes:
 For the meat, we just put some Adobo seasoning on it and grilled it at 250°F for a while, then cut it up into small slices. 
 
 And some pictures.
+
+![fsffasadoandrice](http://images.weserv.nl/?url={{ site.url }}/assets/fsffasadoandrice.jpeg&w=450&output=jpg&q=65)
+
+![fsffargbread](http://images.weserv.nl/?url={{ site.url }}/assets/fsffargbread.jpeg&w=450&output=jpg&q=65)
+
+![provoleta](http://images.weserv.nl/?url={{ site.url }}/assets/fsffprovoletta.jpeg&w=450&output=jpg&q=65)
+
+![Aflrajores](http://images.weserv.nl/?url={{ site.url }}/assets/fsffalfrajores.jpeg&w=450&output=jpg&q=65)
+
