@@ -2,6 +2,7 @@
 last_modified_at: 
 layout: note
 title: Best AI Tools
+date: 2024-06-01
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 

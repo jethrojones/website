@@ -1,0 +1,25 @@
+---
+layout: none
+permalink: /categories/:category/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }} - {{ page.category }} Feed</title>
+    <link>{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | downcase | replace: " ", "-" }}/</link>
+    <description>RSS feed for the {{ page.category }} category from {{ site.title }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>en-us</language>
+
+    {% assign category_docs = site.categories[page.category] | sort: 'date' | reverse %}
+    {% for post in category_docs limit: 20 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <description>{{ post.excerpt | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
