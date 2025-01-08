@@ -25,9 +25,7 @@ Second here are all the links to my AI Stuff on my site:
 - [[AI MOC|Everything AI]]
 - [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
-- [LebraHQ](https://lebrahq.com)
 - [[Ethan Mollick on Knowing When to Use AI]]
-- [Example of student handbook interrogation](https://app.schoolai.com/student-space?code=FRW9)
 
 ## Prompts
 - [[ChatGPT Prompts for Educators]]
@@ -63,3 +61,8 @@ Second here are all the links to my AI Stuff on my site:
 - Research your student handbook: [Example](https://app.schoolai.com/student-space?code=FRW9)​
 - Brainstorming partner for a real problem: [Example](https://app.schoolai.com/student-space?code=VT0U)​
 - Partner for developing a specific project: [Example](https://app.schoolai.com/student-space?code=O7NB)
+
+### Communication
+- [US News and World Report Best Elementary School Announcement and addressing concerns](https://chatgpt.com/share/677dd24b-5178-800f-a0d9-8e470d74b6f6)
+- Culture Building with [LebraHQ](https://lebrahq.com)
+- [Example of student handbook interrogation](https://app.schoolai.com/student-space?code=FRW9)
