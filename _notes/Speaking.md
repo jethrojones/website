@@ -41,7 +41,7 @@ Sharing what I learn is very important to me. Here you will find links and resou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz_zKCgCLnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 2025
-January 8: AI For Leadership Teams with OSPI
+January 8: AI For Leadership Teams with [[OSPI Graduation Equity Webinar]]
 
 February 14: Buckeye Union High School District Day of Learning
 
