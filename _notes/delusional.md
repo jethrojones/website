@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-01-08 23:37:15
 permalink: 
 description: "Jim Carey once said that he hoped everyone could \"...get rich and famous and do everything they dreamed of so they can see that it is not the answer\". And while I sorta agree, I think the opposite position also has its appeal: That believing in a material fix to the problem of existence dangles a carrot of hope that's depressing to go ..."
 title: Delusional dreams of excess freedom
