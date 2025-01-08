@@ -14,7 +14,7 @@ tags:
 layout: note
 date: 2024-01-22
 ---
-This year, we are starting a new tradition. 
+Last year, we started a new tradition. 
 
 We're calling it Fast Sunday Family Feast. 
 
@@ -41,6 +41,20 @@ And while food has certainly been a problem for me, as far as weight gain goes, 
 Doing this Fast Sunday Family Feast, I hope, will bring us closer to each other, help us learn about other cultures, and make our fast more meaningful as well. 
 
 Here's our Fast Sunday Family Feast Plans: 
+## 2025
+- [[Argentinian Food - January 2025]]
+- February - Tailgate
+- March - Irish
+- April - Korean
+- May - Dominican Republic
+- June - American - Picnic Dishes
+- July - Afghanistan food (Ashura)
+- August - Canadian
+- September - Ugandan
+- October - Australian/New Zealander
+- November - South African
+- December - Sweden
+## 2024
 - [[January - Mexican Molcajete]]
 - [[February - Russian Borscht and Pelmeni]]
 - [[March - Japanese - gyoza and pancakes]]
@@ -53,4 +67,4 @@ Here's our Fast Sunday Family Feast Plans:
 - [[October - German Stuffed Paprika]]
 - [[November - Indian Butter Chicken]]
 - [[December - Brazilian Feijoada]]
-- [[Argentinian Food - January 2025]]
+
