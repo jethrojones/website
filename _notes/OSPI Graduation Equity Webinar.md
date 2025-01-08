@@ -19,14 +19,6 @@ Hey! Thanks for coming to my session.
 
 First, here's [the link for the Google Form](https://forms.gle/bE48c91c1c1bjNMg6) I asked folks to fill out. 
 
-Second here are all the links to my AI Stuff on my site: 
-
-- [[best ai tools|Best AI Tools]]
-- [[AI MOC|Everything AI]]
-- [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
-- [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
-- [[Ethan Mollick on Knowing When to Use AI]]
-
 ## Prompts
 - [[ChatGPT Prompts for Educators]]
 	- 🎓 [[Advanced Teacher's Prompts (54)]]
@@ -66,3 +58,11 @@ Second here are all the links to my AI Stuff on my site:
 - [US News and World Report Best Elementary School Announcement and addressing concerns](https://chatgpt.com/share/677dd24b-5178-800f-a0d9-8e470d74b6f6)
 - Culture Building with [LebraHQ](https://lebrahq.com)
 - [Example of student handbook interrogation](https://app.schoolai.com/student-space?code=FRW9)
+
+Finally, here are all the links to my AI Stuff on my site: 
+
+- [[best ai tools|Best AI Tools]]
+- [[AI MOC|Everything AI]]
+- [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
+- [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
+- [[Ethan Mollick on Knowing When to Use AI]]
