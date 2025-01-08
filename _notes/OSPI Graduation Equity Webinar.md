@@ -19,6 +19,7 @@ Hey! Thanks for coming to my session.
 
 First, here's [the link for the Google Form](https://forms.gle/bE48c91c1c1bjNMg6) I asked folks to fill out. 
 
+
 ## Prompts
 - [[ChatGPT Prompts for Educators]]
 	- 🎓 [[Advanced Teacher's Prompts (54)]]
@@ -67,3 +68,4 @@ Finally, here are all the links to my AI Stuff on my site:
 - [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [[Ethan Mollick on Knowing When to Use AI]]
+- And here's [the link to the slides](https://jethro.site/assets/2025-01-08-ospislides.pdf).
