@@ -1,7 +1,23 @@
 ---
-layout: post
+last_modified_at: 
+permalink: 
+description: 
+title: 
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: events
+tags: 
+date: 2023-06-24
+layout: note
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # AI Presentations
+
+
 
 I do a variety of presentations about AI. You can see information about those below. 
 
@@ -16,6 +32,11 @@ If you would like to have me speak at your event, please [get in touch](mailto:j
 Here are just some of the topics that I've presented on: 
 * TOC 
 {:toc}
+
+## [[VAESP]] Lunch and Learn
+## [[alasbo]] Alaska School Business Official Conference
+
+## Alaska Municipal League [[akml]]
 ## How AI in Employee Evaluations Can Enhance Human Flourishing
 
 AI can transform employee evaluations to not only improve performance but also foster personal and professional growth, contributing to human flourishing:
