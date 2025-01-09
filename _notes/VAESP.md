@@ -3,7 +3,7 @@ last_modified_at: 2025-01-09 16:49:48
 permalink: vaesp
 description: 
 title: VAESP
-image: vaesp-logo.jpg
+image: /assets/vaesp-logo.jpg
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
@@ -13,7 +13,7 @@ date: 2025-01-08
 layout:
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-
+![VAESP logo](http://images.weserv.nl/?url={{ site.url }}/assets/vaesp-logo.jpg&w=450&output=jpg&q=65)
 # VAESP Lunch and Learn 2025-01-09
 ## Solve Real Problems
 ### Data
@@ -25,7 +25,7 @@ layout:
 ### Communication
 - [US News and World Report Best Elementary School Announcement and addressing concerns](https://chatgpt.com/share/677dd24b-5178-800f-a0d9-8e470d74b6f6)
 - Culture Building with [LebraHQ](https://lebrahq.com)
-- [Example of student handbook interrogation](https://app.schoolai.com/student-space?code=FRW9)
+- [Alanton Example with ChatGPT](https://chatgpt.com/share/67800b0a-7d78-800f-b346-92e8deaf7e8e)
 
 Finally, here are all the links to my AI Stuff on my site: 
 
@@ -35,6 +35,7 @@ Finally, here are all the links to my AI Stuff on my site:
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [[Ethan Mollick on Knowing When to Use AI]]
 - And here [are the slides](https://sharing.ia.net/presenter/8622d85da5e14092a9ad2e57964418f2/view#/)
+- Also, as I mentioned online, Nichole's AI companion was there, and these are [[Read AI summary from the VAESP Lunch and Learn]], and here's the [external link](https://app.read.ai/analytics/meetings/01JH600H41HR7EW9N5YSF472EY) to ReadAI's whole interface (which requires a signup to even see it.)
 
 ## Join the [[SchoolX Book Study]]
 
