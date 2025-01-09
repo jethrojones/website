@@ -1,8 +1,8 @@
 ---
-title: "What being a division 1 athlete looks like"
-date: 2025-01-08T21:16:45.343Z
+title: "Not disability is a bad attitude"
+date: 2025-01-09T03:34:57.060Z
 categories: [inspiration]
-video_url: "https://www.instagram.com/reel/DCplIrKutv_/?igsh=ZHRqMGxwaHc5ZHY4"
+video_url: "https://www.instagram.com/reel/DEIOqUwS7xm/?igsh=ZmJsZ2MydXp0dng5"
 layout: post
 ---
 

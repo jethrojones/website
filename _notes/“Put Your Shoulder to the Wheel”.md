@@ -16,6 +16,6 @@ category:
 
 {% if page.source and page.author %}
   <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
-{% endif %}, April, 1998
+{% endif %}April, 1998
 
 See also [[Delusional dreams of excess freedom]]

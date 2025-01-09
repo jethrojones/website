@@ -11,7 +11,7 @@ category:
 tags: 
 
 layout: post
-category: "Clippings"
+category: hey
 author: 
 title: "Plus one: How to know when to give up on someone"
 source: https://world.hey.com/jethro/plus-one-how-to-know-when-to-give-up-on-someone-a192062a

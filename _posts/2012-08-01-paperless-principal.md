@@ -1,14 +1,14 @@
 ---
+last_modified_at: 2024-11-07 23:44:12
 layout: post
 title: Paperless Principal
-categories: []
-tags: []
+categories: 
+tags: 
 status: publish
 type: post
 published: true
-meta: {}
-last_modified_at: 2024-11-07 23:44:12
----Principals are busy. They are being pulled in every direction imaginable and they can use all the help they can get. They also deal with immense amounts of information and they need a systematic way of dealing with all that information. I want to be able to help principals utilize technology to enhance their lives so that they can be more productive, efficient, and focus on what really matters, putting kids first. 
+---
+Principals are busy. They are being pulled in every direction imaginable and they can use all the help they can get. They also deal with immense amounts of information and they need a systematic way of dealing with all that information. I want to be able to help principals utilize technology to enhance their lives so that they can be more productive, efficient, and focus on what really matters, putting kids first. 
 
 The thing I love most about being in education is seeing kids "get it." It doesn't happen every day, and it isn't always a deep intellectual concept, but every time I see that light bulb go off in their eyes, I know that all my efforts are worth it. 
 
@@ -20,4 +20,6 @@ I knew there had to be a better way, so I started toying with the idea of being 
 ​After realizing what an immense task it was to get started all on my own, I decided the best thing I could do is use that experience to help other principals deal with the onslaught of paper. 
 
 ​I think you will like this book. 
+
 [Preorder](http://paperlessprincipal.com/preorder) it. Starting today!
+[[books]]

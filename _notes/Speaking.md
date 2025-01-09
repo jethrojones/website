@@ -43,6 +43,8 @@ Sharing what I learn is very important to me. Here you will find links and resou
 # 2025
 January 8: AI For Leadership Teams with [[OSPI Graduation Equity Webinar]]
 
+January 9: [[VAESP]] Lunch and Learn on AI
+
 February 14: Buckeye Union High School District Day of Learning
 
 June 23: Virginia Association of Elementary School Principals

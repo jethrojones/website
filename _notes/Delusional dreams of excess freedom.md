@@ -12,7 +12,7 @@ tags:
 image: 
 category:
 ---
-> Jim Carey [once said](https://www.goodreads.com/quotes/1151805-i-think-everybody-should-get-rich-and-famous-and-do) that he hoped everyone could "...get rich and famous and do everything they dreamed of so they can see that it is not the answer". And while I sorta agree, I think the opposite position also has its appeal: That believing in a material fix to the problem of existence dangles a carrot of hope that's depressing to go without.
+> Jim Carrey [once said](https://www.goodreads.com/quotes/1151805-i-think-everybody-should-get-rich-and-famous-and-do) that he hoped everyone could "...get rich and famous and do everything they dreamed of so they can see that it is not the answer". And while I sorta agree, I think the opposite position also has its appeal: That believing in a material fix to the problem of existence dangles a carrot of hope that's depressing to go without.
 
 {% if page.source and page.author %}
   <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
