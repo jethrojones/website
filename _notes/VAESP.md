@@ -13,7 +13,6 @@ date: 2025-01-08
 layout:
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-![VAESP logo](http://images.weserv.nl/?url={{ site.url }}/assets/vaesp-logo.jpg&w=450&output=jpg&q=65)
 # VAESP Lunch and Learn 2025-01-09
 ## Solve Real Problems
 ### Data

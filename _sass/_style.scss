@@ -130,12 +130,74 @@ nav {
   border-radius: $border-radius;
 }
 
-code {
-  background: #f5f5f5;
-  padding: 0.1em 0.2em;
-  border-radius: 4px;
+
+
+pre {
+  background: #f8f8f8; // Consistent light background for the entire block
+  color: #282726; // Primary text color (dark for contrast)
+  padding: 1em;
+  border-radius: $border-radius;
+  overflow-x: auto;
+  font-family: "Fira Code", "Courier New", monospace;
+  border: 1px solid #DAD8CE; // Light border
 }
 
+pre code {
+  background: none; // Ensure no different background within the <code> element
+  color: inherit; // Inherit color from <pre> to avoid overriding
+}
+
+code {
+  background: #f2f0e5; // Inline code block background
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  color: #9D4310; // Muted orange for inline code text
+}
+
+// Syntax highlighting
+.token.comment {
+  color: #6F6E69; // Faint gray for comments (Base 600)
+  font-style: italic;
+}
+
+.token.punctuation,
+.token.operator {
+  color: #878580; // Muted text (Base 500)
+}
+
+.token.keyword {
+  color: #A0AF54; // Green for keywords (Green 300)
+}
+
+.token.string {
+  color: #5ABDAC; // Cyan for strings (Cyan 300)
+}
+
+.token.function {
+  color: #DA702C; // Orange for functions (Orange 400)
+}
+
+.token.constant {
+  color: #ECCB60; // Yellow for constants (Yellow 200)
+}
+
+.token.variable,
+.token.attribute {
+  color: #4385BE; // Blue for variables/attributes (Blue 400)
+}
+
+.token.number {
+  color: #735EB5; // Purple for numbers (Purple 500)
+}
+
+.token.language-feature {
+  color: #CE5D97; // Magenta for language features (Magenta 400)
+}
+
+.token.error {
+  color: #C03E35; // Red for errors (Red 500)
+  background: rgba(192, 62, 53, 0.1);
+}
 .invalid-link {
   color: #444444;
   cursor: help;
