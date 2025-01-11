@@ -28,7 +28,7 @@ If, however, the goal is to actually learn something, our assignments must spark
 
 Everyone knows that learning can be hard and requires thinking and processing. 
 
-This will focus solely on the writing aspect from a student perspective. I’ll include something else later about teaching in an age of AI. 
+This will focus solely on the writing aspect from a student perspective. I’ll include something else later about teaching in an age of [[AI MOC|AI]]. 
 
 ## Have Integrity
 Writing can take as much time as you will give it. ~~Mark Twain~~ ~~John Locke~~ [Blaise Pascal](https://quoteinvestigator.com/2012/04/28/shorter-letter/) is alleged to have concluded a long letter with this phrase: 
