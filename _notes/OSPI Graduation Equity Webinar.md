@@ -69,3 +69,7 @@ Finally, here are all the links to my AI Stuff on my site:
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [[Ethan Mollick on Knowing When to Use AI]]
 - And here's [the link to the slides](https://jethro.site/assets/2025-01-08-ospislides.pdf).
+
+## Recording
+Starting at my part:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uG6a1pDLVY8?si=jblkVIB5GT1fJtFQ&amp;start=1486" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
