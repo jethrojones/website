@@ -1,6 +1,6 @@
 ---
 last_modified_at: 2025-01-09
-title: Add Fathom Analytics to your Obsidian Publish site – Micah Walter
+title: Add Fathom Analytics to your Obsidian Publish site
 source: https://www.micahwalter.com/2024/01/add-fathom-analytics-to-your-obsidian-publish-site/
 author:
   - Micah Walter
