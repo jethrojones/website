@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Podcast Appearances
-categories: []
-tags: []
+categories: 
+tags: 
 status: publish
-type: page
+type: note
 published: true
-meta: {}
 last_modified_at: 2024-12-19 00:26:59
 ---
 
-#Podcast Appearances by Me
+# Podcast Appearances by Me
 
 
 Most recent on top.
