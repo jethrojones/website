@@ -1,7 +1,7 @@
 ---
 last_modified_at: 
-permalink: 
-description: 
+permalink: transcripts
+description: A quick guide on how to use descript to get transcripts into Apple Podcasts.
 title: Knowing how to use Transcripts in Podcasts in 2025
 image: 
 published: "true"
