@@ -19,6 +19,7 @@ Each month, I host a Big Impact Mixer for people who are trying to make a big im
 
 You can sign up to be part of it [here](https://bigimpactmixer.com). 
 
+- [[BIM January 25 - Breakout Problem Solving]]
 - [[BIM December - Miracles]]
 - [[Big Impact Mixer - November]]
 - [[BIM - Vision, Category Design, 10 Year Plan]] October
