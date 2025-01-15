@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-01-15 20:26:36
 permalink: transcripts
 description: A quick guide on how to use descript to get transcripts into Apple Podcasts.
 title: Knowing how to use Transcripts in Podcasts in 2025
