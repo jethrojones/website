@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: bim
 description: 
 title: 
 image: 
@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2001-01-01
+date: 2024-08-01
 layout:
 ---
 
