@@ -67,3 +67,30 @@ Since then, I have created the longest running, most downloaded school leadershi
 I now help other people who are mission driven to create their own podcasts and connect with the right people in the right way to build powerful communities where people take action. 
 
 If you want to talk about how a podcast can help you make a big impact, please connect.
+
+## Update January 16, 2025
+
+We had a really amazing Big Impact Mixer today.
+
+We did micro-problem-solving where people engaged with a partner to help them figure out a solution to a problem
+
+After that, we debriefed.
+
+There were great insights, and ideas shared, but here's the kicker.
+
+Aaron said he got help understanding vertical and horizontal markets.
+
+His partner said, "I never said those words".
+
+You know how sometimes you hear exactly what you need to hear, even if the person doesn't know what they're really saying?
+
+That's exactly what this was.
+
+Awesome. Awesome. Awesome.
+
+So glad these little moments can happen.
+
+I hope you can join us for next month’s [[Big Impact Mixer]].
+
+And, invite your friends!
+

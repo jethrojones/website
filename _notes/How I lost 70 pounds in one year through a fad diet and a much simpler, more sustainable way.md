@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: loseweight
 description: 
 title: 
 image: 
@@ -8,7 +8,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-layout: 
+layout: note
 date: 2024-04-10
 ---
 
@@ -19,3 +19,4 @@ date: 2024-04-10
 
 
 
+More about Body stuff in [[Magic Mind]]
