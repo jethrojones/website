@@ -16,7 +16,7 @@ layout: note
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-Magic Mind reached out to me about a sponsorship for my podcast. 
+Magic Mind reached out to me about a sponsorship for my [[5 Best RTI Episodes on Transformative Principal|podcast]]. 
 
 And, since one of my goals this year is to experiment and document, I’m going to keep a log of how it works and how I feel while taking it. 
 

@@ -2,7 +2,7 @@
 last_modified_at: 
 permalink: bimjan25
 description: 
-title: 
+title: BIM January 25 - Breakout Problem Solving
 image: /assets/bimjan25.png
 published: "true"
 sitemap: "true"
@@ -56,6 +56,8 @@ Come with a problem you want to solve or an idea you have.
 You must be able to explain it in less than 60 seconds or you won't have time to get any feedback! 
 
 If you want to join, shoot me an email or join my mailing list at [Big Impact Mixer](https://bigimpactmixer.com)
+
+[Here's a link to the slides](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view#/), which will expire 11 months after the last update.
 #### Who is this Jethro guy and why is he hosting this event? 
 
 I have been podcasting since 2008, in various forms. 

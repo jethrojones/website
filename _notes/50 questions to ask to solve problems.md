@@ -14,7 +14,7 @@ date: 2025-01-15
 layout: note
 ---
 
-
+We used these questions in [[BIM January 25 - Breakout Problem Solving]]. 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 1. **What outcome are you hoping to achieve?**
