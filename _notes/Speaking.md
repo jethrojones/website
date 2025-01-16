@@ -45,6 +45,8 @@ January 8: AI For Leadership Teams with [[OSPI Graduation Equity Webinar]]
 
 January 9: [[VAESP]] Lunch and Learn on AI
 
+January 22: Basecamp Beyond Business Webinar. [Register here](https://www.crowdcast.io/c/s4xt6xh33v4e)
+
 February 14: Buckeye Union High School District Day of Learning
 
 June 23: Virginia Association of Elementary School Principals

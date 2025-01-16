@@ -38,7 +38,7 @@ If you show up, you'll get support and you'll be able to give support.
 
 We will take a few minutes before each breakout to make sure we line people up effectively. You'll put your concerns in the chat, arrange who you're going to meet with, and then go into those breakout rooms. 
 
-You don't have to be an expert to be successful here. 
+You don't have to be an expert to be successful here. You can ask these questions: [[50 questions to ask to solve problems]].
 
 People don't need expertise, they need a new set of eyes! 
 
@@ -56,7 +56,6 @@ Come with a problem you want to solve or an idea you have.
 You must be able to explain it in less than 60 seconds or you won't have time to get any feedback! 
 
 If you want to join, shoot me an email or join my mailing list at [Big Impact Mixer](https://bigimpactmixer.com)
-
 #### Who is this Jethro guy and why is he hosting this event? 
 
 I have been podcasting since 2008, in various forms. 
