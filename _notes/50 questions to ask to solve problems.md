@@ -1,14 +1,15 @@
 ---
 last_modified_at: 
-permalink: 
-description: 
+permalink: 50q
+description: These 50 questions are guaranteed to help you get to the bottom of your problem and figure out a solution
 title: 50 Questions to Ask to Solve Problems
 image: 
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
-tags: 
+tags:
+  - design
 date: 2025-01-15
 layout: note
 ---
