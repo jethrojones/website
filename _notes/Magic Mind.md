@@ -34,5 +34,17 @@ Today, I had a harder time getting things done, but felt like I had energy all d
 
 Blood pressure was 131/101.
 
-# Day 3
+## Day 3
 Woke up with a slight headache today. I did have weird dreams again. I’m noting my sleeping and waking because they also sent me some sleep supplements, so I’m going to take those in about 10 days and see how hey work when I use magic mind and when I don’t. 
+
+Felt like I wanted to be productive today, and I was. Sometimes I get kind of lost in the day, but today felt like I had a bunch that I wanted to complete and I did that. 
+
+I also had the [[Big Impact Mixer]] today, and it went well. I felt focused and on top of things. 
+
+## Day 4
+Most days, when my wife’s alarm goes off at 5 am, I’m up and ready to go, and sometimes I even wake before her alarm goes off. Getting out of bed has not been difficult for me for quite some time, but it has the last couple days. I’ve been getting out of bed at 5:30, which isn’t too bad, I’m sure, but it delays the rest of my [[morning routine]], and then everything feels off. 
+
+Today, I again had a slight headache, but the headaches have gone away within a couple hours, and they aren’t bad. 
+
+One thing that is nice is having energy, but not being jittery or anxious with that energy. 
+
