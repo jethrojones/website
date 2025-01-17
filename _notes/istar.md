@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-01-17 22:15:25
 permalink: istar
 description: 
 title: "Project iSTAR: An Integrated Strategic, Technology-based Adaptive wRiting Program"
