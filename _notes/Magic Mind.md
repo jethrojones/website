@@ -48,3 +48,12 @@ Today, I again had a slight headache, but the headaches have gone away within a 
 
 One thing that is nice is having energy, but not being jittery or anxious with that energy. 
 
+## Day 5
+Today was a little difficult because it was a Saturday, and I didn’t really need the energy. I probably won’t take it tomorrow. 
+
+But no headache today. So, that’s positive. 
+## Day 6
+Day off today. 
+
+## Day 7
+Day off today for MLK, Jr. Day, so hanging with the kids. 

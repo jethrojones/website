@@ -1,9 +1,23 @@
 ---
-layout: post
+last_modified_at: 
+permalink: bimsepfollowup
+description: 
+title: "[Big Impact Mixer] - Experiments Followup"
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: BIM
+tags: 
+date: 2024-09-19
+layout: note
 ---
+
+
+
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-We had a great time at the Big Impact Mixer yesterday. You can join us, you know. Just go [here](https://bigimpactmixer.com). 
+We had a great time at the [[Big Impact Mixer]] yesterday. You can join us, you know. Just go [here](https://bigimpactmixer.com). 
 
 [Brian Pulliam](https://www.linkedin.com/in/briankpulliam/) was our main event and he shared his story of going from making a salary of over 600K as a software engineer lead to working 3-4 hours per day, and that is it! He shared a little bit about why he took this transition, and how rewarding it has been. 
 <!--more-->

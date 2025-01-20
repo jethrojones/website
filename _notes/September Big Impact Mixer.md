@@ -16,7 +16,7 @@ It's time! Our next Big Impact Mixer will be on Thursday at 10 am Pacific.
 
 We're going to have two interesting presentations Thursday!
 
-**First**, get there on time, because Brian is going to tell us all **why he took an 84% pay cut** to do what he's doing now.
+**First**, get there on time, because Brian is going to tell us all **why he took an 84% pay cut** to do what he's doing now. [[It's all about the little experiments]]
 
 Can you even imagine taking an 84% pay cut at the height of your career?
 
