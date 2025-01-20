@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-01-20 20:54:53
 permalink: /assumptions
 description: 
 title: Assumptions that undergird my educational philosophy
