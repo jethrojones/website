@@ -27,6 +27,8 @@ Most importantly, we are all children of God, and because of that, have inherite
 
 [[Learning is a lifelong process]]. It's malpractice to think of it just as the years of K-12 schooling. 
 
+[Education](https://jethro.site/2023/09/25/education-is-the-responsibility-of-25a/)  is the responsibility of the family and the state steps in to support it. [[All parents want their kids to be successful]].
+
 [All learning is spiritual](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/).
 
 All learning is personal.
