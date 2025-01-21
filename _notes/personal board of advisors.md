@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 date: 2025-01-01
-layout:
+layout: note
 ---
 
 
@@ -29,3 +29,5 @@ Each person could react differently. But you have to be the one to make the fina
 This doesn't have to be an official position. One of my advisors doesn't even know I exist, but I run my ideas through his way of thinking and I have never even met him, but he is a public enough figure that I can know what he is thinking on most topics. He's someone I want to model my life after, and if I make a decision that he would make, I'm probably in a good spot. 
 
 I have other advisors that do know me and I talk with them regularly. Some are older than me, some are younger (like my kids), and some only focus on one specific area. 
+
+[[Students Need Human Relationships to Thrive. Why Bots May Stand in the Way]]

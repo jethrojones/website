@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 date: 2025-01-16
-layout:
+layout: note
 ---
 
 
