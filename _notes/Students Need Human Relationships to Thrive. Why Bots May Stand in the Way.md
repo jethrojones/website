@@ -42,7 +42,7 @@ This article quoted above makes some good suggestions, but it is still operating
 
 > **Involving students’ families and friends**:
 
-Fisher is adding this as an afterthought. This is not good enough. And it's also one of the other mistakes we make in education. We think that we need to get parents to partner with us, when it is really the other way around. We need to partner with parents. The students are the only ones who care about their life. 
+Freeland Fisher is adding this as an afterthought. This is not good enough. And it's also one of the other mistakes we make in education. We think that we need to get parents to partner with us, when it is really the other way around. We need to partner with parents. The students are the only ones who care about their life. 
 
 Sure, we as educators can care, and even go to great lengths to show we care, but ultimately, it is their life to live, not ours. [[Nobody cares about our life as much as we do]].
 

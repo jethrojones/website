@@ -16,7 +16,9 @@ layout: note
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-Magic Mind reached out to me about a sponsorship for my [[5 Best RTI Episodes on Transformative Principal|podcast]]. 
+[Magic Mind](https://www.magicmind.com/PRINCIPAL20) reached out to me about a sponsorship for my [[5 Best RTI Episodes on Transformative Principal|podcast]]. 
+
+If after reading this, you think you want to try Magic Mind, you can use the code PRINCIPAL20 for a sweet discount, and I'll [[Delusional dreams of excess freedom|instantly become rich and famous]].
 
 And, since one of my goals this year is to experiment and document, I’m going to keep a log of how it works and how I feel while taking it. 
 
@@ -57,3 +59,16 @@ Day off today.
 
 ## Day 7
 Day off today for MLK, Jr. Day, so hanging with the kids. 
+
+## Day 8
+Back on the grind with a podcast episode first think in the morning, and then I had occasion to write a ton today! Over a thousand words in an hour. These are the notes I updated/wrote today: 
+- [[Assumptions]]
+- [[personal board of advisors]]
+- [[experiments]]
+- [[Nobody cares about our life as much as we do]]
+- [[Students Need Human Relationships to Thrive. Why Bots May Stand in the Way]]
+- [[All parents want their kids to be successful]]
+
+What was so good about today was that I had a lot of thoughts that I've been procrastinating putting out there, but today I got it done. That's exciting. 
+
+## Day 9

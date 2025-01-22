@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: aipreso
 description: 
 title: 
 image: 
