@@ -8,11 +8,10 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-layout: page
+layout: note
 date: 2024-03-01
 ---
-# Presentations & Speaking
-
+Go here for [[Presentations on AI]].
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
 
 -   How to be a Transformative Principal

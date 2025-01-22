@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: aipreso
+permalink: aip
 description: 
 title: 
 image: 
@@ -14,10 +14,11 @@ layout: note
 ---
 
 
+
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # AI Presentations
 
-
+[[Speaking]]
 
 I do a variety of presentations about AI. You can see information about those below. 
 
