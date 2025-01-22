@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-01-21 18:57:43
+last_modified_at: 2025-01-22 02:07:32
 permalink: /assumptions
 description: 
 title: 
