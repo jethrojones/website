@@ -15,7 +15,7 @@ Go here for [[Presentations on AI]].
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
 
 -   How to be a Transformative Principal
-    -   With the leading podcast for educational administrators, Jethro Jones has interviewed over 300 leaders to find the keys to being transformative. This presentation includes insight from the greatest msteainds of our generation [seen here](http://transformativeprincipal.transistor.fm).
+    -   With the leading podcast for educational administrators, Jethro Jones has interviewed over 300 leaders to find the keys to being transformative. This presentation includes insight from the greatest minds of our generation [seen here](http://transformativeprincipal.transistor.fm).
 -   It's not Just Fixed vs. Growth
     -   Based on the work of Ryan Gottfredson's Success Mindsets. Understanding the four mindsets (fixed vs. growth, closed vs. open, prevention vs. promotion, inward vs. outward) is a key to transforming your school culture. Learn about interventions to create positive mindsets that can change your school's identity. 
 -   SchoolX - Creating a school experience to help every child succeed. 
