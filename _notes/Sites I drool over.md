@@ -45,7 +45,8 @@ Fast, clean site, that has a long history.
 ### [Simon Willison](https://simonwillison.net)
 This is written in a dailies style. He has multiple posts per day, and he writes a lot about coding. I don't have that skill, but maybe I'll develop it some day. 
 
-
+### [Buttondown](https://buttondown.com/refer/jethrojones)
+I love this as a super simple, clear SaaS site. And I wrote about [[A brand new demo site|my love]] for their demo site
 
 
 [[How this site is built]]

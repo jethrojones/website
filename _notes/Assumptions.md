@@ -23,6 +23,8 @@ Despite those things, most people will [[choose the easy path]].
 
 People are beautiful. 
 
+People learn more when they are in charge of their learning
+
 Most importantly, we are all children of God, and because of that, have inherited and been blessed with gifts, abilities, skills, and more. 
 
 [[Learning is a lifelong process]]. It's malpractice to think of it just as the years of K-12 schooling. 
