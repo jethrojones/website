@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-01-09 16:49:48
+last_modified_at: 2025-01-26 00:54:24
 permalink: 
 description: 
 title: All Learning Is Spiritual
