@@ -20,3 +20,4 @@ One of my goals this year is to do experiments.
 I heard somewhere that the only difference between a crazy person and a scientist is that a scientist documents their experiments. Or something like that. 
 
 My first one is trying [[Magic Mind]].
+
