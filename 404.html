@@ -9,3 +9,11 @@ id: "not-found"
   <h1>Oops, that's a 404. 🙈</h1>
   <p>Looks like this page doesn't exist. <a href="{{ site.baseurl }}/">Return home</a> to get a fresh start. Edited {{ page.last_modified_at | date: "%B %-d, %Y" }}</p>
 </div>
+
+<!-- Fathom - 404 Tracker -->
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname;
+  fathom.trackEvent('404: ' + path);
+});
+</script>
