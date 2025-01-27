@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-01-27 21:59:57
 permalink: spiritual-architecture
 description: Is architecture spiritual in and of itself, or is there something about architecture that makes it spiritual?
 title: Spiritual Architecture
