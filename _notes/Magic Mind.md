@@ -72,3 +72,8 @@ Back on the grind with a podcast episode first think in the morning, and then I 
 What was so good about today was that I had a lot of thoughts that I've been procrastinating putting out there, but today I got it done. That's exciting. 
 
 ## Day 9
+I took a couple days off of using Magic Mind to see how I did. So, Wednesday through Sunday I didn’t take any, and I took some today. 
+
+I felt like I had good energy today. I didn’t feel as snacky as I was feeling last week either, so there might be something to that. 
+
+## 
