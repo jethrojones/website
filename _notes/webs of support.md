@@ -30,7 +30,7 @@ Here's the gist:
 
 1. Get 5 Anchors for students
 2. Provide supports in connection with teachers, parents, outside anchors, and anyone else who cares about the child.
-3. 
+3. Do this again for each child who needs support
 
 # Students thrive when they have at least 5 positive adults mentoring them.
 
