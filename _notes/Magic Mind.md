@@ -76,4 +76,15 @@ I took a couple days off of using Magic Mind to see how I did. So, Wednesday thr
 
 I felt like I had good energy today. I didn’t feel as snacky as I was feeling last week either, so there might be something to that. 
 
-## 
+## Day 10
+Still feeling good with the energy. Not jittery. 
+
+## Day 11
+Good. 
+
+## Day 12
+Good
+
+## Day 13
+I forgot to drink magic mind this morning, so it was a little later. I'm curious to see how it impacts me after drinking it after lunch. 
+

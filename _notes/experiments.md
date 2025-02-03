@@ -21,3 +21,4 @@ I heard somewhere that the only difference between a crazy person and a scientis
 
 My first one is trying [[Magic Mind]].
 
+My second is [[high rep workouts]]
