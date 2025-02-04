@@ -10,23 +10,16 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 layout: post
-category: "Clippings"
+category: "podcast"
 author: 
 title: "Podcast to PhD"
 source: https://world.hey.com/jethro/podcast-to-phd-9821a4b0
-clipped: 2024-11-11
 date: 2021-03-18
+author: Jethro Jones
 ---
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
-
-Jethro Jones
-
-](https://world.hey.com/jethro)
-
-March 18, 2021
 
 Ten days ago, I mentioned this [as an aside](https://world.hey.com/jethro/8-straight-days-200-hours-of-leadership-10eb0a6c). 
 
@@ -47,3 +40,7 @@ Do you know anyone who would be open to having a discussion about this with me?�
 Wonder if this blog will ever get tags. 
 
 In the meantime #podcasttophd
+
+{% if page.source and page.author %}
+  <p>via <a href="{{ page.source }}">{{ page.author }}</a></p>
+{% endif %}

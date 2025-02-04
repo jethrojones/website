@@ -89,3 +89,6 @@ Good
 ## Day 13
 I forgot to drink magic mind this morning, so it was a little later. I'm curious to see how it impacts me after drinking it after lunch. 
 
+## Day 14
+Didn’t have any trouble sleeping last night. 
+
