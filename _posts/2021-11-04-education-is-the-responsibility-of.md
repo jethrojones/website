@@ -1,5 +1,5 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-02-04 03:58:29
 permalink: 
 description: 
 title: Education is the Responsibility of the Parents
