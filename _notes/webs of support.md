@@ -128,7 +128,7 @@ The reason why you can't start here is that it is too difficult when so many are
 
 Here's an image of our docs & Files in Basecamp: 
 
-![docs and files in basecamp](http://images.weserv.nl/?url={{ site.url }}/assets/cocaredocs.png&w=450&output=jpg&q=85)
+![docs and files in basecamp]({{ site.url }}/assets/cocaredocs.png)
 
 The agenda for this meeting consists of going through each student identified as needing support and reviewing, updating, or creating a plan for their success. 
 
