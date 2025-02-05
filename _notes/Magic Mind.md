@@ -92,3 +92,14 @@ I forgot to drink magic mind this morning, so it was a little later. I'm curious
 ## Day 14
 Didn’t have any trouble sleeping last night. 
 
+## Day 15
+Final day of my trial pack of Magic Mind. 
+
+Overall, I'd say this is good stuff. It promises sharper thinking and clean energy. 
+
+I don't know that it delivered on the sharper thinking, but it did deliver on clean energy. I felt like I had more energy while using Magic Mind, and I always feel smart! haha! 
+
+The best part was no heart palpitations from the energy boost, and no crashing. Those are super important to me. 
+
+[Try it for yourself](https://www.magicmind.com/PRINCIPAL20)
+
