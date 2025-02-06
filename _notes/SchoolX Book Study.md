@@ -30,12 +30,15 @@ allowfullscreen></iframe>
 
 No matter how hard you work, your school will always need more attention. 
 
-> Every day, countless students and teachers miss out on their potential because the school environment isn’t meeting their needs. But it doesn’t have to be this way!
+Every day, countless students and teachers **miss out on their potential** because the **school environment isn’t meeting their needs**. But it doesn’t have to be this way!
 
 If we keep doing the **same thing we've been doing**, we're going to have more:
 - Disengaged students
 - Regular teacher absences
-- Unfilled sub positions that are always a fire to put out!
+- Unfilled sub positions requiring extensive attention
+- Untold number of fires to put out!
+
+**Stop putting out fires. Start Leading!**
 ### The SchoolX Book Study is designed to help you create an actionable, transformative experience in your school. 
 
 Together, we’ll unpack proven strategies from SchoolX to design a school that meets the unique needs of every student and educator.
@@ -92,15 +95,25 @@ I want you to get a clear idea of what life can be like in the future if you sta
 This is an asynchronous, go at your own pace book study, *with support!*
 
 **Session 1:** 
-Implement the Design Thinking Process
-Implement a mission, vision, values and purpose that you can actually remember! 
+- Implement the Design Thinking Process
+- Implement a mission, vision, values and purpose that you can actually remember! 
 
 **Session 2:**
-Improve your life as a leader, first. 
-Understand saboteurs and how to overcome them in just 10 seconds
-Free 1:1 live saboteur discovery session with Jethro
+- Improve your life as a leader, first. 
+- Understand saboteurs and how to overcome them in just 10 seconds
+- Free 1:1 live saboteur discovery session with Jethro
 
-This is different than anything else out there. You'll do work, make small steps, and I'll help you 
+**Session 3:**
+- Improve life for your teachers
+- Streamline your communication with them 
+- Make your observations impactful to the vision of your school
+
+**Session 4**
+- The best way to support your students and families
+- Inviting the community to help your school
+- Making your school the center of the community
+
+This is different than anything else out there. You'll do work, make small steps, and I'll help you make your school perfect for **your people**!
 # Investment:
 Just $197 for this 4-session immersive experience that will transform the way you lead your school.
 
