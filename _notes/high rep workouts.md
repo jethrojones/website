@@ -47,4 +47,4 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Left arm bent over row      |    25    |      0:49       |                                                                        |
 |            | Cable pull down             |    55    |      2:09       |                                                                        |
 |            | Back fly                    |    30    |      1:19       |                                                                        |
-|            | Dumbbell shrug              |   100    |                 |                                                                        |
+|            | Dumbbell shrug              |   100    |      1:00       |                                                                        |

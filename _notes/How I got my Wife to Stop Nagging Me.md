@@ -1,8 +1,20 @@
 ---
-layout: post
-
+last_modified_at: 
+permalink: nagging
+description: 
+title: 
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2024-05-19
+layout: note
 ---
-For the last 9 months, I've been writing a handwritten love note to my wife every day. 
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}For the last 9 months, I've been writing a handwritten love note to my wife every day. 
 
 ![notes]({{ site.url }}/assets/notes.jpeg)
 

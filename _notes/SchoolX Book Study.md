@@ -29,8 +29,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 
 No matter how hard you work, your school will always need more attention. 
-## Every day, countless students and teachers miss out on their potential because the school environment isn’t meeting their needs. But it doesn’t have to be this way!
-If we keep doing the same thing we've been doing, we're going to have more
+> Every day, countless students and teachers miss out on their potential because the school environment isn’t meeting their needs. But it doesn’t have to be this way!
+
+If we keep doing the same thing we've been doing, we're going to have more:
 - Disengaged students
 - Regular teacher absences
 - You'll be constantly filling in for sub positions that don't get filled. 
