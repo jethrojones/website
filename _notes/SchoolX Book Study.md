@@ -14,8 +14,8 @@ date: 2024-11-04
 ---
 
 ![SchoolX](http://images.weserv.nl/?url={{ site.url }}/assets/schoolx.jpg&w=450&output=jpg&q=65)
-## It's still a slog
-**Our schools are struggling, constantly, despite our best efforts**
+## It's Still A Slog
+**Our schools are struggling, constantly, despite our best efforts**.
 
 Are you a school leader frustrated with outdated systems and strategies that don’t fully serve your students or staff? 
 
@@ -29,18 +29,18 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 
 No matter how hard you work, your school will always need more attention. 
+
 > Every day, countless students and teachers miss out on their potential because the school environment isn’t meeting their needs. But it doesn’t have to be this way!
 
-If we keep doing the same thing we've been doing, we're going to have more:
+If we keep doing the **same thing we've been doing**, we're going to have more:
 - Disengaged students
 - Regular teacher absences
-- You'll be constantly filling in for sub positions that don't get filled. 
+- Unfilled sub positions that are always a fire to put out!
 ### The SchoolX Book Study is designed to help you create an actionable, transformative experience in your school. 
 
-Together, we’ll unpack proven strategies from SchoolX book to design a school that meets the unique needs of every student and educator.
+Together, we’ll unpack proven strategies from SchoolX to design a school that meets the unique needs of every student and educator.
 
-## Here's what you'll get:
-This isn't your superintendent's book study. 
+## This isn't your superintendent's book study. 
 
 We're going to dive into the book with an action plan. 
 
@@ -49,24 +49,24 @@ You'll learn how to use the Design Thinking in your daily work as a principal:
 ![Design Thinking](http://images.weserv.nl/?url={{ site.url }}/assets/sxbs-design.png&w=450&output=jpg&q=65)
 
 
-You'll learn how to resign your school for yourself, and prioritize your most important actions. 
+You'll learn how to redesign your school for yourself, and prioritize your most important actions. 
 ![Eisenhower matrix](http://images.weserv.nl/?url={{ site.url }}/assets/sxbs-matrix.png&w=450&output=jpg&q=65)
 
 
-You'll learn how to support your teachers without your saboteurs getting in the way of their success. 
+You'll learn how to support your teachers without your saboteurs getting in the way of success. 
 ![Pq leadership](http://images.weserv.nl/?url={{ site.url }}/assets/pq-leadership.png&w=450&output=jpg&q=65)
 
 You'll learn how to support your students to be "enrolled" in school, not just engaged in the technology sitting in front of them.
 
 Of course, we'll be talking about AI, too, but we're not talking about technology for technology's sake! We'll focus on creating an AI tool to help you speak in your own voice, to save you a ton of time as a leader. 
 
-We are going to focus on the intersection of AI and Leadership, with a focus on leadership, and using AI as a tool to help us reach that level.
+We are going to explore the intersection of AI and leadership, focusing on leadership while leveraging AI as a tool to help us reach that level.
 
 And you'll learn how to  *partner* with parents, so instead of worrying about which group is going to get upset next, you have an established and clear focus for committees, communities, and fundraising efforts. 
 
-And here's the thing, it doesn't matter what kind of school you have, this book study will help you transform your school to meet the needs of the people that are actually there in front of you!
+And here's the thing, it doesn't matter what kind of school you have, this book study will help you transform your school to meet the needs of the people who are actually there in front of you!
 
-I want you to get a clear idea of what life can be like in the future if you start intentionally planning your 
+I want you to get a clear idea of what life can be like in the future if you start intentionally planning your days, weeks, and months.
 
 | Go From...                    |     |                                                            ...To |
 | :---------------------------- | --- | ---------------------------------------------------------------: |
@@ -81,37 +81,46 @@ I want you to get a clear idea of what life can be like in the future if you sta
 
 ## What's Included
 
-- **Every-three-week group sessions:** Discuss and dive deep into each chapter of **SchoolX**.
+- **Asynchronous self-paced:** Dive deep into each chapter of **SchoolX** with examples.
 - **Exclusive Resources:** Worksheets, frameworks, and tools to apply the concepts immediately.
 - **Community Access:** Connect with other school leaders sharing the same journey.
-- **Bonus Q&A with Jethro Jones:** Get direct insights from me, the author.
-- **Digital Copy** Delivered Immediately
-- **Signed Copy** Delivered in December
-- **Live Groups Sessions** Starting in January
+- **Bonus LIVE Q&A with Jethro Jones:** Get direct insights from me, the author.
+- **Digital Copy**: Delivered Immediately
+- **Physical Copy**: Delivered in about a week.
 
 ## Course Outline and Meeting Dates
-All meetings take place via Zoom at 3 pm on the following dates: 
-- January 6
-- **Bonus Make Up Added** - January 20
-- January 27
-- February 10
-- March 3
-3 weeks between sessions allows you to practice and implement the things you are learning. 
-### Investment:
-Just $197 for a 8-week immersive experience that will transform the way you lead your school.
+This is an asynchronous, go at your own pace book study, *with support!*
+
+**Session 1:** 
+Implement the Design Thinking Process
+Implement a mission, vision, values and purpose that you can actually remember! 
+
+**Session 2:**
+Improve your life as a leader, first. 
+Understand saboteurs and how to overcome them in just 10 seconds
+Free 1:1 live saboteur discovery session with Jethro
+
+This is different than anything else out there. You'll do work, make small steps, and I'll help you 
+# Investment:
+Just $197 for this 4-session immersive experience that will transform the way you lead your school.
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study" data-commerce>Join the Book Study</a>
+
+## Better with Buddies
+Get a group of principals from your district together for a bigger discount. 
+- 2-10 principals $147 each
+- 11+ principals $97 each
 
 ## Guarantee
 
-Join the first session risk-free. If you’re not completely satisfied after attending the first session, just let me know after that session is completed, and I'll issue a full refund—no questions asked—and you can KEEP the book!
-## Ready to transform your school? Sign up for the SchoolX Book Study today and take the first step towards creating a school experience that truly matters.
+Join the first session risk-free. If you’re not completely satisfied after attending the first session, just let me know, and I'll issue a full refund—no questions asked—and you can KEEP the book!
+
+**Ready to transform your school**? Sign up for the SchoolX Book Study today and take the first step towards creating a school experience that truly matters.
+
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study" data-commerce>Join the Book Study</a>
-
-
-### Testimonials From Book Studies Led by Jethro
+# Testimonials From Book Studies Led by Jethro
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/XycKWvF-umk"
@@ -134,11 +143,6 @@ allowfullscreen></iframe>
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a  class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study"  data-commerce>Join the Book Study</a>
-
-## Better with Buddies
-Get a group of principals from your district together for a bigger discount. 
-- 2-10 principals $147 each
-- 11+ principals $97 each
 
 ---
 
