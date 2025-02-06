@@ -146,11 +146,11 @@ allowfullscreen></iframe>
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/D8rYPlZE0JA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> You killed it, man! Thanks a ton. I'm down in Kennewick, and knowing you're up in Spokane -- and recalling your offer from the first day -- I'd love to have the opportunity to catch up with you sometime. I'll drop my email in the next field. Thanks again -- I so very much appreciate it all! - Ken Holton, Principal, How to be a Transformative Principal Book Study
+> "You killed it, man! Thanks a ton. I'm down in Kennewick, and knowing you're up in Spokane -- and recalling your offer from the first day -- I'd love to have the opportunity to catch up with you sometime. I'll drop my email in the next field. Thanks again -- I so very much appreciate it all!" - Ken Holton, Principal, How to be a Transformative Principal Book Study
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/S8EJt0XXSAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> This has been the best PD I've received in 2yrs of my MA work & current internship...I'd pay for it again in a heartbeat! Jethro was real, transparent, encouraging & idea inspiring during each session & I'd love to find future podcasts, trainings, Zooms, anything that he leads!!! - Brandon Olson, Central Valley School District Intern
+> "This has been the best PD I've received in 2yrs of my MA work & current internship...I'd pay for it again in a heartbeat! Jethro was real, transparent, encouraging & idea inspiring during each session & I'd love to find future podcasts, trainings, Zooms, anything that he leads!!!" - Brandon Olson, Central Valley School District Intern
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/eKqdZnByFS0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
