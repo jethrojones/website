@@ -48,6 +48,8 @@ January 22: Basecamp Beyond Business Webinar. [Register here](https://www.crowdc
 
 February 14: Buckeye Union High School District Day of Learning
 
+March 21: Bishop Brady High School on AI
+
 June 23: Virginia Association of Elementary School Principals
 # 2024
 Monthly: AILeader Office Hours - 3rd Tuesday of each month.
