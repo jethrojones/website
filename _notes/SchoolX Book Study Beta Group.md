@@ -124,7 +124,7 @@ This is an asynchronous, go at your own pace book study, *with support!*
 
 This is different than anything else out there. You'll do work, make small steps, and I'll help you make your school perfect for **your people**!
 # Investment:
-Just $97  for this 4-session immersive experience that will transform the way you lead your school.
+Just $147  for this 4-session immersive experience that will transform the way you lead your school.
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
 <a class="convertkit-button" href="https://pages.jethrojones.com/products/school-x-book-study?promo=BETA" data-commerce>Join the Book Study Beta</a>

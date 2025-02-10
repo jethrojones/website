@@ -54,3 +54,8 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Curl cable                  |    30    |      0:45       |                                                                        |
 |            | Barbell skullcrusher        |    30    |      1:15       |                                                                        |
 |            | Tricep extension            |    30    |      0:49       |                                                                        |
+| 2/10/2025  | Squats                      |    45    |      2:00       |                                                                        |
+|            | Jump squats                 |   Body   |      0:45       |                                                                        |
+|            | Lunge                       |    20    |      3:30       |                                                                        |
+|            | Leg extension               |          |                 |                                                                        |
+|            | Leg curl                    |          |                 |                                                                        |
