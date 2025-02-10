@@ -43,7 +43,7 @@ Doing this Fast Sunday Family Feast, I hope, will bring us closer to each other,
 Here's our Fast Sunday Family Feast Plans: 
 ## 2025
 - [[Argentinian Food - January 2025]]
-- February - Tailgate
+- [[Tailgate - February 2025]]
 - March - Irish
 - April - Korean
 - May - Dominican Republic maybe El Salvadorian
