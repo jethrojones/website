@@ -12,6 +12,11 @@ layout: page
 date: 2024-09-22
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
+# BUHSD Day of Learning February 14, 2025
+- [Link to Presentation](https://sharing.ia.net/presenter/07455f395bfe48df9f3e39e92e0c8a04/view)
+- [Trying a Genius Hour in your classroom Template](https://docs.google.com/document/d/1-LcvGkbg_BTpLb8NRdvND04eR-kzHnQxgmnDC6Sfc88/copy)
+- 
 # BUHSD Day of Learning September 23, 2024
 ## Links and Resources
 
