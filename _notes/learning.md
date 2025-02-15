@@ -27,6 +27,6 @@ I'll start gathering those things together here.
 - [[Fit looks like grit]]
 - [[Learning is like a Spring]]
 - [There’s no such thing as learning loss](https://jethro.site/learning/2021/03/05/What-Learning-Looks-Like/)
-- 
+- [[You can just learn]]
 
 There are many things that we need to learn that we only [[learn over time]]. 
