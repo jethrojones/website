@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-02-15 23:45:55
+last_modified_at: 2025-02-15
 permalink: learning-notes
 description: 
 title: My Thoughts on Learning
@@ -8,7 +8,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: learning
 tags: 
-layout: page
+layout: note
 date: 2024-11-25
 ---
 
