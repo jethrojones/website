@@ -64,3 +64,8 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Incline chest fly           |    20    |      1:32       |                                                                        |
 |            | Tricep extension            |   22.5   |      1:15       |                                                                        |
 |            | Tricep push down cable      |    30    |      2:52       |                                                                        |
+| 2/17/25    | Squat                       |    45    |      3:00       |                                                                        |
+|            | Leg extension               |    60    |      1:30       |                                                                        |
+|            | Leg curl                    |    60    |      1:30       |                                                                        |
+|            | Jump squat                  |   Body   |      1:00       |                                                                        |
+|            | Lunge                       |    30    |      3:00       |                                                                        |
