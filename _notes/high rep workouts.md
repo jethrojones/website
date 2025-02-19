@@ -69,3 +69,14 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Leg curl                    |    60    |      1:30       |                                                                        |
 |            | Jump squat                  |   Body   |      1:00       |                                                                        |
 |            | Lunge                       |    30    |      3:00       |                                                                        |
+| 2/18/25    | Bench press                 |    45    |      2:30       |                                                                        |
+|            | Incline bench press         |    45    |      1:30       |                                                                        |
+|            | Incline chest fly           |    20    |      2:00       |                                                                        |
+|            | Tricep push down cable      |    30    |      2:00       |                                                                        |
+| 2/19/2025  | Bent over row               |    40    |      1:30       |                                                                        |
+|            | Right arm bent over row     |          |                 |                                                                        |
+|            | Left arm bent over row      |          |                 |                                                                        |
+|            | Cable pull down             |    70    |      2:00       |                                                                        |
+|            | Back fly                    |    30    |      1:30       |                                                                        |
+|            | Shrug                       |    50    |      1:30       |                                                                        |
+| 2/20/20    |                             |          |                 |                                                                        |
