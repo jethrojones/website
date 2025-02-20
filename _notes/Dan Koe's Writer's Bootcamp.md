@@ -9,7 +9,7 @@ sitemap: "true"
 excerpt_separator: <!--more-->
 category: 
 tags: 
-date: 2025-02-10
+date: 2025-02-18
 layout: note
 ---
 
@@ -36,11 +36,17 @@ So, why do I pay for this kind of stuff again and again?
 
 Well, because I like to learn, I like to surround myself with people who are also trying to do that. And I keep waiting/hoping for someone to reach me the way I want to be reached. 
 
-Also, Dan's app [Kortex](kortex.co), looks cool, and he will obviously use it to teach this course. This will be a good way to learn it. 
+Also, Dan's app [Kortex](kortex.co), looks cool, and he will obviously use it to teach this course. This will be a good way to learn it. I don't think that I will switch to that from [[Obsidian]], though
 
 Finally, Dan is talking about implementing "Zettlekasten". I have a lot of interests, and I want to be prolific in my writing, not just here on my blog, but also in journals, books, my dissertation, and more. 
 
 What I'm currently doing social media is basically posting my podcast episodes. I have a TON of content there, and I need to find a way to use it more effectively and do something with it. 
+
+I'm not doing this for the increase in vanity metrics like views, though I do think those will all rise. 
+
+I'm doing this so that I can feel good about the content that I produce. I do so much, and it's not making the impact that I would like to see. 
+
+Furthermore, this is a skill that I can use for decades to help me continue to be a prolific writer, generating valuable content for years to come. 
 
 A few stats: 
 
