@@ -18,3 +18,4 @@ Here are a few articles about several pet peeves of mine.
 - [[Recipes]]
 - Cookie Banners
 - [First Page of Google is Always Trash](https://x.com/jethrojones/status/1862496738843525485)
+- Make money online by teaching people how to make money online. ⥀

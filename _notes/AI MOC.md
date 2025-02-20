@@ -35,4 +35,7 @@ Blog Posts:
 
 ## AILeader Office Hours
 - [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
-- 
+
+## Work With Me. 
+Let's work together and design a solution. Reach [out here](mailto:jethro@transformativeprincipal.com). 
+

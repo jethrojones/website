@@ -79,4 +79,9 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Cable pull down             |    70    |      2:00       |                                                                        |
 |            | Back fly                    |    30    |      1:30       |                                                                        |
 |            | Shrug                       |    50    |      1:30       |                                                                        |
-| 2/20/20    |                             |          |                 |                                                                        |
+| 2/20/2025  | Barbell curl                |    50    |      1:00       |                                                                        |
+|            | Hammer curl                 |    40    |      2:00       |                                                                        |
+|            | Tricep extsension           |    30    |      2:30       |                                                                        |
+|            | Curl cable                  |    30    |      1:00       |                                                                        |
+|            | Barbell skullcrusher        |    30    |      1:30       |                                                                        |
+|            | Tricep extension            |    30    |      1:00       |                                                                        |
