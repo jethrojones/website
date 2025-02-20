@@ -34,13 +34,6 @@ A couple weeks ago, Apple released iCloud Invites, and we're going to experiment
 
 Please [RSVP here](https://www.icloud.com/invites/06fTM3knG3ZM4zr49lh2gLHgQ). Once you put in your email address, you can add the invite to your calendar. 
 
-How did that work for you? 
+We had a great conversation today. I'm going to release my part as a podcast episode. 
 
-Thanks, 
-
-Jethro
-
-
-PS. Who is this Jethro guy and why is he hosting this event? 
-
-I have been podcasting since 2008, in various forms. Since then, I have created the longest running, most downloaded school leadership podcast out there, Transformative Principal. I now help other people who are mission driven to create their own podcasts and connect with the right people in the right way to build powerful communities where people take action. If you want to talk about how a podcast can help you make a big impact, hit reply. 
+[Here's the slideshow from the session](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view).
