@@ -13,7 +13,8 @@ tags:
 date: 2025-02-03
 layout: note
 ---
-
+Update: 03/01/2025
+Well, this experiment certainly didn't help me lose weight. I did get sick during this month, so I didn't work out a few days, and my Thursdays got really busy, so I missed those workout days too. OK, back to the grindstone. 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
@@ -81,7 +82,17 @@ I can take a break between exercises, but not during an exercise. If I stop for 
 |            | Shrug                       |    50    |      1:30       |                                                                        |
 | 2/20/2025  | Barbell curl                |    50    |      1:00       |                                                                        |
 |            | Hammer curl                 |    40    |      2:00       |                                                                        |
-|            | Tricep extsension           |    30    |      2:30       |                                                                        |
+|            | Tricep extension cable      |    30    |      2:30       |                                                                        |
 |            | Curl cable                  |    30    |      1:00       |                                                                        |
 |            | Barbell skullcrusher        |    30    |      1:30       |                                                                        |
 |            | Tricep extension            |    30    |      1:00       |                                                                        |
+| 2/26/25    | Bent over row               |    40    |      2:00       |                                                                        |
+|            | Cable pull down             |    70    |      2:20       |                                                                        |
+|            | Back fly                    |    30    |      2:00       |                                                                        |
+|            | Shrug                       |    50    |      2:00       |                                                                        |
+| 2/28/25    | Barbell curl                |    50    |      1:10       |                                                                        |
+|            | Hammer curl                 |    40    |      2:20       |                                                                        |
+|            | Tricep extension            |    30    |      1:10       |                                                                        |
+|            | Tricep extension cable      |    30    |      3:00       |                                                                        |
+|            | Curl cable                  |    30    |      1:30       |                                                                        |
+|            | Skullcrusher barbell        |    30    |      2:00       |                                                                        |

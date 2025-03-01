@@ -12,7 +12,6 @@ tags:
 date: 2025-02-17
 layout: note
 ---
-Update: [Here's the slidedeck from the session](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view).
 
 And here's the [invite for next month](https://www.icloud.com/invites/0ab98kwaEjaLaINfEV7n-jYeQ)!
 

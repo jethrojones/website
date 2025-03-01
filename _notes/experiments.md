@@ -26,3 +26,5 @@ My second is [[high rep workouts]].
 My third is [[paper tracking]].
 
 My fourth is [[Dan Koe's Writer's Bootcamp]].
+
+As part of Dan's workshop, I'm creating a new [[secret newsletter]]. I'm going to update and share progress about this here. 
