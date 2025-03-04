@@ -44,7 +44,7 @@ Here's our Fast Sunday Family Feast Plans:
 ## 2025
 - [[Argentinian Food - January 2025]]
 - [[Tailgate - February 2025]]
-- March - Irish
+- [[Irish Food - March 2025]]
 - April - Korean
 - May - Dominican Republic maybe El Salvadorian
 - June - American - Picnic Dishes
