@@ -14,9 +14,8 @@ tags:
 layout: page
 date: 2023-05-01
 ---
-layout: post
+<iframe src="https://share.descript.com/embed/GmpDPandFOC" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
----
 ### One Operating System, Many Applications
 
 Through factor analysis, we’ve discovered the core operating system of the mind that can run a massive variety of work and life applications. One simple operating system, many applications.
