@@ -2,7 +2,7 @@
 last_modified_at: 
 permalink: 
 description: 
-title: 
+title: Irish Food - March 2025
 image: /assets/applecake.jpeg
 published: "true"
 sitemap: "true"
