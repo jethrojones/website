@@ -1,8 +1,8 @@
 ---
 last_modified_at: 
-permalink: 
-description: 
-title: 
+permalink: comethoufount
+description: What does Ebenezer mean in Come Thou Fount of every blessing?
+title: Why the Ebenezer is so Important in Come Thou Fount of Every Blessing
 image: 
 published: "true"
 sitemap: "true"
