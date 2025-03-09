@@ -7,9 +7,9 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: spiritual
 tags: 
-date: 2025-03-09
+date: 2025-03-08
 layout: note
 ---
 
