@@ -127,4 +127,4 @@ October 1-2 - Vancouver WA - Move Up Workshop for Assistant Principals
 
 ## Work with me
 
-If you would like to partner with me, or invite me to present at a training or conference, please reach out to me via email. I help many districts and schools find simple solutions to their complex problems. 
+If you would like to partner with me, or invite me to present at a training or conference, please reach out to me [via email](mailto:jethro@transformativeprincipal). I help many districts and schools find simple solutions to their complex problems. 
