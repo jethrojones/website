@@ -34,6 +34,8 @@ Blog Posts:
 - [Student AI Usage](https://jethro.site/2023/11/13/student-ai-usage/)
 
 ## AILeader Office Hours
+
+- [April AILeader Office Hours](https://www.icloud.com/invites/044YxoYP-Sk75lwbsb6PV_tAQ
 - [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
 
 ## Work With Me. 
