@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-03-28
+last_modified_at: 2025-03-28 22:20:21
 layout: note
 title: Ideal Week
 categories: 
