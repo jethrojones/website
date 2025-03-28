@@ -1,15 +1,14 @@
 ---
 layout: page
 title: media kit
-categories: []
-tags: []
+categories: 
+tags: 
 status: publish
 type: page
 published: true
-meta: {}
 ---
 
-#Media Kit
+# Media Kit
 
 
 
@@ -91,7 +90,7 @@ meta: {}
 
 
   
-###Bio
+### Bio
 
 
 Jethro Jones, is a national award-winning former school leader, podcaster, and author of the books How to be a Transformative Principal and SchoolX: How principals can design a transformative school experience for the people right in front of them! He is also founder of the BE Podcast Network, the best educational podcast network out there. Jethro currently consults school leaders on strategies to help them save time, lead more effectively, and overcome their own weaknesses. Jethro has worked as a principal at all K-12 levels, including a prison school, a district coach, distance learning team lead, and English teacher.
@@ -99,7 +98,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
 
 
 
-###Podcasts
+### Podcasts
 
 
 [Transformative Principal](https://transformativeprincipal.transistor.fm)
@@ -138,12 +137,12 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
 
 
 
+## Social Accounts
+[X](https://twitter.com/jethrojones) [Instagram](https://instagram.com/jethrojones) [LinkedIn](https://linkedin.com/in/jethrojones)
 
-[](https://twitter.com/jethrojones)[](https://instagram.com/jethrojones)[](https://linkedin.com/in/jethrojones)
 
 
-
-#Books
+# Books
 
 
 
@@ -282,7 +281,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
 
 
 
-#Logos
+# Logos
 
 
 
