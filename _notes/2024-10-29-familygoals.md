@@ -1,13 +1,13 @@
 ---
+last_modified_at: 2024-12-19 00:26:59
 layout: page
 title: Family Goals
-categories: []
-tags: []
+categories: 
+tags: 
 status: publish
 type: page
 published: true
-meta: {}
-last_modified_at: 2024-12-19 00:26:59
+created: 2019-06-24
 ---
 # Family Goal Sheet
 
@@ -29,7 +29,7 @@ Click the image to get the goal sheet.
 
 Get the 
 [Goal Sheet](/s/Jones-Family-Monthly-Goals-Template.pages) in Apple Pages format.
-
+<script async data-uid="f30afac3c6" src="https://jethrojones.kit.com/f30afac3c6/index.js"></script>
 
 ****
 

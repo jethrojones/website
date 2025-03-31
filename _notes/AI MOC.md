@@ -41,3 +41,4 @@ Blog Posts:
 ## Work With Me. 
 Let's work together and design a solution. Reach [out here](mailto:jethro@transformativeprincipal.com). 
 
+<script async data-uid="a65f61d9f3" src="https://jethrojones.kit.com/a65f61d9f3/index.js"></script>
