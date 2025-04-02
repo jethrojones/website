@@ -38,6 +38,8 @@ See examples below:
 
 ## ![20 Minutes of Teaching Brilliance](https://cdn-images-2.listennotes.com/images/podcasts/ElBJs5mfN8-/badge/)
 
+![Putman's Podcast Pops](https://cdn-images-2.listennotes.com/images/podcasts/Jd1y-Zu9C53/badge/?_gl=1*1jdvhhz*_gcl_au*MTMyOTYyNjYzNi4xNzQzNjEzNDEx*_ga*MjY5NTI3OTQ2LjE3NDM2MTM0MTE.*_ga_T0PZE2Z7L4*MTc0MzYxMzQxMS4xLjEuMTc0MzYxMzQxNi41NS4wLjA.)
+
 ![Catholic School Leaders Podcast](https://cdn-images-2.listennotes.com/images/podcasts/Nser8d6hRSA/badge/)
 
 

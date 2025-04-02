@@ -1,6 +1,6 @@
 ---
 layout: post
-
+permalink: eduprompts
 ---
 - 🎓 [[Advanced Teacher's Prompts (54)]]
 - 📋 [[Assessment and Evaluation (50)]]
@@ -28,3 +28,5 @@ layout: post
 - 🚀 [[Student Engagement and Motivation (100)]]
 - 🌱 [[Supporting Students Transition and College and Career Readiness (50)]]
 - 📊 [[Use of Data to Inform Practice (50)]]
+
+Back to [[AI MOC|Everything AI]]

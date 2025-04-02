@@ -10,8 +10,6 @@ category:
 tags: 
 layout: note
 ---
-
-
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # Everything AI
 This is the place to find everything about AI on my site (hopefully I can keep it updated!)
