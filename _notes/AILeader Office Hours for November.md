@@ -31,4 +31,4 @@ We took her schedules from [this page](https://www.madison.k12.ct.us/polson-midd
 
 {% include video_embed.html %}
 
-[[AI MOC]]
+[[Everything AI]]

@@ -198,4 +198,4 @@ Begrudgingly, this is the best response, because it did what I needed it to do o
 
 Have a Good Life.
 
-[[AI MOC]]
+[[Everything AI]]

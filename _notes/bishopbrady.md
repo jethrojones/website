@@ -26,5 +26,5 @@ Here are links to everything we talked about:
 - [Presentation 2](https://sharing.ia.net/presenter/07455f395bfe48df9f3e39e92e0c8a04/view#/)
 
 More AI resources: 
-- [[AI MOC|Everything AI]]
+- [[Everything AI|Everything AI]]
 - [April AI Leader Office Hours](https://www.icloud.com/invites/044YxoYP-Sk75lwbsb6PV_tAQ)

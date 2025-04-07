@@ -27,4 +27,4 @@ The beauty here is that it at least provides a forum for disagreement, because w
 
 My biggest problem with labeling anything misinformation is that it typically means that something doesn't fit a particular narrative, rather than it is actually misinformation. 
 
-[[AI MOC]]
+[[Everything AI]]

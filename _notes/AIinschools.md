@@ -68,4 +68,4 @@ Tom, I respect you and appreciate you taking the time to hear me out about this.
 - [[Organic Skills]]
 - [[AI Easy and Hard]]
 - [[AI Can Do Anything, But Not Something Specific]]
-- [[AI MOC]]
+- [[Everything AI]]

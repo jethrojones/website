@@ -1,6 +1,6 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: fsff
 description: Fast Sunday Family Feast - A Jones Family Tradition
 title: Fast Sunday Family Feast - A Jones Family Tradition
 image: 
@@ -45,7 +45,7 @@ Here's our Fast Sunday Family Feast Plans:
 - [[Argentinian Food - January 2025]]
 - [[Tailgate - February 2025]]
 - [[Irish Food - March 2025]]
-- April - Korean
+- [[Guatemalan Food - April 2025]]
 - May - Dominican Republic maybe El Salvadorian
 - June - American - Picnic Dishes
 - July - Afghanistan food (Ashura)

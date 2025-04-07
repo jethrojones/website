@@ -29,4 +29,4 @@ permalink: eduprompts
 - 🌱 [[Supporting Students Transition and College and Career Readiness (50)]]
 - 📊 [[Use of Data to Inform Practice (50)]]
 
-Back to [[AI MOC|Everything AI]]
+Back to [[Everything AI|Everything AI]]

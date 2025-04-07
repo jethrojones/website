@@ -16,7 +16,7 @@ date: 2024-01-01
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 I produce podcasts that get in the top 10% worldwide within 90 days. 
 
-I've launched more than a dozen podcasts into the top 10% and higher. 
+I've launched more than 2 dozen podcasts into the top 10% and higher. 
 
 See examples below: 
 

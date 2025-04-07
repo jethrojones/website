@@ -24,7 +24,7 @@ In this introductory session, school business officials will explore the fundame
 You can start automating routine tasks, generate powerful data insights, and help your systems work better. Perfect for those new to AI, this session will demystify the technology and offer actionable steps to get started with AI-driven solutions in your district.
 
 - [[best ai tools|Best AI Tools]]
-- [[AI MOC|Everything AI]]
+- [[Everything AI|Everything AI]]
 - [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [Presentation](https://www.dropbox.com/s/fwo6ls4whzhdti7/2024-12-11-ALASBO%20AI%20for%20Beginners.pdf?dl=0) 

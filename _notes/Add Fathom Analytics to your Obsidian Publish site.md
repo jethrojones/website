@@ -74,7 +74,7 @@ Ash said there was a small error in the Obsidian code:
 
 It also lists 'yourdomain.com' which I don't think is right either. I think it has to be the SITEID, which is what I used, and what Ash recommended in her email to me. And now it's working well on my [drjethro.com](https://drjethro.com) site. 
 
-You see, this is a good example of where [[AI MOC|AI]] can sometimes be beneficial. I could have used ChatGPT to get that answer, but Ash had more context working at Fathom, and could provide clearer help and direction, so I could understand. ChatGPT's answer was: 
+You see, this is a good example of where [[Everything AI|AI]] can sometimes be beneficial. I could have used ChatGPT to get that answer, but Ash had more context working at Fathom, and could provide clearer help and direction, so I could understand. ChatGPT's answer was: 
 
 > The issue with your JavaScript snippet is that you are creating the script element incorrectly. You should be calling document.createElement('script') directly, not analyticsScript.createElement('script').
 

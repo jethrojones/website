@@ -31,7 +31,7 @@ In January, I tracked these Habits (#days completed)
 - Daily note to my wife (31)
 - plan the next day (24)
 - cold plunge (18)
-- scripture text to my family (30)
+- scripture text to my family[^1] (30)
 - Podcast consumption >50% spiritual (10)
 - [[networking experiment]] (3)
 - Accomplish my big 3 (2)
@@ -49,19 +49,31 @@ For February, I'm changing it up a little
 I'm adding two new things next month, and dropping off networking. I obviously didn't care enough about it to actually do it! 
 
 For March:
-- Scripture text
-- cold plunge
-- note to my wife 
-- podcast consumption >50% spiritual 
-- Burpees every hour I'm awake[^1]
-- no scrolling X*
-- Accomplish Big 3 
-- plan tomorrow
+- Scripture text (24)
+- cold plunge (6 Developed a rash, so I stopped)
+- note to my wife (31/31!!!)
+- podcast consumption >50% spiritual  (28)
+- Burpees every hour I'm awake[^2] (4,530)
+- no scrolling X[^2] (19)
+- Accomplish Big 3 (29)
+- plan tomorrow (24)
 
+For April: 
+- Scripture Text
+- Note to Staci
+- Podcast >50% daily
+- Pray before tasks
+- Burpees every hour I'm awake
+- No Scroll X
+- Accomplish Big 3
+- Plan tomorrow
 
 ## Plan tomorrow
 Each day, I write the Big 3 that I want to accomplish. These are the three most important things for me to accomplish each day. That's part of my end-of-day routine. I'm still struggling, but it's good to make a plan. 
 
 Sometimes, those plans get derailed, but I often can fit in the big 3 and then do something else. 
 
-[^1]: This year, I'm participating in Lent. It's actually my secret newsletter, btw, if you're a huge Jethro nerd and read everything I write. I'm giving up scrolling on X for Lent (that doesn't mean I can't use it, I just have to be very disciplined when I do log in to that site. It'll be challenging, but that's part of Lent, right?)
+
+[^2]: This year, I'm participating in Lent. It's actually my [[secret newsletter]], btw, if you're a huge Jethro nerd and read everything I write. I'm giving up scrolling on X for Lent (that doesn't mean I can't use it, I just have to be very disciplined when I do log in to that site. It'll be challenging, but that's part of Lent, right?)
+
+[^1]: I read the scriptures daily, and each day, I send spiritual insights to my wife and kinds in a text. 

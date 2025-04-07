@@ -28,4 +28,4 @@ More about AI
 - [[best ai tools]]
 - [[AI Easy and Hard]]
 - [[AILeader Office Hours for November]]
-- [[AI MOC|Everything AI]]
+- [[Everything AI|Everything AI]]

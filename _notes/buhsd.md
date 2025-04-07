@@ -164,4 +164,4 @@ I used [[AI Can Do Anything, But Not Something Specific|several different AI mod
 | Tom        | Developing an AI project where students organize and analyze cash flows by year, incorporating a predicted growth rate and presenting their findings using visual graphs.                                                                                                                                    | No                   |
 | Tricia     | Experimenting with Canva AI to design a club t-shirt.                                                                                                                                                                                                                                                        | No                   |
 
-[[AI MOC]]
+[[Everything AI]]

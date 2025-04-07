@@ -29,7 +29,7 @@ layout:
 Finally, here are all the links to my AI Stuff on my site: 
 
 - [[best ai tools|Best AI Tools]]
-- [[AI MOC|Everything AI]]
+- [[Everything AI|Everything AI]]
 - [A Video about making the AI know your content](https://youtu.be/Mo8xYoel2mw)
 - [SchoolAI](https://app.schoolai.com/sign-up-invite?invitedBy=user_2TfkAQGPA5YbCR7KXBhRQ4S1Uyx)
 - [[Ethan Mollick on Knowing When to Use AI]]
