@@ -34,3 +34,5 @@ How long until we as educators stop playing the silly whack-a-mole stoplight gam
 {% endif %}
 
 [[Everything AI]]
+
+<script async data-uid="a65f61d9f3" src="https://jethrojones.kit.com/a65f61d9f3/index.js"></script>
