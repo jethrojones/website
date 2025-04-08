@@ -12,7 +12,7 @@ image:
 category: ai
 permalink: aitobiaslutke
 ---
-While this is linking to Simon Willison's blog, the quote below comes from a l[eaked letter](https://x.com/tobi/status/1909231499448401946) by Tobia Lütke, the CEO of Shopify: 
+While this is linking to Simon Willison's blog, the quote below comes from a l[eaked letter](https://x.com/tobi/status/1909231499448401946) by Tobias Lütke, the CEO of Shopify: 
 > **Using Al effectively is now a fundamental expectation of everyone at Shopify**. It's a tool of all trades today, and will only grow in importance. Frankly, I don't think it's feasible to opt out of learning the skill of applying Al in your craft; you are welcome to try, but I want to be honest I cannot see this working out today, and definitely not tomorrow. Stagnation is almost certain, and stagnation is slow-motion failure. If you're not climbing, you're sliding.
 
 This is not surprising to anyone who has been using AI for a while. Regardless of where you stand on the various questionable aspects of AI, you can't deny that it is increasingly becoming good. 
