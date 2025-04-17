@@ -19,6 +19,7 @@ Each month, I host a Big Impact Mixer for people who are trying to make a big im
 
 You can sign up to be part of it [here](https://bigimpactmixer.com). 
 
+- [[BIM April - Creating a personalized newsletter.]]
 - [[BIM March - Are My Social Posts Any Good?]]
 - [[BIM February]]
 - [[BIM January 25 - Breakout Problem Solving]]
