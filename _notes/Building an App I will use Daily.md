@@ -47,8 +47,6 @@ So I turned to my usual favorite tool, [basecamp](https://basecamp.com) because 
 
 Finally, I decided to use [Replit](https://replit.com/refer/jethrojones) to build exactly what I needed, and BOOM, after 5 hours of vibe-coding and planning and prepping and refining (and $13), I have an actual web app, deployed to my site, and running: https://adntbf.com
 
-
-
-
-
 This is pretty cool, but it's not perfect yet, but the fact that I, with such limited knowledge get an idea from my head to a web site is a big deal.
+
+The X post: https://x.com/jethrojones/status/1914386286359859552
