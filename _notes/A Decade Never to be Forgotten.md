@@ -15,6 +15,8 @@ layout: note
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+Update: read [[Building an App I will use Daily]]
+
 I'm working on a project where I am focusing on long-term change. It was inspired by a [talk]([](https://www.churchofjesuschrist.org/study/general-conference/2024/10/44stevenson.p_x90lP?lang=eng#p_x90lP)) given by [Elder Gary E. Stevenson](https://www.churchofjesuschrist.org/learn/gary-e-stevenson?lang=eng) in the October 2024 General Conference of [The Church of Jesus Christ of Latter-day Saints](https://churchofjesuschrist.org). 
 
 As he was giving that talk, I felt that familiar prick of the spirit saying I needed to do something. I've learned that [all learning is spiritual](https://jethro.site/2023/10/09/the-value-of-spiritual-learning/) and this is an opportunity to do something with that knowledge. 
