@@ -26,6 +26,7 @@ This is the place to find everything about AI on my site (hopefully I can keep i
 - [[An Overview of Prompt Engineering for Educators]]
 - [[Ethan Mollick on Knowing When to Use AI]]
 - [[AI As a Fundamental Expectation]]
+- [[Case Study Video]]
 
 Blog Posts:
 - [Testing a couple different solutions with AI](https://jethro.site/podcast/2023/12/22/testing-a-couple-different-solutions-with-ai/)
