@@ -7,8 +7,10 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category: ai
+tags:
+  - agentic
+  - Podcast
 date: 2025-04-26
 layout: note
 ---
@@ -114,3 +116,5 @@ I've got to say, this is incredible. With complex software, sometimes you just d
 That is what Descript's Agentic editing will allow. I see the vision of the future and I can't wait to continue testing and playing with this. 
 
 Here's the video I edited briefly, in it's unfinished state. 
+
+[[Everything AI]]
