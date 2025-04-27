@@ -1,4 +1,20 @@
-**Tweet 1 of 20: 167 Characters**
+---
+last_modified_at: 
+permalink: 
+description: 
+title: 
+image: 
+published: "false"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2025-02-10
+layout: note
+---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}**Tweet 1 of 20: 167 Characters**
 If you're tired of spending hours on video edits, @DescriptApp Agentic Editing is a game-changer. Imagine a tool that anticipates your needs, automates complex tasks, and even knows when it can't do what you need it to. Editing a video podcast in 5 real time minutes!
 
 ---
