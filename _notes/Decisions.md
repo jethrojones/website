@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-04-30 18:42:00
+last_modified_at: 2025-04-30 18:44:24
 permalink: decisions
 description: Discover the art of decision-making for school principals with "Your Decision, My Decision." Learn how to balance personal, delegated, and collaborative decisions while aligning every choice with your school's vision and values. Enhance trust, clarity, and leadership within your educational community.
 title: "“Your Decision, My Decision, Our Decision”: A Principal’s Guide to Clarity and Vision in Decision-Making"
