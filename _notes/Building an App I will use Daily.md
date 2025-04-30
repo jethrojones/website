@@ -49,6 +49,10 @@ Finally, I decided to use [Replit](https://replit.com/refer/jethrojones) to buil
 
 This is pretty cool, but it's not perfect yet, but the fact that I, with such limited knowledge get an idea from my head to a web site is a big deal.
 
+I made this post into a video using [Descript's New Avatar Feature](https://get.descript.com/swu3aooczakr). Yes, it is a woman avatar and a woman voice, but I make plenty of stuff with my voice, so I thought I'd try something new. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_u5YVODGpCM?si=T0Y3g9v6MEjHQnvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The X post: https://x.com/jethrojones/status/1914386286359859552
 
 Check out the [[ADNTBF Roadmap]]
