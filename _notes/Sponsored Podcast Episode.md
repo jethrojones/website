@@ -10,38 +10,45 @@ excerpt_separator: <!--more-->
 category: 
 tags: 
 date: 2025-05-01
-layout: page
+layout: note
 ---
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-# Sponsored Podcast Episode
+
 
 ## Share Your Story with 50,000+ Education Influencers—In One Sponsored Podcast Episode
 
 ### What You Get
 
-* **30–45 min recorded interview** on **Transformative Principal** (hosted by Jethro Jones).
-* **Simulcast distribution to up to six RSS feeds** across our network (AI Real Talk, Cybertraps, Resilient Schools, The Authority, Education Talk Radio, plus Transformative Principal).
-* **Five branded audiograms** (five variations) promoted over 30 days on LinkedIn, X, Instagram, and Facebook.
+* **30–45 min recorded interview** on **Transformative Principal** top 1.5% worldwide podcast (hosted by Jethro Jones).
+* **Simulcast distribution to up to six RSS feeds** across our network 
+	* The Authority top 3%, 
+	* AI Real Talk top 5%, 
+	* Cybertraps top 5%, 
+	* PrincipalPLN top 5%
+	* Education Talk Radio top 10%, 
+	* Morning Motivation for Educators top 10%
+	* TLTalk Radio top 10%
+* **Four branded audiograms** (five variations) promoted over 30 days on LinkedIn, X, Instagram, and Facebook.
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
  
-
-**[Total Package Value: \$10,000](https://pages.jethrojones.com/products/sponsoredpodcast) – All‑inclusive, no hidden fees.**
+<script src="https://pages.jethrojones.com/commerce.js" async defer></script>
+<a class="convertkit-button" href="https://pages.jethrojones.com/products/sponsoredpodcast" data-commerce>Total Package Value: $10,000 All‑inclusive, no hidden fees.</a>
 
 A quick breakdown of what happens once you claim a slot:
 
-|**Phase**|**What We Handle**|**Your Role**|
-|---|---|---|
-|**Prep**|Create a shared Google Doc + guiding prompts.|Outline the key points you want to highlight.|
-|**Recording**|30–45 min conversation via Riverside.fm.|Show up with a mic and your insights.|
-|**Distribution**|Episode simulcast on: Transformative Principal, AI Real Talk, Cybertraps, Resilient Schools, The Authority, Education Talk Radio.|Approve final cut.|
-|**Amplification**|5 audiogram variations, scheduled over 30 days on LinkedIn, X, Instagram, Facebook.|Like / repost as you wish.|
-|**Analytics**|Monthly reach report (downloads + social impressions).|Review ROI.|
 
-**Why it works**
+| **Phase**         | **What We Handle**                                                                                                                | **Your Role**                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Prep**          | Create a shared Google Doc + guiding prompts.                                                                                     | Outline the key points you want to highlight. |
+| **Recording**     | 30–45 min conversation via Riverside.fm.                                                                                          | Show up with a mic and your insights.         |
+| **Distribution**  | Episode simulcast on: Transformative Principal, AI Real Talk, Cybertraps, Resilient Schools, The Authority, Education Talk Radio. | Approve final cut.                            |
+| **Amplification** | 5 audiogram variations, scheduled over 30 days on LinkedIn, X, Instagram, Facebook.                                               | Like / repost as you wish.                    |
+| **Analytics**     | Monthly reach report (downloads + social impressions).                                                                            | Review ROI.                                   |
 
+### Why it works
 - Our audience is 80 % school or district leaders with purchasing authority.
     
 - Episodes live forever in the feed—long‑tail traffic keeps rolling.
@@ -55,7 +62,7 @@ We’ve helped authors hit Amazon #1, ed‑tech firms book demos within hours, a
 
 Boost your visibility even further with dynamically inserted 30‑second ads run across the entire BE Podcast Network catalog (back and future episodes).
 
-* **Investment:** **\$7 500 per quarter**
+* **Investment:** **$7,500 per quarter**
 * **Placement:** Pre‑roll & mid‑roll slots, frequency optimized for reach without listener fatigue.
 
 ---
@@ -84,8 +91,9 @@ Track ROI with our detailed analytics deck and optional dynamic‑ad extension.
 
 ### Book Your Episode
 
-> **Only 3 sponsored slots remain this quarter.**
-> Click **[Book Now](https://pages.jethrojones.com/products/sponsoredpodcast)** to lock in your recording date and secure your place in front of 50,000+ education leaders.
+**Only 3 sponsored slots remain this quarter.**
+
+Click **[Book Now](https://pages.jethrojones.com/products/sponsoredpodcast)** to lock in your recording date and secure your place in front of 50,000+ education leaders.
 
 ---
 
@@ -122,7 +130,7 @@ Slots are non‑refundable but transferrable within 12 months if rescheduling 
 Just a quiet room, a USB mic, and a stable internet connection. We’ll test beforehand.
 
 <script src="https://pages.jethrojones.com/commerce.js" async defer></script>
-<a class="convertkit-button" href="https://pages.jethrojones.com/products/sponsoredpodcast" data-commerce>Buy my product</a>
+<a class="convertkit-button" href="https://pages.jethrojones.com/products/sponsoredpodcast" data-commerce>Get a Sponsored Episode</a>
 
 ## Still not sure? 
 Let's chat over email: 

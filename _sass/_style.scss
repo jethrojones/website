@@ -227,7 +227,6 @@ code {
   height: 100%;
   border: 0;
 }
-
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
@@ -235,23 +234,26 @@ code {
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    text-align: center; /* Center text in the table */
 }
 
 .styled-table th,
 .styled-table td {
     padding: 12px 15px;
+    border: 1px solid #2e1d3c; /* Use your specified color for borders */
 }
 
 .styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #2e1d3c; /* Use your specified color for bottom border */
 }
 
+/* Remove alternating row colors */
 .styled-table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
+    background-color: transparent;
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #2e1d3c; /* Use your specified color for the last row border */
 }
 
 .styled-table tbody tr.active-row {

@@ -93,3 +93,4 @@ See examples below:
  ![EduTalk Radio](https://cdn-images-2.listennotes.com/images/podcasts/eZ8U09TOEPa/badge/?_gl=1*18lyi2k*_gcl_au*MTY5NDIzNjM2NC4xNzI3ODM5NzA5*_ga*MTU3MDQ3NzEzNC4xNzI2ODUyMTk4*_ga_T0PZE2Z7L4*MTczMjE0MjQyMC4xOC4xLjE3MzIxNDI0MzYuNDQuMC4w)
 
 ![Smarter Campus](https://cdn-images-2.listennotes.com/images/podcasts/s8eN6QBbg0A/badge/?_gl=1*19y9qky*_gcl_au*MTExODI3ODAzMS4xNzQ0ODk2Njg0*_ga*MTk4MzA0NDAzNC4xNzQ0ODk2NTc0*_ga_T0PZE2Z7L4*MTc0NDk5NTA0OC4yLjEuMTc0NDk5NTA1NS41My4wLjA.)
+
