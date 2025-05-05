@@ -23,14 +23,15 @@ I've launched more than 2 dozen podcasts into the top 10% and higher. 
 
 See examples below: 
 ## Secrets to an Awesome Life ![Secrets to an Awesome Life](https://cdn-images-2.listennotes.com/images/podcasts/s2XMkCe0Qy7/badge/?_gl=1*619bga*_gcl_au*MTMyOTYyNjYzNi4xNzQzNjEzNDExLjM1ODYwODQ3LjE3NDM2MjI1MDAuMTc0MzYyMjQ5OQ..*_ga*MjY5NTI3OTQ2LjE3NDM2MTM0MTE.*_ga_T0PZE2Z7L4*MTc0MzYyMjEyNC4zLjEuMTc0MzYyMjYyNy4zMi4wLjA.)
- ## Transformative Principal 
- ![Transformative Principal](https://cdn-images-2.listennotes.com/images/podcasts/YzmKZBM3DI6/badge/)
+## Transformative Principal 
+![Transformative Principal](https://cdn-images-2.listennotes.com/images/podcasts/YzmKZBM3DI6/badge/)
 
   
 
- ## The World Needs Men ![The World Needs Men](https://cdn-images-2.listennotes.com/images/podcasts/auQnz6vOf4t/badge/)
+## The World Needs Men ![The World Needs Men](https://cdn-images-2.listennotes.com/images/podcasts/auQnz6vOf4t/badge/)
 
- ## Designed For Greatness ![Designed For Greatness](https://cdn-images-2.listennotes.com/images/podcasts/aAnrTCYJ64K/badge/)
+
+## Designed For Greatness ![Designed For Greatness](https://cdn-images-2.listennotes.com/images/podcasts/aAnrTCYJ64K/badge/)
 
   
 
@@ -38,7 +39,7 @@ See examples below: 
 
   
 
- ## The Authority ![The Authority](https://cdn-images-2.listennotes.com/images/podcasts/_Cs5Op6jwFf/badge/)
+## The Authority ![The Authority](https://cdn-images-2.listennotes.com/images/podcasts/_Cs5Op6jwFf/badge/)
 
   
 
@@ -46,15 +47,15 @@ See examples below: 
 
   
 
- ## Super Human Fathers Transformation ![Super Human Fathers Transformation](https://cdn-images-2.listennotes.com/images/podcasts/riq37xF9ROU/badge/)
+## Super Human Fathers Transformation ![Super Human Fathers Transformation](https://cdn-images-2.listennotes.com/images/podcasts/riq37xF9ROU/badge/)
 
- ## Reimagine Schools ![Reimagine Schools](https://cdn-images-2.listennotes.com/images/podcasts/1NaBGxLO75S/badge/)
+## Reimagine Schools ![Reimagine Schools](https://cdn-images-2.listennotes.com/images/podcasts/1NaBGxLO75S/badge/)
 
   
 
- ## A Vision for Learning ![A Vision for Learning](https://cdn-images-2.listennotes.com/images/podcasts/AIrVYfpLxDO/badge/)
+## A Vision for Learning ![A Vision for Learning](https://cdn-images-2.listennotes.com/images/podcasts/AIrVYfpLxDO/badge/)
 
- ## The Cybertraps Podcast ![The Cybertraps Podcast](https://cdn-images-2.listennotes.com/images/podcasts/UvEwe9jtPZg/badge/)
+## The Cybertraps Podcast ![The Cybertraps Podcast](https://cdn-images-2.listennotes.com/images/podcasts/UvEwe9jtPZg/badge/)
 
   
 
@@ -68,15 +69,15 @@ See examples below: 
 
 ## The Teaching Kindness Podcast ![The Teaching Kindness Podcast](https://cdn-images-2.listennotes.com/images/podcasts/X73eQCqRKU2/badge/?_gl=1*1ayjrif*_gcl_au*MTMyOTYyNjYzNi4xNzQzNjEzNDExLjM1ODYwODQ3LjE3NDM2MjI1MDAuMTc0MzYyMjg3Nw..*_ga*MjY5NTI3OTQ2LjE3NDM2MTM0MTE.*_ga_T0PZE2Z7L4*MTc0MzYyMjEyNC4zLjEuMTc0MzYyMzEyOC42MC4wLjA.)
 
- ## PrincipalPLN ![PrincipalPLN](https://cdn-images-2.listennotes.com/images/podcasts/yNYxIznp-K_/badge/)
+## PrincipalPLN ![PrincipalPLN](https://cdn-images-2.listennotes.com/images/podcasts/yNYxIznp-K_/badge/)
 
   
 
-# ## FutureProofU ![FutureProofU](https://cdn-images-2.listennotes.com/images/podcasts/Ud5ITWtX-9c/badge/?_gl=1*16nnxx4*_gcl_au*NTEwNjI4ODI3LjE3MzU4NTg0MDI.*_ga*MTU3MDQ3NzEzNC4xNzI2ODUyMTk4*_ga_T0PZE2Z7L4*MTc0MDYwMTY4OC40OS4xLjE3NDA2MDE3NDQuNC4wLjA.)
+### FutureProofU ![FutureProofU](https://cdn-images-2.listennotes.com/images/podcasts/Ud5ITWtX-9c/badge/?_gl=1*16nnxx4*_gcl_au*NTEwNjI4ODI3LjE3MzU4NTg0MDI.*_ga*MTU3MDQ3NzEzNC4xNzI2ODUyMTk4*_ga_T0PZE2Z7L4*MTc0MDYwMTY4OC40OS4xLjE3NDA2MDE3NDQuNC4wLjA.)
 
   
 
- ## 20 Minutes of Teaching Brilliance ![20 Minutes of Teaching Brilliance](https://cdn-images-2.listennotes.com/images/podcasts/ElBJs5mfN8-/badge/)
+## 20 Minutes of Teaching Brilliance ![20 Minutes of Teaching Brilliance](https://cdn-images-2.listennotes.com/images/podcasts/ElBJs5mfN8-/badge/)
 
   
 
@@ -90,7 +91,7 @@ See examples below: 
 
 ## Tell Me This ![Tell Me This](https://cdn-images-2.listennotes.com/images/podcasts/dirC3Uo1OlH/badge/?_gl=1*1z0fbxn*_gcl_au*MTMyOTYyNjYzNi4xNzQzNjEzNDExLjM1ODYwODQ3LjE3NDM2MjI1MDAuMTc0MzYyMjQ5OQ..*_ga*MjY5NTI3OTQ2LjE3NDM2MTM0MTE.*_ga_T0PZE2Z7L4*MTc0MzYyMjEyNC4zLjEuMTc0MzYyMjY5My41OS4wLjA.)
 
- ## Morning Motivation for Edcuators ![Morning Motivation for Edcuators](https://cdn-images-2.listennotes.com/images/podcasts/xzpdQLAaIh3/badge/)
+## Morning Motivation for Edcuators ![Morning Motivation for Edcuators](https://cdn-images-2.listennotes.com/images/podcasts/xzpdQLAaIh3/badge/)
 
   
 
@@ -116,7 +117,7 @@ See examples below: 
 
   
 
- ## Better Teaching: Only Stuff that Works ![Better Teaching: Only Stuff that Works](https://cdn-images-2.listennotes.com/images/podcasts/bmtUPgKM61W/badge/)
+## Better Teaching: Only Stuff that Works ![Better Teaching: Only Stuff that Works](https://cdn-images-2.listennotes.com/images/podcasts/bmtUPgKM61W/badge/)
 
   
 
@@ -130,7 +131,7 @@ See examples below: 
 
   
 
- ## My Bonus Money ![My Bonus Money](https://cdn-images-2.listennotes.com/images/podcasts/hb4gq2J5cWm/badge/)
+## My Bonus Money ![My Bonus Money](https://cdn-images-2.listennotes.com/images/podcasts/hb4gq2J5cWm/badge/)
 
   
 
@@ -146,7 +147,7 @@ See examples below: 
 
 ## Why Distance Learning ![Why Distance Learning](https://cdn-images-2.listennotes.com/images/podcasts/QAFp7aHyiEj/badge/?_gl=1*lju77n*_gcl_au*MTMyOTYyNjYzNi4xNzQzNjEzNDEx*_ga*MjY5NTI3OTQ2LjE3NDM2MTM0MTE.*_ga_T0PZE2Z7L4*MTc0MzYyMjEyNC4zLjEuMTc0MzYyMjMwNS41OS4wLjA.)
 
- ## Let’s Talk Football ![Let’s Talk Football](https://cdn-images-2.listennotes.com/images/podcasts/H4-dKbnN1Ji/badge/?_gl=1*zfo496*_gcl_au*NTA5MTg3ODkxLjE3Mjg3MzQxODQ.*_ga*MTU0MDczODEyOS4xNzI3OTA2NjA1*_ga_T0PZE2Z7L4*MTczMTM4OTYwMS43LjEuMTczMTM4OTYxNy40NC4wLjA.)
+## Let’s Talk Football ![Let’s Talk Football](https://cdn-images-2.listennotes.com/images/podcasts/H4-dKbnN1Ji/badge/?_gl=1*zfo496*_gcl_au*NTA5MTg3ODkxLjE3Mjg3MzQxODQ.*_ga*MTU0MDczODEyOS4xNzI3OTA2NjA1*_ga_T0PZE2Z7L4*MTczMTM4OTYwMS43LjEuMTczMTM4OTYxNy40NC4wLjA.)
 
   
 
@@ -162,7 +163,7 @@ See examples below: 
 
   
 
- ## EduTalk Radio ![EduTalk Radio](https://cdn-images-2.listennotes.com/images/podcasts/eZ8U09TOEPa/badge/?_gl=1*18lyi2k*_gcl_au*MTY5NDIzNjM2NC4xNzI3ODM5NzA5*_ga*MTU3MDQ3NzEzNC4xNzI2ODUyMTk4*_ga_T0PZE2Z7L4*MTczMjE0MjQyMC4xOC4xLjE3MzIxNDI0MzYuNDQuMC4w)
+## EduTalk Radio ![EduTalk Radio](https://cdn-images-2.listennotes.com/images/podcasts/eZ8U09TOEPa/badge/?_gl=1*18lyi2k*_gcl_au*MTY5NDIzNjM2NC4xNzI3ODM5NzA5*_ga*MTU3MDQ3NzEzNC4xNzI2ODUyMTk4*_ga_T0PZE2Z7L4*MTczMjE0MjQyMC4xOC4xLjE3MzIxNDI0MzYuNDQuMC4w)
 
   
 
