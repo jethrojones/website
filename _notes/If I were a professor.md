@@ -2,7 +2,7 @@
 last_modified_at: 
 permalink: professor
 description: Explore a bold vision for higher education where students become co-creators, not just learners. Discover how class projects can transform into real-world contributions, from co-authored articles to podcasts, under a revolutionary teaching approach.
-title: If I were a Profoessor
+title: If I were a Professor
 image: 
 published: "true"
 sitemap: "true"
