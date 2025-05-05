@@ -13,5 +13,5 @@ date: 2025-05-01
 layout: page
 ---
 
-
+You are no longer subscribed to {% page.title %}
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
