@@ -30,6 +30,29 @@ Alternatively, you may deploy your garden to Netlify and it'll work out of the b
 
 If you don't care about the graph, you can simply remove it from this layout, [as explained here](https://github.com/maximevaillancourt/digital-garden-jekyll-template/discussions/132#discussioncomment-3625772).
 
+## Content Organization
+
+- Blog posts go in the `/_posts` directory
+- Notes go in the `/_notes` directory
+- Static pages go in the `/_pages` directory
+- Images and other assets go in the `/assets` directory
+
+## Customization
+
+The site can be customized by editing:
+- `_config.yml` for site-wide settings
+- `styles.scss` for custom styling
+- Layout files in `/_layouts` for structural changes
+
+## Source & References
+
+This project is based on the following resources by Maxime Vaillancourt:
+
+- [Digital Garden Jekyll Template Repository](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [Graph Data Generator Plugin](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/7ac331a4113bac77c993856562acc2bfbde9f2f7/_plugins/bidirectional_links_generator.rb#L102)
+- [Setup Tutorial](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
+- [Template Demo](https://digital-garden-jekyll-template.netlify.app/)
+
 ## License
 
 Source code is available under the [MIT license](LICENSE.md).
