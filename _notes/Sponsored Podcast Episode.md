@@ -34,15 +34,14 @@ layout: note
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
 
- Total Package Value: $10,000 All‑inclusive, no hidden fees.
+Total Package Value: $10,000 All‑inclusive, no hidden fees.
 
 A quick breakdown of what happens once you claim a slot:
 
-
 | **Phase**         | **What We Handle**                                                                                                                | **Your Role**                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| **Prep**          | Create a shared Google Doc + guiding prompts.                                                                                     | Outline the key points you want to highlight. |
-| **Recording**     | 30–45 min conversation via Riverside.fm.                                                                                          | Show up with a mic and your insights.         |
+| **Prep**          | Create a shared Google Doc + question prompts, talking points.                                                                    | Outline the key points you want to highlight. |
+| **Recording**     | 30–45 min conversation via our recording solution.                                                                                | Show up with a mic and your insights.         |
 | **Distribution**  | Episode simulcast on: Transformative Principal, AI Real Talk, Cybertraps, Resilient Schools, The Authority, Education Talk Radio. | Approve final cut.                            |
 | **Amplification** | 5 audiogram variations, scheduled over 30 days on LinkedIn, X, Instagram, Facebook.                                               | Like / repost as you wish.                    |
 | **Analytics**     | Monthly reach report (downloads + social impressions).                                                                            | Review ROI.                                   |
@@ -61,20 +60,9 @@ John Catt Educational - longtime sponsor
 
 One Ed-Tech Saas booked 75 meetings through our partnership and landed a six-figure contract with a school district. 
 
-<!-- Cal element-click embed code begins -->
-<script type="text/javascript">
-  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-Cal("init", "sp", {origin:"https://cal.com"});
+## Book Your Time Now
+Schedule a time that is convenient [for you here](https://cal.com/jethrojones/sp)
 
-  
-  // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
-  // `data-cal-link="jethrojones/sp"`
-  // data-cal-namespace="sp"
-  // `data-cal-config='{"layout":"week_view"}'`
-
-  Cal.ns.sp("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#FFA45E"},"dark":{"cal-brand":"#FFCE8E"}},"hideEventTypeDetails":false,"layout":"week_view"});
-  </script>
-  <!-- Cal element-click embed code ends -->
 ### Add‑On: Network‑Wide Dynamic Ads
 
 Boost your visibility even further with dynamically inserted 30‑second ads run across the entire BE Podcast Network catalog (back and future episodes).
@@ -110,7 +98,7 @@ Track ROI with our detailed analytics deck and optional dynamic‑ad extension.
 
 **Only 3 sponsored slots remain this quarter.**
 
-Click **[Book Now](https://pages.jethrojones.com/products/sponsoredpodcast)** to lock in your recording date and secure your place in front of 50,000+ education leaders.
+Click **[Book Now](http://cal.com/jethrojones/sp)** to lock in your recording date and secure your place in front of 50,000+ education leaders.
 
 ---
 
@@ -145,21 +133,8 @@ Slots are non‑refundable but transferrable within 12 months if rescheduling 
 
 **Q10. What gear do I need?**  
 Just a quiet room, a USB mic, and a stable internet connection. We’ll test beforehand.
-
-<!-- Cal element-click embed code begins -->
-<script type="text/javascript">
-  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-Cal("init", "sp", {origin:"https://cal.com"});
-
-  
-  // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
-  // `data-cal-link="jethrojones/sp"`
-  // data-cal-namespace="sp"
-  // `data-cal-config='{"layout":"week_view"}'`
-
-  Cal.ns.sp("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#FFA45E"},"dark":{"cal-brand":"#FFCE8E"}},"hideEventTypeDetails":false,"layout":"week_view"});
-  </script>
-  <!-- Cal element-click embed code ends -->
+## Schedule a time now
+Click [here to schedule a time](http://cal.com/jethrojones/sp) to discuss the details, and make sure we're a good fit for each other
 
 ## Still not sure? 
 Let's chat over email: 
