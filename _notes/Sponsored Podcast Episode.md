@@ -17,7 +17,7 @@ layout: note
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 
-## Share Your Story with 50,000+ Education Influencers—In One Sponsored Podcast Episode
+## Share Your Story with 50,000+ Education Decision-Makers—In One Sponsored Podcast Episode
 
 ### What You Get
 
@@ -50,13 +50,15 @@ A quick breakdown of what happens once you claim a slot:
 
 ### Why it works
 - Our audience is 80 % school or district leaders with purchasing authority.
-    
 - Episodes live forever in the feed—long‑tail traffic keeps rolling.
-    
 - You control timing: align with a launch, conference, or report drop.
-    
 
 We’ve helped authors hit Amazon #1, ed‑tech firms book demos within hours, and district initiatives explode in visibility.
+
+## Testimonial
+> "Most of the leads to our website are from Transformative Principal."
+
+John Catt Educational - longtime sponsor
 
 ### Add‑On: Network‑Wide Dynamic Ads
 
