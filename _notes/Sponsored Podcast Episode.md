@@ -33,9 +33,8 @@ layout: note
 * **Four branded audiograms** (five variations) promoted over 30 days on LinkedIn, X, Instagram, and Facebook.
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
- 
-<script src="https://pages.jethrojones.com/commerce.js" async defer></script>
-<a class="convertkit-button" href="https://pages.jethrojones.com/products/sponsoredpodcast" data-commerce>Total Package Value: $10,000 All‑inclusive, no hidden fees.</a>
+
+ Total Package Value: $10,000 All‑inclusive, no hidden fees.
 
 A quick breakdown of what happens once you claim a slot:
 
@@ -60,6 +59,22 @@ We’ve helped authors hit Amazon #1, ed‑tech firms book demos within hours, a
 
 John Catt Educational - longtime sponsor
 
+One Ed-Tech Saas booked 75 meetings through our partnership and landed a six-figure contract with a school district. 
+
+<!-- Cal element-click embed code begins -->
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "sp", {origin:"https://cal.com"});
+
+  
+  // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
+  // `data-cal-link="jethrojones/sp"`
+  // data-cal-namespace="sp"
+  // `data-cal-config='{"layout":"month_view"}'`
+
+  Cal.ns.sp("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#FFA45E"},"dark":{"cal-brand":"#FFCE8E"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal element-click embed code ends -->
 ### Add‑On: Network‑Wide Dynamic Ads
 
 Boost your visibility even further with dynamically inserted 30‑second ads run across the entire BE Podcast Network catalog (back and future episodes).
