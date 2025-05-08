@@ -35,7 +35,7 @@ layout: note
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
 
-Total Package Value: $10,000 All‑inclusive, no hidden fees.
+All‑inclusive price, no hidden fees.
 
 A quick breakdown of what happens once you claim a slot:
 
@@ -63,8 +63,7 @@ John Catt Educational - longtime sponsor
 
 
 
-## Book Your Time Now
-Schedule a time that is convenient [for you here](https://cal.com/jethrojones/sp)
+## Fill out the form below to be considered
 
 ### Add‑On: Network‑Wide Dynamic Ads
 
@@ -99,7 +98,7 @@ Track ROI with our detailed analytics deck and optional dynamic‑ad extension.
 
 ### Book Your Episode
 
-**Only 3 sponsored slots remain this quarter.**
+**Only 3 sponsored slots available this quarter.**
 
 Fill out the form below to lock in your recording date and secure your place in front of 50,000+ education leaders.
 
