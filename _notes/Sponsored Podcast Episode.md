@@ -30,6 +30,7 @@ layout: note
 	* Education Talk Radio top 10%, 
 	* Morning Motivation for Educators top 10%
 	* TLTalk Radio top 10%
+	* or choose from one of 37 other top 10% shows.
 * **Four branded audiograms** (five variations) promoted over 30 days on LinkedIn, X, Instagram, and Facebook.
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
@@ -53,12 +54,14 @@ A quick breakdown of what happens once you claim a slot:
 
 We’ve helped authors hit Amazon #1, ed‑tech firms book demos within hours, and district initiatives explode in visibility.
 
+One Ed-Tech Saas booked 75 meetings through our partnership and landed a six-figure contract with a school district. 
+
 ## Testimonial
 > "Most of the leads to our website are from Transformative Principal."
 
 John Catt Educational - longtime sponsor
 
-One Ed-Tech Saas booked 75 meetings through our partnership and landed a six-figure contract with a school district. 
+
 
 ## Book Your Time Now
 Schedule a time that is convenient [for you here](https://cal.com/jethrojones/sp)
@@ -98,7 +101,9 @@ Track ROI with our detailed analytics deck and optional dynamic‑ad extension.
 
 **Only 3 sponsored slots remain this quarter.**
 
-Click **[Book Now](http://cal.com/jethrojones/sp)** to lock in your recording date and secure your place in front of 50,000+ education leaders.
+Fill out the form below to lock in your recording date and secure your place in front of 50,000+ education leaders.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdq9e6MhEonWWF9WdfX8QFihf_LNf1pg_az1q2HWC6756r4lQ/viewform?embedded=true" width="640" height="2147" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
@@ -133,8 +138,8 @@ Slots are non‑refundable but transferrable within 12 months if rescheduling 
 
 **Q10. What gear do I need?**  
 Just a quiet room, a USB mic, and a stable internet connection. We’ll test beforehand.
-## Schedule a time now
-Click [here to schedule a time](http://cal.com/jethrojones/sp) to discuss the details, and make sure we're a good fit for each other
+
+
 
 ## Still not sure? 
 Let's chat over email: 
