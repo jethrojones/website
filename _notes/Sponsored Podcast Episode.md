@@ -35,7 +35,7 @@ layout: note
 * **Release‑date control & evergreen hosting** — you decide when the episode drops for maximum impact.
 * **Post‑campaign analytics report** covering downloads and social impressions.
 
-All‑inclusive price, no hidden fees.
+All‑inclusive price , no hidden fees.
 
 A quick breakdown of what happens once you claim a slot:
 
