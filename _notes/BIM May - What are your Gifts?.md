@@ -1,8 +1,8 @@
 ---
 last_modified_at: 
-permalink: 
+permalink: bimmay25
 description: 
-title: 
+title: BIM May - What are your Gifts?
 image: /assets/bimmay25.png
 published: "true"
 sitemap: "true"
