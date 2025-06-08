@@ -27,18 +27,28 @@ The blog posts are posts that I wrote many years ago, going all the way back to 
 
 I don't know if I'll migrate all my old blog posts over to "notes" or if they'll just stay as blog posts. It's all an experiment. 
 
-See below for my most recently updated notes. That's the last 10. 
+See below for my most recently updated notes.
 
 ## Recently updated notes
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 10 %}
+  {% for note in page.paginated_notes %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+{% if page.notes_paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if page.notes_paginator.previous_page_path %}
+    <a href="{{ site.baseurl }}{{ page.notes_paginator.previous_page_path }}">&laquo; Previous</a>
+  {% endif %}
+  {% if page.notes_paginator.next_page_path %}
+    <a href="{{ site.baseurl }}{{ page.notes_paginator.next_page_path }}">Next &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}
 
 
 

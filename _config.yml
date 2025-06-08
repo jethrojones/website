@@ -15,7 +15,7 @@ use_html_extension:  false
 open_external_links_in_new_tab: false
 
 # Set to `true` to replace tweet URLs with Twitter embeds.
-# Note that doing so will negatively the reader's privacy
+# Note that doing so will negatively impact the reader's privacy
 # as their browser will communicate with Twitter's servers.
 embed_tweets: true
 
@@ -39,6 +39,8 @@ instagram_url: https://instagram.com/jethrojones
 
 paginate: 5 # Number of posts per page
 paginate_path: "/blog/page:num/" # Path for paginated pages
+notes_per_page: 10 # Number of notes per page
+notes_paginate_path: "/page:num/" # Path for paginated notes
 
 
 
