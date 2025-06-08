@@ -4,6 +4,8 @@ module Jekyll
       @site = site
       @base = base
       @dir  = dir
+      # Remove permalink so each generated page uses its directory path
+      self.data.delete('permalink')
       @name = 'index.name'
 
 
