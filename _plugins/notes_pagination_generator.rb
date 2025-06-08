@@ -6,6 +6,7 @@ module Jekyll
       @dir  = dir
       @name = 'index.name'
 
+
       process(@name)
       self.content = index.content
       self.data = index.data.dup
