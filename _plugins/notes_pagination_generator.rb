@@ -4,7 +4,8 @@ module Jekyll
       @site = site
       @base = base
       @dir  = dir
-      @name = index.name
+      @name = 'index.name'
+
 
       process(@name)
       self.content = index.content
