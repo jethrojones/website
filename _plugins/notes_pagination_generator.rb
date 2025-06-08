@@ -1,5 +1,5 @@
 module Jekyll
-  class NotesPaginatedIndex < Page
+  class NotesPaginatedIndex < PageWithoutAFile
     def initialize(site, base, dir, index, notes, page_num, total_pages, paginate_path)
       @site = site
       @base = base
@@ -32,13 +32,20 @@ module Jekyll
       paginate_path = site.config['notes_paginate_path'] || '/page:num/'
       total_pages = (notes.size.to_f / per_page).ceil
 
-      (1..total_pages).each do |num|
-        dir = num == 1 ? '' : paginate_path.sub(':num', num.to_s).sub(%r!^/!, '')
+      # Update the existing index page as the first page of the paginator
+      index.data['paginated_notes'] = notes.slice(0, per_page) || []
+      index.data['notes_paginator'] = {
+        'current_page' => 1,
+        'total_pages' => total_pages,
+        'previous_page_path' => nil,
+        'next_page_path' => total_pages > 1 ? paginate_path.sub(':num', '2') : nil
+      }
+
+      (2..total_pages).each do |num|
+        dir = paginate_path.sub(':num', num.to_s).sub(%r!^/!, '')
         paginated_notes = notes.slice((num - 1) * per_page, per_page) || []
         site.pages << NotesPaginatedIndex.new(site, site.source, dir, index, paginated_notes, num, total_pages, paginate_path)
       end
-
-      site.pages.delete(index)
     end
   end
 end
