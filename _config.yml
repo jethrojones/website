@@ -39,6 +39,8 @@ instagram_url: https://instagram.com/jethrojones
 
 paginate: 5 # Number of posts per page
 paginate_path: "/blog/page:num/" # Path for paginated pages
+notes_per_page: 10 # Number of notes per page
+notes_paginate_path: "/page:num/" # Path for paginated notes
 
 
 
