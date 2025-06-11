@@ -36,7 +36,7 @@ Blog Posts:
 
 ## AILeader Office Hours
 
-- [April AILeader Office Hours](https://www.icloud.com/invites/044YxoYP-Sk75lwbsb6PV_tAQ
+- Register for [AILeader Office Hours here](https://jethro.webinarninja.com/series-webinars/6748/register).
 - [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
 
 ## Work With Me. 
