@@ -1,14 +1,14 @@
 ---
-last_modified_at: 
-permalink: 
-description: 
-title: 
-image: 
+last_modified_at:
+permalink: aiofficejun25
+description:
+title:
+image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category:
+tags:
 date: 2025-05-01
 layout: note
 ---
@@ -31,5 +31,11 @@ I want to create a web site that sends them a text message for daily action they
 - [Ultimate Tic Tac Toe](https://ultimate-tic-tac-toe-jethrojones.replit.app)
 - 321Budget (still in Beta!)
 
+## Register/Watch the replay
+<!-- WebinarNinja embedding registration form -->
+<iframe style="min-width: 320px; width: 100%; height: 0; border: 0; overflow: hidden;"
+        class="webinarninja-embedding-registration-form-9733"
+        src="https://my.webinarninja.com/embedding-form/9733"></iframe>
+<script>function updateIframe(e){switch(e.type){case"resizeIframe":this.style.height=e.height+"px";break;case"iframeDownloadFailed":this.hidden=!0;break;default:return}}window.addEventListener("message",function(e){var a=document.querySelectorAll(e.data.id);[].forEach.call(a,function(a){updateIframe.call(a,e.data)})});</script>
 
 [[Everything AI]]
