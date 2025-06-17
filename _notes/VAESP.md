@@ -1,18 +1,23 @@
 ---
-last_modified_at: 2025-04-07 21:25:53
+last_modified_at: 2025-06-16
 permalink: vaesp
-description: 
+description:
 title: VAESP
 image: /assets/vaesp-logo.jpg
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
 category: events
-tags: 
+tags:
 date: 2025-01-08
 layout:
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
+# VAESP 2025 Conference, Virginia Beach, VA
+## Keynote Resources
+## How to Use AI in a Smart Way Resources
+
 # VAESP Lunch and Learn 2025-01-09
 ## Solve Real Problems
 ### Data

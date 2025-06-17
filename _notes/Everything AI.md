@@ -38,6 +38,7 @@ Blog Posts:
 
 - Register for [AILeader Office Hours here](https://jethro.webinarninja.com/series-webinars/6748/register).
 - [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
+- [[AI Leader Office Hours June 2025]]
 
 ## Work With Me. 
 Let's work together and design a solution. Reach [out here](mailto:jethro@transformativeprincipal.com). 
