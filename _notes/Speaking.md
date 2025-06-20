@@ -42,7 +42,7 @@ Sharing what I learn is very important to me. Here you will find links and resou
 # 2025
 January 8: AI For Leadership Teams with [[OSPI Graduation Equity Webinar]]
 
-January 9: [[VAESP]] Lunch and Learn on AI
+January 9: [[VAESP Presentation Resources]] Lunch and Learn on AI
 
 January 22: Basecamp Beyond Business Webinar. [Register here](https://www.crowdcast.io/c/s4xt6xh33v4e)
 

@@ -16,6 +16,12 @@ This page includes some of my favorite AI tools for educators right now. Updated
 # [ListenLater](https://www.listenlater.net/?referrer=kyV9NmZBdeJV4wcL)
 This app allows you to send articles and PDFs directly to your podcast app so you can listen whenever you want. I wrote [[Listen Later|about it here]].
 
+## Building Apps with AI 
+These apps allow you to be a director of coding. You can make apps, web sites, games, and so much more. 
+- [Replit](https://replit.com/refer/jethrojones) is my personal favorite because I've actually published two apps with it already, and have more on the way! 
+- [Manus](https://manus.im/invitation/CNOZVQEEPWP2WVO) - I've used this one but it wasn't good enough when I used it. 
+- [Lovable](https://lovable.dev) - Great app. 
+- [Bolt](https://bolt.new) - Seem some other people make really amazing things. 
 ## [Poe.com](https://poe.com)
 Poe gives you access to many different AI tools and agents, allowing you to compare responses and get very specific needs met. Like Ludia, which is an AI designed specifically for Universal Design for Learning. 
 

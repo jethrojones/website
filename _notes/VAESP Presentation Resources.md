@@ -1,8 +1,8 @@
 ---
-last_modified_at: 2025-06-17 20:32:51
+last_modified_at: 2025-06-23
 permalink: vaesp
 description:
-title: VAESP
+title: VAESP Presentation Resources
 image: /assets/vaesp-logo.jpg
 published: "true"
 sitemap: "true"
@@ -16,7 +16,11 @@ layout:
 
 # VAESP 2025 Conference, Virginia Beach, VA
 ## Keynote Resources
+[Start here](https://docs.google.com/forms/d/e/1FAIpQLSeqm-1eQiWOyYLZBDVko5CUuN0oB3e_WnnLhnJF2Bs6xZU3ag/viewform?usp=dialog)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqm-1eQiWOyYLZBDVko5CUuN0oB3e_WnnLhnJF2Bs6xZU3ag/viewform?embedded=true" width="640" height="1080" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ## How to Use AI in a Smart Way Resources
+- Create your own app with [Replit](https://replit.com/refer/jethrojones)
+- 
 
 # VAESP Lunch and Learn 2025-01-09
 ## Solve Real Problems

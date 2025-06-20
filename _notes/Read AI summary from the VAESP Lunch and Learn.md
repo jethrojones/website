@@ -18,7 +18,7 @@ layout: note
 # Lunch and Learn; Artificial Intelligence and the School Leader 
 Thu, Jan 9, 2025
 
-Summary from [[VAESP]] Lunch and Learn
+Summary from [[VAESP Presentation Resources]] Lunch and Learn
 
 Krista Arnold opened the session by welcoming participants to VAESP's January Lunch and Learn and introduced Jethro Jones, who had previously conducted a training in October 2023. She provided information about the upcoming summer conference scheduled for June 22nd to 24th, urging attendees to register early due to limited hotel availability. Jethro expressed his enthusiasm for returning and prompted attendees to share their motivations for attending the session focused on AI, highlighting the rapid advancements in AI technology and the challenges these developments pose for many.
 

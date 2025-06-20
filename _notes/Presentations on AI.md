@@ -34,7 +34,7 @@ Here are just some of the topics that I've presented on:
 * TOC 
 {:toc}
 
-## [[VAESP]] Lunch and Learn
+## [[VAESP Presentation Resources]] Lunch and Learn
 ## [[alasbo]] Alaska School Business Official Conference
 
 ## Alaska Municipal League [[akml]]
