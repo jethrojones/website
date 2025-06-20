@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-03-17 21:51:27
+last_modified_at: 2025-06-20 19:03:22
 permalink: speaking
 description: Jethro Jones speaking page gives details about speaking engagements past, present and future
 title: Presentations and Speaking
