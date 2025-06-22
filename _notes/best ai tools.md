@@ -17,11 +17,16 @@ This page includes some of my favorite AI tools for educators right now. Updated
 This app allows you to send articles and PDFs directly to your podcast app so you can listen whenever you want. I wrote [[Listen Later|about it here]].
 
 ## Building Apps with AI 
+[![](https://share.cleanshot.com/sdtht92y+)](https://replit.com/refer/jethrojones)
 These apps allow you to be a director of coding. You can make apps, web sites, games, and so much more. 
 - [Replit](https://replit.com/refer/jethrojones) is my personal favorite because I've actually published two apps with it already, and have more on the way! 
 - [Manus](https://manus.im/invitation/CNOZVQEEPWP2WVO) - I've used this one but it wasn't good enough when I used it. 
 - [Lovable](https://lovable.dev) - Great app. 
 - [Bolt](https://bolt.new) - Seem some other people make really amazing things. 
+
+# [Napkin](https://napkin.ai)
+[![](https://www.napkin.ai/assets/napkin-logo-2024-beta.svg)](https://napkin.ai)
+Build beautiful graphs and charts very easily with AI. 
 ## [Poe.com](https://poe.com)
 Poe gives you access to many different AI tools and agents, allowing you to compare responses and get very specific needs met. Like Ludia, which is an AI designed specifically for Universal Design for Learning. 
 
@@ -36,7 +41,7 @@ Use this to help you unpack standards, create lessons plans and assessments, tha
 With Typpo, you can effortlessly create engaging videos in seconds. Simply speak into your phone and let our advanced A.I. technology transform your words into fun and visually stunning animations. You don't need any design skills to get started - anyone can use Typpo to share their ideas with the world. Share your videos directly from the app on your favorite social media channels or send them as messages to your friends and family. 
 
 ## [Pi - Your Personal AI](https://pi.ai)
-[![](https://share.cleanshot.com/l5CJ6Hy3+)](https://typpo.app)
+[![](https://share.cleanshot.com/l5CJ6Hy3+)](https://pi.ai)
 Pi's goal is to be useful, friendly and fun. Ask it for advice, for answers, or talk about whatever’s on your mind.
 
 ## [SchoolAI](https://schoolai.com)
@@ -48,7 +53,7 @@ SchoolAI is developing an AI-powered Learning Experience Management (LXM) system
 
 ## [Castmagic](https://get.castmagic.io/abqcp2fmiz0s)
 
-[![](https://file.notion.so/f/s/850b1ee7-e877-4164-95b4-655ea3af433a/castmagic_logo_text.png?id=debf3970-b6bc-4f71-b7b8-87bf611bfc92&table=block&spaceId=c6c94bb1-5c7c-4e81-b7c2-24788dfa3c89&expirationTimestamp=1698782400000&signature=OcTeOSXqiBGu3kCjdUGhncxGLnkPmO5K7i1s-pO6g64&downloadName=castmagic+logo+text.png)](https://get.castmagic.io/abqcp2fmiz0s)
+[![](https://cdn.prod.website-files.com/63b9c43cf803b0007440fa38/6592b77218147d2fdff010a3_Logo.svg)](https://get.castmagic.io/abqcp2fmiz0s)
 
 Castmagic is an AI audio-first content workspace. It allows you to turn any audio file or video into more content. Upload and generate all your ready-to-publish content. Think of it as a platform that helps you extract all of the value that sits within your content. I use this for my many podcasts to create shownotes, blog posts, social media, and so much more.
 
@@ -80,17 +85,6 @@ Pressto is a writing and micro-journalism platform for Kindergarten through Midd
 
 Quizalize is an educational platform that engages students with fun, standards-tagged quizzes. It provides instant data on student mastery, supports personalized teaching, and offers automatically differentiated follow-up activities.
 
-## [Education Copilot](https://educationcopilot.com)
-
-[![](https://lh4.googleusercontent.com/rcOSX3SciNecpi4DpdtLG9QxFXaYUy55FUtNnWqyTYg78c9YZtZLBbENRW3DuU2liKeWAphy6IG4dUEElvY_o1UG6y20ALM9IbjYH5PjJtqxoIy0oF__pyWGX27GRLx8ofa5BvcG9wleWiROYHtvAjoEFA=s2048)](https://educationcopilot.com)
-
-Education Copilot is an AI-powered tool that generates lesson plans, PowerPoints, and other educational materials. It streamlines planning and preparation, supporting both English and Spanish, and is used by over 200 teachers.
-
-## [Tome](https://tome.app/)
-
-[![](https://lh5.googleusercontent.com/dicXHp-QP-mQmtK-CQGLXHYY_sLEwyOzlongvTTPXfwvaE3vcJ4KXiGULy6fmbLrwVyZ1_12oiydtrXseuTeu-PNlr6FeWFnZQ94kdyBHFlpomIw-9LcPzWl7P-oKSSNW2XQ2NpczHh1k80_GktF8x_zHA=s2048)](https://tome.app/)
-
-Tome is a web-based platform that uses AI to help users express their ideas. It generates content, images, presentations, landing pages, and more. It features a fluid, multimedia canvas and offers interactive embeds for enhanced communication.
 
 ## [Curipod](https://curipod.com)
 
@@ -113,18 +107,12 @@ Formative AI is a feature of Formative that uses artificial intelligence to inst
 
 
 
-## [Playlab.ai](https://playlab.ai)
 
-[![](https://lh3.googleusercontent.com/T3MFTO3HE5_2grU9DiEwjZRUXzkUeotAUdt_LkSGDkRgro4fmJiiBPatUoeniuh-iSHS-rU0MmnceUgcociubuG3NkERfTT3VZHDWyIu3c_LH6DQV6JVKZSYzdAK0ja-H2niXi8V9MRsgg3qS7TUlbOQTA=s2048)](https://playlab.ai)
-
-Playlab.ai is a platform where educators and students can build AI-powered tools for their own educational contexts. It offers tools for time-saving, creative brainstorming, project-based experiences, and knowledge exploration.
-
-
-## [Canva AI Image Generator](https://www.canva.com/ai-image-generator/)
+## [Canva ](https://www.canva.com/ai-image-generator/)
 [![](https://lh4.googleusercontent.com/duChJB6kyVXZhQ-H7P4_dzyOruVo_fAlXstrmah7wjJDHS3Pp6smSdDubd7oF0poTw07Rh3SbxalSKtu8VJRLRq1fnL4vJ7V4SxuSn9wmwkV3aTIh7UG6uojKeCOqabulfpxtypUeOckGJe0lHf68cSCGA=s2048)](https://www.canva.com/ai-image-generator/)
 
 Dream it up, then add it to your design. Watch your words and phrases transform into beautiful images with
-Text to Image, Canva's Al image generator. Stand out with an image perfect for your project.
+
 
 
 ## [Gamma App](https://gamma.app/signup?r=kxaudzi5nsldj5l)
@@ -134,14 +122,3 @@ Text to Image, Canva's Al image generator. Stand out with an image perfect for y
 
 [Gamma App](https://gamma.app/signup?r=kxaudzi5nsldj5l) is an AI-powered platform for creating engaging presentations, documents, or webpages in seconds. It offers one-click restyling, live presentation mode, built-in analytics, and supports embedding various content types.
 
-## [aiEDU](https://www.aiedu.org)
-[![](https://lh6.googleusercontent.com/2oqqdCkRhOLxpHJEFMxgcn1sR6wlnwFkGkjBpMHSk32pYVozKewxSZR1Yz8y9t7b-1lBSCb1qwcA-FhuHDyUoWiTNiJJghoZ3UId3xletP4UaxDo9iPVrONKCxa9j3MjUFgpRGSqRy0ByDco1_VOQmgjXg=s2048)](https://www.aiedu.org)
-
-
-aiEDU is a non-profit organization that creates equitable learning experiences to build foundational AI literacy. They offer free, engaging curricula and empower educators with training experiences to help students thrive in an AI-driven world.
-
-## [Copy.ai](https://www.copy.ai)
-
-[![](https://lh5.googleusercontent.com/DINe3sqcK1nuYSbLVxPfPkkDS1_ey3ZD8hVAH0E3cr6jMtmbCk_6AlmJb3xmfc48sXug2n6bkyArgUrFAYCZds72GhHlXv10M24YUAebRs8Okov4nQCvmnfM18Sc6DFpUam7LB2UZPdJt2CkQ7GY6Y_sTA=s2048)](https://www.copy.ai)
-
-Copy.ai is an AI-powered tool that generates high-quality marketing copy in seconds. It assists in creating content for blogs, social media posts, ads, and more, streamlining the content creation process.
