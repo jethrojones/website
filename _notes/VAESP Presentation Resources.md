@@ -22,6 +22,10 @@ layout:
 - Create your own app with [Replit](https://replit.com/refer/jethrojones)
 - [Get Principal Turbo](https://chatgpt.com/g/g-LJH7o21aD-get-principal-turbo) - Make a ChatGPT that is unique to you. 
 - Explore the [[best ai tools]] on your own
+### App Design Ideas
+- [[Caroline Classroom Observation]]
+- [[Candy Teacher Referral]]
+- [[Val Meditation Reminder App]]
 
 # VAESP Lunch and Learn 2025-01-09
 ## Solve Real Problems
