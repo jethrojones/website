@@ -28,6 +28,7 @@ This is the place to find everything about AI on my site (hopefully I can keep i
 - [[AI As a Fundamental Expectation]]
 - [[Case Study Video]]
 - [[Agentic Video Editing with Descript]]
+- [[Our System is Designed to Enable Cheating]]
 
 Blog Posts:
 - [Testing a couple different solutions with AI](https://jethro.site/podcast/2023/12/22/testing-a-couple-different-solutions-with-ai/)
