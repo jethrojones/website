@@ -18,6 +18,7 @@ layout:
 ## Keynote Resources
 
 - [Keynote Presentation](https://sharing.ia.net/presenter/43d78cd42de246988703a01c5c1f774b/view)
+- Keynote [Presentation on ResearchGate](https://www.researchgate.net/publication/393232982_How_Principals_can_Use_Artificial_Intelligence)
 ## How to Use AI in a Smart Way Resources
 - Create your own app with [Replit](https://replit.com/refer/jethrojones)
 - [Get Principal Turbo](https://chatgpt.com/g/g-LJH7o21aD-get-principal-turbo) - Make a ChatGPT that is unique to you. 
