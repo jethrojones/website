@@ -1,4 +1,20 @@
-Nephi knew that his preaching would bring many people to Christ, and he rejoiced. He was called to the work. He started preaching, and became very good, and God said, “No, it’s not the preaching.” Nephi was bummed. He wished he didn’t have to write things because speaking was so much better, and he was better at it. 
+---
+last_modified_at:
+permalink: stonebread
+description: Explore the profound journey of faith and understanding in "Stone or Bread," where life's unexpected challenges are seen as divine opportunities. Delve into the teachings of prophets and personal stories that reveal how perceived setbacks can transform into blessings, guiding us closer to God's plan. Discover how to embrace trials with faith, recognizing that what seems like a stone may indeed be the bread of life.
+title: When the Stone turns to Bread
+image:
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: talks
+tags:
+date: 2025-06-29
+layout: note
+---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}Nephi knew that his preaching would bring many people to Christ, and he rejoiced. He was called to the work. He started preaching, and became very good, and God said, “No, it’s not the preaching.” Nephi was bummed. He wished he didn’t have to write things because speaking was so much better, and he was better at it. 
 
 Alma, a great prophet, wished that he were an angel, and could declare the word with a trump. He said, “I ought to be content with the things the Lord has allotted me ([Alma 29](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=eng&id=p6#p6))
 
