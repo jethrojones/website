@@ -15,7 +15,6 @@ layout: note
 
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
-Hi Franklin, 
 
 I spoke about this [Cognitive Debt](https://arxiv.org/abs/2506.08872) report at a [[VAESP Presentation Resources|conference in Virginia]] this week. 
 
