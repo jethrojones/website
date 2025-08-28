@@ -89,6 +89,6 @@ With all these steps together, I have the information that I need right at my fi
 
 It's still hard work, and it still takes effort, but I've been laying the ground work for this type of approach for years. And it's finally paying off in a big way. 
 
-Next step is my dissertation proposal. 
+Next step is my [[dissertation proposal]]. 
 
 [^1]: Often, I skip this step because I don't know if it really has something useful until I add it to a paper. Then, I will add it to Zotero.
