@@ -1,7 +1,20 @@
 ---
-layout: post
-
+last_modified_at:
+permalink: noexpectations
+description:
+title: The Power of No Expectations
+image:
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category:
+tags:
+date: 2024-12-04
+layout: note
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 Here's why you should ditch your high expectations and have NO expectations for people instead. 
 
 Short version, regardless of whatever expectations you have of people, you still can't control them. 
