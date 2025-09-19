@@ -36,7 +36,7 @@ So, I turned to trusty ChatGPT to do this for me. I asked it to create a script 
 
 You can download this shortcut yourself and try it out by clicking this [link](https://www.icloud.com/shortcuts/5d0f1214733a46ba856a210155d929eb). 
 
-Let me include [the code here](https://gist.github.com/jethrojones/f4f6f930e3bb62971b607dcafb4b6080) as well, with comments included by ChatGPT, because I have directed ChatGPT to include verbose comments when it writes code for me so I can understand what is happening. 
+Let me include the code here as well, with comments included by ChatGPT, because I have directed ChatGPT to include verbose comments when it writes code for me so I can understand what is happening. 
 
 ```
 #!/bin/bash
@@ -120,3 +120,5 @@ echo "OK"
 If you need to add more/different sources from your original file, you can easily do that by updating which fields you want to split out. I know I only use mic channels 1 and 2, so I don't need anything else there. 
 
 My resulting folder of split WAV files came in at 2.46 GB instead of 34GB, and my files are now split appropriately for importing into Descript in a much easier and appropriate way. 
+
+I then asked ChatGPT to make a version that I could share with others if they have different needs. You can get [that here](https://gist.github.com/jethrojones/f4f6f930e3bb62971b607dcafb4b6080).
