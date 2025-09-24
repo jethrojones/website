@@ -1,5 +1,5 @@
 ---
-last_modified_at:
+last_modified_at: 2025-09-24 15:44:15
 permalink: spelljif
 description:
 title: Resources for the SPELL JIF Retreat
