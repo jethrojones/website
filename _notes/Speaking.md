@@ -11,6 +11,8 @@ tags:
 layout: note
 date: 2024-03-01
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5p5DWzWAWM?si=cv5fbkiRGm7JSWhH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Go here for [[Presentations on AI]].
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
 
@@ -51,6 +53,14 @@ February 14: Buckeye Union High School District Day of Learning
 March 21: Bishop Brady High School on AI
 
 June 23: Virginia Association of Elementary School Principals
+
+July: Saere Energie, GMBH, Germany
+
+August: May Demonstration School, Tulsa, OK
+
+September: SPELL JIF Retreat, Cape May, NJ
+
+November: Wyoming Principal Association Fall conference.
 # 2024
 Monthly: AILeader Office Hours - 3rd Tuesday of each month.
 
