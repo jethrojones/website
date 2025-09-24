@@ -4,13 +4,12 @@ module Jekyll
       @site = site
       @base = base
       @dir  = dir
-      @name = 'index.name'
-
+      @name = index.name
 
       process(@name)
       self.content = index.content
       self.data = index.data.dup
-       # Remove permalink so each generated page uses its directory path
+      # Remove permalink so each generated page uses its directory path
       self.data.delete('permalink')
       self.data['paginated_notes'] = notes
       self.data['notes_paginator'] = {
