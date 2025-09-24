@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -99,49 +102,26 @@ var _segs = _segs || {};
 <h2 id="recently-updated-notes">Recently updated notes</h2>
 
 <ul>
-  
-  
+  {% for note in page.paginated_notes %}
+    {% assign last_updated = note.last_modified_at | default: note.date %}
     <li>
-      2025-05-02 — <a class="internal-link" href="/korenotes">Korenotes</a>
+      {{ last_updated | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url | relative_url }}">{{ note.title }}</a>
     </li>
-  
-    <li>
-      2025-05-02 — <a class="internal-link" href="/sponsoredpodcast">Sponsored Podcast Episode</a>
-    </li>
-  
-    <li>
-      2025-05-02 — <a class="internal-link" href="/projects">Projects</a>
-    </li>
-  
-    <li>
-      2025-05-01 — <a class="internal-link" href="/default">Default</a>
-    </li>
-  
-    <li>
-      2025-05-01 — <a class="internal-link" href="/professor">If I were a Profoessor</a>
-    </li>
-  
-    <li>
-      2025-04-30 — <a class="internal-link" href="/decisions">“Your Decision, My Decision, Our Decision”: A Principal’s Guide to Clarity and Vision in Decision-Making</a>
-    </li>
-  
-    <li>
-      2025-04-30 — <a class="internal-link" href="/be-a-creator-not-a-consumer">Be a creator, not a consumer</a>
-    </li>
-  
-    <li>
-      2025-04-30 — <a class="internal-link" href="/adntbfapp">Building an App I will use Daily</a>
-    </li>
-  
-    <li>
-      2025-04-26 — <a class="internal-link" href="/descriptagentic">Exploring Descript's Agentic Editing</a>
-    </li>
-  
-    <li>
-      2025-04-26 — <a class="internal-link" href="/ai">Everything AI</a>
-    </li>
-  
+  {% endfor %}
 </ul>
+
+{% assign paginator = page.notes_paginator %}
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page_path %}
+  <a class="internal-link previous" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
+  <span class="page-number">Page {{ paginator.current_page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page_path %}
+  <a class="internal-link next" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</nav>
+{% endif %}
 
 <h2 id="these-are-all-the-blog-posts-from-my-blogger-and-squarespace-blogs">These are all the blog posts from my Blogger and Squarespace Blogs</h2>
 <style>
