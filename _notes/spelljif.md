@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-09-24 21:26:36
+last_modified_at: 2025-09-24 21:50:18
 permalink: spelljif
 description: Explore the comprehensive resources for the SPELL JIF Retreat, including impactful videos, insightful presentations, and discussions on environmental impact. Access valuable materials like Jethro's presentation and learn about the best AI tools available today
 title: Resources for the SPELL JIF Retreat
