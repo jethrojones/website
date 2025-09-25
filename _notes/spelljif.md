@@ -25,6 +25,8 @@ layout: note
 - [[best ai tools|Best AI Tools you can try out today]]
 - [Perplexity Comet Browser](https://www.perplexity.ai/comet)
 - [[Everything AI]]
-
+- Build your own apps and web sites with [Replit](https://replit.com/refer/jethrojones)
+	- [Ultimate Tic Tac Toe](https://ultimate-tic-tac-toe-jethrojones.replit.app)
+	- [10 Year Journal](https://adntbf.com)
 
 
