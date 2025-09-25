@@ -34,11 +34,15 @@ Here are just some of the topics that I've presented on:
 * TOC 
 {:toc}
 
-## [[spelljif|SPELL JIF]] - I spoke to members of a school insurance pool to teach them about what is happening in schools with AI right now! 
-## [[VAESP Presentation Resources]] Lunch and Learn
-## [[alasbo]] Alaska School Business Official Conference
+## [[spelljif|SPELL JIF]]  
+I spoke to members of a school insurance pool to teach them about what is happening in schools with AI right now! 
+## [[VAESP Presentation Resources]] 
+Lunch and Learn
+## [[alasbo|ALASBO]] 
+Alaska School Business Official Conference
 
-## Alaska Municipal League [[akml]]
+## [[akml|AKML]]
+Alaska Municipal League 
 ## How AI in Employee Evaluations Can Enhance Human Flourishing
 
 AI can transform employee evaluations to not only improve performance but also foster personal and professional growth, contributing to human flourishing:
