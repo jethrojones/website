@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-10-03 17:40:50
+last_modified_at: 2025-10-06T16:35
 permalink: spelljif
 description: Explore the comprehensive resources for the SPELL JIF Retreat, including impactful videos, insightful presentations, and discussions on environmental impact. Access valuable materials like Jethro's presentation and learn about the best AI tools available today
 title: Resources for the SPELL JIF Retreat
@@ -16,7 +16,6 @@ layout: note
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-# Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeqm-1eQiWOyYLZBDVko5CUuN0oB3e_WnnLhnJF2Bs6xZU3ag/viewform?usp=dialog)
 
 # Resources
 - The original video of [parents of suicide victims testifying to congress](https://www.youtube.com/watch?si=bjCOndsFoc4rMPMA&v=r1b9kUpghXE&feature=youtu.be).
