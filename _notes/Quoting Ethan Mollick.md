@@ -1,5 +1,5 @@
 ---
-title: Real AI Agents and Real Work
+title: Ethan Mollick on Real AI Agents and Real Work
 source: https://www.oneusefulthing.org/p/real-ai-agents-and-real-work
 author:
   - "[[Ethan Mollick]]"
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 category:
 layout: note
 date: 2025-10-02T07:32
-last_modified_at: 2025-10-06T16:30
+last_modified_at: 2025-10-06T16:37
 ---
 
 
@@ -22,5 +22,3 @@ last_modified_at: 2025-10-06T16:30
 
 > Agents are here. They can do real work, and while that work is still limited, it is valuable and increasing. But the same technology that can replicate academic papers in minutes can also generate 17 versions of a PowerPoint deck that nobody needs. The difference between these futures isn’t in the AI, it’s in how we choose to use it. By using our judgement in deciding what’s worth doing, not just what can be done, we can ensure these tools make us more capable, not just more productive.
 
-<%* if (tp.frontmatter.source && tp.frontmatter.author) { -%>
-via [<% tp.frontmatter.author %>](<% tp.frontmatter.source %>)<%* } %>
