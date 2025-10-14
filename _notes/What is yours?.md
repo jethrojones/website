@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-08T11:22
-last_modified_at: 2025-10-14T10:05
+last_modified_at: 2025-10-14T12:36
 ---
 
 
@@ -30,7 +30,7 @@ The relationship will end.
 
 The position will end. 
 
-What you must understand is that there is an end to everything. 
+What you must understand is that [[On Lasting Forever|nothing lasts forever]].
 
 So start with an idea of how you will leave it. 
 
