@@ -1,7 +1,7 @@
 ---
 permalink:
 description:
-title:
+title: October Fast Sunday Family Feast - Australian Food
 image: /assets/octoberfsff.jpeg
 published: "true"
 sitemap: "true"
@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-07T01:03
-last_modified_at: 2025-10-07T13:59
+last_modified_at: 2025-10-10T13:42
 ---
 
 
