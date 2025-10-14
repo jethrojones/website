@@ -1,14 +1,14 @@
 ---
-last_modified_at: 
-permalink: 
-description: 
-title: 
-image: 
+last_modified_at: 2025-10-14T12:46
+permalink:
+description:
+title:
+image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category:
+tags:
 date: 2025-05-01
 layout: note
 ---
@@ -17,7 +17,7 @@ layout: note
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # Reflections on the SPELL JIF Conference: The Evolving AI Universe in Public Education
 
-This week I had the privilege of presenting at the **SPELL JIF Retreat in New Jersey**, where education leaders gathered to explore one of the most pressing topics in schools today: **Artificial Intelligence**.  
+This week I had the privilege of presenting at the **[[SPELL JIF Retreat]] in New Jersey**, where education leaders gathered to explore one of the most pressing topics in schools today: **Artificial Intelligence**.  
 
 My session, _The Evolving AI Universe in Public Education_, focused on helping leaders ask better questions about AI, see where it can create meaningful change, and rethink what success in school should look like . We explored:
 
