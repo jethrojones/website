@@ -1,17 +1,17 @@
 ---
-last_modified_at: 2025-02-07
+last_modified_at: 2025-10-16T09:13
 permalink: now
 description: What's Jethro up to right now?
 title: Now
-image: 
+image:
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category:
+tags:
 layout: page
 date: 2022-10-01
 ---
-## Last updated February 7, 2025
+## Last updated October 16, 2025
 # Creating
 
 
@@ -28,6 +28,8 @@ I'm currently working on a [Doctorate in Servant Leadership, Citizenship, and Ch
 # Coaching
 
 Focus areas: Principal Leadership, through the [Transformative Mastermind][4], [Mental Fitness Coaching][5], and speaking [schools to be more student driven learning][6]. 
+
+I've started mentoring leaders through [LinkedLeaders](https://linkedleaders.com) which is a great platform for just-in-time mentoring support. 
 
 - - -
 
