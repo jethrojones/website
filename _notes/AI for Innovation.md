@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-24T12:44
-last_modified_at: 2025-10-24 14:09:34
+last_modified_at: 2025-10-24 14:14:50
 ---
 
 
@@ -31,9 +31,8 @@ Here's the [presentation](https://sharing.ia.net/presenter/43d78cd42de246988703a
 - **12:15 pm** – _AI for Innovation: The Design Thinking Process_
 	- Explore on your own with ChatGPT in study mode
 	- ![[design thinking chatgpt.png]]
-- **12:50 pm** – Quick Partner Reflection: “What part of design thinking could shift your leadership?”
 - **1:00 pm** – Demo: _AI Tools for Innovation_
-	- CustomGPT, Comet Browser, UsePlumb workflow, Replit site build.
+	- [SchoolX Design Thinking GPT](https://chatgpt.com/g/g-68fbcfe54fa081919c6e8ee776c331ab-schoolx-design-thinking-coach), [Comet Browser](https://www.perplexity.ai/comet), [Hunch](https://app.hunch.tools/app/tool/E37o3m) workflow, [Replit](https://replit.com/refer/jethrojones) site build.
 - **1:30 pm** – Work Time
 	- Milestones:
 	- 1:45 – Sketch your idea.
