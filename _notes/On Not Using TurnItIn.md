@@ -1,6 +1,6 @@
 ---
-permalink:
-description:
+permalink: plagiarism
+description: Explore the ethical and practical concerns surrounding the use of TurnItIn in academia. This note delves into the adversarial relationship it fosters between educators and students, the risk of false positives, and the implications of using student data to train proprietary models. Discover why some institutions, like Vanderbilt University, have chosen to disable TurnItIn's AI detection features and consider alternative solutions that prioritize academic integrity and data privacy.
 title:
 image:
 published: "true"
@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-23T16:19
-last_modified_at: 2025-10-23T16:47
+last_modified_at: 2025-10-24 08:30:45
 ---
 
 
@@ -40,7 +40,7 @@ Some would see using student data as a benefit that that student then won't be p
 I have academic integrity, and tools like TurnItIn start with the assumption that I don't. To me, using the tool is unethical for a professor to use. 
 
 ## An Alternative
-I would 
+I would like something where I can build my own checker, using my own files. I started doing that with [Nexa's Hyperlink](https://hyperlink.nexa.ai/), which is all local on your computer. 
 
 
 [^1]: Turn it in is a tool that checks your work to make sure you're not plagiarizing. Learn more at [their web site](https://turnitin.com)
