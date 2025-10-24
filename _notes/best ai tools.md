@@ -2,7 +2,7 @@
 layout: note
 title: Best AI Tools
 date: 2024-06-01
-last_modified_at: 2025-10-24T12:27
+last_modified_at: 2025-10-24T12:45
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
@@ -11,7 +11,6 @@ last_modified_at: 2025-10-24T12:27
 This page includes some of my favorite AI tools for educators right now. Updated regularly. See tutorials for these inside of [AILeader.info](https://aileader.info)
 
 ## Cutom GPTs
-
 [Get Principal Turbo](https://chatgpt.com/g/g-LJH7o21aD-get-principal-turbo): This Principal GPT will help you find your personal leadership profile and write in your voice.
 
 [SchoolX Design Thinking GPT](https://chatgpt.com/g/g-68fbcfe54fa081919c6e8ee776c331ab-schoolx-design-thinking-coach): Guides educators, principals, and teams through Jethro Jones’ SchoolX design-thinking process to create transformative school experiences for leaders, teachers, students, and communities.
