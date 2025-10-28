@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-10-24 14:18:45
+last_modified_at: 2025-10-28 22:08:28
 permalink: now
 description: What's Jethro up to right now?
 title: Now
