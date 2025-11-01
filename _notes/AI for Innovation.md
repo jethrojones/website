@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-24T12:44
-last_modified_at: 2025-11-01 07:37:46
+last_modified_at: 2025-11-01 09:50:22
 ---
 
 
@@ -41,6 +41,7 @@ This page is part of a day-long training on AI for Innovation.
 		- [SchoolX Design Thinking GPT](https://chatgpt.com/g/g-68fbcfe54fa081919c6e8ee776c331ab-schoolx-design-thinking-coach), 
 		- [SchoolAI Space](https://student.schoolai.com/dot/spaces/join?code=AWSM-CGIO) about creating your own app as a principal
 		- [Comet Browser](https://www.perplexity.ai/comet), 
+		- [Suno](https://suno.com/invite/@jethro_jones): make music for yourself/school
 		- [Hunch](https://app.hunch.tools/app/tool/E37o3m) - Use this workflow, sign up first, then click the link here. 
 		- [GetMocha.com](https://getmocha.com/): Make your own web app use code `WYOSPECIAL` for a free month on the base plan.
 		- [Replit](https://replit.com/refer/jethrojones): Make your own web app to solve your problem using AI
