@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-10-24T12:44
-last_modified_at: 2025-11-01 07:16:15
+last_modified_at: 2025-11-01 07:37:46
 ---
 
 
@@ -19,7 +19,6 @@ last_modified_at: 2025-11-01 07:16:15
 This page is part of a day-long training on AI for Innovation. 
 
 ## Agenda
-Here's the [presentation](https://sharing.ia.net/presenter/43d78cd42de246988703a01c5c1f774b/view).
 - _What is AI?_ (Jethro Keynote)
 	- [Cognitive Debt Paper](https://arxiv.org/abs/2506.08872)
 - _AI for Efficiency and Speed: What Can AI Do for Me?_ (Review & Share – current uses)
