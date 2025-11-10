@@ -1,5 +1,5 @@
 ---
-permalink: underloadprompts
+permalink: underlordprompts
 description: Explore effective Descript Underlord prompts for repurposing speaking clips. Learn how to enhance audio quality, add chapter markers, and create engaging social media posts effortlessly.
 title: Descript Underlord Prompts that Work for Me
 image: /assets/underlordprompts.png
@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-11-10 09:10:48
-last_modified_at: 2025-11-10 09:10:56
+last_modified_at: 2025-11-10 12:04:53
 ---
 
 
@@ -45,3 +45,10 @@ For example, here are some of the posts that came from the 47 highlights it made
 |"The smallest thing that you can do, if you can make one little tiny change and improve things for the better, let's look at that attendance issue."|Big change starts with small steps. One tiny improvement can make a huge difference. #ContinuousImprovement|Sustainable change is built on small, incremental improvements. Focusing on the smallest actionable step can lead to significant progress over time. #ContinuousImprovement #Leadership|
 |"These are wicked problems. They take time, they're intractable. Different people have different feelings about what should be the solution. That's all. Okay? We're not gonna run away from them and not solve them, just because that's the case."|Wicked problems aren't a reason to quit. They're a reason to keep going. #Resilience #Leadership|Complex, 'wicked' problems are part of leadership. They require persistence, collaboration, and a willingness to keep working toward solutions—even when the path isn't clear. #Resilience #ProblemSolving|
 These aren't perfect, and I'd work them before I publish them on those platforms, but they're a good start, and certainly saved me time to comb through my transcript manually to find them. 
+
+Then, I copy these highlights to a different composition (I can also have Underlord do that) and then I tell it to give each clip a marker. When I was manually highlighting in the past, I would use a different color. 
+
+Another prompt I use once I have all these clipped is very simple
+> give each clip a marker. 
+
+That generates a marker for each clip, and it's pretty good usually at adding those, though sometimes, it only adds it to the beginning or the end group of clips.
