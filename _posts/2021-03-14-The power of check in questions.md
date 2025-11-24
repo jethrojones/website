@@ -21,13 +21,7 @@ date: 2021-03-14
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-[![](https://world.hey.com/jethro/avatar-40bd048fb7cc6850d42ef0957b5f0c498bfea84d)
 
-Jethro Jones
-
-](https://world.hey.com/jethro)
-
-March 14, 2021
 
 In a meeting today, the leader of the meeting (to be clear, not the leader of the group!) asked us a check in question. He asked two, but the first was such a good question because:
 

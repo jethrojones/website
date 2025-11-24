@@ -1,14 +1,15 @@
 ---
-last_modified_at: 
+last_modified_at: 2025-11-14 13:21:42
 permalink: ai
-description: 
+description:
 title: Everything AI
 image: /assets/aplus.jpeg
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
-tags: 
+category:
+tags:
 layout: note
+date: 2025-04-07 14:23:57
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # Everything AI
@@ -40,7 +41,6 @@ Blog Posts:
 - Register for [AILeader Office Hours here](https://jethro.webinarninja.com/series-webinars/6748/register).
 - [November 2024 - Adjusting Schedules](https://jethro.site/aiofficenov24)
 - [[AI Leader Office Hours June 2025]]
-
 ## Work With Me. 
 Let's work together and design a solution. Reach [out here](mailto:jethro@transformativeprincipal.com). 
 
