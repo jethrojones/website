@@ -8,15 +8,12 @@ status: publish
 type: post
 published: true
 meta: {}
+image: /assets/2019-11-10 Team Habits Stages Diagram.jpg
 last_modified_at: 2024-11-01 19:03:55
 ---
+ 
 
-![Some visualization prototyping.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1573366503084-NC7V0ASGDA904G02XR8G_UNADJUSTEDNONRAW_thumb_380c.jpg_)
-        
-          
-        
-
-        
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %} 
           
           
 Some visualization prototyping.
