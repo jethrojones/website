@@ -32,10 +32,10 @@ And a nice little touch, cards are numbered across the whole account, and the fi
 
 There are all kinds of great little touches that make this software really fun. The colors, the "golden ticket" idea that keeps a golden ticket front and center, the way search results are circled and colored: 
 
-![Fizzy search results](http://images.weserv.nl/?url={{ site.url }}/assets/2025-11-20 fizzy search results.png&w=450&output=jpg&q=100)
+![Fizzy search results]({{ site.url }}/assets/2025-11-20 fizzy search results.png)
 
 Another great thing is how the keyboard shortcuts are right there for you. 
-![ fizzy keyboard shortcuts](http://images.weserv.nl/?url={{ site.url }}/assets/2025-12-01 fizzy keyboard shortcuts.png&w=450&output=jpg&q=100)
+![fizzy keyboard shortcuts]({{ site.url }}/assets/2025-12-01 fizzy keyboard shortcuts.png)
 
 This app is very keyboard friendly, even so much that I don't really care to use it on mobile because it suits so well on the desktop. 
 
@@ -47,7 +47,7 @@ I have two main uses for it right now.
 
 Speaking of you joining my board, the access is pretty sweet. The link I shared above can be used 13 more times, so if I get spammed, I can adjust that number or change it. No big deal. I can easily remove someone from the account, and I can also easily change the access link and refresh it. Also, I have one board that is open for everyone, all the others are closed off and you can't join them unless I specifically invite you to them. 
 
-![ fizzy add people]({{ site.url }}/assets/2025-12-01 fizzy add people.png)
+![fizzy add people]({{ site.url }}/assets/2025-12-01 fizzy add people.png)
 
 It makes it easy to get in and use the software, instead of worrying about joining. I hope this easy of joining is a feature added to Basecamp itself in the near future. 
 
