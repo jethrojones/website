@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-12-01 19:17:54
-last_modified_at: 2025-12-01 20:29:56
+last_modified_at: 2025-12-01 20:31:02
 ---
 
 
@@ -47,7 +47,7 @@ I have two main uses for it right now.
 
 Speaking of you joining my board, the access is pretty sweet. The link I shared above can be used 13 more times, so if I get spammed, I can adjust that number or change it. No big deal. I can easily remove someone from the account, and I can also easily change the access link and refresh it. Also, I have one board that is open for everyone, all the others are closed off and you can't join them unless I specifically invite you to them. 
 
-![ fizzy add people](http://images.weserv.nl/?url={{ site.url }}/assets/2025-12-01 fizzy add people.png&w=450&output=jpg&q=100)
+![ fizzy add people](http://{{ site.url }}/assets/2025-12-01 fizzy add people.png)
 
 It makes it easy to get in and use the software, instead of worrying about joining. I hope this easy of joining is a feature added to Basecamp itself in the near future. 
 
