@@ -10,7 +10,7 @@ category:
 tags:
 layout: note
 date: 2025-12-01 19:17:54
-last_modified_at: 2025-12-01 19:58:50
+last_modified_at: 2025-12-01 20:29:56
 ---
 
 
@@ -53,6 +53,8 @@ It makes it easy to get in and use the software, instead of worrying about joini
 
 ## Pricing
 As of this writing, I haven't learned what the pricing strategy will be, but I suspect it will be based on cards you add, rather than people you invite. They way the software is designed it seems to be bent toward ease of creating cards, and I am curious what it will end up being. 
+
+[My guess is this](https://x.com/jethrojones/status/1995711954313191566?s=20): first 250 cards are free, then you buy card packs at less than $0.15-25/card. unlimited users, unlimited boards. Only thing you pay for is cards. 250 is enough cards to get you to really use it, and makes it easy to make a decision about using into the future. 
 
 
 Overall, beautiful, functional, endearing software. Love it. 
