@@ -1,0 +1,245 @@
+<script>
+// Global search state
+let fuseInstance = null;
+let searchIndex = null;
+let searchLoading = false;
+
+// Utility: Load script dynamically
+function loadScript(src) {
+  return new Promise((resolve, reject) => {
+    if (document.querySelector(`script[src="${src}"]`)) {
+      resolve();
+      return;
+    }
+    const script = document.createElement('script');
+    script.src = src;
+    script.onload = resolve;
+    script.onerror = reject;
+    document.head.appendChild(script);
+  });
+}
+
+// Utility: Debounce function
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+}
+
+// Utility: Check if an input element is focused
+function isInputFocused() {
+  const activeElement = document.activeElement;
+  return activeElement && (activeElement.tagName === 'INPUT' || activeElement.tagName === 'TEXTAREA');
+}
+
+// Initialize search (lazy loading)
+async function initializeSearch() {
+  if (searchIndex) return; // Already loaded
+  if (searchLoading) {
+    // Wait for current loading to complete
+    while (searchLoading) {
+      await new Promise(resolve => setTimeout(resolve, 100));
+    }
+    return;
+  }
+
+  searchLoading = true;
+
+  try {
+    // Load Fuse.js from CDN
+    await loadScript('https://cdn.jsdelivr.net/npm/fuse.js@7.0.0');
+
+    // Fetch search index
+    const response = await fetch('{{ site.baseurl }}/search.json');
+    searchIndex = await response.json();
+
+    // Configure Fuse.js for optimal fuzzy search
+    fuseInstance = new Fuse(searchIndex, {
+      keys: [
+        { name: 'title', weight: 2 },
+        { name: 'content', weight: 1 },
+        { name: 'tags', weight: 1.5 },
+        { name: 'categories', weight: 1.5 }
+      ],
+      threshold: 0.4,
+      distance: 100,
+      minMatchCharLength: 2,
+      includeScore: true,
+      includeMatches: true,
+      ignoreLocation: true
+    });
+
+    searchLoading = false;
+  } catch (error) {
+    console.error('Failed to initialize search:', error);
+    searchLoading = false;
+    throw error;
+  }
+}
+
+// Perform search and return results
+function performSearch(query, filter = 'all') {
+  if (!fuseInstance || !query || query.length < 2) {
+    return [];
+  }
+
+  const results = fuseInstance.search(query);
+
+  // Apply filter
+  if (filter !== 'all') {
+    return results.filter(r => r.item.type === filter);
+  }
+
+  return results;
+}
+
+// Render search results
+function renderResults(results, container, maxResults = 50) {
+  if (!container) return;
+
+  // Clear previous results
+  container.innerHTML = '';
+
+  if (results.length === 0) {
+    container.innerHTML = '<div class="no-results">No results found. Try different keywords.</div>';
+    return;
+  }
+
+  // Limit results
+  const limitedResults = results.slice(0, maxResults);
+
+  limitedResults.forEach((result, index) => {
+    const item = result.item;
+    const resultEl = document.createElement('div');
+    resultEl.className = 'search-result-item';
+    resultEl.dataset.index = index;
+    resultEl.dataset.url = item.url;
+
+    // Create type badge
+    const typeBadge = `<span class="search-result-type">${item.type === 'notes' ? 'NOTE' : 'POST'}</span>`;
+
+    // Get snippet with highlights
+    const snippet = getSnippet(item.content, result.matches);
+
+    // Format date
+    const date = new Date(item.date);
+    const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+    resultEl.innerHTML = `
+      <div class="search-result-title">
+        ${typeBadge}
+        <span>${highlightMatches(item.title, result.matches, 'title')}</span>
+      </div>
+      <div class="search-result-snippet">${snippet}</div>
+      <div class="search-result-meta">${dateStr}${item.tags && item.tags.length > 0 ? ' · ' + item.tags.slice(0, 3).join(', ') : ''}</div>
+    `;
+
+    // Click handler
+    resultEl.addEventListener('click', () => {
+      window.location.href = item.url;
+    });
+
+    container.appendChild(resultEl);
+  });
+
+  return results.length;
+}
+
+// Get snippet with context around matches
+function getSnippet(content, matches, maxLength = 150) {
+  if (!content) return '';
+
+  // Find content matches
+  const contentMatches = matches ? matches.filter(m => m.key === 'content') : [];
+
+  if (contentMatches.length > 0 && contentMatches[0].indices && contentMatches[0].indices.length > 0) {
+    // Get context around first match
+    const matchIndex = contentMatches[0].indices[0][0];
+    const start = Math.max(0, matchIndex - 75);
+    const end = Math.min(content.length, start + maxLength);
+
+    let snippet = content.substring(start, end);
+    if (start > 0) snippet = '...' + snippet;
+    if (end < content.length) snippet = snippet + '...';
+
+    return highlightMatches(snippet, contentMatches, 'content');
+  }
+
+  // No matches in content, just return beginning
+  let snippet = content.substring(0, maxLength);
+  if (content.length > maxLength) snippet += '...';
+  return snippet;
+}
+
+// Highlight matched text
+function highlightMatches(text, matches, key) {
+  if (!text || !matches || matches.length === 0) return text;
+
+  const relevantMatches = matches.filter(m => m.key === key);
+  if (relevantMatches.length === 0) return text;
+
+  // Simple highlight - wrap matched terms
+  // This is a basic implementation; more sophisticated highlighting could be added
+  return text.replace(/[^\s]+/g, (word) => {
+    const lowerWord = word.toLowerCase();
+    const hasMatch = relevantMatches.some(m => {
+      if (m.value) {
+        return m.value.toLowerCase().includes(lowerWord) || lowerWord.includes(m.value.toLowerCase().substring(0, Math.max(3, lowerWord.length - 2)));
+      }
+      return false;
+    });
+    return hasMatch ? `<mark>${word}</mark>` : word;
+  });
+}
+
+// Setup keyboard navigation for results
+function setupKeyboardNav(inputEl, containerEl, resultSelector = '.search-result-item') {
+  let selectedIndex = -1;
+
+  inputEl.addEventListener('keydown', (e) => {
+    const results = containerEl.querySelectorAll(resultSelector);
+    if (results.length === 0) return;
+
+    // Arrow down
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      selectedIndex = Math.min(selectedIndex + 1, results.length - 1);
+      updateSelection(results, selectedIndex);
+    }
+    // Arrow up
+    else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      selectedIndex = Math.max(selectedIndex - 1, -1);
+      updateSelection(results, selectedIndex);
+    }
+    // Enter
+    else if (e.key === 'Enter' && selectedIndex >= 0) {
+      e.preventDefault();
+      results[selectedIndex].click();
+    }
+  });
+
+  // Reset selection when results change
+  const observer = new MutationObserver(() => {
+    selectedIndex = -1;
+  });
+  observer.observe(containerEl, { childList: true });
+}
+
+function updateSelection(results, selectedIndex) {
+  results.forEach((result, index) => {
+    if (index === selectedIndex) {
+      result.classList.add('selected');
+      result.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    } else {
+      result.classList.remove('selected');
+    }
+  });
+}
+</script>

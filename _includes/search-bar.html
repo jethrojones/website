@@ -1,0 +1,124 @@
+<div id="nav-search-container">
+  <input
+    type="search"
+    id="nav-search-input"
+    placeholder="Search posts, notes, tags..."
+    aria-label="Search site content"
+  />
+  <div id="nav-search-results" class="search-dropdown" hidden>
+    <div id="nav-results-list"></div>
+    <div class="search-meta" id="search-meta-footer" hidden>
+      <span id="nav-result-count"></span>
+      <a href="#" class="view-all-link" id="view-all-link">View all results</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  // Wait for search functions to be available
+  function initNavSearch() {
+    // Check if required functions are available
+    if (typeof debounce === 'undefined' || typeof initializeSearch === 'undefined') {
+      setTimeout(initNavSearch, 50);
+      return;
+    }
+
+    const navSearchInput = document.getElementById('nav-search-input');
+    const navSearchResults = document.getElementById('nav-search-results');
+    const navResultsList = document.getElementById('nav-results-list');
+    const navResultCount = document.getElementById('nav-result-count');
+    const viewAllLink = document.getElementById('view-all-link');
+    const searchMetaFooter = document.getElementById('search-meta-footer');
+
+    let currentQuery = '';
+
+    // Keyboard shortcut: "/" to focus search
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/') {
+        // Check if an input/textarea is already focused
+        const activeEl = document.activeElement;
+        const isInputActive = activeEl && (activeEl.tagName === 'INPUT' || activeEl.tagName === 'TEXTAREA');
+
+        if (!isInputActive) {
+          e.preventDefault();
+          navSearchInput.focus();
+        }
+      }
+      if (e.key === 'Escape') {
+        navSearchInput.blur();
+        navSearchResults.hidden = true;
+      }
+    });
+
+    // Search on input with debouncing
+    const debouncedNavSearch = debounce(async (query) => {
+    if (query.length < 2) {
+      navSearchResults.hidden = true;
+      return;
+    }
+
+    currentQuery = query;
+
+    // Show loading
+    navResultsList.innerHTML = '<div class="search-loading">Searching</div>';
+    navSearchResults.hidden = false;
+    searchMetaFooter.hidden = true;
+
+    try {
+      // Initialize search if needed
+      await initializeSearch();
+
+      // Perform search
+      const results = performSearch(query);
+
+      // Render first 10 results
+      const displayCount = Math.min(results.length, 10);
+      navResultsList.innerHTML = '';
+      renderResults(results, navResultsList, displayCount);
+
+      // Update footer
+      if (results.length > 0) {
+        const remaining = results.length - displayCount;
+        navResultCount.textContent = remaining > 0
+          ? `${remaining} more result${remaining !== 1 ? 's' : ''}`
+          : `${results.length} result${results.length !== 1 ? 's' : ''}`;
+        viewAllLink.href = `{{ site.baseurl }}/search?q=${encodeURIComponent(query)}`;
+        searchMetaFooter.hidden = false;
+      } else {
+        searchMetaFooter.hidden = true;
+      }
+
+      // Setup keyboard navigation
+      setupKeyboardNav(navSearchInput, navResultsList, '.search-result-item');
+    } catch (error) {
+      navResultsList.innerHTML = '<div class="no-results">Error loading search</div>';
+      console.error('Nav search error:', error);
+    }
+  }, 200);
+
+    navSearchInput.addEventListener('input', (e) => {
+      const query = e.target.value.trim();
+      debouncedNavSearch(query);
+    });
+
+    // Close dropdown on click outside
+    document.addEventListener('click', (e) => {
+      if (!document.getElementById('nav-search-container').contains(e.target)) {
+        navSearchResults.hidden = true;
+      }
+    });
+
+    // Keep dropdown open when clicking inside
+    navSearchResults.addEventListener('click', (e) => {
+      // Allow links to navigate
+      if (e.target.tagName !== 'A') {
+        e.stopPropagation();
+      }
+    });
+  }
+
+  // Start initialization
+  initNavSearch();
+})();
+</script>
