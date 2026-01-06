@@ -1,3 +1,8 @@
+---
+date: 2025-07-01 11:20:10
+last_modified_at: 2026-01-05 20:48:24
+---
+
 
 [[VAESP Presentation Resources]]
 

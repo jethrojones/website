@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-10-07T01:03
+last_modified_at: 2026-01-05 20:51:38
 permalink: fsff
 description: Fast Sunday Family Feast - A Jones Family Tradition
 title: Fast Sunday Family Feast - A Jones Family Tradition
@@ -41,6 +41,10 @@ And while food has certainly been a problem for me, as far as weight gain goes, 
 Doing this Fast Sunday Family Feast, I hope, will bring us closer to each other, help us learn about other cultures, and make our fast more meaningful as well. 
 
 Here's our Fast Sunday Family Feast Plans: 
+
+## 2026
+- [[Venezuelan Food - January 2026]]
+- 
 ## 2025
 - [[Argentinian Food - January 2025]]
 - [[Tailgate - February 2025]]
