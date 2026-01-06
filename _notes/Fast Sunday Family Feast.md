@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-01-05 20:51:38
+last_modified_at: 2026-01-05 21:30:58
 permalink: fsff
 description: Fast Sunday Family Feast - A Jones Family Tradition
 title: Fast Sunday Family Feast - A Jones Family Tradition
@@ -14,7 +14,7 @@ tags:
 layout: note
 date: 2024-01-22
 ---
-Last year, we started a new tradition. 
+~~Last year,~~ In 2024 we started a new tradition. 
 
 We're calling it Fast Sunday Family Feast. 
 
