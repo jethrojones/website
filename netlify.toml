@@ -1,7 +1,6 @@
 [build]
-  command = "jekyll build --trace"
+  command = "gem install jekyll && jekyll build --trace"
   publish = "_site"
 
 [build.environment]
   NODE_VERSION = "22"
-
