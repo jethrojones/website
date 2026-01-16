@@ -12,8 +12,8 @@ layout: note
 source_title: Teacher Observations Have Been a Waste of Time and Money
 source_author: Brookings Institution
 source_url: https://www.brookings.edu/articles/teacher-observations-have-been-a-waste-of-time-and-money/
-date: 2026-01-14 17:42:55
-last_modified_at: 2026-01-14 17:42:55
+date: 2026-01-16
+last_modified_at: 2026-01-14 18:22:35
 ---
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
