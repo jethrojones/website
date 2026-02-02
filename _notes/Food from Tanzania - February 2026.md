@@ -1,7 +1,7 @@
 ---
 date: 2026-02-02 20:28:00
 last_modified_at: 2026-02-02 20:28:00
-permalink:
+permalink: fsff-tanzania
 description: Celebrating Tanzanian cuisine with our family feast featuring traditional dishes like Nyama Choma, African Fish Curry, Ugali, Kachumbari, Chapati, and Mandazi. A delicious East African culinary adventure!
 title: "Food from Tanzania - February 2026"
 image: /assets/tanzania-feast-feb-2026.jpg
