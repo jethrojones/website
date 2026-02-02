@@ -44,7 +44,8 @@ Here's our Fast Sunday Family Feast Plans:
 
 ## 2026
 - [[Venezuelan Food - January 2026]]
-- 
+- [[Food from Tanzania - February 2026]]
+
 ## 2025
 - [[Argentinian Food - January 2025]]
 - [[Tailgate - February 2025]]
