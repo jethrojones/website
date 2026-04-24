@@ -1,0 +1,46 @@
+name: Check Redirect Coverage
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  redirect_guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.4'
+
+      - name: Install dependencies
+        run: |
+          bundle config set --local git.allow_insecure true
+          bundle install
+
+      - name: Determine comparison base
+        id: base
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            base_ref="${{ github.event.pull_request.base.sha }}"
+          else
+            base_ref="${{ github.event.before }}"
+          fi
+
+          if [[ "$base_ref" =~ ^0+$ ]]; then
+            base_ref="HEAD^"
+          fi
+
+          echo "base_ref=$base_ref" >> "$GITHUB_OUTPUT"
+
+      - name: Check renamed URLs have redirects
+        run: script/check-redirects-for-renamed-urls.sh "${{ steps.base.outputs.base_ref }}"
