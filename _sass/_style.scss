@@ -507,3 +507,44 @@ code {
   40% { content: '..'; }
   60%, 100% { content: '...'; }
 }
+
+.blog-posts {
+  font-family: Arial, sans-serif;
+}
+
+.year-details,
+.month-details {
+  margin-bottom: 1em;
+}
+
+.year-summary,
+.month-summary {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.year-summary:hover,
+.month-summary:hover {
+  background-color: #e0e0e0;
+}
+
+.month-list {
+  padding-left: 20px;
+}
+
+.post-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.post-list li {
+  margin: 5px 0;
+}
+
+.post-date {
+  font-size: 0.9em;
+  color: #666;
+}

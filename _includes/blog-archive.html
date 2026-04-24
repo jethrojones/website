@@ -1,0 +1,25 @@
+<div class="blog-posts">
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year_group in posts_by_year %}
+    <details class="year-details">
+      <summary class="year-summary">{{ year_group.name }}</summary>
+
+      <div class="month-list">
+        {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%B'" %}
+        {% for month_group in posts_by_month %}
+          <details class="month-details">
+            <summary class="month-summary">{{ month_group.name }}</summary>
+            <ul class="post-list">
+              {% for post in month_group.items %}
+                <li>
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                  <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          </details>
+        {% endfor %}
+      </div>
+    </details>
+  {% endfor %}
+</div>
