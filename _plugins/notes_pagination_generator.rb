@@ -29,7 +29,10 @@ module Jekyll
       index = site.pages.find { |p| p.url == '/' && p.name =~ /^index\.(md|html)$/ }
       return unless index
 
-      notes = site.collections['notes'].docs.sort_by { |n| n.data['last_modified_at_timestamp'] || n.data['date'] }.reverse
+      notes = site.collections['notes'].docs
+                  .reject { |n| ['post', 'post_archive'].include?(n.data['content_type']) }
+                  .sort_by { |n| n.data['last_modified_at_timestamp'] || n.data['date'] }
+                  .reverse
       per_page = site.config['notes_per_page'] || 10
       paginate_path = site.config['notes_paginate_path'] || '/page:num/'
       total_pages = (notes.size.to_f / per_page).ceil

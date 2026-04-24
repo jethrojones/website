@@ -3,8 +3,14 @@ layout: null
 permalink: /search.json
 ---
 [
-  {% assign items = site.posts | concat: site.notes %}
+  {% assign migrated_posts = site.notes | where: "content_type", "post" %}
+  {% assign evergreen_notes = site.notes | where_exp: "doc", "doc.content_type != 'post' and doc.content_type != 'post_archive'" %}
+  {% assign items = site.posts | concat: migrated_posts | concat: evergreen_notes %}
   {% for doc in items %}
+  {% assign doc_type = doc.collection | default: 'posts' %}
+  {% if doc.content_type == 'post' %}
+    {% assign doc_type = 'posts' %}
+  {% endif %}
   {
     "title": {{ doc.title | jsonify }},
     "url": {{ doc.url | absolute_url | jsonify }},
@@ -12,7 +18,7 @@ permalink: /search.json
     "date": "{{ doc.date | date_to_xmlschema }}",
     "tags": {{ doc.tags | default: empty | jsonify }},
     "categories": {{ doc.categories | default: empty | jsonify }},
-    "type": "{{ doc.collection | default: 'posts' }}"
+    "type": "{{ doc_type }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

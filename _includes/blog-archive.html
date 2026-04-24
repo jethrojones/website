@@ -1,5 +1,7 @@
 <div class="blog-posts">
-  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% assign migrated_posts = site.notes | where: "content_type", "post" %}
+  {% assign all_blog_posts = site.posts | concat: migrated_posts | sort: "date" | reverse %}
+  {% assign posts_by_year = all_blog_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year_group in posts_by_year %}
     <details class="year-details">
       <summary class="year-summary">{{ year_group.name }}</summary>
