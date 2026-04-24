@@ -9,9 +9,25 @@ category:
 tags:
 layout: page
 date: 2022-10-01
-last_modified_at: 2026-02-05 16:17:08
+last_modified_at: 2026-04-24 07:44:22
 ---
-## Last updated October 16, 2025
+## Last Updated April 24, 2026
+
+[Life Lab](https://discoverlifelab.com) - I took a job as director of operations at Life Lab and I am really loving it. We make character, life skills, success skills, social-emotional, workplace skills, video curriculum for K-12 schools so teachers can teach these things in a powerful way, without dogma, and without prep. It's great. 
+
+[DrJethro](https://drjethro.com) - I'm graduating with my doctorate in May. You can learn more at my web site. 
+
+Because AI has gotten so good, I've been resurrecting a lot of my side projects and ideas that never saw the light of day: 
+- [Churchle - Daily LDS Word Puzzle](https://churchle.com/)
+- [PdayEmails — Your Missionary Has Enough to Worry About](https://pdayemails.com/)
+- [Learned In Primary — Everything I Need to Know](https://learnedinprimary.com/#properties)
+- [Conferencegrids](https://conferencegrids.com/)
+- [Latter-day Lent](https://latterdaylent.com/)
+- [A Decade Never to Be Forgotten](https://adntbf.com/) Journal
+- [A Decade Never to be Forgotten](https://adecadenevertobeforgotten.com/) Podcast
+
+
+## Update October 16, 2025
 # Creating
 
 
