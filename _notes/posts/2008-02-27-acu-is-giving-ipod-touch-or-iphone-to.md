@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/acu-is-giving-ipod-touc
 content_type: post
 original_post_path: _posts/2008-02-27-acu-is-giving-ipod-touch-or-iphone-to.html
 permalink: /2008/02/27/acu-is-giving-ipod-touch-or-iphone-to/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Here is a video in two parts that this college ([Abilene Christian
 University](http://www.acu.edu/technology/mobilelearning/index.html))

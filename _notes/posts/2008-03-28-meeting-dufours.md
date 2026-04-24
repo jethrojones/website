@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/meeting-dufours.html
 content_type: post
 original_post_path: _posts/2008-03-28-meeting-dufours.html
 permalink: /2008/03/28/meeting-dufours/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="http://www.amazon.com/Learning-Doing-Handbook-Professional-Communities/dp/1932127933/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1206767216&amp;sr=8-1"

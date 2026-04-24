@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://principalmkelly.blogspot.com/2015/03/personal-growth-mindset-experience.html
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-03-10
 original_post_path: _posts/2015-03-10-2015-3-9-growth-mindset-is-for-adults-too.md

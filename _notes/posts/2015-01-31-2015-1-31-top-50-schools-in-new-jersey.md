@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://schoolfinance101.wordpress.com/2015/01/30/ed-writers-try-looking-beyond-propaganda-press-releases-for-success-stories/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-01-31
 original_post_path: _posts/2015-01-31-2015-1-31-top-50-schools-in-new-jersey.md

@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2011/02/so-nice-to-not-have-tea
 content_type: post
 original_post_path: _posts/2011-02-21-so-nice-to-not-have-tea-for-breakfast.html
 permalink: /2011/02/21/so-nice-to-not-have-tea-for-breakfast/
-last_modified_at: 2026-04-23 20:45:57
+last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: https://gc319.isrefer.com/go/tls/tehjunction/blog
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2017-08-04
 original_post_path: _posts/2017-08-04-2017-8-4-my-teacher-experience.md

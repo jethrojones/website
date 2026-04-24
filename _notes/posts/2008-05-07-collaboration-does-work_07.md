@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/05/collaboration-does-work
 content_type: post
 original_post_path: _posts/2008-05-07-collaboration-does-work_07.html
 permalink: /2008/05/07/collaboration-does-work_07/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I have mentioned that I am impressed with my school this year. I enjoy
 being in a place where most teachers respect and have concern for

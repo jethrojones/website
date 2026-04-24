@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2013/04/ifttt-autopost.html
 content_type: post
 original_post_path: _posts/2013-04-09-ifttt-autopost.html
 permalink: /2013/04/09/ifttt-autopost/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 <div xmlns="http://www.w3.org/1999/xhtml">
 

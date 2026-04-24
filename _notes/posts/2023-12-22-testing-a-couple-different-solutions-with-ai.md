@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 content_type: post
 date: 2023-12-22
 original_post_path: _posts/2023-12-22-testing-a-couple-different-solutions-with-ai.md

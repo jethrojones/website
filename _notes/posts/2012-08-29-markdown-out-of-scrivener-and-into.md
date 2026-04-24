@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/08/markdown-out-of-scriven
 content_type: post
 original_post_path: _posts/2012-08-29-markdown-out-of-scrivener-and-into.html
 permalink: /2012/08/29/markdown-out-of-scrivener-and-into/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 In writing my [book](http://paperlessprincipal.com), I used Markdown as
 I was writing it to force me to focus on the content, or else I would

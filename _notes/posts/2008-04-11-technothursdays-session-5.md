@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/04/technothursdays-session
 content_type: post
 original_post_path: _posts/2008-04-11-technothursdays-session-5.html
 permalink: /2008/04/11/technothursdays-session-5/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 TechnoThursdays went great. We didn't have as many people there, but I
 think that I got the video to work better this time. We talked about

@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/05/student-blogs-update-2-
 content_type: post
 original_post_path: _posts/2007-05-25-student-blogs-update-2-really-it-is.html
 permalink: /2007/05/25/student-blogs-update-2-really-it-is/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 I used [21classes.com](http://mrjonesenglish.21classes.com) for my
 students' blogs.  

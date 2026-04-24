@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/educational-software-re
 content_type: post
 original_post_path: _posts/2007-11-25-educational-software-review-mindjet.html
 permalink: /2007/11/25/educational-software-review-mindjet/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPz4e78EaJWvjx2WB1oYUn-fDpejZcqDTVq3rCyOqcvZDS-EYw6svzJ3mPZIcNbN5DTIfXfsjUk6Kez-3slxAW7OGtoSCDBrkrKoTqsVRUTPDv9bAvhmc8BvbFpha5B_ifZTHHbgIPjLu2/s1600-h/Picture+1.png"

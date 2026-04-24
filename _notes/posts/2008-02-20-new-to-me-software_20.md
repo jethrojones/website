@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/new-to-me-software_20.h
 content_type: post
 original_post_path: _posts/2008-02-20-new-to-me-software_20.html
 permalink: /2008/02/20/new-to-me-software_20/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 [Typeit4me](http://ettoresoftware.com/EttoreSoftware/About_TypeIt4Me.html)
 is a program that I have heard about but never tried, until today. It is

@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/web-quest-problems.html
 content_type: post
 original_post_path: _posts/2007-11-16-web-quest-problems.html
 permalink: /2007/11/16/web-quest-problems/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 I make no assumptions that anyone reads this blog, so now that people
 are actually reading it, and commenting even, you also get to hear my

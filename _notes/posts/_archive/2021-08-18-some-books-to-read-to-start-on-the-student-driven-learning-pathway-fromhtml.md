@@ -6,7 +6,7 @@ date: 2021-08-18
 original_post_path: _posts/2021-08-18-some-books-to-read-to-start-on-the-student-driven-learning-pathway.html
 published: false
 sitemap: false
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:26
 ---
 <div class="captioned-image-container">
 

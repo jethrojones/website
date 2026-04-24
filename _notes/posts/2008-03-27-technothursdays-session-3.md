@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/technothursdays-session
 content_type: post
 original_post_path: _posts/2008-03-27-technothursdays-session-3.html
 permalink: /2008/03/27/technothursdays-session-3/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 Below you will find the video for session 3 of TechnoThursdays. It is
 about 30 minutes long. We are talking about Google Video. The first part

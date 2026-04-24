@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/04/student-work-by.html
 content_type: post
 original_post_path: _posts/2008-04-17-student-work-by.html
 permalink: /2008/04/17/student-work-by/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 Before I taught persuasive writing, I had the students write a
 persuasive essay about iPods at school (they are forbidden here). Here

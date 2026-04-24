@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/teaching-meme.html
 content_type: post
 original_post_path: _posts/2007-11-26-teaching-meme.html
 permalink: /2007/11/26/teaching-meme/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 <span style="font-style: italic;">I am following the lead of an
 </span><a href="http://deeperwater.com/2007/11/04/a-teaching-meme/"

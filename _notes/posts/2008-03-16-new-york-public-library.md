@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/new-york-public-library
 content_type: post
 original_post_path: _posts/2008-03-16-new-york-public-library.html
 permalink: /2008/03/16/new-york-public-library/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 So, another cool thing I found on the BzzAgent.com Frogpond is the New
 York Public Library website that has digital prints of thousands of

@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/administration-day-2.ht
 content_type: post
 original_post_path: _posts/2008-02-25-administration-day-2.html
 permalink: /2008/02/25/administration-day-2/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Here is a rundown:  
 Announced when it was time to change classes  

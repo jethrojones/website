@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/some-great-uses-of-twit
 content_type: post
 original_post_path: _posts/2008-01-27-some-great-uses-of-twitter.html
 permalink: /2008/01/27/some-great-uses-of-twitter/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Somehow, I ended up at this [post](http://www.jaredmadden.com/?p=17) by
 a guy named [Jared Madden](http://jaredmadden.com/). He talks about

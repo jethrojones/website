@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/12/free-rice-marathon.html
 content_type: post
 original_post_path: _posts/2007-12-20-free-rice-marathon.html
 permalink: /2007/12/20/free-rice-marathon/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 First of all, thanks to all of you who told me how much rice you donated
 on your own yesterday. At school, we had students down in the computer

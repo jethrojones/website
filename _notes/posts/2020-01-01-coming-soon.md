@@ -5,7 +5,7 @@ title: Coming Soon
 date: 2020-01-01
 original_post_path: _posts/2020-01-01-coming-soon.html
 permalink: /2020/01/01/coming-soon/
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:24
 ---
 **This is Deep Thoughts**, a newsletter about Deep thoughts on
 education, leadership, and faith.

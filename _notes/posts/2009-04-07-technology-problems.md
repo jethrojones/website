@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/04/technology-problems.htm
 content_type: post
 original_post_path: _posts/2009-04-07-technology-problems.html
 permalink: /2009/04/07/technology-problems/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 One of my teachers had a problem with her computer. She complained to me
 in a creative way, which I don't mind. Here it is:  

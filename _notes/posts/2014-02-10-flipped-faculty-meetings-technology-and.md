@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2014/02/flipped-faculty-meeting
 content_type: post
 original_post_path: _posts/2014-02-10-flipped-faculty-meetings-technology-and.html
 permalink: /2014/02/10/flipped-faculty-meetings-technology-and/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 In this episode I have the great opportunity to
 interview <a href="https://twitter.com/mmiller7571"

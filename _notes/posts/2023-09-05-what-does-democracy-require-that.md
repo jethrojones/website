@@ -5,7 +5,7 @@ title: What Does Democracy Require That
 date: 2023-09-05
 original_post_path: _posts/2023-09-05-what-does-democracy-require-that.html
 permalink: /2023/09/05/what-does-democracy-require-that/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 The question of what democracy requires in education is not just
 academic; it's fundamental to the future of our society. Arthur E.

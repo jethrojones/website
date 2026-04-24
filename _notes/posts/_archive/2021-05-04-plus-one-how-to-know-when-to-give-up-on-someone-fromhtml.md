@@ -6,7 +6,7 @@ date: 2021-05-04
 original_post_path: _posts/2021-05-04-plus-one-how-to-know-when-to-give-up-on-someone.html
 published: false
 sitemap: false
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:26
 ---
 In the last couple weeks, a couple principals asked me, "How do I know
 when to work with someone and when to wish them well?" In other words,

@@ -8,7 +8,7 @@ layout: note
 content_type: post
 original_post_path: _posts/2025-03-28-Effortless.md
 permalink: /inspiration/2025/03/28/Effortless/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:26
 ---
 
 {% include video_embed.html %}

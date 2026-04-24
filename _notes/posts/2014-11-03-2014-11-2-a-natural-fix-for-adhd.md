@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.nytimes.com/2014/11/02/opinion/sunday/a-natural-fix-for-adhd.html?smid=fb-share&_r=0
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-03
 original_post_path: _posts/2014-11-03-2014-11-2-a-natural-fix-for-adhd.md

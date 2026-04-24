@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2018-05-17
 original_post_path: _posts/2018-05-17-2018-5-17-an-elementary-school-just-acquired-a-startup.md

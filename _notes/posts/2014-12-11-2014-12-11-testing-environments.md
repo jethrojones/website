@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://hestheweirdteacher.blogspot.com/2014/12/testing-environment-security-vs-comfort.html?m=1
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-11
 original_post_path: _posts/2014-12-11-2014-12-11-testing-environments.md

@@ -5,7 +5,7 @@ title: We Want Student Voice Just In The
 date: 2023-09-19
 original_post_path: _posts/2023-09-19-we-want-student-voice-just-in-the.html
 permalink: /2023/09/19/we-want-student-voice-just-in-the/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 While popular culture, like [Jay Leno's Jaywalking
 series](https://www.youtube.com/watch?v=XpqmQJXdqrM), may poke fun at

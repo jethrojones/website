@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://chronicle.com/article/Widespread-Nature-of-Chapel/149603/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-10-24
 original_post_path: _posts/2014-10-24-2014-10-23-a-case-for-standards-based-grading.md

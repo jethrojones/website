@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.macdrifter.com/2015/01/beer-and-soup.html
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-01-12
 original_post_path: _posts/2015-01-12-2015-1-12-it-is-about-the-problem-solving.md

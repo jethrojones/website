@@ -5,7 +5,7 @@ title: The Power Of Rest
 date: 2022-01-03
 original_post_path: _posts/2022-01-03-the-power-of-rest.html
 permalink: /2022/01/03/the-power-of-rest/
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 ---
 # The Power of Rest
 

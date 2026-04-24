@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/06/reflection-2-on-relatio
 content_type: post
 original_post_path: _posts/2007-06-05-reflection-2-on-relationships.html
 permalink: /2007/06/05/reflection-2-on-relationships/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 As part of my requirements as a first-year teacher, I have to fill out
 these forms that are a total joke. There is about a half a page to write

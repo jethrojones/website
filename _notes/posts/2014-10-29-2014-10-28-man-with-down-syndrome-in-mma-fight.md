@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://m.youtube.com/watch?v=bFMx1_gcxD0&feature=youtu.be
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-10-29
 original_post_path: _posts/2014-10-29-2014-10-28-man-with-down-syndrome-in-mma-fight.md

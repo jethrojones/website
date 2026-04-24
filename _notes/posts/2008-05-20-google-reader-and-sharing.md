@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/05/google-reader-and-shari
 content_type: post
 original_post_path: _posts/2008-05-20-google-reader-and-sharing.html
 permalink: /2008/05/20/google-reader-and-sharing/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqRyFz2RTBhEwq-X3CHATVF2ZdEpOQ8kLxj3NnS5J4OK-voDy2lXnAGmeInx4H-xeJB0L-4xD9cal3vT2z0PLrAISTG3ngeM99dhw_EbmyqFEGCu7I_dyjifPC3jcC6WzJB_uu3IqJnf5a/s1600-h/sharing.png"

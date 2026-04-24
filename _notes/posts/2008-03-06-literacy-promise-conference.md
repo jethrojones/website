@@ -15,7 +15,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/literacy-promise-confer
 content_type: post
 original_post_path: _posts/2008-03-06-literacy-promise-conference.html
 permalink: /2008/03/06/literacy-promise-conference/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I attended the Literacy Promise Conference today. It is sponsored by the
 [Brigham Young University CITES](http://education.byu.edu/cites/)

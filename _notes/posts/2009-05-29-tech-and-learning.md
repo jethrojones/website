@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/05/tech-and-learning.html
 content_type: post
 original_post_path: _posts/2009-05-29-tech-and-learning.html
 permalink: /2009/05/29/tech-and-learning/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 I have been lucky enough to be able to teach many other teachers and
 students on a variety of topics. A friend and I were recently talking

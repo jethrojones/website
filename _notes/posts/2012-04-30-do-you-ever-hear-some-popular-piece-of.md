@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/04/do-you-ever-hear-some-p
 content_type: post
 original_post_path: _posts/2012-04-30-do-you-ever-hear-some-popular-piece-of.html
 permalink: /2012/04/30/do-you-ever-hear-some-popular-piece-of/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 Do you ever hear some popular piece of wisdom and think, "Duh! I learned
 that in Primary"? I do. All the time. I read a lot of research for work.

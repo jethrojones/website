@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/plcs-and-technology.htm
 content_type: post
 original_post_path: _posts/2008-01-04-plcs-and-technology.html
 permalink: /2008/01/04/plcs-and-technology/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 One thing that I have been having a hard time with is integrating
 technology into teaching and having a PLC. I found two blogs that have

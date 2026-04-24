@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/05/what-do-you-want-to-be-
 content_type: post
 original_post_path: _posts/2012-05-05-what-do-you-want-to-be-when-you-grow-up.html
 permalink: /2012/05/05/what-do-you-want-to-be-when-you-grow-up/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 I had a chat with one of our really great kids at my school today. While
 we were talking, I asked him what he wants to be when he grows up. He

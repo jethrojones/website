@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.thespectrum.com/story/opinion/2014/11/05/school-prison-pipeline-utah-can-minimized/18560015/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-10
 original_post_path: _posts/2014-11-10-2014-11-8-less-harsh-punishments.md

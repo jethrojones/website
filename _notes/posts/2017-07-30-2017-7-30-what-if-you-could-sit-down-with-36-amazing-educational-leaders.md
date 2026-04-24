@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "195"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2017-07-30
 original_post_path: _posts/2017-07-30-2017-7-30-what-if-you-could-sit-down-with-36-amazing-educational-leaders.md

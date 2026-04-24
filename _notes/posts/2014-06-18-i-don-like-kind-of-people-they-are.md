@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2014/06/i-don-like-kind-of-peop
 content_type: post
 original_post_path: _posts/2014-06-18-i-don-like-kind-of-people-they-are.html
 permalink: /2014/06/18/i-don-like-kind-of-people-they-are/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 I was talking to a student today about what kinds of things she thought
 needed to happen in her school with the new year coming up. 

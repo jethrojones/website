@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/08/new-take-on-discipline.
 content_type: post
 original_post_path: _posts/2007-08-28-new-take-on-discipline.html
 permalink: /2007/08/28/new-take-on-discipline/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 This summer I took a class from a lady named Leigh VandenAkker. She was
 really one of the best teachers I have ever had. I had a really hard

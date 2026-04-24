@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/interesting-things-happ
 content_type: post
 original_post_path: _posts/2008-02-26-interesting-things-happen-when-you.html
 permalink: /2008/02/26/interesting-things-happen-when-you/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Yesterday, one of the teachers that was having a problem and discussed
 it with me gave some good feedback to other people. She didn't say

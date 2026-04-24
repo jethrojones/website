@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://drspikecook.com/2014/11/06/5-dangerous-things-you-should-let-your-children-do-309365/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-09
 original_post_path: _posts/2014-11-09-2014-11-8-letting-your-kids-do-dangerous-things.md

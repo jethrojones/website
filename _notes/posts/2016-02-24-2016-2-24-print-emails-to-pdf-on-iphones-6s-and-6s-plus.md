@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2016-02-24
 original_post_path: _posts/2016-02-24-2016-2-24-print-emails-to-pdf-on-iphones-6s-and-6s-plus.md

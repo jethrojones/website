@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/12/i-have-great-students.h
 content_type: post
 original_post_path: _posts/2007-12-06-i-have-great-students.html
 permalink: /2007/12/06/i-have-great-students/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 For the most part, my students were very good for the [week that I was
 gone](http://lifeandtimesofstaciandjethro.blogspot.com/2007/11/cali-beverly-jones-has-arrived.html).

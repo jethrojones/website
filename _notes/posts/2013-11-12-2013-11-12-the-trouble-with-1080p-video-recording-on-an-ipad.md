@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 content_type: post
 date: 2013-11-12
 original_post_path: _posts/2013-11-12-2013-11-12-the-trouble-with-1080p-video-recording-on-an-ipad.md

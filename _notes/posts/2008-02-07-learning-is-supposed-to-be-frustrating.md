@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/learning-is-supposed-to
 content_type: post
 original_post_path: _posts/2008-02-07-learning-is-supposed-to-be-frustrating.html
 permalink: /2008/02/07/learning-is-supposed-to-be-frustrating/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 So, my classes have been working on the [Campaign Trail
 Collaboration](http://campaigntrailcollaboration.wikispaces.com/Super+Tuesday%21)

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 layout: note
 title: Paperless Principal
 categories:

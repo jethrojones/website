@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/02/saved-by-document-camer
 content_type: post
 original_post_path: _posts/2009-02-05-saved-by-document-camera.html
 permalink: /2009/02/05/saved-by-document-camera/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 My wife has been having pain in her jaw for the last week or so, and the
 only way I could convince her to go see the doctor is if I came home

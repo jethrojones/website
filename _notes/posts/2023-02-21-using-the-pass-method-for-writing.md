@@ -5,7 +5,7 @@ title: Using The Pass Method For Writing
 date: 2023-02-21
 original_post_path: _posts/2023-02-21-using-the-pass-method-for-writing.html
 permalink: /2023/02/21/using-the-pass-method-for-writing/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 I made a video to explain this method:
 

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://leadingmotivatedlearners.blogspot.com/2014/11/the-three.html?m=1
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-16
 original_post_path: _posts/2014-11-16-2014-11-16-the-three-things-to-focus-on.md

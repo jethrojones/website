@@ -5,7 +5,7 @@ content_type: post
 date: 2023-03-05
 original_post_path: _posts/2023-03-05-using-ai-to-find-the-perfect-dj.html
 permalink: /2023/03/05/using-ai-to-find-the-perfect-dj/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 Last night, we were discussing Mark 2 over dinner. During our
 conversation, my 15 year old laughed that it was noised about that Jesus

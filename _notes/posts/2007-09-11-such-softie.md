@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/09/such-softie.html
 content_type: post
 original_post_path: _posts/2007-09-11-such-softie.html
 permalink: /2007/09/11/such-softie/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 Today, this seventh grade girl (not my student) was in the hall talking
 to some ninth graders. It is "Unique You Day" at our school which

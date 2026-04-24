@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/amazing-thank-you-chris
 content_type: post
 original_post_path: _posts/2007-11-16-amazing-thank-you-chris.html
 permalink: /2007/11/16/amazing-thank-you-chris/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 So my good friend Chris asked a question in the comments yesterday about
 the web quest, so I thought I would answer it. The really amazing thing

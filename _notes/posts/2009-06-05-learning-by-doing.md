@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/06/learning-by-doing.html
 content_type: post
 original_post_path: _posts/2009-06-05-learning-by-doing.html
 permalink: /2009/06/05/learning-by-doing/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 <span class="Apple-style-span"
 style="font-family: arial; border-collapse: collapse; font-size: 13px; "></span>

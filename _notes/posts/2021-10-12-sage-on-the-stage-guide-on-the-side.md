@@ -5,7 +5,7 @@ title: Sage On The Stage Guide On The Side
 date: 2021-10-12
 original_post_path: _posts/2021-10-12-sage-on-the-stage-guide-on-the-side.html
 permalink: /2021/10/12/sage-on-the-stage-guide-on-the-side/
-last_modified_at: 2026-04-23 20:46:04
+last_modified_at: 2026-04-24 14:18:25
 ---
 <div class="captioned-image-container">
 

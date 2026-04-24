@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2010/08/releasing-teacher-value
 content_type: post
 original_post_path: _posts/2010-08-18-releasing-teacher-value-added-scores-in.html
 permalink: /2010/08/18/releasing-teacher-value-added-scores-in/
-last_modified_at: 2026-04-23 20:45:57
+last_modified_at: 2026-04-24 14:18:19
 ---
 This
 [idea](http://www.latimes.com/news/local/la-me-0817-teachers-react-20100817,0,3598751,full.story)

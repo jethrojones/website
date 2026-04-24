@@ -8,7 +8,7 @@ tags:
 status: publish
 type: post
 date: 2020-06-24
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:25
 content_type: post
 original_post_path: _posts/2020-06-24-where-to-startand-an-action-item.md
 permalink: /covid/2020/06/24/where-to-startand-an-action-item/

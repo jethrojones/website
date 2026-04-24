@@ -5,7 +5,7 @@ title: Breaking Down My Bonus Money Month
 date: 2022-11-30
 original_post_path: _posts/2022-11-30-breaking-down-my-bonus-money-month.html
 permalink: /2022/11/30/breaking-down-my-bonus-money-month/
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 ---
 Ok, the podcast last week was about the first month. Here’s my
 breakdown.

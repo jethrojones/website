@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://news.hjnews.com/allaccess/cache-q-a-new-logan-city-school-district-superintendent-discusses/article_4854b2ee-cc3c-11e4-a8ca-8f4807ca63c9.html?mode=jqm
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-03-19
 original_post_path: _posts/2015-03-19-2015-3-19-frank-schofield-on-preparation-to-be-a-superintendent.md

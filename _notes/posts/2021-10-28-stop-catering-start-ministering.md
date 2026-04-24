@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 permalink: /2021/10/28/stop-catering-start-ministering/
 description:
 title: Stop Catering Start Ministering

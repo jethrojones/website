@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/01/cleaning-up-organizatio
 content_type: post
 original_post_path: _posts/2007-01-25-cleaning-up-organization-mess.html
 permalink: /2007/01/25/cleaning-up-organization-mess/
-last_modified_at: 2026-04-23 20:45:52
+last_modified_at: 2026-04-24 14:18:18
 ---
 Okay, I fixed the comment moderating. I didn't know that I set it up
 that way. Sorry, <span id="SPELLING_ERROR_0" class="blsp-spelling-error"

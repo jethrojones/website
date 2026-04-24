@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/04/student-blogs-update.ht
 content_type: post
 original_post_path: _posts/2007-04-12-student-blogs-update.html
 permalink: /2007/04/12/student-blogs-update/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 This is the situation with my student blog class. They are coming along
 relatively well, but the students still need a little help understanding

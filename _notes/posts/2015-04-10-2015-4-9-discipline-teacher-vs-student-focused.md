@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://sledeaux84.wordpress.com/2015/03/14/discipline-teacher-focused-vs-student-focused-2/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-04-10
 original_post_path: _posts/2015-04-10-2015-4-9-discipline-teacher-vs-student-focused.md

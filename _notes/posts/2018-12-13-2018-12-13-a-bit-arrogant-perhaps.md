@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "134"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:24
 content_type: post
 date: 2018-12-13
 original_post_path: _posts/2018-12-13-2018-12-13-a-bit-arrogant-perhaps.md

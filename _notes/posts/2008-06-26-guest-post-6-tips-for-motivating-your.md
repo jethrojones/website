@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/06/guest-post-6-tips-for-m
 content_type: post
 original_post_path: _posts/2008-06-26-guest-post-6-tips-for-motivating-your.html
 permalink: /2008/06/26/guest-post-6-tips-for-motivating-your/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 This article is contributed by Heather Johnson, who regularly writes on
 the topic of [grants for graduate

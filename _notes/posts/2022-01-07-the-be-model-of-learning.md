@@ -5,7 +5,7 @@ title: The Be Model Of Learning
 date: 2022-01-07
 original_post_path: _posts/2022-01-07-the-be-model-of-learning.html
 permalink: /2022/01/07/the-be-model-of-learning/
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 ---
 This model of learning focuses not on what people will do but rather who
 they will be. It encompasses the deep kind of learning that changes you

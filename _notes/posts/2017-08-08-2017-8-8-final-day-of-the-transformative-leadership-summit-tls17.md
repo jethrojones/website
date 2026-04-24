@@ -9,7 +9,7 @@ published: true
 meta:
   passthrough_url: https://gc319.isrefer.com/go/tls17/tehjunction/blog
   _thumbnail_id: "183"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2017-08-08
 original_post_path: _posts/2017-08-08-2017-8-8-final-day-of-the-transformative-leadership-summit-tls17.md

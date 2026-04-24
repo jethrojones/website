@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/technothursdays-session
 content_type: post
 original_post_path: _posts/2008-03-13-technothursdays-session-1.html
 permalink: /2008/03/13/technothursdays-session-1/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 First of all, thanks to Pamela, Matt, Marcia, Jeff, Kara, Angela, Linda,
 and Pam for coming to TechnoThursdays today. I enjoyed working with each

@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/01/vicious-cyclehttpwww2bl
 content_type: post
 original_post_path: _posts/2007-01-24-vicious-cyclehttpwww2bloggercomimggllin.html
 permalink: /2007/01/24/vicious-cyclehttpwww2bloggercomimggllin/
-last_modified_at: 2026-04-23 20:45:52
+last_modified_at: 2026-04-24 14:18:18
 ---
 Some of my students don't have very good lives. Low-income, low
 self-esteem, low expectations for themselves. It is tragic. It hurts me

@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/08/learning-experience.htm
 content_type: post
 original_post_path: _posts/2008-08-26-learning-experience.html
 permalink: /2008/08/26/learning-experience/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 A couple months ago, I commented on how great it is when [learning is
 frustrating](%7B%7B%20site.baseurl%20%7D%7D%7B%%20post_url%202008-02-07-learning-is-supposed-to-be-frustrating%20%%7D).

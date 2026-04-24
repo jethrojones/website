@@ -16,7 +16,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/07/reflection-on-retreat.h
 content_type: post
 original_post_path: _posts/2009-07-19-reflection-on-retreat.html
 permalink: /2009/07/19/reflection-on-retreat/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNVxcwzmQqyaWg-ZgaewkAQYM5gZ5wFjgc5pu3zJ2U4xGWZBXPE6Y65o9FUQAyVdIZpk1UGEMLpRTVtZ7RqzsQCA14ulRPRN0_6ie1dYAvTHEnM4fpHOTecjFoGTzX4ut6SR7qMdHSwI40/s1600-h/3732843930_c3ed861f4e.jpg"

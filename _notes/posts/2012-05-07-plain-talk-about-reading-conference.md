@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/05/plain-talk-about-readin
 content_type: post
 original_post_path: _posts/2012-05-07-plain-talk-about-reading-conference.html
 permalink: /2012/05/07/plain-talk-about-reading-conference/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 <div style="font-family: Helvetica;">
 

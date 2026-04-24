@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/11/technology-pains.html
 content_type: post
 original_post_path: _posts/2008-11-03-technology-pains.html
 permalink: /2008/11/03/technology-pains/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 The above video clip is a public service announcement about the Digital
 TV transition that will take place in February, 2009. Since the clip is

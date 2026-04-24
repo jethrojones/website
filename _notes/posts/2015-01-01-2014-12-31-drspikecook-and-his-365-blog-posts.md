@@ -9,7 +9,7 @@ published: true
 meta:
   passthrough_url: http://drspikecook.com/2014/12/31/10-lessons/
   structured_content: '{"oembed":{},"overlay":true}'
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-01-01
 original_post_path: _posts/2015-01-01-2014-12-31-drspikecook-and-his-365-blog-posts.md

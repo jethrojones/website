@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/01/irony-and-punishment.ht
 content_type: post
 original_post_path: _posts/2007-01-25-irony-and-punishment.html
 permalink: /2007/01/25/irony-and-punishment/
-last_modified_at: 2026-04-23 20:45:52
+last_modified_at: 2026-04-24 14:18:18
 ---
 Today, my students wrote five paragraph essays on a subject of their
 choice. They had to write two essays. Let me back up. One of my students

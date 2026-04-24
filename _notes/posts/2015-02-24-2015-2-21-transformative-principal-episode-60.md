@@ -10,7 +10,7 @@ published: true
 meta:
   passthrough_url: http://jethrojones.com/jason-bodnar
   _thumbnail_id: "332"
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-02-24
 original_post_path: _posts/2015-02-24-2015-2-21-transformative-principal-episode-60.md

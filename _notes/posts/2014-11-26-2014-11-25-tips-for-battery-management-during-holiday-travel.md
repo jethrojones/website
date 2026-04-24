@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.macdrifter.com/2014/11/battery-management-for-terrible-no-good-grueling-holiday-travel.html
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-26
 original_post_path: _posts/2014-11-26-2014-11-25-tips-for-battery-management-during-holiday-travel.md

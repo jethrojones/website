@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.disabilityscoop.com/2014/11/14/teen-venture-capital/19847/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-15
 original_post_path: _posts/2014-11-15-2014-11-15-youngest-entrepreneur-gets-funded.md

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://m.strategy-business.com/blog/Leadership-Insights-from-a-Special-Needs-Parent
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-04
 original_post_path: _posts/2014-12-04-2014-12-4-leadership-insights-from-a-parent-of-a-child-with-special-needs.md

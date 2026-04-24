@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   structured_content: '{"oembed":{},"overlay":true}'
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2015-09-28
 original_post_path: _posts/2015-09-28-kmsquotes.md

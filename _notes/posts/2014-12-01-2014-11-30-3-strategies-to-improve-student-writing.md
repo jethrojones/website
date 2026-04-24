@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.edutopia.org/blog/3-strategies-improve-student-writing-ali-parrish
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-01
 original_post_path: _posts/2014-12-01-2014-11-30-3-strategies-to-improve-student-writing.md

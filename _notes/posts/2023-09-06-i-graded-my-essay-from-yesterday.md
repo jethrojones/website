@@ -5,7 +5,7 @@ title: I Graded My Essay From Yesterday
 date: 2023-09-06
 original_post_path: _posts/2023-09-06-i-graded-my-essay-from-yesterday.html
 permalink: /2023/09/06/i-graded-my-essay-from-yesterday/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 One of the real problems with AI right now is that it is so verbose! I
 can only imagine the amount of text that has been generated in the 10

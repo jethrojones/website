@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://principalmkelly.blogspot.com/2015/06/summer-just-waste-of-time.html?m=1
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2015-06-07
 original_post_path: _posts/2015-06-07-2015-6-6-use-summer-to-learn.md

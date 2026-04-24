@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/educational-software-re
 content_type: post
 original_post_path: _posts/2008-01-18-educational-software-review-planbook.html
 permalink: /2008/01/18/educational-software-review-planbook/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 Sorry, this article is not available here anymore, you can find it on
 [The Apple

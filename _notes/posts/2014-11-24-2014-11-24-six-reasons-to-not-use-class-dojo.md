@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.joebower.org/2014/11/6-reasons-to-reject-classdojo.html?m=1
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-24
 original_post_path: _posts/2014-11-24-2014-11-24-six-reasons-to-not-use-class-dojo.md

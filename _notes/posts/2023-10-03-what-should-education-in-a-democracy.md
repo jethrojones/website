@@ -5,7 +5,7 @@ title: What Should Education In A Democracy
 date: 2023-10-03
 original_post_path: _posts/2023-10-03-what-should-education-in-a-democracy.html
 permalink: /2023/10/03/what-should-education-in-a-democracy/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 In the context of a democratic society, the role of education extends
 beyond the mere transmission of knowledge; it serves as a foundation for

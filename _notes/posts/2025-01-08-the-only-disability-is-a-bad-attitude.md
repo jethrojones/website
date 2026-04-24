@@ -5,7 +5,7 @@ categories:
   - inspiration
 video_url: https://www.instagram.com/reel/DEIOqUwS7xm/?igsh=ZmJsZ2MydXp0dng5
 layout: note
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:26
 content_type: post
 original_post_path: _posts/2025-01-08-the-only-disability-is-a-bad-attitude.md
 permalink: /inspiration/2025/01/08/the-only-disability-is-a-bad-attitude/

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 permalink: /2023/10/09/the-value-of-spiritual-learning/
 description:
 title: All Learning Is Spiritual

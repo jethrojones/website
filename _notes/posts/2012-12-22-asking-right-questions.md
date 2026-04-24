@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/12/asking-right-questions.
 content_type: post
 original_post_path: _posts/2012-12-22-asking-right-questions.html
 permalink: /2012/12/22/asking-right-questions/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 I think I am a pretty smart guy, but when it comes to things dealing
 with medicine, I realize that I am way out of my league. I try to be

@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "217"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2016-08-06
 original_post_path: _posts/2016-08-06-2016-8-6-press-release-transformative-leadership-summit-to-offer-college-credit-to-summit-attendees.md

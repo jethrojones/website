@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/07/first-day-of-school.htm
 content_type: post
 original_post_path: _posts/2008-07-28-first-day-of-school.html
 permalink: /2008/07/28/first-day-of-school/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 I must be getting excited for school to start in three weeks, because I
 had a dream about the first day. The best part was that I got a sub for

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 permalink: /2021/11/04/education-is-the-responsibility-of/
 description:
 title: Education is the Responsibility of the Parents

@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/2nd-job-to-support-my-h
 content_type: post
 original_post_path: _posts/2008-03-19-2nd-job-to-support-my-habit.html
 permalink: /2008/03/19/2nd-job-to-support-my-habit/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I got another job again. This one is better than delivering donuts
 (which I did last fall). I am the newest member of the gang at [The

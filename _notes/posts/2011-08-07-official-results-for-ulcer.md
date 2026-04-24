@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2011/08/official-results-for-ul
 content_type: post
 original_post_path: _posts/2011-08-07-official-results-for-ulcer.html
 permalink: /2011/08/07/official-results-for-ulcer/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 <div class="posterous_autopost">
 

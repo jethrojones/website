@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://sledeaux84.wordpress.com/2015/01/26/the-power-of-detentions/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-01-27
 original_post_path: _posts/2015-01-27-2015-1-26-the-power-of-detentions.md

@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/05/why-i-wont-use-typepad-
 content_type: post
 original_post_path: _posts/2008-05-15-why-i-wont-use-typepad-blog.html
 permalink: /2008/05/15/why-i-wont-use-typepad-blog/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I have been using Blogger as my blogging platform of choice for two and
 a half years. It is very easy to use, pretty fast, and I don't have too

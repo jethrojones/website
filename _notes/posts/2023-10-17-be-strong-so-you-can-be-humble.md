@@ -5,7 +5,7 @@ title: Be Strong So You Can Be Humble
 date: 2023-10-17
 original_post_path: _posts/2023-10-17-be-strong-so-you-can-be-humble.html
 permalink: /2023/10/17/be-strong-so-you-can-be-humble/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 <div class="captioned-image-container">
 

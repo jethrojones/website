@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/twitter-and-mini-poll.h
 content_type: post
 original_post_path: _posts/2008-01-08-twitter-and-mini-poll.html
 permalink: /2008/01/08/twitter-and-mini-poll/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 Let's get right down to it. I would like to request some comments for my
 Political Aspects of Education class that I am taking right now. First

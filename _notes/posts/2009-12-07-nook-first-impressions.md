@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/12/nook-first-impressions.
 content_type: post
 original_post_path: _posts/2009-12-07-nook-first-impressions.html
 permalink: /2009/12/07/nook-first-impressions/
-last_modified_at: 2026-04-23 20:45:57
+last_modified_at: 2026-04-24 14:18:19
 ---
 [<img
 src="http://content.screencast.com/users/jethro/folders/Jing/media/688bb9aa-9b7c-4d08-bdb1-66900d837c15/00000803.png"

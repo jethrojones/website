@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/02/breaking-point.html
 content_type: post
 original_post_path: _posts/2007-02-08-breaking-point.html
 permalink: /2007/02/08/breaking-point/
-last_modified_at: 2026-04-23 20:45:52
+last_modified_at: 2026-04-24 14:18:18
 ---
 My honors class is usually a little rambunxious. They are full of
 energy, and there are a few boys that are certainly filling the role

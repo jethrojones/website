@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/ipod-touch-in-classroom
 content_type: post
 original_post_path: _posts/2008-01-29-ipod-touch-in-classroom.html
 permalink: /2008/01/29/ipod-touch-in-classroom/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 I have a wonderful idea, and I know I am not the
 [only](http://www.classroom20.com/group/macclassroom20/forum/topic/show?id=649749%3ATopic%3A103645)

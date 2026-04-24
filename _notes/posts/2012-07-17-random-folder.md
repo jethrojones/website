@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/07/random-folder.html
 content_type: post
 original_post_path: _posts/2012-07-17-random-folder.html
 permalink: /2012/07/17/random-folder/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 *Download your random quotes here: <http://is.gd/3dFC4h> \#summerblog*  
   

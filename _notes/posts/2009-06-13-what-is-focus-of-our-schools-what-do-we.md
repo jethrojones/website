@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/06/what-is-focus-of-our-sc
 content_type: post
 original_post_path: _posts/2009-06-13-what-is-focus-of-our-schools-what-do-we.html
 permalink: /2009/06/13/what-is-focus-of-our-schools-what-do-we/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 <span class="Apple-style-span"
 style=" color: rgb(102, 102, 102); font-size:17px;"><span class="Apple-style-span"

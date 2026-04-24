@@ -5,7 +5,7 @@ title: Education Is The Responsibility Of 25a
 date: 2023-09-25
 original_post_path: _posts/2023-09-25-education-is-the-responsibility-of-25a.html
 permalink: /2023/09/25/education-is-the-responsibility-of-25a/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 <div class="captioned-image-container">
 

@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/04/student-work-by-k.html
 content_type: post
 original_post_path: _posts/2008-04-23-student-work-by-k.html
 permalink: /2008/04/23/student-work-by-k/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 <span style="font-weight: bold;">Update:</span> My student just came to
 me with her addition, a couple lines at the bottom, in red.  

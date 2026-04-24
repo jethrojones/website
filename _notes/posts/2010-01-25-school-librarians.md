@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2010/01/school-librarians.html
 content_type: post
 original_post_path: _posts/2010-01-25-school-librarians.html
 permalink: /2010/01/25/school-librarians/
-last_modified_at: 2026-04-23 20:45:57
+last_modified_at: 2026-04-24 14:18:19
 ---
 I saw this weekend that the American Association of School Librarians
 voted to make the official title of "The people who work in the part of

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.edutopia.org/blog/teaching-kindness-essential-reduce-bullying-lisa-currie?utm_content=buffer84ab5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-03
 original_post_path: _posts/2014-11-03-2014-11-3-why-we-need-to-teach-kids-to-be-kind.md

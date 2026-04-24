@@ -15,7 +15,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/07/random-quote-for-email-
 content_type: post
 original_post_path: _posts/2012-07-16-random-quote-for-email-sigs.html
 permalink: /2012/07/16/random-quote-for-email-sigs/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 *Add a random quote to every email @macdrifter @smilesoftware
 @keyboardmaestro* \#summerblog12  

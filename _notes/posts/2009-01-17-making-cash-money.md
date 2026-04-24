@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/01/making-cash-money.html
 content_type: post
 original_post_path: _posts/2009-01-17-making-cash-money.html
 permalink: /2009/01/17/making-cash-money/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 A couple months ago, I decided that I should sell some of the books that
 I had for my Masters program. Many of the books are really quite good,

@@ -9,7 +9,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "75"
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:24
 content_type: post
 date: 2019-11-01
 original_post_path: _posts/2019-11-01-2019-11-1-how-we-got-class-sizes-down-to-13.md

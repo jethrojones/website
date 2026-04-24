@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/randy-barron/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-02-05
 original_post_path: _posts/2015-02-05-2015-2-4-guilty-of-learning.md

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.lynda.com/articles/author/jethro-jones
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 content_type: post
 date: 2014-10-16
 original_post_path: _posts/2014-10-16-2014-10-15-a-new-author-at-lyndacom.md

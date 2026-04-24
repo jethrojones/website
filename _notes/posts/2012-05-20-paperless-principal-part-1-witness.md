@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/05/paperless-principal-par
 content_type: post
 original_post_path: _posts/2012-05-20-paperless-principal-part-1-witness.html
 permalink: /2012/05/20/paperless-principal-part-1-witness/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 #### Twitter version: Use ScanSnap, OCR, Hazel, and Boxcar to digitize, notify, and sort all witness statements from students.
 

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.cultofpedagogy.com/supporting-esl-students-mainstream-classroom/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-12
 original_post_path: _posts/2014-12-12-2014-12-11-supporting-esl-students-in-the-mainstream-classroom.md

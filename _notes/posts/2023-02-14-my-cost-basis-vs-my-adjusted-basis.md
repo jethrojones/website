@@ -5,7 +5,7 @@ title: My Cost Basis Vs My Adjusted Basis
 date: 2023-02-14
 original_post_path: _posts/2023-02-14-my-cost-basis-vs-my-adjusted-basis.html
 permalink: /2023/02/14/my-cost-basis-vs-my-adjusted-basis/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 After [sending out my trades for this week
 yesterday,](https://jethrojones.substack.com/p/i-made-187-this-morning)

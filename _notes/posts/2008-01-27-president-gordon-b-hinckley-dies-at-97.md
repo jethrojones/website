@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/01/president-gordon-b-hinc
 content_type: post
 original_post_path: _posts/2008-01-27-president-gordon-b-hinckley-dies-at-97.html
 permalink: /2008/01/27/president-gordon-b-hinckley-dies-at-97/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdvp6wsResUm8Xi_G1LCn2Ozu9smOCophXGG5BziNDQgbc_BWg4stV7PWV5RBVOiSE-RPrYQ86DDfXH4HwE0-3Oe-_6jXBUkoWUXq0THR0b0C4gEYjcbklNQkQO4MYVAEDJUcy6l9pelZS/s1600-h/HINCKLEY_medium.jpg"

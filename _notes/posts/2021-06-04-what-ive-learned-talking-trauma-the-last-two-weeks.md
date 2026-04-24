@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "17"
-last_modified_at: 2026-04-23 21:21:14
+last_modified_at: 2026-04-24 14:18:25
 content_type: post
 date: 2021-06-04
 original_post_path: _posts/2021-06-04-what-ive-learned-talking-trauma-the-last-two-weeks.md

@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/talent-show-and-buildin
 content_type: post
 original_post_path: _posts/2008-02-08-talent-show-and-building-community.html
 permalink: /2008/02/08/talent-show-and-building-community/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Today our school did a talent show, and some parents were able to come
 and watch their students perform. The students all performed very well

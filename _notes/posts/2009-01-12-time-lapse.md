@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/01/time-lapse.html
 content_type: post
 original_post_path: _posts/2009-01-12-time-lapse.html
 permalink: /2009/01/12/time-lapse/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 About a month ago, I set up my computer to record the outside of a
 window at our school to see if kids were vandalizing another teacher's

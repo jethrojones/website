@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/12/make-difference-wednesd
 content_type: post
 original_post_path: _posts/2007-12-18-make-difference-wednesday.html
 permalink: /2007/12/18/make-difference-wednesday/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 I mentioned [this website earlier](http://twentyfivedays.wordpress.com/)
 and wanted to mention it again. My class has gone to great lengths to

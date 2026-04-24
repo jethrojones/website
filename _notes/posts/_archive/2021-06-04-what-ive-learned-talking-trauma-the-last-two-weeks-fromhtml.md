@@ -6,7 +6,7 @@ date: 2021-06-04
 original_post_path: _posts/2021-06-04-what-ive-learned-talking-trauma-the-last-two-weeks.html
 published: false
 sitemap: false
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:26
 ---
 A couple weeks ago, I released my [whitepaper on
 Trauma](https://pages.jethrojones.com) and when I released that, I asked

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:25
 permalink: /clippings/2021/03/15/Checklists/
 description:
 title: Checklists

@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/12/support-your-local-jeth
 content_type: post
 original_post_path: _posts/2008-12-30-support-your-local-jethro.html
 permalink: /2008/12/30/support-your-local-jethro/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 I sold my car the other day so I could buy a new computer. I decided
 that I could make a better living by working on my own business from

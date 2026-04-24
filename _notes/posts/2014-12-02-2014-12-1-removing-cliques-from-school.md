@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://the21stcenturyprincipal.blogspot.com/2014/12/cliques-in-high-school-and-what-we-can.html
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-02
 original_post_path: _posts/2014-12-02-2014-12-1-removing-cliques-from-school.md

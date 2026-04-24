@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/09/guided-reading-in-middl
 content_type: post
 original_post_path: _posts/2008-09-18-guided-reading-in-middle-school.html
 permalink: /2008/09/18/guided-reading-in-middle-school/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 **Twitter version:** Guided reading is the best thing I can do to help
 my students. How can I do it better?  

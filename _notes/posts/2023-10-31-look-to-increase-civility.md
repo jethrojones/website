@@ -5,7 +5,7 @@ title: Look To Increase Civility
 date: 2023-10-31
 original_post_path: _posts/2023-10-31-look-to-increase-civility.html
 permalink: /2023/10/31/look-to-increase-civility/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 In 4th grade, I had a terrible teacher. His name was Mr. Sieber. Wait,
 let me start over. In 4th grade, I was a punk kid. Wait, let me start

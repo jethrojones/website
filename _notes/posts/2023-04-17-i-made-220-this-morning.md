@@ -5,7 +5,7 @@ title: I Made 220 This Morning
 date: 2023-04-17
 original_post_path: _posts/2023-04-17-i-made-220-this-morning.html
 permalink: /2023/04/17/i-made-220-this-morning/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 It’s been a grind the past few weeks as the stocks I hold have been down
 quite a bit.

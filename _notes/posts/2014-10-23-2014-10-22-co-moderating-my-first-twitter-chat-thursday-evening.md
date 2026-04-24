@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://connectedprincipals.com/archives/10951
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 content_type: post
 date: 2014-10-23
 original_post_path: _posts/2014-10-23-2014-10-22-co-moderating-my-first-twitter-chat-thursday-evening.md

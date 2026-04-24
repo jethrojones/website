@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/courageous-collaborativ
 content_type: post
 original_post_path: _posts/2008-03-09-courageous-collaborative-leadership.html
 permalink: /2008/03/09/courageous-collaborative-leadership/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zYVHqohhDnOF5LAG-aNcP9VYpXlIOLqi1Tsuh9ytAWkRHWUQvy-eUP7Z96w_HOMCdBmKqMimJ2u08v0T2lRqoBe7yu9HjWhGfeX5wzkQphIULG_6-bXL4Q8Izn1R3E79mv2alYPLIFA5/s1600-h/Picture+2.png"

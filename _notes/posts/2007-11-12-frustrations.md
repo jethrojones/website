@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/frustrations.html
 content_type: post
 original_post_path: _posts/2007-11-12-frustrations.html
 permalink: /2007/11/12/frustrations/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 I recently blogged about my new [website](http://jethrojones.com/fhms)
 for my students. Well, I don't think I said that I used Apple's iWeb to

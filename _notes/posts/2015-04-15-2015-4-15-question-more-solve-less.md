@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://practicaltheory.org/blog/2015/03/29/post-for-admins-question-more-solve-less/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-04-15
 original_post_path: _posts/2015-04-15-2015-4-15-question-more-solve-less.md

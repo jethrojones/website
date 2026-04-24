@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/04/take-your-daughter-to-w
 content_type: post
 original_post_path: _posts/2012-04-26-take-your-daughter-to-work-day.html
 permalink: /2012/04/26/take-your-daughter-to-work-day/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 I took my daughter with me to work today for "Take Your Daughter to Work
 Day". She is 4 and loves preschool and can't wait to go to

@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/03/power-of-sex.html
 content_type: post
 original_post_path: _posts/2007-03-12-power-of-sex.html
 permalink: /2007/03/12/power-of-sex/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl7E_TKWTk33YyzcQKd9jvrrQwo7LEoi25FE_WXl3EHFW1qn-BUrF7kJ9O8W56BIlD3EXL6XEQfknhgNTVZJ0UZ6gpZz1n7vpXTwnGx8LGc0T7dDmqTseQn5x3X9U-O-BnGGIlgC77PeHl/s1600-h/meg4.jpg"

@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:24
 content_type: post
 date: 2018-12-06
 original_post_path: _posts/2018-12-06-2018-12-6-actually-we-dont-want-everyone-to-learn-the-same-thing.md

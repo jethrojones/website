@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://drspikecook.com/2014/12/06/what-are-we-filtering-340365/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-09
 original_post_path: _posts/2014-12-09-2014-12-9-filtering-via-drspikecook.md

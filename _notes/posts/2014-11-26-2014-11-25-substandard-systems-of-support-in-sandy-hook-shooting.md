@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://blog.foxspecialedlaw.com/2014/11/the-connecticut-office-of-the-child-advocate-has-just-released-the-results-of-its-exhaustive-study-of-the-horrific-shooting-a.html
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-26
 original_post_path: _posts/2014-11-26-2014-11-25-substandard-systems-of-support-in-sandy-hook-shooting.md

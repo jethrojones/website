@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/04/twitter-backfires.html
 content_type: post
 original_post_path: _posts/2008-04-30-twitter-backfires.html
 permalink: /2008/04/30/twitter-backfires/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 It all started two months ago when I caught three girls cheating on a
 test. I made a poor decision and ripped up their papers in front of the

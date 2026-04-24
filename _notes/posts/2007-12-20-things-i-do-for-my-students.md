@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/12/things-i-do-for-my-stud
 content_type: post
 original_post_path: _posts/2007-12-20-things-i-do-for-my-students.html
 permalink: /2007/12/20/things-i-do-for-my-students/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 <span style="font-weight: bold;">UPDATE: </span>Second video of another
 teacher added.  

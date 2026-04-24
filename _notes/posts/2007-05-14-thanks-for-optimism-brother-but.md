@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/05/thanks-for-optimism-bro
 content_type: post
 original_post_path: _posts/2007-05-14-thanks-for-optimism-brother-but.html
 permalink: /2007/05/14/thanks-for-optimism-brother-but/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 My class average for my ninth graders on the CRTs was 48.68/85 (57%) and
 my seventh graders scored an average of 69/82 (84%). I figure by posting

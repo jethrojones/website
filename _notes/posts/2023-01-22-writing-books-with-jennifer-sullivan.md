@@ -5,7 +5,7 @@ title: Writing Books With Jennifer Sullivan
 date: 2023-01-22
 original_post_path: _posts/2023-01-22-writing-books-with-jennifer-sullivan.html
 permalink: /2023/01/22/writing-books-with-jennifer-sullivan/
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 ---
 Jen Sullivan is an educator and author who runs her own business helping
 students around the country. Four years ago, she was working in a

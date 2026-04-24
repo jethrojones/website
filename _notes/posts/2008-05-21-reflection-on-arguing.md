@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/05/reflection-on-arguing.h
 content_type: post
 original_post_path: _posts/2008-05-21-reflection-on-arguing.html
 permalink: /2008/05/21/reflection-on-arguing/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSfmZidZO54_lWpKly6J3wDb29b6HcUtPMHFE-yS_n8134v4-PDSihQog-UUzwp9srPQh-i_9Z7C6w0fiHS5-xMe-FjlDxHufZ-1uDum8ZITR0V_7eackoAEJeVgFm7DtSizPG0okjcwy_/s1600-h/busted.png"

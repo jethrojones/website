@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2016-02-19
 original_post_path: _posts/2016-02-19-2016-2-18-my-experience-with-seth-godins-leadership-workshop.md

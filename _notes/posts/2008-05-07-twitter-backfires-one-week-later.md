@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/05/twitter-backfires-one-w
 content_type: post
 original_post_path: _posts/2008-05-07-twitter-backfires-one-week-later.html
 permalink: /2008/05/07/twitter-backfires-one-week-later/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I have received a lot of great comments on [this
 post](%7B%7B%20site.baseurl%20%7D%7D%7B%%20post_url%202008-04-30-twitter-backfires%20%%7D),

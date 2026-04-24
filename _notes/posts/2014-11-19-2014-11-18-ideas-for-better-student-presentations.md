@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://practicaltheory.org/blog/2014/11/18/dont-make-presentation-day-the-worst-day/
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-19
 original_post_path: _posts/2014-11-19-2014-11-18-ideas-for-better-student-presentations.md

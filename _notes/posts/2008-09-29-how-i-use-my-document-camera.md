@@ -15,7 +15,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/09/how-i-use-my-document-c
 content_type: post
 original_post_path: _posts/2008-09-29-how-i-use-my-document-camera.html
 permalink: /2008/09/29/how-i-use-my-document-camera/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 <a
 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGMo31J22Qgx4BPSYTy9HyTyOJJ2z2Yfpa_R6ixO5yzDNC_JMACRuijpr4sGwHv6V4UxCAKyHF7WydEwuyvR_IijtmD65jr5PGcwftQTDWeNGtyKDCsPNgqKODNadSVPnRv0Ss_h3x7fRa/s1600-h/dc.png"

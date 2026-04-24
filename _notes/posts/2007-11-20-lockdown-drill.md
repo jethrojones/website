@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/lockdown-drill.html
 content_type: post
 original_post_path: _posts/2007-11-20-lockdown-drill.html
 permalink: /2007/11/20/lockdown-drill/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 We had a lockdown drill today at school and I was nervous that my
 students would not do well with it, but they managed to do OK, for the

@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:24
 content_type: post
 date: 2019-01-19
 original_post_path: _posts/2019-01-19-2019-1-18-a-new-teacher-has-started-blogging.md

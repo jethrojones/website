@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/07/juice-is-not-worth-sque
 content_type: post
 original_post_path: _posts/2012-07-09-juice-is-not-worth-squeeze.html
 permalink: /2012/07/09/juice-is-not-worth-squeeze/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 Bill Carozza posted on his blog about why <a
 href="http://billcarozza.com/2012/07/08/3-reasons-educators-arent-on-twitter/#comment-982"

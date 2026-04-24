@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/senteo-clickers.html
 content_type: post
 original_post_path: _posts/2008-03-11-senteo-clickers.html
 permalink: /2008/03/11/senteo-clickers/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 I use iClickers in my Politics class down at BYU, and it they are pretty
 nice. Last week I learned about [SmartTechnology's

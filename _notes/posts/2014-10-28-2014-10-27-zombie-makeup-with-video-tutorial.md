@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://classycosmetics.blogspot.com/2014/10/zombie-tutorial.html
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-10-28
 original_post_path: _posts/2014-10-28-2014-10-27-zombie-makeup-with-video-tutorial.md

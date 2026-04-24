@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2016-08-23
 original_post_path: _posts/2016-08-23-2016-8-23-the-25-airstream-at-the-coast-guard-campground.md

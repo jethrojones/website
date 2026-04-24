@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/05/creativity-in-punishmen
 content_type: post
 original_post_path: _posts/2007-05-02-creativity-in-punishment.html
 permalink: /2007/05/02/creativity-in-punishment/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 I really like thinking up ways to creatively punish students. This
 student continued to text on his phone during class, even after I asked

@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "219"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2016-07-11
 original_post_path: _posts/2016-07-11-2016-7-11-my-daughter-ran-away-and-what-i-learned-about-how-to-be-an-effective-educator.md

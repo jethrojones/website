@@ -16,7 +16,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/01/acer-aspire-one.html
 content_type: post
 original_post_path: _posts/2009-01-25-acer-aspire-one.html
 permalink: /2009/01/25/acer-aspire-one/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 Acer is offering a [30-day
 trial](http://www.acer.com/us/k12/k12_landing.htm) of a desktop and a

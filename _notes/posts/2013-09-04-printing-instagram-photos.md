@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2013/09/printing-instagram-phot
 content_type: post
 original_post_path: _posts/2013-09-04-printing-instagram-photos.html
 permalink: /2013/09/04/printing-instagram-photos/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 ---
 My wife takes some pretty cool Instagram pictures. I helped her get them
 ready to print on 4x6 so that they turn out to be 4x4 pictures. [Print

@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/why-no-courses-about-st
 content_type: post
 original_post_path: _posts/2008-02-25-why-no-courses-about-students.html
 permalink: /2008/02/25/why-no-courses-about-students/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 Here is my question of the day for my administration program: Why don't
 we learn anything relating to dealing with students (or parents)? That

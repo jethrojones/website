@@ -5,7 +5,7 @@ title: The Right Mindsets For My Bonus Money
 date: 2023-01-06
 original_post_path: _posts/2023-01-06-the-right-mindsets-for-my-bonus-money.html
 permalink: /2023/01/06/the-right-mindsets-for-my-bonus-money/
-last_modified_at: 2026-04-23 20:46:05
+last_modified_at: 2026-04-24 14:18:25
 ---
 <a
 href="http://traffic.libsyn.com/dbb17fe3-9de3-49a4-9022-62d42f05c9fe/MBM_6.mp3"

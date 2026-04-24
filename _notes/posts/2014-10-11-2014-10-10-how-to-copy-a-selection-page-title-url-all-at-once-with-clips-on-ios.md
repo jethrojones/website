@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://finerthings.in/featured/how-to-copy-a-selection-page-title-url-all-at-once-with-clips-on-ios/
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:20
 content_type: post
 date: 2014-10-11
 original_post_path: _posts/2014-10-11-2014-10-10-how-to-copy-a-selection-page-title-url-all-at-once-with-clips-on-ios.md

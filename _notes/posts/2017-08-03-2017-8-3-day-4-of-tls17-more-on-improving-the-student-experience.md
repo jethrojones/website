@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2017-08-03
 original_post_path: _posts/2017-08-03-2017-8-3-day-4-of-tls17-more-on-improving-the-student-experience.md

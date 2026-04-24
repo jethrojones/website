@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-03
 original_post_path: _posts/2014-11-03-2014-11-2--halloween-candy-to-binge-or-not-to-binge.md

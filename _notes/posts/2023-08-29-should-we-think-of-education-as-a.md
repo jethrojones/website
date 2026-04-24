@@ -5,7 +5,7 @@ title: Should We Think Of Education As A
 date: 2023-08-29
 original_post_path: _posts/2023-08-29-should-we-think-of-education-as-a.html
 permalink: /2023/08/29/should-we-think-of-education-as-a/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 "Puritans, who first settled New England in 1620, saw in moral education
 a way to keep religious orthodoxy alive, promote social harmony,

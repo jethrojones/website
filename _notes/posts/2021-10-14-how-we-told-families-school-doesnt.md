@@ -5,7 +5,7 @@ title: How We Told Families School Doesnt
 date: 2021-10-14
 original_post_path: _posts/2021-10-14-how-we-told-families-school-doesnt.html
 permalink: /2021/10/14/how-we-told-families-school-doesnt/
-last_modified_at: 2026-04-23 20:46:04
+last_modified_at: 2026-04-24 14:18:25
 ---
 We made a grave mistake in telling families that much of what we do in
 education doesn’t matter.

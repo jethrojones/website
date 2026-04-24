@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2012/05/salt-lake-city-bike-tou
 content_type: post
 original_post_path: _posts/2012-05-06-salt-lake-city-bike-tour-take-2.html
 permalink: /2012/05/06/salt-lake-city-bike-tour-take-2/
-last_modified_at: 2026-04-23 20:45:58
+last_modified_at: 2026-04-24 14:18:20
 ---
 I did the bike tour again. I wasn't going to do it, but a good friend at
 work said he was going to, and he is a better rider than I, so I thought

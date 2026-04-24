@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 source: http://www.leadershipwithpurpose.net/home/a-personal-dilemma-great-teacher-vs-instructional-leader
-last_modified_at: 2026-04-23 20:46:00
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-11-02
 original_post_path: _posts/2014-11-02-instructional-leader-or-good-teacher-is-it-a-dichotomy.md

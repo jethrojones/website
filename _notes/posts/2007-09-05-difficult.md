@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/09/difficult.html
 content_type: post
 original_post_path: _posts/2007-09-05-difficult.html
 permalink: /2007/09/05/difficult/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 One thing about change is that it can be so difficult sometimes. I am
 trying really hard to change the type of teacher that I am. It is

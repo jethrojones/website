@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://leadingmotivatedlearners.blogspot.com/2015/05/want-to-lead.html?m=1
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2015-06-03
 original_post_path: _posts/2015-06-03-2015-6-3-you-cant-make-anyone-do-anything.md

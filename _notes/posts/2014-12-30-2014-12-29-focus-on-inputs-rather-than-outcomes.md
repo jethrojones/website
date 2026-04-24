@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.adn.com/article/20141229/education-task-forces-last-meeting-ends-dissent
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:21
 content_type: post
 date: 2014-12-30
 original_post_path: _posts/2014-12-30-2014-12-29-focus-on-inputs-rather-than-outcomes.md

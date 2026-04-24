@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2009/01/word-of-year.html
 content_type: post
 original_post_path: _posts/2009-01-07-word-of-year.html
 permalink: /2009/01/07/word-of-year/
-last_modified_at: 2026-04-23 20:45:56
+last_modified_at: 2026-04-24 14:18:19
 ---
 Many people do New Year's Resolutions this time of year, but I have
 always thought that the reason those never stick is because people wait

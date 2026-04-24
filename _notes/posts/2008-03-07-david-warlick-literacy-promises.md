@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/david-warlick-literacy-
 content_type: post
 original_post_path: _posts/2008-03-07-david-warlick-literacy-promises.html
 permalink: /2008/03/07/david-warlick-literacy-promises/
-last_modified_at: 2026-04-23 20:45:55
+last_modified_at: 2026-04-24 14:18:19
 ---
 This page acts as my notes for his presentation, so please excuse any
 poor wording or bad grammar.  

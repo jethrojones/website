@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: https://soundcloud.com/preppedandpolished/pp-episode-54-jethro-jones-the-transformative-principal
-last_modified_at: 2026-04-23 20:46:01
+last_modified_at: 2026-04-24 14:18:22
 content_type: post
 date: 2015-04-03
 original_post_path: _posts/2015-04-03-2015-4-2-prepped-and-polished-podcast.md

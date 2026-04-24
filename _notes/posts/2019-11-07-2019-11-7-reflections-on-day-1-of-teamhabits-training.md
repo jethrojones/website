@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-23 20:46:03
+last_modified_at: 2026-04-24 14:18:24
 content_type: post
 date: 2019-11-07
 original_post_path: _posts/2019-11-07-2019-11-7-reflections-on-day-1-of-teamhabits-training.md

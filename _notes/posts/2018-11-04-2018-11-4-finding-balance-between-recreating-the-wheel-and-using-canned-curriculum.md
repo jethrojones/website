@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "175"
-last_modified_at: 2026-04-23 20:46:02
+last_modified_at: 2026-04-24 14:18:23
 content_type: post
 date: 2018-11-04
 original_post_path: _posts/2018-11-04-2018-11-4-finding-balance-between-recreating-the-wheel-and-using-canned-curriculum.md

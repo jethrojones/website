@@ -14,7 +14,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/02/what-are-we-teaching-th
 content_type: post
 original_post_path: _posts/2008-02-11-what-are-we-teaching-them.html
 permalink: /2008/02/11/what-are-we-teaching-them/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:19
 ---
 My students are chatting via video call tomorrow with
 [Ginger](http://twitter.com/GingerTPLC)'s

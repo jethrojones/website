@@ -12,7 +12,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/02/teacher-for-day-update.
 content_type: post
 original_post_path: _posts/2007-02-26-teacher-for-day-update.html
 permalink: /2007/02/26/teacher-for-day-update/
-last_modified_at: 2026-04-23 20:45:53
+last_modified_at: 2026-04-24 14:18:18
 ---
 My student who taught last week wrote up a little response to what she
 thought of being a teacher for a day:  

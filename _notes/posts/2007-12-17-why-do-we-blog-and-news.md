@@ -10,7 +10,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2007/12/why-do-we-blog-and-news
 content_type: post
 original_post_path: _posts/2007-12-17-why-do-we-blog-and-news.html
 permalink: /2007/12/17/why-do-we-blog-and-news/
-last_modified_at: 2026-04-23 20:45:54
+last_modified_at: 2026-04-24 14:18:18
 ---
 Be sure to hit the SWAT team wiki link above to see how the class is
 doing. The temporary site for the "website for gratitude" is

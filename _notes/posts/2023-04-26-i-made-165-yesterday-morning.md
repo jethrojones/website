@@ -5,7 +5,7 @@ title: I Made 165 Yesterday Morning
 date: 2023-04-26
 original_post_path: _posts/2023-04-26-i-made-165-yesterday-morning.html
 permalink: /2023/04/26/i-made-165-yesterday-morning/
-last_modified_at: 2026-04-23 20:46:06
+last_modified_at: 2026-04-24 14:18:25
 ---
 This week, I sold call options to make \$165. What would you do with
 \$165 extra this week?  
