@@ -1,0 +1,25 @@
+---
+layout: note
+title: Stress and Negativity
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  passthrough_url: http://aviewfromtheprincipalsdesk.blogspot.com/2015/04/may-month-of-no-negativity.html?m=1
+last_modified_at: 2026-04-23 20:46:01
+content_type: post
+date: 2015-04-28
+original_post_path: _posts/2015-04-28-2015-4-27-stress-and-negativity.md
+permalink: /2015/04/28/2015-4-27-stress-and-negativity/
+---
+
+Jay Dostal shared this quote today:
+
+
+>No one can create stress or negativity within you. Only you can do that by virtue of how you process your world.
+
+
+
+BAM! Love it.

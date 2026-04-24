@@ -1,0 +1,24 @@
+---
+layout: note
+title: Strategies to Bring Out the Best in Your Staff
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta: {}
+last_modified_at: 2026-04-23 20:46:01
+content_type: post
+date: 2015-11-20
+original_post_path: _posts/2015-11-20-2015-11-19-strategies-to-bring-out-the-best-in-your-staff.md
+permalink: /2015/11/20/2015-11-19-strategies-to-bring-out-the-best-in-your-staff/
+---
+
+[8 Strategies to Bring Out the Best In Your Staff | Chris Wejr](http://connectedprincipals.com/archives/12100)
+
+
+>An area that I continue to see having a large impact on organizational culture in school is strength-based leadership.  The idea is rather simple: encourage staff members in areas of strength as much as possible and watch them flourish. Educators are often highly criticized by the public (you will see that many governments do not follow the research referenced below when working with educators) so a strength-based lens really helps to create a more positive organizational culture that focuses primarily on what we CAN do rather than all the things we CANNOT do (yet).
+
+
+
+Great ideas here that seem like they are obvious, and yet, they aren't, or else we all would do them.

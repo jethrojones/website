@@ -4,6 +4,7 @@
 require 'date'
 require 'fileutils'
 require 'json'
+require 'jekyll'
 require 'open3'
 require 'optparse'
 require 'time'
@@ -52,7 +53,7 @@ class PostsToNotesMigrator
       front_matter, body, parse_warnings = read_document(absolute_path)
       parse_warnings.each { |message| warn_for(source_path, message) }
 
-      canonical_url = "/#{year}/#{month}/#{day}/#{slug}/"
+      canonical_url = canonical_url_for(year, month, day, slug, front_matter)
       title = present_string(front_matter['title']) || title_from_slug(slug)
       date = present_string(front_matter['date']) || "#{year}-#{month}-#{day}"
       destination_path = "_notes/posts/#{year}-#{month}-#{day}-#{slug}.md"
@@ -306,6 +307,45 @@ class PostsToNotesMigrator
 
   def title_from_slug(slug)
     slug.tr('-', ' ').split.map(&:capitalize).join(' ')
+  end
+
+  def canonical_url_for(year, month, day, slug, front_matter)
+    post_date = date_parts(front_matter['date'], year, month, day)
+    title_slug = Jekyll::Utils.slugify(slug, mode: 'pretty', cased: true)
+    title_slug = title_slug.delete_suffix('.') if title_slug.end_with?('.')
+    categories = categories_for(front_matter)
+    segments = categories + post_date + [title_slug]
+
+    if categories.empty? && slug.end_with?('.')
+      "/#{segments[0..2].join('/')}/#{title_slug}.html"
+    else
+      "/#{segments.join('/')}/"
+    end
+  end
+
+  def date_parts(date_value, fallback_year, fallback_month, fallback_day)
+    parsed =
+      case date_value
+      when Date, Time
+        date_value
+      else
+        date_text = present_string(date_value)
+        date_text ? Time.parse(date_text) : nil
+      end
+
+    return [fallback_year, fallback_month, fallback_day] unless parsed
+
+    [format('%04d', parsed.year), format('%02d', parsed.month), format('%02d', parsed.day)]
+  rescue ArgumentError
+    [fallback_year, fallback_month, fallback_day]
+  end
+
+  def categories_for(front_matter)
+    categories = Array(front_matter['categories'])
+    categories << front_matter['category'] if front_matter['category']
+    categories.flatten.compact.map(&:to_s).map(&:strip).reject(&:empty?).map do |category|
+      category.downcase.gsub(' ', '%20')
+    end
   end
 
   def archive_destination_for(entry)

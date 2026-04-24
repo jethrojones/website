@@ -8,7 +8,7 @@ class TweetEmbedGenerator < Jekyll::Generator
     all_docs = all_notes + all_pages
 
     all_docs.each do |current_note|
-      current_note.content.gsub!(
+      current_note.content = current_note.content.to_s.gsub(
         /^https?:\/\/twitter\.com\/(?:#!\/)?(\w+)\/status(es)?\/(\d+)$/i,
         <<~HTML
           <blockquote class="twitter-tweet">

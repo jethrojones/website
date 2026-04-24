@@ -1,0 +1,22 @@
+---
+layout: note
+title: Morning Walks at School
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  passthrough_url: http://ilearntechnology.com/?p=5426
+last_modified_at: 2026-04-23 20:46:01
+content_type: post
+date: 2014-11-21
+original_post_path: _posts/2014-11-21-2014-11-20-morning-walks-at-school.md
+permalink: /2014/11/21/2014-11-20-morning-walks-at-school/
+---
+
+>Every morning Anastasis Academy students start with a mile walk. Together. We don’t walk by class, or by age. We walk together in community. Sometimes (when the weather is nicer) whole families join us, dogs included. It is a great way to start off the day. Directly following the walk, our students come together for a morning meeting.
+
+
+
+This Anastasis Academy sounds better all the time.

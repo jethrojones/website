@@ -1,0 +1,21 @@
+---
+layout: note
+title: Traumatic Leadership
+categories: []
+tags:
+  - trauma
+  - leadership
+status: publish
+type: post
+published: true
+meta: {}
+last_modified_at: 2026-04-23 20:46:02
+content_type: post
+date: 2018-11-08
+original_post_path: _posts/2018-11-08-2018-11-8-traumatic-leadership.md
+permalink: /2018/11/08/2018-11-8-traumatic-leadership/
+---
+
+I heard someone refer to leadership as being traumatic the other day. I haven't really thought about it as being traumatic, but as I've pondered it since, I have thought of some situations where it is traumatic.
+
+I'm curious about your thoughts. Do you have exmaples? Leave them in the comments below or send me a private message.

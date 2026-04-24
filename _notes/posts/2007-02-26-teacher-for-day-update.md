@@ -1,0 +1,31 @@
+---
+layout: note
+title: Teacher for the Day Update
+date: 2007-02-26T07:38:00.000-08:00
+author: jethrojones
+tags:
+  - education
+  - new teachers
+modified_time: 2007-02-26T08:20:29.332-08:00
+blogger_id: tag:blogger.com,1999:blog-3944273018536227154.post-9140923344249684306
+blogger_orig_url: https://mrjonesed.blogspot.com/2007/02/teacher-for-day-update.html
+content_type: post
+original_post_path: _posts/2007-02-26-teacher-for-day-update.html
+permalink: /2007/02/26/teacher-for-day-update/
+last_modified_at: 2026-04-23 20:45:53
+---
+My student who taught last week wrote up a little response to what she
+thought of being a teacher for a day:  
+  
+<span style="font-family: lucida grande;"><span style="font-family: trebuchet ms;">Being
+a teacher is not something that I would become when I grow up. A reason
+is because it's <span id="SPELLING_ERROR_0"
+class="blsp-spelling-error">boring</span> and you don't have fun.
+Besides, all the "students" ignore you and do whatever they want. It's
+hard being a teacher because you have to to \[sic\] thing so you can
+answer the students' questions, even though some questions are dumb, you
+still should know the answer. Now I know that it's not easy to be a
+teacher, it is actually pretty hard. </span></span>  
+  
+I am glad that she was able to understand something from that
+experience.

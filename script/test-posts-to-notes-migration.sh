@@ -38,6 +38,27 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2020/01/legacy-html.html
 <p>This HTML post has <strong>bold text</strong>.</p>
 HTML
 
+cat >"$fixture/_posts/2020-01-04-trailing-dot..md" <<'MARKDOWN'
+---
+layout: post
+title: Trailing Dot
+published: true
+---
+This post preserves Jekyll's dot-ending URL behavior.
+MARKDOWN
+
+cat >"$fixture/_posts/2020-01-04-frontmatter-date.md" <<'MARKDOWN'
+---
+layout: post
+title: Frontmatter Date
+date: 2020-01-05
+categories:
+- Being a Parent
+published: true
+---
+This post preserves Jekyll's front-matter date and category URL behavior.
+MARKDOWN
+
 ruby "$fixture/script/migrate-posts-to-notes.rb" \
   --root "$fixture" \
   --dry-run \
@@ -65,6 +86,8 @@ ruby "$fixture/script/migrate-posts-to-notes.rb" \
 
 markdown_target="$fixture/_notes/posts/2020-01-02-sample-post.md"
 html_target="$fixture/_notes/posts/2020-01-03-legacy-html.md"
+trailing_dot_target="$fixture/_notes/posts/2020-01-04-trailing-dot..md"
+frontmatter_date_target="$fixture/_notes/posts/2020-01-04-frontmatter-date.md"
 
 if [[ ! -f "$markdown_target" ]]; then
   echo "Markdown post was not migrated to _notes/posts."
@@ -76,6 +99,16 @@ if [[ ! -f "$html_target" ]]; then
   exit 1
 fi
 
+if [[ ! -f "$trailing_dot_target" ]]; then
+  echo "Trailing-dot post was not migrated to _notes/posts."
+  exit 1
+fi
+
+if [[ ! -f "$frontmatter_date_target" ]]; then
+  echo "Frontmatter-date post was not migrated to _notes/posts."
+  exit 1
+fi
+
 if [[ -e "$fixture/_posts/2020-01-02-sample-post.md" || -e "$fixture/_posts/2020-01-03-legacy-html.html" ]]; then
   echo "Source posts remained after apply migration."
   exit 1
@@ -83,7 +116,7 @@ fi
 
 grep -q '^layout: note$' "$markdown_target"
 grep -q '^content_type: post$' "$markdown_target"
-grep -q '^permalink: "/2020/01/02/sample-post/"$' "$markdown_target"
+grep -q '^permalink: "/reflection/2020/01/02/sample-post/"$' "$markdown_target"
 grep -q '^original_post_path: _posts/2020-01-02-sample-post.md$' "$markdown_target"
 grep -q 'This is a \[\[Linked Note\]\]' "$markdown_target"
 
@@ -100,6 +133,9 @@ if ! grep -q '\*\*bold text\*\*' "$html_target"; then
   echo "HTML body was not converted to Markdown."
   exit 1
 fi
+
+grep -q '^permalink: "/2020/01/04/trailing-dot.html"$' "$trailing_dot_target"
+grep -q '^permalink: "/being%20a%20parent/2020/01/05/frontmatter-date/"$' "$frontmatter_date_target"
 
 if [[ ! -f "$fixture/reports/post-migration-url-manifest.json" ]]; then
   echo "Apply run did not write the post-migration manifest."

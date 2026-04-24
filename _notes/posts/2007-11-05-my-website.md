@@ -1,0 +1,28 @@
+---
+layout: note
+title: My Website
+date: 2007-11-05T11:13:00.001-08:00
+author: jethrojones
+tags:
+modified_time: 2007-11-12T18:48:01.990-08:00
+blogger_id: tag:blogger.com,1999:blog-3944273018536227154.post-1740426014866735154
+blogger_orig_url: https://mrjonesed.blogspot.com/2007/11/my-website.html
+content_type: post
+original_post_path: _posts/2007-11-05-my-website.html
+permalink: /2007/11/05/my-website/
+last_modified_at: 2026-04-23 20:45:53
+---
+So a couple years ago, I bought a domain name and made a website. The
+website is actually pretty stinkin' cool, but it takes a lot of work to
+keep it up to date. Well, in reality, it probably doesn't take that
+much, since I did all the original coding all that time ago. I really
+enjoy making and editing the website. It is a hobby that I will
+hopefully be able to further enjoy as I get better at it and have more
+time. I use the website mainly as a launching point for my school stuff.
+I just updated it to have a calendar complete with assignments for my
+students I am breaking a lot of web design rules by doing it this way,
+and if my web design teacher ever found out, he would probably throw a
+fit. [jethrojones.com](http://jethrojones.com) \<- Go here and then
+click the FHMS link and it will take you to the web page that I recently
+blogged about. Then click on that first page to get to the calendar, and
+you can see what I am doing for the next couple weeks, kind of.

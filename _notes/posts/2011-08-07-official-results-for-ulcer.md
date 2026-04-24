@@ -1,0 +1,26 @@
+---
+layout: note
+title: Official Results for the ULCER
+date: 2011-08-07T16:55:00.001-07:00
+author: jethrojones
+tags:
+modified_time: 2011-08-07T16:55:13.533-07:00
+blogger_id: tag:blogger.com,1999:blog-3944273018536227154.post-8160961006490427113
+blogger_orig_url: https://mrjonesed.blogspot.com/2011/08/official-results-for-ulcer.html
+content_type: post
+original_post_path: _posts/2011-08-07-official-results-for-ulcer.html
+permalink: /2011/08/07/official-results-for-ulcer/
+last_modified_at: 2026-04-23 20:45:58
+---
+<div class="posterous_autopost">
+
+It sure is frustrating how your average is really good until you factor
+in all the stops. This was a great ride. I am really glad I participated
+and finished. <http://milliseconds.com/participants/detail/806427933>
+
+  
+Thanks,
+
+Jethro
+
+</div>
