@@ -1,6 +1,9 @@
 title:               Have a Good Life.
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json', '_notes/.obsidian/plugins/obsidian-daily-stats/data.json']
+exclude:
+  - _includes/notes_graph.json
+  - _notes/.obsidian/plugins/obsidian-daily-stats/data.json
+  - script/
 url:                "https://jethro.site"
 timezone:           "America/Los_Angeles" # Set your timezone
 # You may need to change the base URL depending on your deploy configuration.
@@ -28,6 +31,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
   
 sass:
   sass_dir:          _sass
@@ -70,4 +74,3 @@ defaults:
       path: "categories"
     values:
       layout: "category"
-
