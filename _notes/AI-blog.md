@@ -2,7 +2,7 @@
 permalink:
 description: After years of wanting a simple way to write in Obsidian and publish to Jekyll, AI finally made it possible to connect old blog posts, notes, and ideas in a way that makes writing easier and more meaningful.
 title: How AI Finally Helped Me Build the Blog I Always Wanted
-image:
+image: /assets/ai-blog.png
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
@@ -12,7 +12,7 @@ tags:
   - housekeeping
 layout: note
 date: 2026-04-24 20:30:06
-last_modified_at: 2026-04-24 21:01:38
+last_modified_at: 2026-04-24 21:45:51
 ---
 
 
@@ -34,7 +34,7 @@ Here's the amazing part. As recent as [October 2025](https://chatgpt.com/share/6
 
 And now, it is! So instead of searching all over the web for my blog posts links, I can just use ``[[2008-09-27-my-daughter-ate-my-homework]]`` and that blog post pops right up. 
 
-I'm such a nerd, but you don't know how awesome this is. Without AI, this is work that never would have been done. With AI, this is something that makes my life significantly better, and makes me want to write, because I can start connecting all my ideas in a way that makes total sense for me. 
+I'm such a nerd, but you don't know how awesome this is! Without AI, this is work that I never would have been done. With AI, this is something that makes my life significantly better, and makes me want to write, because I can start connecting all my ideas in a way that makes total sense for me. 
 
 I've never been a coder, and I'm still not, but I am someone who [[now|has a lot of ideas]]. And with AI, I'm finally able to implement them. It's seriously so much fun. 
 
