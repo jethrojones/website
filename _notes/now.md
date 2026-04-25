@@ -9,13 +9,13 @@ category:
 tags:
 layout: page
 date: 2022-10-01
-last_modified_at: 2026-04-24 14:47:44
+last_modified_at: 2026-04-24 20:30:36
 ---
 ## Last Updated April 24, 2026
 
 [Life Lab](https://discoverlifelab.com) - I took a job as director of operations at Life Lab and I am really loving it. We make character, life skills, success skills, social-emotional, workplace skills, video curriculum for K-12 schools so teachers can teach these things in a powerful way, without dogma, and without prep. It's great. 
 
-[DrJethro](https://drjethro.com) - I'm graduating with my doctorate in May. You can learn more at my web site. 
+[DrJethro](https://drjethro.com) - I'm graduating with my doctorate in May. You can learn more at my doctoral web site. 
 
 Because AI has gotten so good, I've been resurrecting a lot of my side projects and ideas that never saw the light of day: 
 - [Churchle - Daily LDS Word Puzzle](https://churchle.com/)
