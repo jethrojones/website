@@ -1,6 +1,7 @@
 ---
 layout: post
-
+date: 2024-03-31 11:49:39
+last_modified_at: 2026-05-14 19:07:00
 ---
 Most principals are running from one emergency to the next. I help principals find the actions needed to transform their schools so each student has an amazing experience.
 

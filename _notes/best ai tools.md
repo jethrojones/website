@@ -1,8 +1,13 @@
 ---
 layout: note
 title: Best AI Tools
+description: Best AI tools for educators, teachers, principals, and school leaders, curated and updated by Jethro Jones.
+permalink: /bestai
+redirect_from:
+  - /best-ai-tools
+  - /best-ai-tools/
 date: 2024-06-01
-last_modified_at: 2026-02-01 21:00:07
+last_modified_at: 2026-05-12 20:21:20
 ---
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
@@ -126,4 +131,3 @@ Dream it up, then add it to your design. Watch your words and phrases transform 
 [![](https://lh6.googleusercontent.com/O2FpUiCfDNAWr9tmcDZYhIKxx7Y7JVuR_9efA_2uwERWkMEziIcb0Frxy9Q36NMmHKqFknUh9s0RUYZmU98RmkL5l7OeV3VDDvQy-B5oEJn9pw_ImUZdDmoNN094swjSeb8zbuLX7IGF_OvTZiqo7Qo1Mg=s2048)](https://gamma.app/signup?r=kxaudzi5nsldj5l)
 
 [Gamma App](https://gamma.app/signup?r=kxaudzi5nsldj5l) is an AI-powered platform for creating engaging presentations, documents, or webpages in seconds. It offers one-click restyling, live presentation mode, built-in analytics, and supports embedding various content types.
-

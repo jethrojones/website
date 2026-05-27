@@ -1,37 +1,26 @@
-{% assign video = page.video_url %}
+{% assign video = include.video_url | default: page.video_url %}
+{% assign metadata = include.metadata | default: page.video_metadata %}
+{% assign original_url_label = include.original_url_label | default: "View the original content" %}
 
-{% if video contains "youtube.com" or video contains "youtu.be" %}
-{% if video contains "/shorts/" %}
-{% assign video_cleaned = video | replace: '/shorts/', '/embed/' %}
-{% else %}
-{% assign video_cleaned = video | replace: 'youtu.be/', 'www.youtube.com/embed/' | replace: 'watch?v=', 'embed/' | split: '&' | first %}
-{% endif %}
+{% if video %}
+{% if video contains "instagram.com" %}
+{% assign instagram_embed_url = video | split: "?" | first | append: "/embed" | replace: "//embed", "/embed" %}
+<div class="social-embed instagram-embed">
 <iframe
-  width="560"
-  height="100%"
-  src="{{ video_cleaned }}"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-  loading="eager">
-</iframe>
-
-{% elsif video contains "instagram.com" %}
-<blockquote class="instagram-media" data-instgrm-permalink="{{ video }}" data-instgrm-version="14" style="max-width: 100%; margin: 0 auto; padding: 0;">
-</blockquote>
-<script async defer src="https://www.instagram.com/embed.js"></script>
-
-
-{% elsif video contains "x.com" %}
-{% assign tweet_id = video | split: '/status/' | last %}
-<iframe
-  src="https://platform.twitter.com/embed/index.html?dnt=true&frame=false&hideCard=false&hideThread=false&id={{ tweet_id }}"
-  width="550"
-  height="100%"
+  src="{{ instagram_embed_url }}"
   frameborder="0"
   scrolling="no"
-  allowfullscreen>
+  allowtransparency="true"
+  allowfullscreen
+  loading="lazy">
 </iframe>
+</div>
+
+{% elsif video contains "x.com" or video contains "twitter.com" %}
+<blockquote class="twitter-tweet">
+  <a href="{{ video }}"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {% elsif video contains "share.transistor.fm" %}
 <iframe
@@ -43,7 +32,19 @@
   src="{{ video | replace: '/s/', '/e/' }}">
 </iframe>
 
+{% elsif metadata.embed_url %}
+<div class="video-embed">
+<iframe
+  src="{{ metadata.embed_url }}"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  loading="eager">
+</iframe>
+</div>
+
 {% else %}
 <p><a href="{{ video }}" target="_blank">View the original</a></p>
 {% endif %}
-<p><a href="{{ video }}" target="_blank">View the original content</a></p>
+<p><a href="{{ video }}" target="_blank">{{ original_url_label }}</a></p>
+{% endif %}

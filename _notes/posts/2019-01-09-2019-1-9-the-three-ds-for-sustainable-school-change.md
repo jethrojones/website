@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "112"
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2019-01-09
 original_post_path: _posts/2019-01-09-2019-1-9-the-three-ds-for-sustainable-school-change.md
@@ -72,7 +72,7 @@ I have talked to a lot of school principals about how they do their work. I've f
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1547003123538-XHPYIWVHEJHPAQYIP2C4_image-asset.png_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1547003123538-XHPYIWVHEJHPAQYIP2C4_image-asset.png)
   
 
 

@@ -7,6 +7,8 @@ status: publish
 type: page
 published: true
 meta: {}
+date: 2024-12-16 12:49:16
+last_modified_at: 2026-05-14 19:07:00
 ---
 
 #My Bonus Money
@@ -94,7 +96,7 @@ Learn the strategies I’m using to make passive income before the podcast launc
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_2d7d85e9-ee5c-4602-9063-f20c34a9fa1f_be_logo.jpg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_2d7d85e9-ee5c-4602-9063-f20c34a9fa1f_be_logo.jpg)
   
 
 

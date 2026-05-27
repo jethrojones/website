@@ -1,12 +1,18 @@
 ---
 layout: page
 title: Students Who Thrive
+permalink: /students-who-thrive
+redirect_from:
+  - /sdl-students-who-thrive
+  - /sdl-students-who-thrive/
 categories: []
 tags: []
 status: publish
 type: page
 published: true
 meta: {}
+date: 2024-12-16 12:49:16
+last_modified_at: 2026-05-14 19:07:00
 ---
 
 ##[About](/about-1) - 
@@ -85,7 +91,7 @@ meta: {}
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594835121811-WGERZJHG6UN5I0AP915M_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835121811-WGERZJHG6UN5I0AP915M_image-asset.jpeg)
   
 
 
@@ -140,7 +146,7 @@ meta: {}
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594835179178-80EKXIC4UIJEEOMC9O3G_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835179178-80EKXIC4UIJEEOMC9O3G_image-asset.jpeg)
   
 
 
@@ -201,7 +207,7 @@ Our approach ensures that every student is successful. We personalize everything
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594835222529-42E5YLQ08TJ67I30TPBO_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835222529-42E5YLQ08TJ67I30TPBO_image-asset.jpeg)
   
 
 
@@ -256,7 +262,7 @@ Our approach ensures that every student is successful. We personalize everything
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594835425486-8QQXGQSAUIDJOUDPQ064_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835425486-8QQXGQSAUIDJOUDPQ064_image-asset.jpeg)
   
 
 

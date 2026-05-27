@@ -19,4 +19,11 @@ _notes/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+/.env
+/.gsc-oauth-client.json
+/.gsc-token.json
+/.gsc-oauth-state.json
 /_notes/copilot-custom-prompts
+
+# Local Netlify folder
+.netlify

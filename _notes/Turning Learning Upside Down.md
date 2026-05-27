@@ -1,6 +1,7 @@
 ---
 layout: post
-
+date: 2024-03-31 11:49:38
+last_modified_at: 2026-05-14 19:07:00
 ---
 Twitter version: Read [this book](http://amzn.to/2qhqhQZ), and join me as I try to change education.
 
@@ -22,7 +23,7 @@ Here's my Four Year Plan (TM haha):
 
 [
 
-![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1514992019296-CDE25WF69S6RA1GINW5G/Tanana+Four+Year+Plan)
+![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/Tanana+Four+Year+Plan.png)
 
 
 

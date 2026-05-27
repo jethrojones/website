@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2014-01-17
 original_post_path: _posts/2014-01-17-2014-1-16-grade-wide-data-in-a-different-view.md
@@ -90,7 +90,7 @@ Those scores are pretty simple to generate with our data systems. No big deal. W
   
   
     
-![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1389932887013-X36OZT1WYHDKQQFY3M3I_aptm-data.png_)
+![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1389932887013-X36OZT1WYHDKQQFY3M3I_aptm-data.png)
         
           
         

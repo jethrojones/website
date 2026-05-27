@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "134"
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2018-12-13
 original_post_path: _posts/2018-12-13-2018-12-13-a-bit-arrogant-perhaps.md
@@ -75,7 +75,7 @@ That's why I love this rubric:
     
   
     
-![Novice: concept and/or skill is brand new. I’m just getting started in the learning. I need a lot of help and guidance from a teacher. Apprentice: I’m figuring it out, but still need a lot of prompting and support from a teacher for the new concept …](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1544712583655-FECOPQQEAYLPFDAYF3GT_UNADJUSTEDNONRAW_thumb_2bc1.jpg_)
+![Novice: concept and/or skill is brand new. I’m just getting started in the learning. I need a lot of help and guidance from a teacher. Apprentice: I’m figuring it out, but still need a lot of prompting and support from a teacher for the new concept …](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1544712583655-FECOPQQEAYLPFDAYF3GT_UNADJUSTEDNONRAW_thumb_2bc1.jpg)
         
           
         

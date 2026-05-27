@@ -46,6 +46,48 @@ img {
   border-radius: $border-radius;
 }
 
+.video-embed {
+  aspect-ratio: 16 / 9;
+  margin: 1.5em 0;
+  width: 100%;
+}
+
+.video-embed iframe {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.social-embed {
+  margin: 1.5em 0;
+  width: 100%;
+}
+
+.social-embed iframe {
+  display: block;
+  width: 100%;
+}
+
+.instagram-embed iframe {
+  min-height: 640px;
+}
+
+.inspiration-video-list {
+  display: grid;
+  gap: 2em;
+  margin: 1.5em 0 2em;
+}
+
+.inspiration-video {
+  border: 1px solid $color-border;
+  border-radius: 8px;
+  padding: 1em;
+}
+
+.inspiration-video h3 {
+  margin-top: 0;
+}
+
 blockquote {
   padding: 1em;
   font-size: 1em;

@@ -8,14 +8,14 @@ type: post
 published: true
 meta:
   _thumbnail_id: "10"
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2023-12-12
 original_post_path: _posts/2023-12-12-how-ai-is-relieving-burdens-on-educators.md
 permalink: /2023/12/12/how-ai-is-relieving-burdens-on-educators/
 ---
 
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_f4b6e16e-e75b-4df7-b62a-41a804aae8c7_Create_an_image_that_shows_a_teacher_overburdened_with_grading_in_her_classroom.png_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_f4b6e16e-e75b-4df7-b62a-41a804aae8c7_Create_an_image_that_shows_a_teacher_overburdened_with_grading_in_her_classroom.png)
         
           
         

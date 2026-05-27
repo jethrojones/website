@@ -1,0 +1,6 @@
+{% assign video = page.video_metadata %}
+{% if video and video.thumbnail_url %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"VideoObject","name":{{ video.name | jsonify }},"description":{{ video.description | jsonify }},"thumbnailUrl":[{{ video.thumbnail_url | jsonify }}],"uploadDate":{{ video.upload_date | jsonify }},"embedUrl":{{ video.embed_url | jsonify }},"url":{{ site.url | append: page.url | jsonify }}}
+</script>
+{% endif %}

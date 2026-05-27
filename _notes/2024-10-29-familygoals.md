@@ -1,20 +1,21 @@
 ---
-last_modified_at: 2025-03-31 23:29:42
+last_modified_at: 2026-05-14 19:07:00
 layout: page
 title: Family Goals
-categories: 
-tags: 
+categories:
+tags:
 status: publish
 type: page
 published: true
 created: 2019-06-24
+date: 2025-04-02 10:04:47
 ---
 # Family Goal Sheet
 
 
   
     
-[![Click the image to get the goal sheet.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1561420752193-EINNWRRBE4WI596J273H_1200x630bb.png_)](/s/Jones-Family-Monthly-Goals-Template.pages)
+[![Click the image to get the goal sheet.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561420752193-EINNWRRBE4WI596J273H_1200x630bb.png)](/s/Jones-Family-Monthly-Goals-Template.pages)
         
 Click the image to get the goal sheet.
   
@@ -88,7 +89,7 @@ Get the
     
   
     
-[![Click the image above to get the goal sheet.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1561420860935-3FMEFKMCIT16PX4HM36M_Word-icon.png_)](/s/Jones-Family-Monthly-Goals-Template.docx)
+[![Click the image above to get the goal sheet.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561420860935-3FMEFKMCIT16PX4HM36M_Word-icon.png)](/s/Jones-Family-Monthly-Goals-Template.docx)
         
 
         

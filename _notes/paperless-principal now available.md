@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Paperless Principal Book
-categories: 
-tags: 
+permalink: /buy
+redirect_from:
+  - /paperless-principal-now-available
+  - /paperless-principal-now-available/
+categories:
+tags:
 status: publish
 type: page
-last_modified_at: 2024-12-19 00:26:59
+last_modified_at: 2026-05-14 19:07:00
 date: 2013-07-01
 ---
 
@@ -98,7 +102,7 @@ In this book you will learn how to:
   
   
     
-[![iBookstore_Badge.gif](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1357802869712-ST2UABXKFHXWCKGZ80KI_iBookstore_Badge.gif_)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
+[![iBookstore_Badge.gif](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1357802869712-ST2UABXKFHXWCKGZ80KI_iBookstore_Badge.gif)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
   
 
 
@@ -150,4 +154,4 @@ In this book you will learn how to:
   
   
     
-[![Paperless Pricnipal Cover.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1357802765103-IXM0MIVD2M9TOIMD5BMF_Paperless+Pricnipal+Cover.png_)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
+[![Paperless Pricnipal Cover.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1357802765103-IXM0MIVD2M9TOIMD5BMF_Paperless+Pricnipal+Cover.png)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)

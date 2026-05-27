@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2012-08-15
 original_post_path: _posts/2012-08-15-2012-8-15-paperless-workflow.md
@@ -89,7 +89,7 @@ This gives a pretty good overview of what you can expect to get from the book an
   
   
     
-![file](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1345046640108-H6X6M21HNTG1AZFLT0ID_file_)
+![file](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1345046640108-H6X6M21HNTG1AZFLT0ID_file.jpg)
   
 
 
@@ -98,4 +98,4 @@ This gives a pretty good overview of what you can expect to get from the book an
 
 
 Click 
-[here](http://static.squarespace.com/static/4fffa949e4b0b4590d67b4e7/t/502bb29cc4aa7ecb517a2184/1345041052312/) to get an enlarged picture.​
+[here](/assets/squarespace/1345041052312.jpg) to get an enlarged picture.​

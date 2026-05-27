@@ -13,7 +13,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2019-12-09
 original_post_path: _posts/2019-12-09-rewrite-policies.md
@@ -172,4 +172,4 @@ As you rewrite policies, start with teachers describing the policies that make l
     
   
     
-![IMG_0171.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1575866146386-PKHMDNQ3UIXYGEWKKITI_IMG_0171.png_)
+![IMG_0171.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1575866146386-PKHMDNQ3UIXYGEWKKITI_IMG_0171.png)

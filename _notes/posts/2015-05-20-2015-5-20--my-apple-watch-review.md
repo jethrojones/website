@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:22
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2015-05-20
 original_post_path: _posts/2015-05-20-2015-5-20--my-apple-watch-review.md
@@ -94,7 +94,7 @@ The sport strap is too tight on one setting, and a little too loose on the next 
   
   
     
-![My current watch face and complications.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1432135334952-U6D1TDESQ93YZYQ3HG2F_image-asset.jpeg_)
+![My current watch face and complications.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432135334952-U6D1TDESQ93YZYQ3HG2F_image-asset.jpeg)
         
           
         
@@ -174,7 +174,7 @@ The notifications on my watch are only worthwhile if I can act on them. It is in
   
   
     
-![The sun sets late in April.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1432135380790-HZO8FCCSAWOU0W4E6QNJ_image-asset.jpeg_)
+![The sun sets late in April.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432135380790-HZO8FCCSAWOU0W4E6QNJ_image-asset.jpeg)
         
           
         

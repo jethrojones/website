@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2020-03-23
 original_post_path: _posts/2020-03-23-virtual-edcamp-ak-interior.md
@@ -75,7 +75,7 @@ You can see from the images below that there was a lot of really interesting ide
     
   
     
-![Screenshot 2020-03-23 06.35.57.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1584975942825-RK62E9BN1JBX12SKY6H0_Screenshot+2020-03-23+06.35.57.png_)
+![Screenshot 2020-03-23 06.35.57.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584975942825-RK62E9BN1JBX12SKY6H0_Screenshot+2020-03-23+06.35.57.png)
   
 
 

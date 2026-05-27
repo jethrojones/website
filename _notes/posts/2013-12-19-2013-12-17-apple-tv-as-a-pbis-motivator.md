@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2013-12-19
 original_post_path: _posts/2013-12-19-2013-12-17-apple-tv-as-a-pbis-motivator.md
@@ -102,7 +102,7 @@ Set the screen saver time that you think is appropriate, and enjoy!
 View fullsize
               
           
-![Go to Settings on Apple TV](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1387317989812-W5TJ46RTLDQVI92R7RWZ_2013-12-16+17.02.19.jpg_)
+![Go to Settings on Apple TV](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1387317989812-W5TJ46RTLDQVI92R7RWZ_2013-12-16+17.02.19.jpg)
           
         
 
@@ -164,7 +164,7 @@ Go to Settings on Apple TV
 View fullsize
               
           
-![Sign into iCloud](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1387317948140-LUD12G3CKL689X3OD79L_2013-12-16+17.02.07.jpg_)
+![Sign into iCloud](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1387317948140-LUD12G3CKL689X3OD79L_2013-12-16+17.02.07.jpg)
           
         
 
@@ -223,7 +223,7 @@ Sign into iCloud
   
   
     
-![Choose photos as the screen saver.  ](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1387434883631-1T206QV48N0YX4Q80K6Y_image.jpg_)
+![Choose photos as the screen saver.  ](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1387434883631-1T206QV48N0YX4Q80K6Y_image.jpg)
         
           
         
@@ -309,7 +309,7 @@ Choose photos as the screen saver.  
   
   
     
-![Choose your iCloud photos, you'll need to confirm your password.  ](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1387434907529-DTU1MQYFFDG8BBNSHQV4_image.jpg_)
+![Choose your iCloud photos, you'll need to confirm your password.  ](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1387434907529-DTU1MQYFFDG8BBNSHQV4_image.jpg)
         
           
         

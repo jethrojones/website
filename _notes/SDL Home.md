@@ -7,6 +7,8 @@ status: publish
 type: page
 published: true
 meta: {}
+date: 2024-12-16 12:49:16
+last_modified_at: 2026-05-14 19:07:00
 ---
 
 #We help schools and districts find simple solutions to the complex educational problems they face every day.
@@ -194,7 +196,7 @@ Thank you!
   
   
     
-[![](/squarespace_images/content_v1_52a74d9ae4b0253945d2aee9_1535394848185-CGDDU4QCIRSO4U1270H3_image-asset.jpeg_)](/about-us)
+[![](/assets/squarespace/content_v1_52a74d9ae4b0253945d2aee9_1535394848185-CGDDU4QCIRSO4U1270H3_image-asset.jpeg)](/about-us)
   
 
 
@@ -246,7 +248,7 @@ Thank you!
   
   
     
-[![tumblr_mn8b8sLRb61rkz363o1_1280.jpg](/squarespace_images/content_v1_52a74d9ae4b0253945d2aee9_1535394867157-MTQAOAQPKWQ68DDY1HTW_tumblr_mn8b8sLRb61rkz363o1_1280.jpg_)](/take-action)
+[![tumblr_mn8b8sLRb61rkz363o1_1280.jpg](/assets/squarespace/content_v1_52a74d9ae4b0253945d2aee9_1535394867157-MTQAOAQPKWQ68DDY1HTW_tumblr_mn8b8sLRb61rkz363o1_1280.jpg)](/take-action)
   
 
 

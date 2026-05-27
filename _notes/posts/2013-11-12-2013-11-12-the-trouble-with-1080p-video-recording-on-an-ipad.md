@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2013-11-12
 original_post_path: _posts/2013-11-12-2013-11-12-the-trouble-with-1080p-video-recording-on-an-ipad.md
@@ -82,7 +82,7 @@ Another side benefit of using this app is that the video in the Top Camera app c
   
   
     
-![Higher resolution video, smaller visible area.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1384299833465-4D34OJXDG1096V04TJLD_2013-11-12+15.56.13.png_)
+![Higher resolution video, smaller visible area.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1384299833465-4D34OJXDG1096V04TJLD_2013-11-12+15.56.13.png)
         
           
         
@@ -142,7 +142,7 @@ Higher resolution video, smaller visible area. 
   
   
     
-![Smaller resolution, yet larger viewable area. Note that you can see the chair in this picture.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1384299879886-0WVS0K5S7BP0HITT8LA9_2013-11-12+15.56.19.png_)
+![Smaller resolution, yet larger viewable area. Note that you can see the chair in this picture.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1384299879886-0WVS0K5S7BP0HITT8LA9_2013-11-12+15.56.19.png)
         
           
         

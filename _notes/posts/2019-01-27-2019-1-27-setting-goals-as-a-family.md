@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2019-01-27
 original_post_path: _posts/2019-01-27-2019-1-27-setting-goals-as-a-family.md
@@ -76,7 +76,7 @@ Here's a picture of it of the tracking sheet.
     
   
     
-![Our Monthly Family Goal Setting Sheet. I want my kids to be able to dream big, so we set weekly, monthly and yearly goals together. We celebrate the successes and failures.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1548625710414-CBXP4UVU7BMKUSB99NBN_Screenshot+2019-01-27+12.44.56.png_)
+![Our Monthly Family Goal Setting Sheet. I want my kids to be able to dream big, so we set weekly, monthly and yearly goals together. We celebrate the successes and failures.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1548625710414-CBXP4UVU7BMKUSB99NBN_Screenshot+2019-01-27+12.44.56.png)
         
           
         

@@ -1,6 +1,11 @@
 ---
-last_modified_at: 2026-04-25 04:15:52
-permalink: speaking
+last_modified_at: 2026-05-12 21:20:18
+permalink: /presentations
+redirect_from:
+  - /speaking
+  - /speaking/
+  - /present
+  - /present/
 description: Jethro Jones speaking page gives details about speaking engagements past, present and future
 title: Presentations and Speaking
 image:
@@ -122,9 +127,9 @@ October 1-2 - Vancouver WA - Move Up Workshop for Assistant Principals
 
 [ASCD Symposium on Student Success in the Early Grades 2020](https://jethrojones.com/play) - In this session, Jethro and Colleen Hardiman, principal of a PK-K school in Poughkeepsie New York talk about the importance of play. 
 
-[ASTE 2019](https://www.jethrojones.com/aste19) - Keynote and breakout sessions about The Borg, Designing a K12 Magnet school and the RAVENbot we used to teach about Native Alaskan cultures. 
+[ASTE 2019](https://jethrojones.com/aste19) - Keynote and breakout sessions about The Borg, Designing a K12 Magnet school and the RAVENbot we used to teach about Native Alaskan cultures. 
 
-[ASTE 2018](https://www.jethrojones.com/aste18) - Keynote and breakout sessions about chatbots in education, the 1 thing, and better understanding your students. 
+[ASTE 2018](https://jethrojones.com/aste18) - Keynote and breakout sessions about chatbots in education, the 1 thing, and better understanding your students. 
 
 [CUES 2014](http://jethrojones.com/CUES2014/) - A new paperless principal presentation focusing on the three stories that helped people by being paperless.
 
@@ -134,7 +139,7 @@ October 1-2 - Vancouver WA - Move Up Workshop for Assistant Principals
 
 [UCET 2013](http://jethrojones.com/ucet2013) - My first Paperless Principal presentation. 
 
-[Goals and Scales 2014](https://www.jethrojones.com/scales-and-goals-2014) - District Inservice presentation with Damon Hargraves. 
+[Goals and Scales 2014](https://jethrojones.com/scales-and-goals-2014) - District Inservice presentation with Damon Hargraves. 
 
 ---
 

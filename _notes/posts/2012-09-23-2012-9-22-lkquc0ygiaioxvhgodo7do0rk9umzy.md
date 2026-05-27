@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2012-09-23
 original_post_path: _posts/2012-09-23-2012-9-22-lkquc0ygiaioxvhgodo7do0rk9umzy.md
@@ -74,7 +74,7 @@ In the move, I had put the "Rename according to keyword" rule above the "Rename 
   
   
     
-![​Keyword Rule is on the top, not where it belongs.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1348372483668-Y1C50UFI5BC2F3FEDU4W_keyword+up.png_)
+![​Keyword Rule is on the top, not where it belongs.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1348372483668-Y1C50UFI5BC2F3FEDU4W_keyword+up.png)
         
           
         
@@ -136,7 +136,7 @@ When you are creating your own Hazel rules, take into consideration what the mos
   
   
     
-![​Keyword on the bottom where it belongs.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1348372638315-0UMON75F0Q0N3CK3ZO7S_Keyword+down.png_)
+![​Keyword on the bottom where it belongs.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1348372638315-0UMON75F0Q0N3CK3ZO7S_Keyword+down.png)
         
           
         

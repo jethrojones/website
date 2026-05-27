@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2014-10-11
 original_post_path: _posts/2014-10-11-2014-10-10-bear-in-the-neighborhood.md
@@ -62,4 +62,4 @@ Had a bear visit the neighbor's garbage can tonight. Not a great picture, but st
   
   
     
-![image.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1413008947690-6WY7N33GRL6V1Q0IMG9B_image.jpg_)
+![image.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1413008947690-6WY7N33GRL6V1Q0IMG9B_image.jpg)

@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2019-06-26
 original_post_path: _posts/2019-06-26-2019-6-26-how-my-son-overcame-his-school-anxiety-without-drugs-counseling-or-fighting.md
@@ -97,7 +97,7 @@ It started with little goals.
     
   
     
-![IMG_0572.jpeg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1561585926534-TTVG6QKT5A82B8PNF55O_IMG_0572.jpeg_)
+![IMG_0572.jpeg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561585926534-TTVG6QKT5A82B8PNF55O_IMG_0572.jpeg)
   
 
 

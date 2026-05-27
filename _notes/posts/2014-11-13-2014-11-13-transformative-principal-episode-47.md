@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/ken-daly/
-last_modified_at: 2026-04-24 14:18:21
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2014-11-13
 original_post_path: _posts/2014-11-13-2014-11-13-transformative-principal-episode-47.md
@@ -67,4 +67,4 @@ The innovative use of this teacher's schedule is really powerful. We talk a bit 
   
   
     
-![image.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1415865632840-8YHKZHA9SWRT2EYGB047_image.jpg_)
+![image.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1415865632840-8YHKZHA9SWRT2EYGB047_image.jpg)

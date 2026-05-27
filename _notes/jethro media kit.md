@@ -1,11 +1,14 @@
 ---
 layout: page
 title: media kit
-categories: 
-tags: 
+permalink: /mediakit
+categories:
+tags:
 status: publish
 type: page
 published: true
+date: 2024-12-16 12:49:16
+last_modified_at: 2026-05-14 19:07:00
 ---
 
 # Media Kit
@@ -82,7 +85,7 @@ published: true
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_e0ed1b67-d39d-4919-831f-22b76299de11_studio+square.jpg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_e0ed1b67-d39d-4919-831f-22b76299de11_studio+square.jpg)
   
 
 
@@ -216,7 +219,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
     
   
     
-[![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_a70a02cd-261c-470a-98d8-132a844ebe8d_how2be+cover.png_)](https://www.amazon.com/How-Transformative-Principal-Jethro-Jones/dp/1915261090/ref=sr_1_1?keywords=Jethro%20Jones&qid=1685548889&sr=8-1)
+[![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_a70a02cd-261c-470a-98d8-132a844ebe8d_how2be+cover.png)](https://www.amazon.com/How-Transformative-Principal-Jethro-Jones/dp/1915261090/ref=sr_1_1?keywords=Jethro%20Jones&qid=1685548889&sr=8-1)
   
 
 
@@ -271,7 +274,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
     
   
     
-[![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594747691421-Y14SRESDTL5XDHEIGTHF_SchoolX+cover+front.jpg_)](https://amzn.to/34j8fOT)
+[![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594747691421-Y14SRESDTL5XDHEIGTHF_SchoolX+cover+front.jpg)](https://amzn.to/34j8fOT)
   
 
 
@@ -355,7 +358,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1582003080950-MOWB7UDJZNPA14R6BN3R_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1582003080950-MOWB7UDJZNPA14R6BN3R_image-asset.jpeg)
   
 
 
@@ -410,7 +413,7 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_907ba9ee-bb1d-473a-bb38-2badec340e98_be_logo+under512.jpg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_907ba9ee-bb1d-473a-bb38-2badec340e98_be_logo+under512.jpg)
   
 
 
@@ -465,4 +468,4 @@ Jethro Jones, is a national award-winning former school leader, podcaster, and a
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1582003129553-76ZQSSXU20H0XVV03Y4R_image-asset.png_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1582003129553-76ZQSSXU20H0XVV03Y4R_image-asset.png)

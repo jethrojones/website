@@ -12,7 +12,7 @@ status: draft
 type: post
 published: false
 meta: {}
-last_modified_at: 2026-04-24 14:18:23
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2018-01-03
 original_post_path: _posts/2018-01-03-2018-1-3-turning-learning-upside-down.md
@@ -87,7 +87,7 @@ Here's my Four Year Plan (TM haha):
     
   
     
-[![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1514992019296-CDE25WF69S6RA1GINW5G_Tanana+Four+Year+Plan_)](http://www.transformativeprincipal.org/enjoy-the-journey-with-jethro-jones-transformative-principal-1035/)
+[![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1514992019296-CDE25WF69S6RA1GINW5G_Tanana+Four+Year+Plan.png)](http://www.transformativeprincipal.org/enjoy-the-journey-with-jethro-jones-transformative-principal-1035/)
         
 
         

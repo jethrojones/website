@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2021-08-18
 original_post_path: _posts/2021-08-18-some-books-to-read-to-start-on-the-student-driven-learning-pathway.md
@@ -18,7 +18,7 @@ redirect_from:
   - /2021/08/18/some-books-to-read-to-start-on-the-student-driven-learning-pathway/
 ---
 
-![5stagesSDL white.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1629318348017-RGHQ4TA0LSQLFZMD80GZ_5stagesSDL+white.jpg_)
+![5stagesSDL white.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1629318348017-RGHQ4TA0LSQLFZMD80GZ_5stagesSDL+white.jpg)
   
 
 

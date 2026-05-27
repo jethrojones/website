@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:24
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2019-11-07
 original_post_path: _posts/2019-11-07-2019-11-7-reflections-on-day-1-of-teamhabits-training.md
@@ -76,7 +76,7 @@ You can see them below:
     
   
     
-![IMG_1811.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1573138546223-O9QHLT26NJ90VWK0GRYB_IMG_1811.jpg_)
+![IMG_1811.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1573138546223-O9QHLT26NJ90VWK0GRYB_IMG_1811.jpg)
   
 
 
@@ -162,4 +162,4 @@ Apparently, I look like
     
   
     
-![783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1573138792252-88RL8UR4E5C61BFY6QMN_783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG_)
+![783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1573138792252-88RL8UR4E5C61BFY6QMN_783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG)

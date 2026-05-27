@@ -1,13 +1,14 @@
 ---
 layout: post
-last_modified_at: 2024-12-05 06:28:19
+last_modified_at: 2026-05-14 19:07:00
+date: 2024-12-04 22:31:15
 ---
 
 
 5 R's for a Rejuvenating Summer
 ===============================
 
-![](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/03ca150a-5d71-4eb4-b2d8-64fd85667190/CleanShot+2023-06-14+at+13.25.57%402x.png)
+![](/assets/squarespace/CleanShot+2023-06-14+at+13.25.57%402x.png)
 
   
 

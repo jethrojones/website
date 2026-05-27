@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "57"
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2020-03-25
 original_post_path: _posts/2020-03-25-how-to-help-kids-through-the-trauma-of-school-closures.md
@@ -92,7 +92,7 @@ Go back to Maslow
     
   
     
-![Image source](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1585101022042-RBLHU8AG2F590LMOGLKH_maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpg_)
+![Image source](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1585101022042-RBLHU8AG2F590LMOGLKH_maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpg)
         
           
         

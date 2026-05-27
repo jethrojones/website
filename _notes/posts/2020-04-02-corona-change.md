@@ -15,7 +15,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "49"
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2020-04-02
 original_post_path: _posts/2020-04-02-corona-change.md
@@ -81,7 +81,7 @@ It has been amazing.
     
   
     
-![This graphic is from a webinar I did this week with Education Elements (I’ve got another one on April 28th).](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1585868318367-UL3E59AL6SD7LQ7GY5O6_Screenshot+2020-04-02+14.30.15.png_)
+![This graphic is from a webinar I did this week with Education Elements (I’ve got another one on April 28th).](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1585868318367-UL3E59AL6SD7LQ7GY5O6_Screenshot+2020-04-02+14.30.15.png)
         
           
         
@@ -158,7 +158,7 @@ In addition to ditching the tests, states and districts have greatly reduced exp
     
   
     
-![IMG_4016.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1585868470756-TPUFQLPJ2YOV36GS5QW7_IMG_4016.jpg_)
+![IMG_4016.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1585868470756-TPUFQLPJ2YOV36GS5QW7_IMG_4016.jpg)
   
 
 

@@ -12,7 +12,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "39"
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2020-06-02
 original_post_path: _posts/2020-06-02-engaging-parents-with-back-to-school-plans.md
@@ -73,7 +73,7 @@ This tweet from
     
   
     
-![Screenshot 2020-06-02 06.47.39.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1591106238935-RMMG6R2NVLHX4ZZ8YWA4_Screenshot+2020-06-02+06.47.39.png_)
+![Screenshot 2020-06-02 06.47.39.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1591106238935-RMMG6R2NVLHX4ZZ8YWA4_Screenshot+2020-06-02+06.47.39.png)
   
 
 

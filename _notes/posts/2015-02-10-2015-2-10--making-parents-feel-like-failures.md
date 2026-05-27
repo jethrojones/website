@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "342"
-last_modified_at: 2026-04-24 14:18:22
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2015-02-10
 original_post_path: _posts/2015-02-10-2015-2-10--making-parents-feel-like-failures.md
@@ -85,7 +85,7 @@ I saw this on Facebook the other day (text below the picture):
   
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1423590648934-34U2HSP0WT321XXZJT9H_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1423590648934-34U2HSP0WT321XXZJT9H_image-asset.jpeg)
   
 
 

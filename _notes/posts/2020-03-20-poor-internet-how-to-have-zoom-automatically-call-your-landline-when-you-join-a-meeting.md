@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-05-14 19:07:00
 content_type: post
 date: 2020-03-20
 original_post_path: _posts/2020-03-20-poor-internet-how-to-have-zoom-automatically-call-your-landline-when-you-join-a-meeting.md
@@ -93,7 +93,7 @@ Tap settings on the bottom, then tap meetings. 
     
   
     
-![IMG_3043.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1584727264852-XEB4RSN32DNQJNGZ26CT_IMG_3043.jpg_)
+![IMG_3043.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727264852-XEB4RSN32DNQJNGZ26CT_IMG_3043.jpg)
   
 
 
@@ -174,7 +174,7 @@ Tap “Auto Connect to Audio” which by default is off. 
     
   
     
-![IMG_3044.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1584726993993-80UF1LODLAM0CGN03FN6_IMG_3044.jpg_)
+![IMG_3044.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584726993993-80UF1LODLAM0CGN03FN6_IMG_3044.jpg)
   
 
 
@@ -255,7 +255,7 @@ Then choose, “Call my Phone Number” and they can be called when joining a me
     
   
     
-![IMG_3045.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1584727050360-EPVAEA3IKE561MAZB53Q_IMG_3045.jpg_)
+![IMG_3045.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727050360-EPVAEA3IKE561MAZB53Q_IMG_3045.jpg)
   
 
 
@@ -389,4 +389,4 @@ And that is my real number: +1 (801) 252-6368 you can text me or
     
   
     
-![IMG_8C89CF6DDCF9-1.jpeg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1584727169034-LYO33PHH7ALH23F1YLAE_IMG_8C89CF6DDCF9-1.jpeg_)
+![IMG_8C89CF6DDCF9-1.jpeg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727169034-LYO33PHH7ALH23F1YLAE_IMG_8C89CF6DDCF9-1.jpeg)
