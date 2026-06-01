@@ -1,6 +1,7 @@
 ---
 layout: post
-
+date: 2026-05-27 08:38:28
+last_modified_at: 2026-05-27 08:38:28
 ---
 Twitter version: Read [this book](http://amzn.to/2qhqhQZ), and join me as I try to change education.
 

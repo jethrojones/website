@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Paperless Principal Book
-categories: 
-tags: 
+categories:
+tags:
 status: publish
 type: page
-last_modified_at: 2024-12-19 00:26:59
+last_modified_at: 2026-05-27 08:38:28
 date: 2013-07-01
 ---
 

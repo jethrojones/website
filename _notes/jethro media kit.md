@@ -1,11 +1,13 @@
 ---
 layout: page
 title: media kit
-categories: 
-tags: 
+categories:
+tags:
 status: publish
 type: page
 published: true
+date: 2026-05-27 08:38:28
+last_modified_at: 2026-05-27 08:38:28
 ---
 
 # Media Kit

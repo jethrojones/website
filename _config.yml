@@ -2,7 +2,7 @@ title:               Have a Good Life.
 include:             ['_pages']
 exclude:
   - _includes/notes_graph.json
-  - _notes/.obsidian/plugins/obsidian-daily-stats/data.json
+  - _notes/.obsidian/
   - script/
 url:                "https://jethro.site"
 timezone:           "America/Los_Angeles" # Set your timezone
@@ -26,7 +26,6 @@ permalink:           pretty
 relative_permalinks: false
 
 plugins:
-  - jekyll-last-modified-at
 #  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap

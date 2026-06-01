@@ -9,7 +9,7 @@ description: Plus a really cool photo of a frog.
 tags:
   - clippings
 date: 2025-10-14T09:15
-last_modified_at: 2025-10-14T09:39
+last_modified_at: 2025-10-20 11:23:48
 ---
 My friend Miles did a social media fast around the time I was not logged in to social media. 
 

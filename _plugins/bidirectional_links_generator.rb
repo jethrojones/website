@@ -10,67 +10,31 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_docs = all_notes + all_pages
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
+    link_targets = {}
+    all_docs.each do |note_potentially_linked_to|
+      new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
+      link_keys_for_note(note_potentially_linked_to).each do |key|
+        link_targets[key] ||= new_href
+      end
+    end
 
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
-      all_docs.each do |note_potentially_linked_to|
-        note_title_regexp_pattern = Regexp.escape(
-          File.basename(
-            note_potentially_linked_to.basename,
-            File.extname(note_potentially_linked_to.basename)
-          )
-        ).gsub('\_', '[ _]').gsub('\-', '[ -]').capitalize
+      next unless current_note.content.include?('[[')
 
-        title_from_data = note_potentially_linked_to.data['title']
-        if title_from_data
-          title_from_data = Regexp.escape(title_from_data)
+      current_note.content = current_note.content.gsub(/\[\[([^\]\|]+)(?:\|(.+?)(?=\]))?\]\]/i) do
+        link_text = Regexp.last_match(1)
+        label = Regexp.last_match(2) || link_text
+        invalid_label = Regexp.last_match(2) ? "#{link_text}|#{label}" : label
+        href = link_targets[normalized_link_key(link_text)] || link_targets[loose_link_key(link_text)]
+
+        if href
+          "<a class='internal-link' href='#{href}'>#{label}</a>"
+        else
+          invalid_link(invalid_label)
         end
-
-        new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
-        anchor_tag = "<a class='internal-link' href='#{new_href}'>\\1</a>"
-
-        # Replace double-bracketed links with label using note title
-        # [[A note about cats|this is a link to the note about cats]]
-        current_note.content.gsub!(
-          /\[\[#{note_title_regexp_pattern}\|(.+?)(?=\])\]\]/i,
-          anchor_tag
-        )
-
-        # Replace double-bracketed links with label using note filename
-        # [[cats|this is a link to the note about cats]]
-        current_note.content.gsub!(
-          /\[\[#{title_from_data}\|(.+?)(?=\])\]\]/i,
-          anchor_tag
-        )
-
-        # Replace double-bracketed links using note title
-        # [[a note about cats]]
-        current_note.content.gsub!(
-          /\[\[(#{title_from_data})\]\]/i,
-          anchor_tag
-        )
-
-        # Replace double-bracketed links using note filename
-        # [[cats]]
-        current_note.content.gsub!(
-          /\[\[(#{note_title_regexp_pattern})\]\]/i,
-          anchor_tag
-        )
       end
-
-      # At this point, all remaining double-bracket-wrapped words are
-      # pointing to non-existing pages, so let's turn them into disabled
-      # links by greying them out and changing the cursor
-      current_note.content = current_note.content.gsub(
-        /\[\[([^\]]+)\]\]/i, # match on the remaining double-bracket links
-        <<~HTML.delete("\n") # replace with this HTML (\\1 is what was inside the brackets)
-          <span title='There is no note that matches this link.' class='invalid-link'>
-            <span class='invalid-link-brackets'>[[</span>
-            \\1
-            <span class='invalid-link-brackets'>]]</span></span>
-        HTML
-      )
     end
 
     # Identify note backlinks and add them to each note
@@ -107,5 +71,32 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
   def note_id_from_note(note)
     note.data['title'].bytes.join
+  end
+
+  def link_keys_for_note(note)
+    basename = File.basename(note.basename, File.extname(note.basename))
+    keys = [normalized_link_key(basename), loose_link_key(basename)]
+
+    title = note.data['title']
+    keys << normalized_link_key(title) if title
+
+    keys.uniq
+  end
+
+  def normalized_link_key(value)
+    value.to_s.strip.downcase.gsub(/\s+/, ' ')
+  end
+
+  def loose_link_key(value)
+    value.to_s.strip.downcase.tr('_-', ' ').gsub(/\s+/, ' ')
+  end
+
+  def invalid_link(label)
+    <<~HTML.delete("\n")
+      <span title='There is no note that matches this link.' class='invalid-link'>
+        <span class='invalid-link-brackets'>[[</span>
+        #{label}
+        <span class='invalid-link-brackets'>]]</span></span>
+    HTML
   end
 end
