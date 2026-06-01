@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-05-27 08:38:28
+last_modified_at: 2026-06-01 21:37:48
 content_type: post
 date: 2013-09-04
 original_post_path: _posts/2013-09-04-2013-9-4-how-to-resize-instagram-photos-to-print-on-4x6-prints.md

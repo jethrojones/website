@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/ken-daly/
-last_modified_at: 2026-05-27 08:38:28
+last_modified_at: 2026-06-01 21:37:48
 content_type: post
 date: 2014-11-13
 original_post_path: _posts/2014-11-13-2014-11-13-transformative-principal-episode-47.md

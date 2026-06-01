@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-05-27 08:38:28
+last_modified_at: 2026-06-01 21:37:48
 content_type: post
 date: 2015-05-19
 original_post_path: _posts/2015-05-19-2015-05-15-5-things-app-gives-you-a-way-to-achieve-your-goals.md

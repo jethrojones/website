@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: "10"
-last_modified_at: 2026-05-27 08:38:28
+last_modified_at: 2026-06-01 21:37:48
 content_type: post
 date: 2023-12-12
 original_post_path: _posts/2023-12-12-how-ai-is-relieving-burdens-on-educators.md
