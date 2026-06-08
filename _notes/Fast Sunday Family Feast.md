@@ -45,6 +45,7 @@ Here's our Fast Sunday Family Feast Plans:
 ## 2026
 - [[Venezuelan Food - January 2026]]
 - [[Food from Tanzania - February 2026]]
+- [[FSFF June 2026 - Korean Food]]
 
 ## 2025
 - [[Argentinian Food - January 2025]]
@@ -72,4 +73,3 @@ Here's our Fast Sunday Family Feast Plans:
 - [[October - German Stuffed Paprika]]
 - [[November - Indian Butter Chicken]]
 - [[December - Brazilian Feijoada]]
-
