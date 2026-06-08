@@ -14,7 +14,7 @@ date: 2026-06-06
 layout: note
 ---
 
-Korean food is the theme this year, and for our June 2026 [[Fast Sunday Family Feast]] we made bibimbap and patbingsu.
+Korean food is the theme this month, and for our June 2026 [[Fast Sunday Family Feast]] we made bibimbap and patbingsu.
 
 {% if page.image %} <img src="{{ page.image }}" alt="Bibimbap bowl for June 2026 Fast Sunday Family Feast"> {% endif %}
 
@@ -22,7 +22,7 @@ The bibimbap was a great fast-breaking meal: rice, beef, vegetables, egg, gochuj
 
 ![Patbingsu with fruit, mochi, and condensed milk](/assets/fsff-june-2026-patbingsu.jpg)
 
-For dessert we made patbingsu with fruit, mochi, red bean paste, and sweetened condensed milk.
+For dessert we made patbingsu (shaved ice) with fruit, mochi, and sweetened condensed milk. The recipe called for red bean paste, but it was out at the Asian market.
 
 Here are the recipes we used:
 - [Bibimbap](https://recipes.crouton.app/recipes/745BBEE9-F313-419B-A6E8-02CFE04FF268?locale=en)
