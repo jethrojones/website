@@ -4,7 +4,7 @@ exclude:
   - _includes/notes_graph.json
   - _notes/.obsidian/
   - script/
-url:                "https://jethro.site"
+url:                "https://jethrojones.com"
 timezone:           "America/Los_Angeles" # Set your timezone
 # You may need to change the base URL depending on your deploy configuration.
 # baseurl:             ''

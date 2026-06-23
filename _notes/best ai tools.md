@@ -1,6 +1,7 @@
 ---
 layout: note
-title: Best AI Tools
+title: Best AI Tools for Teachers and School Leaders
+description: A regularly updated list of useful AI tools for teachers, principals, school administrators, and education leaders.
 date: 2024-06-01
 last_modified_at: 2026-05-27 08:38:28
 ---
@@ -10,7 +11,31 @@ last_modified_at: 2026-05-27 08:38:28
 # BEST AI Tools for Educators today
 This page includes some of my favorite AI tools for educators right now. Updated regularly. See tutorials for these inside of [AILeader.info](https://aileader.info)
 
-## Cutom GPTs
+## Quick Picks: Best AI Tools for Teachers and School Leaders
+
+If you are trying to decide where to start, here is how I would group these tools.
+
+| Need | Start with | Why |
+| --- | --- | --- |
+| Principals and school leaders | Principal Turbo, SchoolX Design Thinking GPT, SchoolAI | These are closest to leadership, planning, decision-making, and school improvement work. |
+| Teachers | Curipod, Formative AI, Quizalize, Pressto | These help with lessons, activities, assessment, writing, and student engagement. |
+| Content and communication | Castmagic, Gamma, Canva, Napkin | These help turn ideas, audio, and rough notes into assets you can share. |
+| Personal productivity | ListenLater, Poe, Pi | These help you learn, compare AI responses, and think through problems. |
+| Building apps or prototypes | Replit, Lovable, Bolt | These are useful when you want to create a working app, demo, or website with AI support. |
+
+## Best AI Tools for Teachers
+
+Teachers usually need AI tools that save planning time, make student work better, or create more engaging learning experiences. I would start with Curipod for interactive lessons, Formative AI or Quizalize for assessment and practice, Pressto for student writing, and SchoolAI for classroom learning experiences.
+
+## Best AI Tools for Principals and School Leaders
+
+Principals and school leaders need different tools than classroom teachers. The most useful tools help with decision-making, communication, strategic planning, coaching, and turning rough ideas into something clear enough to share with a team. Start with Principal Turbo, SchoolX Design Thinking GPT, SchoolAI, Napkin, Gamma, and Castmagic.
+
+## Best AI Tools for School Productivity
+
+For productivity, I care less about flashy demos and more about whether a tool helps me finish real work. ListenLater helps me keep up with reading by turning articles into audio. Castmagic helps turn podcast and video content into reusable writing. Gamma and Canva help make ideas presentable more quickly.
+
+## Custom GPTs
 [Get Principal Turbo](https://chatgpt.com/g/g-LJH7o21aD-get-principal-turbo): This Principal GPT will help you find your personal leadership profile and write in your voice.
 
 [SchoolX Design Thinking GPT](https://chatgpt.com/g/g-68fbcfe54fa081919c6e8ee776c331ab-schoolx-design-thinking-coach): Guides educators, principals, and teams through Jethro Jones’ SchoolX design-thinking process to create transformative school experiences for leaders, teachers, students, and communities.
@@ -126,4 +151,3 @@ Dream it up, then add it to your design. Watch your words and phrases transform 
 [![](https://lh6.googleusercontent.com/O2FpUiCfDNAWr9tmcDZYhIKxx7Y7JVuR_9efA_2uwERWkMEziIcb0Frxy9Q36NMmHKqFknUh9s0RUYZmU98RmkL5l7OeV3VDDvQy-B5oEJn9pw_ImUZdDmoNN094swjSeb8zbuLX7IGF_OvTZiqo7Qo1Mg=s2048)](https://gamma.app/signup?r=kxaudzi5nsldj5l)
 
 [Gamma App](https://gamma.app/signup?r=kxaudzi5nsldj5l) is an AI-powered platform for creating engaging presentations, documents, or webpages in seconds. It offers one-click restyling, live presentation mode, built-in analytics, and supports embedding various content types.
-

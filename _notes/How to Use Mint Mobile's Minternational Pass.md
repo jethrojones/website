@@ -1,12 +1,34 @@
 ---
 layout: post
-
+title: How to Use and Activate Mint Mobile's Minternational Pass
+description: A practical guide to buying, activating, and using Mint Mobile's Minternational Pass while traveling internationally.
 ---
 I've been a Mint Mobile customer for years. It's a [great, and inexpensive](http://fbuy.me/r34At), service that works well. 
 
 But my problem was that I didn't know how to use the Minternational Pass, and I couldn't find much information about it. 
 
 This year, my daughter (on my family plan) and I traveled internationally to two different countries. So, I used Minternational Passes for both of us. 
+
+## Quick Answer: How to Use Mint Mobile's Minternational Pass
+
+To use Mint Mobile's Minternational Pass, buy the pass in your Mint Mobile account before or during your trip, then activate it when you are ready to roam internationally. If you already have a stored pass, you can text `ACTIVATE` to `6700` after you land.
+
+Here is the short version:
+
+| Step | What to do |
+| --- | --- |
+| Buy the pass | Open your Mint Mobile account and choose `MINTL PASS`. |
+| Pick the plan | Choose the 1-day, 3-day, or 10-day pass based on your trip. |
+| Wait to activate | You do not need to activate before leaving if you want to save the pass for the actual travel days. |
+| Activate abroad | When you arrive, text `ACTIVATE` to `6700` or activate through the Mint app. |
+| Check balance | Text `GOROAM` to `6700` to see your remaining usage. |
+
+## When Should You Activate a Minternational Pass?
+
+I would buy the pass before traveling, then activate it after landing in the country where you need roaming. That way you have the pass ready, but you do not start using the travel window too early.
+
+In my experience, Mint also sent me activation instructions shortly after my phone connected internationally, which made the process easy.
+
 ## Purchasing
 First, for my daughter, she had to request the Minternational Pass from her phone, which she did, and then I bought it from my phone and she could then activate it when she landed in Costa Rica. 
 
@@ -30,6 +52,8 @@ The other two people I was traveling with used a different eSIM Provider and the
 - iMessages that only had phone number connected would not work. 
 - In fact, since they've been back, they've had a few text groups where they're now in there twice! Madness! 
 ## Activating
+If you are wondering how to activate a Minternational Pass, this is the part that matters most: after landing, I texted `ACTIVATE` to `6700`. A few seconds later, Mint confirmed that the pass was ready to use.
+
 Upon landing in Japan, I took my phone out of airplane mode, and it started searching for a signal. 
 
 Within about 30 seconds, I got a text from Mint saying:

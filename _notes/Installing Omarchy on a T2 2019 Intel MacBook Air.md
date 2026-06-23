@@ -1,8 +1,8 @@
 ---
 last_modified_at:
 permalink: AIforLinux
-description: installing Omarchy on a T2 2019 Intel MacBook Air. This detailed walkthrough, supported by AI insights, navigates the complexities of setting up a new operating system on older hardware. Learn from the challenges and solutions encountered during the installation process, including bootloader setup, macOS blessing, user configuration, networking, and more. Perfect for tech enthusiasts looking to breathe new life into their MacBook Air with Arch Linux and Omarchy.
-title: Should I use AI for to Install Omarchy on a MacBook Air with a T2 Chip?
+description: A practical walkthrough for installing Arch Linux and Omarchy on a T2 2019 MacBook Air, including bootloader setup, Wi-Fi, and troubleshooting with AI.
+title: Installing Omarchy on a T2 MacBook Air with AI Help
 image:
 published: "true"
 sitemap: "true"
@@ -13,6 +13,23 @@ date: 2025-08-27
 layout: note
 ---
 I've tried this a couple times, and it just didn't work. So I figured I would try to document it. 
+
+## Quick Answer
+
+Yes, you can use AI to help install Omarchy on a T2 MacBook Air, but you should still expect a real Linux troubleshooting project. The hard parts are booting correctly, following the T2 Linux Arch install steps, mounting the EFI partition, getting the bootloader right, and solving Wi-Fi or hardware-specific issues.
+
+For me, AI was useful because it helped interpret errors, turn scattered docs into a sequence, and keep me moving when I would have otherwise quit.
+
+## What Worked for My T2 MacBook Air
+
+The basic path was:
+
+1. Follow the T2 Linux pre-install guide.
+2. Boot from an Arch USB installer.
+3. Format and mount the target drive.
+4. Mount the EFI partition at `/mnt/boot`.
+5. Install and configure the bootloader.
+6. Install Omarchy after Arch was working.
 
 Big thanks to ChatGPT for helping me figure out a lot of things to accomplish this difficult task of installing a new operating system on an old machine. This stretched me. 
 

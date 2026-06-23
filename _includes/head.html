@@ -13,7 +13,9 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
-  {% if page.excerpt %}
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}"/>
+  {% elsif page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
   <meta property="og:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"/>

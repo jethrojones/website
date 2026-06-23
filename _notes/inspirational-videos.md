@@ -1,18 +1,40 @@
 ---
 layout: page
 title: The Ultimate Inspirational Videos for Teachers and Students
+description: A curated list of short motivational and inspirational videos for teachers, students, classrooms, staff meetings, and school assemblies.
 category:
 tags:
 status: publish
 last_modified_at: 2026-06-01 21:37:48
 date: 2020-01-01
 ---
-# The Ultimate 2024 Inspirational Videos for Teachers and Students
+# Inspirational Videos for Teachers and Students
 
 
 
-Everyone needs some inspiration every once in a while. I’ve collected here some of the greatest motivational videos that I’ve found. From inspiring that makes you cry, to teacher support, to inspiring students, I hope this helps. I’m sure there’s a ton more, and I hope if you find one that isn’t on this page, you’ll send me the 
-[link here](mailto:jethro@transformativeprincipal.com?subject=You're%20missing%20an%20inspirational%20video!!&body=Hey%20Jethro!%20Great%20site%2C%20but%20you're%20missing%20a%20great%20inspirational%20video.%20Here's%20the%20link%3A%20). I keep this page updated throughout the years, so check back often.
+Everyone needs some inspiration every once in a while. I’ve collected here some of the best short motivational videos for teachers, students, classrooms, staff meetings, and school assemblies. Some are emotional, some are practical, and some are the kind of video you can show when a group needs a little courage.
+
+I keep this page updated throughout the years, so check back often. If you find an inspirational video that should be here, send me the [link here](mailto:jethro@transformativeprincipal.com?subject=You're%20missing%20an%20inspirational%20video!!&body=Hey%20Jethro!%20Great%20site%2C%20but%20you're%20missing%20a%20great%20inspirational%20video.%20Here's%20the%20link%3A%20).
+
+## Quick Picks
+
+If you are choosing something fast, start here:
+
+- **Short motivational videos for teachers:** use these for staff meetings, professional development, or a hard week when teachers need to remember why the work matters.
+- **Inspirational videos for students:** use these for advisory, assemblies, class meetings, or the beginning of a unit where students need courage and purpose.
+- **Inspirational videos for high school students:** choose videos with older students in mind, especially when the message is about grit, identity, discipline, kindness, or future goals.
+- **Inspirational videos for teachers to show students:** choose videos that are short, school appropriate, easy to discuss, and connected to a reflection prompt.
+
+## How to Use These Videos in Class or Staff Meetings
+
+A motivational video works best when it is not just shown and forgotten. Before pressing play, give people one thing to watch for. After the video, ask a simple question:
+
+- What line or moment stood out to you?
+- What does this make you want to do differently today?
+- Who needs to hear this message?
+- What is one small action this video points us toward?
+
+For students, I usually prefer short videos followed by a quick written reflection. For teachers, I prefer a short conversation that connects the video to a real challenge they are facing.
 
 
 
@@ -40,7 +62,7 @@ Everyone needs some inspiration every once in a while. I’ve collected here som
 
 
   
-## For Everyone
+## Inspirational Videos for Everyone
 
 
 Good videos for students or teachers.
@@ -107,10 +129,10 @@ A clip from "Remember the Titans."Assistant Coach Yoast shows that you have to d
 ****
 
 
-## For Teachers
+## Short Motivational Videos for Teachers
 
 
-These videos are inspirational for teachers specifically.
+These videos are inspirational for teachers specifically. They work well for faculty meetings, professional development openings, teacher appreciation, or a quick reminder that the work matters even when it is difficult.
 
 
 "When we help team members, students, and co-workers to become more of who they already are - retention improves, sales increase, academic success soars and ...
@@ -139,7 +161,15 @@ Jimmy Page talking about One Word - http://www.GetOneWord.com
 ### Inspirational Videos For Students
 
 
-These videos are specifically good for students.
+These videos are specifically good for students. Use them for advisory, classroom conversations, assemblies, or moments when students need a reset.
+
+### Inspirational Videos For High School Students
+
+For high school students, I look for videos that respect their maturity and do not talk down to them. The best videos for high school students usually focus on choices, discipline, resilience, identity, service, or taking responsibility for the next step.
+
+### Inspirational Videos For Teachers To Show Students
+
+When teachers show a motivational video to students, the video should be short enough to leave time for discussion. A good follow-up is to ask students to write one sentence about what the video teaches and one action they can take today.
 
 
 https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)[A post shared by The Rainmaker Family (@therainmakerfamily)](https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)

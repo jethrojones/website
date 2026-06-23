@@ -1,8 +1,8 @@
 ---
 last_modified_at: 2025-01-15 20:26:36
 permalink: transcripts
-description: A quick guide on how to use descript to get transcripts into Apple Podcasts.
-title: Knowing how to use Transcripts in Podcasts in 2025
+description: Learn whether to use VTT or SRT podcast transcripts, how to export transcripts from Descript, and how to submit them to Apple Podcasts.
+title: How to Use Podcast Transcripts in Apple Podcasts
 image: 
 published: "true"
 sitemap: "true"
@@ -16,11 +16,34 @@ layout: note
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
+# How to Use Podcast Transcripts in Apple Podcasts
+
 I use [Descript](https://get.descript.com/swu3aooczakr) as my podcast editor of choice. 
 
 With Apple Podcasts (and others) now providing transcripts for every podcast episode out there, it's encouraged me to do some research about what is the best way to provide transcripts so they are actually useful to podcast listeners. 
 
 I use Transistor to host my podcasts, and it is a great tool. It allows me to upload transcripts in a variety of formats. 
+
+## Quick Answer: VTT vs SRT vs TXT for Podcast Transcripts
+
+For Apple Podcasts, I recommend using **VTT** when you can. SRT can also work, but VTT is the better default for podcast transcripts because it is a web standard and handles timed text cleanly.
+
+| Format | Best for | Should you use it for Apple Podcasts? |
+| --- | --- | --- |
+| VTT | Podcast transcripts, web captions, timed text with speaker labels | Yes. This is my preferred format. |
+| SRT | Basic subtitles and captions | Usually fine, but I prefer VTT when available. |
+| TXT | Plain transcript text with no timing | I would not use this as the main Apple Podcasts transcript file. |
+
+## Best Descript Export Settings for Podcast Transcripts
+
+When exporting from Descript, I use:
+
+- Format: `VTT`
+- Speaker labels: enabled
+- Max characters per line: `42`
+- Max lines per card: `2`
+
+Then I upload the `.vtt` file to my podcast host for the episode.
 
 ## Telling Apple Podcasts What to Do
 In Apple Podcasts Connect, there is a setting under availability that tells Apple how to handle transcripts, either to "Only display auto-generated transcripts by Apple" or "Display transcripts I provide, or auto-generated transcripts by Apple if one isn't provided". 

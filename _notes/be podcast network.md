@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Be Podcast Network
+title: Be Podcast Network for Educators
+description: A podcast network for educators, school leaders, and creators who want to build better schools and better lives.
 categories: []
 tags: []
 status: publish
@@ -11,7 +12,15 @@ date: 2026-05-27 08:38:28
 last_modified_at: 2026-05-27 08:38:28
 ---
 
-#My Bonus Money
+# Be Podcast Network for Educators
+
+Be Podcast Network is a podcast network for educators, school leaders, and creators who want practical ideas for building better schools and better lives.
+
+## What This Network Is For
+
+This network is for shows that help educators think better, lead better, teach better, and live better. If you are looking for education podcasts, school leadership podcasts, or creator-led shows for educators, this is the place I am building for that work.
+
+# My Bonus Money
 
 
 Learn the strategies I’m using to make passive income before the podcast launches December 1.
