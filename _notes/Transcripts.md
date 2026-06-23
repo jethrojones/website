@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-01-15 20:26:36
+last_modified_at: 2026-06-23 15:49:46
 permalink: transcripts
 description: Learn whether to use VTT or SRT podcast transcripts, how to export transcripts from Descript, and how to submit them to Apple Podcasts.
 title: How to Use Podcast Transcripts in Apple Podcasts

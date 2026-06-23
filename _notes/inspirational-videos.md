@@ -5,7 +5,7 @@ description: A curated list of short motivational and inspirational videos for t
 category:
 tags:
 status: publish
-last_modified_at: 2026-06-01 21:37:48
+last_modified_at: 2026-06-23 15:49:46
 date: 2020-01-01
 ---
 # Inspirational Videos for Teachers and Students
