@@ -56,4 +56,8 @@ var _segs = _segs || {};
 
 
 {% seo %}
+
+{% if page.url == "/" or page.url == "/about" or page.url == "/about/" or page.url == "/about.html" %}
+  {% include jethro-person-jsonld.html %}
+{% endif %}
 </head>
