@@ -59,6 +59,7 @@ const sameAs = new Set(person.sameAs || []);
   "https://jethrojon.es/",
   "https://optimizationdoc.com/",
   "https://transformativeprincipal.org/people/jethro-jones",
+  "https://www.wikidata.org/wiki/Q140374345",
 ].forEach((url) => {
   if (!sameAs.has(url)) fail(`Person.sameAs is missing ${url}`);
 });
