@@ -26,7 +26,7 @@ if (combinedHtml.includes("http://localhost:4000")) {
   "SchoolX",
   "How to Be a Transformative Principal",
   "https://optimizationdoc.com/",
-  "https://transformativeprincipal.org/people/a-jethro-jones",
+  "https://transformativeprincipal.org/people/jethro-jones",
   "https://jethrojon.es/",
   "https://linkedin.com/in/jethrojones",
   "https://x.com/jethrojones",
@@ -58,7 +58,7 @@ const sameAs = new Set(person.sameAs || []);
   "https://x.com/jethrojones",
   "https://jethrojon.es/",
   "https://optimizationdoc.com/",
-  "https://transformativeprincipal.org/people/a-jethro-jones",
+  "https://transformativeprincipal.org/people/jethro-jones",
 ].forEach((url) => {
   if (!sameAs.has(url)) fail(`Person.sameAs is missing ${url}`);
 });

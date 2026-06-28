@@ -19,7 +19,7 @@ My current public identity is simple: AI adoption strategist, educator, author, 
 ## Places to Start
 
 - [Optimization Doc](https://optimizationdoc.com/) - AI adoption and workflow design
-- [Transformative Principal](https://transformativeprincipal.org/people/a-jethro-jones) - education leadership podcast and host profile
+- [Transformative Principal](https://transformativeprincipal.org/people/jethro-jones) - education leadership podcast and host profile
 - [jethrojon.es](https://jethrojon.es/) - link-in-bio
 - [LinkedIn](https://linkedin.com/in/jethrojones)
 - [X](https://x.com/jethrojones)
