@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-06-27 23:17:14
+last_modified_at: 2026-06-28 15:13:38
 layout: page
 title: About
 description: Jethro Jones is an AI adoption strategist, educator, author, and podcast host.
