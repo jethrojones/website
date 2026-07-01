@@ -9,11 +9,34 @@ category:
 tags:
 layout: page
 date: 2022-10-01
-last_modified_at: 2026-04-25 04:15:52
+last_modified_at: 2026-07-01 08:33:55
 ---
+## Draft Update July 1, 2026
+
+[Optimization Doc](https://optimizationdoc.com) is my main entrepreneurial focus right now. I help organizations use AI for real work, not just interesting demos: find the recurring workflow, make the result observable, and leave behind a system the team can keep using. My phrase for this is cognitive equity, not cognitive debt. I'm partnering with [LaunchPad INW](https://innovateinw.org).
+
+I finished my doctorate in May, which means a lot of my attention has shifted from "finish the degree" to "build the systems that make the work matter." You can find more about it at [drjethro.com](https://drjethro.com)
+
+[P-Day Emails](https://pdayemails.com/) is the side project I'm turning into a real revenue business. It helps missionaries from my church write their families and friends consistently. Right now the work is offer, fulfillment, and growth: tightening the product, publishing daily short-form content, and making the whole thing easier to understand in one minute.
+
+The [BE Podcast Network](https://bepodcast.network/) keeps running in the background and foreground: production, advertising, the show roster, and [Transformative Principal](https://transformativeprincipal.org/) as the flagship.
+
+I'm also using AI to keep small, useful ideas moving instead of letting them sit in a notebook forever. Some of those experiments are public already:
+- [InstantSOP](https://chromewebstore.google.com/detail/instantsop/mnbeajgicmcehghkfjdgmfldgddaphfe?hl=en-US&utm_source=ext_sidebar) - An app that saves SOPs to Basecamp.
+- AI Skills
+- A secret project
+- [Autocropper](https://jethrojones.gumroad.com/l/autocropper) - Automatically crop your photos using onboard AI to determine the best crop.
+- [Learned In Primary](https://learnedinprimary.com/#properties) - LDS-related apps.
+  - [Churchle - Daily LDS Word Puzzle](https://churchle.com/)
+  - [P-Day Emails](https://pdayemails.com/)
+  - [Conferencegrids](https://conferencegrids.com/)
+  - [Latter-day Lent](https://latterdaylent.com/)
+  - [A Decade Never to Be Forgotten](https://adntbf.com/) Journal
+  - [A Decade Never to be Forgotten](https://adecadenevertobeforgotten.com/) Podcast
+
 ## Last Updated April 24, 2026
 
-[Life Lab](https://discoverlifelab.com) - I took a job as director of operations at Life Lab and I am really loving it. We make character, life skills, success skills, social-emotional, workplace skills, video curriculum for K-12 schools so teachers can teach these things in a powerful way, without dogma, and without prep. It's great. 
+[Life Lab](https://discoverlifelab.com) - I took a big client as fractional director of AI operations at Life Lab and I am really loving it. We make character, life skills, success skills, social-emotional, workplace skills, video curriculum for K-12 schools so teachers can teach these things in a powerful way, without dogma, and without prep. It's great. 
 
 [DrJethro](https://drjethro.com) - I'm graduating with my doctorate in May. You can learn more at my doctoral web site. 
 
