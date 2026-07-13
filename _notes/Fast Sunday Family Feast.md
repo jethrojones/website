@@ -46,6 +46,7 @@ Here's our Fast Sunday Family Feast Plans:
 - [[Venezuelan Food - January 2026]]
 - [[Food from Tanzania - February 2026]]
 - [[FSFF June 2026 - Korean Food]]
+- [[FSFF July 2026 - Colombian Food]]
 
 ## 2025
 - [[Argentinian Food - January 2025]]
