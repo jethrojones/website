@@ -17,12 +17,13 @@ This is my old-school blogroll: people I like, admire, and learn from.
 I'm sad that many of my friends no longer keep blogs or personal websites. I wish they did. If you're a real-life friend and think you should be on this list, you should definitely tell me.
 
 - [Damon Hargraves](https://world.hey.com/hargraves/simon-of-cyrene-8a79d9ad) — One of the smartest educators I know. We worked together in Kodiak, and it was awesome.
+- [Joel Jenkins](https://joeljenkins.me/) — He was married to my cousin, but I got him in the divorce, and I'm very grateful.
+- [Aaron Makelky](https://aaronmakelky.com) — The brother of one of my best principal clients has become one of my best friends.
 - [David Heinemeier Hansson (DHH)](https://world.hey.com/dhh) — I don't know him personally, but I love reading his writing and using products he helped create, especially Basecamp and HEY.
 - [Jason Fried](https://world.hey.com/jason) — I don't know him personally, but I love reading his writing and using products he helped create, especially Basecamp and HEY.
 - [Derek Sivers](https://sivers.org) — I had him on my podcast, and we've chatted a few times. Solid dude. He also inspired me to make a `/now` page.
 - [Nick Gray](https://nickgray.net/) — The idea for this `/friends` page came from him.
 - [Simon Willison](https://simonwillison.net/) — I learn a lot from him about AI and coding. Solid guy, too.
-- [Joel Jenkins](https://joeljenkins.me/) — He was married to my cousin, but I got him in the divorce, and I'm very grateful.
 
 ---
 
