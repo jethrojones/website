@@ -9,7 +9,7 @@ category:
 tags:
 layout: page
 date: 2026-07-13
-last_modified_at: 2026-07-13 15:56:04
+last_modified_at: 2026-07-13 22:58:07
 ---
 
 This is my old-school blogroll: people I like, admire, and learn from.
