@@ -10,6 +10,7 @@ How non-leaders shape culture through honest communication. This is a 30-minute 
 ## Director of Operations for Life Lab
 ###
 
+last_modified_at: 2026-07-20 23:44:31
 ---
 
 # A Story About a Look

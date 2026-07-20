@@ -7,6 +7,7 @@
 
 Talk about my history as a school leader, all levels of k12, award winning, prison school and homeschool programs.
 
+last_modified_at: 2026-07-20 23:44:31
 ---
 
 # What I do

@@ -8,6 +8,7 @@ Agenda
 ## Morning: What is AI and How Can I be Better?
 ## Afternoon: How Can I use AI for Innovation?
 
+last_modified_at: 2026-07-20 23:44:31
 ---
 
 # Morning
