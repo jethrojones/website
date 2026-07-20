@@ -11,6 +11,7 @@ Welcome. Today is not a workshop where you sit and watch me. Today you build. By
 
 Thirty seconds on why you might listen to me. I'm a national-award-winning former school leader — I've led at every K-12 level, including a prison school. I host Transformative Principal, the longest-running and most-downloaded podcast for school leaders, and I founded the BE Podcast Network. I've written two books on this work — How to be a Transformative Principal and SchoolX — and I just finished my doctorate on exactly the question we're living today: how real people use design thinking and AI to solve problems that matter.
 
+last_modified_at: 2026-07-20 19:22:11
 ---
 
 /assets/c890e064745fcd223d241d701f9c857d/Optimization Doc_ Smooth Systems-2.png
