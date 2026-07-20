@@ -1,0 +1,86 @@
+---
+layout: default
+title: Presentations
+description: Presentation slides and speaker notes from Jethro Jones.
+permalink: /presentations/
+---
+
+<style>
+  .presentation-index {
+    margin: 5rem auto;
+    max-width: 920px;
+  }
+
+  .presentation-index__eyebrow {
+    font-family: monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .presentation-index h1 {
+    font-size: clamp(3rem, 9vw, 7rem);
+    letter-spacing: -0.06em;
+    line-height: 0.92;
+    margin: 0.25rem 0 1.5rem;
+  }
+
+  .presentation-index__intro {
+    font-size: 1.2rem;
+    max-width: 58ch;
+  }
+
+  .presentation-list {
+    border-top: 2px solid currentColor;
+    list-style: none;
+    margin: 4rem 0 0;
+    padding: 0;
+  }
+
+  .presentation-list li {
+    border-bottom: 1px solid currentColor;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 8rem 1fr;
+    padding: 1.5rem 0;
+  }
+
+  .presentation-list time {
+    font-family: monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+  }
+
+  .presentation-list a {
+    font-size: clamp(1.35rem, 3vw, 2.3rem);
+    font-weight: 700;
+    line-height: 1.05;
+  }
+
+  @media (max-width: 620px) {
+    .presentation-list li {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<section class="presentation-index">
+  <p class="presentation-index__eyebrow">Slides + speaker notes</p>
+  <h1>Presentations</h1>
+  <p class="presentation-index__intro">The full slide decks live here with a readable handout view, speaker notes, and a full-screen presentation mode.</p>
+
+  {% assign presentations = site.pages | where: "presentation", true | sort: "date" | reverse %}
+  <ol class="presentation-list">
+    {% for presentation in presentations %}
+      <li>
+        <time datetime="{{ presentation.date | date_to_xmlschema }}">{{ presentation.date | date: "%b %d, %Y" }}</time>
+        <div>
+          <a href="{{ presentation.url }}">{{ presentation.title }}</a>
+          {% if presentation.description %}<p>{{ presentation.description }}</p>{% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<!-- Created by Codex GPT-5.5 on 2026-07-20 12:07 PT on Jethro-MBP -->
