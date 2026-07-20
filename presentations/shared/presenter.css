@@ -140,35 +140,6 @@ button:active {
   padding: 5rem 1.5rem;
 }
 
-.handout-heading {
-  margin-bottom: 4rem;
-  max-width: 780px;
-}
-
-.handout-heading .eyebrow {
-  color: var(--steel);
-  font-family: var(--mono);
-  font-size: 0.75rem;
-  letter-spacing: 0.16em;
-  margin: 0 0 0.8rem;
-  text-transform: uppercase;
-}
-
-.handout-heading h1 {
-  font-family: var(--display);
-  font-size: clamp(3rem, 8vw, 6.8rem);
-  letter-spacing: -0.045em;
-  line-height: 0.93;
-  margin: 0;
-  text-transform: uppercase;
-}
-
-.handout-heading > p:last-child {
-  color: var(--ink-2);
-  font-size: 1.2rem;
-  max-width: 58ch;
-}
-
 .deck {
   counter-reset: slides;
 }
@@ -449,11 +420,6 @@ button:active {
   margin-top: 0;
 }
 
-.empty-notes {
-  color: var(--steel);
-  font-style: italic;
-}
-
 .presentation-footer {
   border-top: 1px solid var(--rule);
   display: flex;
@@ -461,6 +427,139 @@ button:active {
   gap: 1.25rem;
   margin-top: 4rem;
   padding-top: 2rem;
+}
+
+/* The default view is a document. Slide canvases only appear in slide mode. */
+body:not([data-view="slides"]) .presentation {
+  max-width: 800px;
+  padding-block: clamp(2.5rem, 7vw, 5rem);
+}
+
+body:not([data-view="slides"]) .slide-shell {
+  display: block;
+  padding: clamp(2.5rem, 7vw, 5rem) 0;
+}
+
+body:not([data-view="slides"]) .slide-shell:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+body:not([data-view="slides"]) .slide-canvas,
+body:not([data-view="slides"]) .slide-shell[data-appearance="dark"] .slide-canvas {
+  aspect-ratio: auto;
+  background: transparent;
+  box-shadow: none;
+  color: var(--ink);
+  overflow: visible;
+}
+
+body:not([data-view="slides"]) .slide-content {
+  display: block;
+  height: auto;
+  overflow: visible;
+  padding: 0;
+}
+
+body:not([data-view="slides"]) .slide-content > * + * {
+  margin-top: 1rem;
+}
+
+body:not([data-view="slides"]) .slide-content h1 {
+  font-family: var(--display);
+  font-size: clamp(2.5rem, 8vw, 5.2rem);
+  line-height: 0.98;
+  text-transform: none;
+}
+
+body:not([data-view="slides"]) .slide-content h2 {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  line-height: 1.05;
+}
+
+body:not([data-view="slides"]) .slide-content h3 {
+  font-size: clamp(1.55rem, 4vw, 2.25rem);
+}
+
+body:not([data-view="slides"]) .slide-content h4,
+body:not([data-view="slides"]) .slide-content h5 {
+  font-size: clamp(1.15rem, 3vw, 1.5rem);
+}
+
+body:not([data-view="slides"]) .slide-content h6 {
+  font-size: 0.78rem;
+}
+
+body:not([data-view="slides"]) .slide-content p,
+body:not([data-view="slides"]) .slide-content li,
+body:not([data-view="slides"]) .slide-content blockquote {
+  font-size: clamp(1.05rem, 2.4vw, 1.25rem);
+}
+
+body:not([data-view="slides"]) .slide-content a {
+  color: var(--bolt);
+}
+
+body:not([data-view="slides"]) .slide-content figure {
+  display: block;
+  height: auto;
+  margin-block: 1.5rem;
+}
+
+body:not([data-view="slides"]) .slide-content img,
+body:not([data-view="slides"]) .slide-content video,
+body:not([data-view="slides"]) .slide-shell[data-appearance="dark"] .slide-content img {
+  filter: none;
+  height: auto;
+  max-height: none;
+  max-width: 100%;
+}
+
+body:not([data-view="slides"]) .slide-content img.size-cover,
+body:not([data-view="slides"]) .slide-content .size-cover img {
+  height: auto;
+  object-fit: contain;
+  width: auto;
+}
+
+body:not([data-view="slides"]) .layout-cover,
+body:not([data-view="slides"]) .layout-title,
+body:not([data-view="slides"]) .layout-section,
+body:not([data-view="slides"]) .layout-split,
+body:not([data-view="slides"]) .layout-v-split,
+body:not([data-view="slides"]) .layout-title-and-columns,
+body:not([data-view="slides"]) .layout-columns {
+  border-left: 0;
+  display: block;
+}
+
+body:not([data-view="slides"]) .layout-grid,
+body:not([data-view="slides"]) .media-grid {
+  gap: 1rem;
+}
+
+body:not([data-view="slides"]) .slide-number {
+  display: none;
+}
+
+body:not([data-view="slides"]) .speaker-notes {
+  color: var(--ink-2);
+  font-size: clamp(1rem, 2.3vw, 1.18rem);
+  margin-top: 1.5rem;
+  max-width: 68ch;
+}
+
+body:not([data-view="slides"]) .speaker-notes::before,
+body:not([data-view="slides"]) .speaker-notes:empty {
+  display: none;
+}
+
+body:not([data-view="slides"]) .speaker-notes > :first-child {
+  margin-top: 0;
+}
+
+body:not([data-view="slides"]) .speaker-notes > :last-child {
+  margin-bottom: 0;
 }
 
 .slide-controls {
@@ -473,7 +572,6 @@ body[data-view="slides"] {
 }
 
 body[data-view="slides"] .presentation-bar,
-body[data-view="slides"] .handout-heading,
 body[data-view="slides"] .presentation-footer {
   display: none;
 }
@@ -619,7 +717,6 @@ body[data-view="slides"] .slide-controls button:focus-visible {
 @media print {
   .presentation-bar,
   .slide-controls,
-  .handout-heading,
   .presentation-footer {
     display: none !important;
   }
@@ -633,20 +730,32 @@ body[data-view="slides"] .slide-controls button:focus-visible {
   }
 
   .slide-shell {
-    break-after: page;
-    border: 0;
+    break-after: auto;
+    border-top: 1px solid #bbb;
     display: block !important;
-    padding: 0;
+    padding: 2rem 0;
   }
 
   .slide-canvas {
+    aspect-ratio: auto !important;
+    background: transparent !important;
     box-shadow: none !important;
+    color: #000 !important;
+    overflow: visible !important;
     print-color-adjust: exact;
   }
 
+  .slide-content {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    padding: 0 !important;
+  }
+
   .speaker-notes {
-    margin: 1rem auto 0;
-    max-width: 80%;
+    display: block !important;
+    margin: 1rem 0 0;
+    max-width: 68ch;
   }
 }
 
