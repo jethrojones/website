@@ -319,6 +319,15 @@ button:active {
   overflow: hidden;
 }
 
+.tiktok-player {
+  aspect-ratio: 9 / 16;
+  border: 0;
+  display: block;
+  height: min(580px, 72dvh);
+  margin-inline: auto;
+  max-width: 100%;
+}
+
 .slide-shell[data-appearance="dark"] .slide-content img {
   filter: drop-shadow(2px 0 0 var(--volt)) drop-shadow(-2px 0 0 var(--volt))
     drop-shadow(0 2px 0 var(--volt)) drop-shadow(0 -2px 0 var(--volt))
@@ -403,6 +412,7 @@ button:active {
   color: var(--ink-2);
   font-size: 0.98rem;
   max-width: 64ch;
+  overflow-wrap: anywhere;
 }
 
 .speaker-notes::before {

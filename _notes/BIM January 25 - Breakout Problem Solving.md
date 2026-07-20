@@ -57,7 +57,7 @@ You must be able to explain it in less than 60 seconds or you won't have time to
 
 If you want to join, shoot me an email or join my mailing list at [Big Impact Mixer](https://bigimpactmixer.com)
 
-[Here's a link to the slides](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view#/), which will expire 11 months after the last update.
+[Here's a link to the slides](/presentations/miracles/).
 #### Who is this Jethro guy and why is he hosting this event? 
 
 I have been podcasting since 2008, in various forms. 

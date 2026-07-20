@@ -14,7 +14,7 @@ date: 2024-09-22
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 # BUHSD Day of Learning February 14, 2025
-- [Link to Presentation](https://sharing.ia.net/presenter/07455f395bfe48df9f3e39e92e0c8a04/view)
+- [Link to Presentation](/presentations/thoughts-about-this-mornings-presentation/)
 - [Trying a Genius Hour in your classroom Template](https://docs.google.com/document/d/1-LcvGkbg_BTpLb8NRdvND04eR-kzHnQxgmnDC6Sfc88/copy)
 - [Restaurant Refresh Example Activity](https://docs.google.com/document/d/1yeeiAARSEqZhyC6Kn918cAskKP6i7C19A0zAmZYzSTk/edit?tab=t.0#heading=h.4psjia1c0hzk)
 - [Synergy - examples of student driven learning](https://transformativeprincipal.org/search?query=synergy)

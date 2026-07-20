@@ -16,7 +16,7 @@ last_modified_at: 2026-02-01 21:00:07
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-Here's [the presentation](https://sharing.ia.net/presenter/3114f79015594b118d442d3cae3511b8/view)
+Here's [the presentation](/presentations/ai-policy-guidance-for-schools/)
 
 AI policy should make sense. People don't read policies, anyway, so whatever we adopt, we have to make them clear and simple. 
 

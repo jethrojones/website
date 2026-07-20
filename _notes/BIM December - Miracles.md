@@ -80,4 +80,4 @@ I now help other people who are mission driven to create their own podcasts and 
 
 If you want to talk about how a podcast can help you make a big impact, please reach out. 
 
-View the [Presentation here](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view).
+View the [Presentation here](/presentations/miracles/).

@@ -19,7 +19,7 @@ last_modified_at: 2025-11-19 10:05:54
 This page is part of a day-long training on AI for Innovation. 
 
 ## Agenda
-[Here's the presentation](https://sharing.ia.net/presenter/43d78cd42de246988703a01c5c1f774b/view)
+[Here's the presentation](/presentations/ai-for-innovation/)
 - _What is AI?_ (Jethro Keynote)
 	- [Cognitive Debt Paper](https://arxiv.org/abs/2506.08872)
 - _AI for Efficiency and Speed: What Can AI Do for Me?_ (Review & Share – current uses)

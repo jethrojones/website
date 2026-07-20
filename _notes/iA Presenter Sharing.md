@@ -31,7 +31,7 @@ iA stands for Information Architects. They are out of Tokyo, and I actually went
 
 Their latest [update includes](https://ia.net/topics/share-your-presentation-in-a-single-click) sharing of presentations, which is just incredible. Here's the presentation for my latest [[Big Impact Mixer]]: 
 
-[The Presentation](https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view)
+[The Presentation](/presentations/miracles/)
 
 There are a few awesome things I love about this update: 
 1. Instant sharing on the web. No sign-in, no managing permissions, no fuss, nothing. Just easy
@@ -41,16 +41,10 @@ There are a few awesome things I love about this update:
 
 What would I like as an additional feature? 
 
-An ability to embed it in my web site, like below, which I did using chatGPT to make it an iframe embed : 
-
-<iframe 
-    src="https://sharing.ia.net/presenter/e380b266f44449048fda7cb60c760493/view#/" 
-    style="width: 100%; height: 100vh; border: none;" 
-    allowfullscreen>
-</iframe>
+I wanted an ability to embed it in my web site. I now keep a permanent hosted copy here: [Miracles presentation](/presentations/miracles/), with slides and speaker notes.
 
 You can also export presentations in many different formats. 
 
 I recently gave presentations at [[alasbo]] and [[akml]] and used iA Presenter, but didn't have the sharing feature yet. I'll update those notes with the correct links. 
 
-See also [[Stop using generative AI as a search engine]] for notes about iA Writer, another piece of great software. 
+See also [[Stop using generative AI as a search engine]] for notes about iA Writer, another piece of great software.
