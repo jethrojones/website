@@ -1,7 +1,7 @@
 ---
-last_modified_at: 2026-07-20 12:07:00
+last_modified_at: 2026-07-20 16:06:00
 title: OpenAI Build Day Spokane
-description: The presentation and resources for a community build day in Spokane.
+description: Projects and presentation from an AI build event in Spokane.
 image:
 published: "true"
 sitemap: "true"
@@ -14,11 +14,22 @@ date: 2026-07-20
 layout: note
 ---
 
-I prepared a presentation called *You Can Just Build Things* for a community build day in Spokane. The session focused on identifying a real problem, choosing a useful first version, and building it in one day.
+At the OpenAI Developers build event in Spokane, people built working tools for writing, research, health, sports, privacy, and social media. The projects ranged from a chief of staff dashboard to a local DNA sequence search and assay design app.
 
 <!--more-->
 
-The deck includes a short problem-discovery process, an example of a small business owner turning a recurring customer complaint into a working tool, and the schedule for the hands-on build time.
+## What people built
+
+- A chief of staff dashboard.
+- A social media posting tool based on a book the builder wrote.
+- A tennis tracker with a new statistics feature.
+- Screenwriting software.
+- A disease sequence search and assay design app: a local tool for finding DNA sequences.
+- A privacy tracker browser extension that shows what is tracking you.
+- A public domain library and recommendation system.
+- A skill for researching real estate properties.
+
+I prepared a presentation called *You Can Just Build Things* for the event. It covered identifying a real problem, choosing a useful first version, and building it in one day.
 
 <!-- presentation-link:start -->
 ## Presentation
