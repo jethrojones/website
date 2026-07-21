@@ -90,7 +90,7 @@ Those scores are pretty simple to generate with our data systems. No big deal. W
   
   
     
-![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1389932887013-X36OZT1WYHDKQQFY3M3I_aptm-data.png_)
+![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1389932887013-X36OZT1WYHDKQQFY3M3I_aptm-data.png)
         
           
         
@@ -104,9 +104,7 @@ This is what the data looks like in a powerpoint presentation. The teachers give
 
 
 
-I created a 
-[tutorial](http://jethrojones.com/assets/Create%20Grade-Wide%20Charts%20of%20RCBM%20compared%20to%20Benchmark.pdf) to explain how to do this using AIMSweb. If you don't use AIMSweb, you can still complete it using the 
-[template spreadsheet for the data](http://jethrojones.com/assets/GradeX.CBM.xxxxYYYY.rr.xlsx).
+I created a tutorial to explain how to do this using AIMSweb. If you don't use AIMSweb, you can still complete it using the template spreadsheet for the data. The original tutorial and spreadsheet files are unavailable.
 
 
 To use the spreadsheet, you just need to enter the student's names, assign them a number, enter their scores, then their benchmarks, and you are good to go.

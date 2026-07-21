@@ -97,7 +97,7 @@ It started with little goals.
     
   
     
-![IMG_0572.jpeg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1561585926534-TTVG6QKT5A82B8PNF55O_IMG_0572.jpeg_)
+![IMG_0572.jpeg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561585926534-TTVG6QKT5A82B8PNF55O_IMG_0572.jpeg)
   
 
 

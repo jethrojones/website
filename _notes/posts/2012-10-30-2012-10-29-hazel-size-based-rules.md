@@ -17,7 +17,7 @@ permalink: /2012/10/30/2012-10-29-hazel-size-based-rules/
 One of the great rules I have set up in Hazel is for our news broadcast each morning. It takes the news from the computer it is recorded on, moves it to my computer (with a little Dropbox help) and then moves it to my public Dropbox folder, where another Hazel rule cleans it out after 3 days.
 
 
-![News Rule](https://dl.dropbox.com/s/rs7pnngr1quyljz/cougar%20news%20rule.png)
+News rule screenshot (original image unavailable).
  
 Pretty slick, eh?
 
@@ -29,13 +29,13 @@ But here is the real problem. When the program I use (
 [BoinxTV](http://boinx.com/boinxtv/overview/)) starts exporting, it saves a "placeholder" file to the export location. And its size is Zero bytes, which means that Hazel sees the name of the file, and sees that it has been 20 minutes and then acts on that rule.[1]
 
 
-![Zero Bytes](https://dl.dropbox.com/s/qqe96plh3ygvvgu/zero%20bytes.png)
+Zero-byte file screenshot (original image unavailable).
 
 
 I figured out a solution today in the middle of a meeting. It came to me like a bolt of lightning. All I had to do was add a little condition to my rule. I set it to only move the file if the size is greater than 0 bytes. That way, it works. Dropbox doesn't update the file incrementally. Dropbox shows the file as 0 bytes or the full 50 MB, and so it is a simple way around that.
 
 
-![Fixed News Rule](https://dl.dropbox.com/s/88r7hea1ekerrqa/news%20updated.png?dl=1)
+Updated news rule screenshot (original image unavailable).
 
 
 This also works with files that are scanned using the ScanSnap. The ScanSnap software also saves a placeholder file while it does OCR on the documents that are scanned. It can take a while when you scan many pages. This size rule can work for those as well.

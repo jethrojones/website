@@ -22,24 +22,12 @@ I had to buy one new board and new bolts and screws. I painted the legs
 white with spray paint that was left here. I used our leftover green
 paint from our doors for the table and benches.
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/DCBDTIthKDCu2aCXgY9cQKD4Ljmqu5rqGv6pFcZE1aOUdPvKKs2ujCA3dJ8h/photo_1.jpg.scaled.500.jpg"
-width="500" height="373" alt="Photo_1" />](http://posterous.com/getfile/files.posterous.com/jethrojones/EhJ3beD4jFyU4Kf7OoxxQ2AEhiahCPvmIbGAxxl0osDREI1zlHjAOvUwUJmp/photo_1.jpg.scaled.1000.jpg)
-
-</div>
+_Original image unavailable._
 
 The original table was left here by the previous owners and was in a sad
 state.
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/P0u6F3CCE5WjlVtYuNspmXZqkJeziX2BDBkUbbZFOIHAnnFL6lmAwumukUeG/photo_2.jpg.scaled.500.jpg"
-width="500" height="373" alt="Photo_2" />](http://posterous.com/getfile/files.posterous.com/jethrojones/qpb9yQzDTGhmrbg3LbIS1sYSEZ0dQEr1vg36t2fkZ6TjFYff6iVLLxLLPd5c/photo_2.jpg.scaled.1000.jpg)
-
-</div>
+_Original image unavailable._
 
 Yeah, that's homemade ice cream the kids are eating. Yummy. Have a Good
 Life.

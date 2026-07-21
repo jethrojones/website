@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/qJoaCDgpxfohsDykBDGnsEAvBfuBvankpJuJHBgqqcdbznezuzaEqswBaGzi/p114.jpg.scaled500.jpg"
-width="500" height="669" alt="P114" />](http://posterous.com/getfile/files.posterous.com/jethrojones/qJoaCDgpxfohsDykBDGnsEAvBfuBvankpJuJHBgqqcdbznezuzaEqswBaGzi/p114.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 See that tag? That is an "M" …for medium. I haven't worn a medium sized
 shirt in a long time.

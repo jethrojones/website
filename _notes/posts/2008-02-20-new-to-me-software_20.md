@@ -54,7 +54,7 @@ Firefox. Double yikies!
 
 <div class="thumbnail">
 
-[![Dock](http://img.skitch.com/20080220-p852atyk54ywuq4xtqb8racn4k.preview.jpg)](http://skitch.com/jethrojones/gugk/dock)  
+Dock screenshot (original image unavailable).
 <span style="font-family: Lucida Grande, Trebuchet, sans-serif, Helvetica, Arial; font-size: 10px; color: #808080">Uploaded
 with [plasq](http://plasq.com/)'s [Skitch](http://skitch.com)!</span>
 

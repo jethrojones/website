@@ -117,7 +117,7 @@ This rule saves every Instagram picture my wife takes to the dropbox folder iftt
   
   
     
-![The updated automator application (saved in my applications folder) ](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1378330212694-7KHHIRQ9ZKHVJLYQ6X4Y_Screen+Shot+2013-09-04+at+3.09.00+PM.png_)
+![The updated automator application (saved in my applications folder) ](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1378330212694-7KHHIRQ9ZKHVJLYQ6X4Y_Screen+Shot+2013-09-04+at+3.09.00+PM.png)
         
           
         
@@ -231,7 +231,7 @@ But wait, there's more!
   
   
     
-![Hazel bringing up the rear](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1378330892417-GM0RFSXGN6L6IHFAKNL4_Hazel+rule_)
+![Hazel bringing up the rear](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1378330892417-GM0RFSXGN6L6IHFAKNL4_Hazel+rule.png)
         
           
         
@@ -381,7 +381,7 @@ end run
   
   
     
-![Less-automated version.  ](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1378331780533-A1XNE1SUVXEK2O1STUYK_printinstagram.png_)
+![Less-automated version.  ](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1378331780533-A1XNE1SUVXEK2O1STUYK_printinstagram.png)
         
           
         

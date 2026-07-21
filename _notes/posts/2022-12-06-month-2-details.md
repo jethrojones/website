@@ -48,10 +48,9 @@ class="image-link image2" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png"
+src="/assets/recovered-external/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:94,&quot;width&quot;:396,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17089,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
-srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png 1456w"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:94,&quot;width&quot;:396,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17089,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="396" height="94" />
 <div>
 

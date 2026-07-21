@@ -100,7 +100,7 @@ It was a great experience, and connecting speakers with schools and communicatin
     
   
     
-![Screen Shot 2020-08-04 at 1.46.59 PM.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1600101125453-XTNPBKWVSF1L28PAD6U4_Screen+Shot+2020-08-04+at+1.46.59+PM.png_)
+![Screen Shot 2020-08-04 at 1.46.59 PM.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1600101125453-XTNPBKWVSF1L28PAD6U4_Screen+Shot+2020-08-04+at+1.46.59+PM.png)
   
 
 
@@ -215,7 +215,7 @@ Here’s how to do it:
 
 
 
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1600102924930-0VC7D3NL39FLICRF9XPX_IMG_31C61D882E06-1.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1600102924930-0VC7D3NL39FLICRF9XPX_IMG_31C61D882E06-1.jpeg)
 
 
 After that Facebook Live, Matthew asked if we could use this to send an automated birthday email to parents, when a child has a birthday. 

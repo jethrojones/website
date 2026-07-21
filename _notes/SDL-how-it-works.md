@@ -92,7 +92,7 @@ date: 2026-05-27 08:38:28
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1594834827168-DCX3ZW9QQDH9OHAMH8X2_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594834827168-DCX3ZW9QQDH9OHAMH8X2_image-asset.jpeg)
   
 
 

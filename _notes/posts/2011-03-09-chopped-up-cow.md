@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/iyznsdlIxjntkhElqJxtwIIzquAFkxxIzhdGqiuCmwqqEoIGnodDvpkkvznu/p108.jpg.scaled500.jpg"
-width="500" height="408" alt="P108" />](http://posterous.com/getfile/files.posterous.com/jethrojones/iyznsdlIxjntkhElqJxtwIIzquAFkxxIzhdGqiuCmwqqEoIGnodDvpkkvznu/p108.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 The ~220 pounds of pure Utah Beef, filling up our freezer.
 

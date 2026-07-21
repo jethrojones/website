@@ -77,7 +77,7 @@ If you’re using an RTI or MTSS model, you should probably expect to see about 
     
   
     
-![Screenshot 2019-10-24 10.42.48.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1571942958045-BWXSMR4GYLE2RMSYXRFV_Screenshot+2019-10-24+10.42.48.png_)
+![Screenshot 2019-10-24 10.42.48.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1571942958045-BWXSMR4GYLE2RMSYXRFV_Screenshot+2019-10-24+10.42.48.png)
   
 
 
@@ -144,7 +144,7 @@ It is possible that could have No Evidence for a student for the whole first qua
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1571943091913-9WI993BY8IJKK0T1OF9S_image-asset.png_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1571943091913-9WI993BY8IJKK0T1OF9S_image-asset.png)
   
 
 
@@ -204,7 +204,7 @@ If you’re grading on a bell curve, you shoul see about the same number of kids
     
   
     
-![Screenshot 2019-10-24 10.43.02.png](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1571943250076-LD2UQ63GMS8UUDKCM6C3_Screenshot+2019-10-24+10.43.02.png_)
+![Screenshot 2019-10-24 10.43.02.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1571943250076-LD2UQ63GMS8UUDKCM6C3_Screenshot+2019-10-24+10.43.02.png)
   
 
 
@@ -264,7 +264,7 @@ You know how on YouTube there are thumbs up and thumbs down for rating videos. I
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1571943273940-IMUEBOEMQ0TZFA7ZFDS7_image-asset.png_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1571943273940-IMUEBOEMQ0TZFA7ZFDS7_image-asset.png)
   
 
 

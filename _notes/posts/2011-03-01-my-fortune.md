@@ -14,8 +14,6 @@ last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/BantGisbjoAEhGpBDpfbnbcGsjalngsbugFqDrInfAvrAfurarafvnjhIjsq/p92.jpg.scaled500.jpg"
-width="500" height="669" />](http://posterous.com/getfile/files.posterous.com/jethrojones/BantGisbjoAEhGpBDpfbnbcGsjalngsbugFqDrInfAvrAfurarafvnjhIjsq/p92.jpg.scaled1000.jpg)
+_Original image unavailable._
 
 </div>

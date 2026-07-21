@@ -19,7 +19,7 @@ Here's an interview that I did with the
 
 ## Other People's Shoes - The Real World
 
-[![](http://static1.squarespace.com/static/4fffa949e4b0b4590d67b4e7/5e4b71b24849d23c8fa36d9c/5e4b71ae4849d23c8fa36b6b/1582002606643/Screenshot-2018-02-16-09.53.40.png?format=original)](https://www.bradshreffler.com/podcast/episode-37-jethro-jones/)I was so grateful to be on Brad Shreffler's Planning Period Podcast. You can listen to it 
+[![](/assets/squarespace/Screenshot-2018-02-16-09.53.40.png)](https://www.bradshreffler.com/podcast/episode-37-jethro-jones/)I was so grateful to be on Brad Shreffler's Planning Period Podcast. You can listen to it
 [here](https://www.bradshreffler.com/podcast/episode-37-jethro-jones/).Please fill out my 
 [impact](/impact) survey if this episode made an impact on you.
 

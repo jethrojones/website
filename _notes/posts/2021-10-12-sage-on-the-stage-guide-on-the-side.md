@@ -16,10 +16,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png"
+src="/assets/recovered-external/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
-srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png 1456w"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="1456" height="662" />
 <div class="image-link-expand">
 <img
@@ -99,9 +98,6 @@ href="https://twitter.com/datruss/status/1191581166240817152?ref_src=twsrc%5Etfw
 class="tweet-link-top" target="_blank"></a>
 
 <div class="tweet-header">
-
-<img src="https://substackcdn.com/image/twitter_name/w_96/datruss.jpg"
-class="tweet-header-avatar" alt="Twitter avatar for @datruss" />
 
 <div class="tweet-header-text">
 
@@ -233,10 +229,6 @@ stuff <span class="tweet-fake-link">@datruss</span>
 
 <div class="quote-tweet-header">
 
-<img src="https://substackcdn.com/image/twitter_name/w_40/datruss.jpg"
-class="quote-tweet-header-avatar" loading="lazy"
-alt="Twitter avatar for @datruss" />
-
 <div class="quote-tweet-header-text">
 
 <span class="quote-tweet-name">Dᴀᴠɪᴅ Tʀᴜss ∞β
@@ -278,10 +270,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png"
+src="/assets/recovered-external/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
-srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png 1456w"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" loading="lazy" width="1456" height="662" />
 <div class="image-link-expand">
 <img

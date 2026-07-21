@@ -31,7 +31,7 @@ So far, I am loving my system this year. There are a lot of great things about i
 
 I've created a rule that causes files to not move until they have a data saved to them (more info 
 [here](http://paperlessprincipal.com/blog/2012/10/29/hazel-size-based-rules)). I've also created a rule that moves files out of our scanned files folder after 5 minutes of not being used. Originally, it was set for one minute, but that was too fast for the office staff to move things on their own. 
-![Clean Out Rule](http://creativesforeducation.com/pp/cleanoutrule.png)
+Clean-out rule screenshot (original image unavailable).
 
 
 ##Hazel

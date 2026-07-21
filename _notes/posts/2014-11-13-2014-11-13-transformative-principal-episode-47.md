@@ -67,4 +67,4 @@ The innovative use of this teacher's schedule is really powerful. We talk a bit 
   
   
     
-![image.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1415865632840-8YHKZHA9SWRT2EYGB047_image.jpg_)
+![image.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1415865632840-8YHKZHA9SWRT2EYGB047_image.jpg)

@@ -14,18 +14,6 @@ last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/oluEAljtouHrEJiBhirdvbsnIcuByhqsdbAwBlbsjiGkxegkcfgckhbsvEdp/p74.jpg.scaled500.jpg"
-width="500" height="309" />](http://posterous.com/getfile/files.posterous.com/jethrojones/oluEAljtouHrEJiBhirdvbsnIcuByhqsdbAwBlbsjiGkxegkcfgckhbsvEdp/p74.jpg.scaled1000.jpg)
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/DrHuaCwjCCtIzAFHxfkHgCocJdwmceEbwIiphoeJyuFtoHpbAkHAwgxdwopC/p76.jpg.scaled500.jpg"
-width="500" height="750" />](http://posterous.com/getfile/files.posterous.com/jethrojones/DrHuaCwjCCtIzAFHxfkHgCocJdwmceEbwIiphoeJyuFtoHpbAkHAwgxdwopC/p76.jpg.scaled1000.jpg)
-
-<div>
-
-[See and download the full gallery on
-posterous](http://jethrojones.posterous.com/so-nice-to-not-have-tea-for-breakfast)
-
-</div>
+_Original images unavailable._
 
 </div>

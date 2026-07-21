@@ -230,6 +230,5 @@ your free Lose It! account, please visit <http://www.loseit.com>
 
 </div>
 
-![](http://mailing.loseit.com/wf/open?rp=Mt%2Fw1xqzV1qe%2FxXKD2eugi9WPxAVitVM1mnQXaZma2JR7wV8wDvtMByaybwmmldS&up=fWiY92GhP2938mQ4XFKEE%2Bbm5TsLN98rvOxgyHMmNoM%3D&u=Uqj8v41gR42Ijy_oh0fH0Q%2Foo0.gif)
 
 </div>

@@ -94,7 +94,7 @@ The sport strap is too tight on one setting, and a little too loose on the next 
   
   
     
-![My current watch face and complications.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1432135334952-U6D1TDESQ93YZYQ3HG2F_image-asset.jpeg_)
+![My current watch face and complications.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432135334952-U6D1TDESQ93YZYQ3HG2F_image-asset.jpeg)
         
           
         
@@ -174,7 +174,7 @@ The notifications on my watch are only worthwhile if I can act on them. It is in
   
   
     
-![The sun sets late in April.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1432135380790-HZO8FCCSAWOU0W4E6QNJ_image-asset.jpeg_)
+![The sun sets late in April.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432135380790-HZO8FCCSAWOU0W4E6QNJ_image-asset.jpeg)
         
           
         

@@ -32,7 +32,7 @@ are much more excited about doing work at home. Also, we now have 16
 pages on the wiki with over 300 revisions of the pages. It is very
 interesting to see how much they use it. I plan on using it more in the
 next quarter. There will be a [learning center
-assignment](http://swatteamwiki.wikispaces.com/Learning+Centers) due
+assignment due
 where about 60 kids will be using the wiki to track results of the
 [Super
 Tuesday](http://campaigntrailcollaboration.wikispaces.com/Super+Tuesday%21).

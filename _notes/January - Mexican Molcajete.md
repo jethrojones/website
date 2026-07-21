@@ -26,7 +26,7 @@ I've got to say, we nailed this recipe, even though we didn't get an actual molc
 ## Some great images: 
 
 
-![molcajete 2](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete2&w=450&output=jpg&q=65)
+![molcajete 2](http://images.weserv.nl/?url={{ site.url }}/assets/molcajete2.jpg&w=450&output=jpg&q=65)
 
 
 

@@ -93,7 +93,7 @@ Here is a handy flowchart to help make sense of it all.
     
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1424598358530-406XIJZVPZO7NDN3GB3F_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598358530-406XIJZVPZO7NDN3GB3F_image-asset.jpeg)
   
 
 
@@ -103,42 +103,37 @@ Here is a handy flowchart to help make sense of it all.
 
 Here are the recipes that I use, that you may use also.
 
-[![IFTTT Recipe: If video posted to Instagram, link post to School Facebook Page. #edchat connects instagram to facebook-pages](https://ifttt.com/recipe_embed_img/262057)](https://ifttt.com/view_embed_recipe/262057-if-video-posted-to-instagram-link-post-to-school-facebook-page-edchat)
+The original shared recipe links and previews are no longer available.
 
 
 
 
 This recipe is for videos posted to Instagram. It creates a link post on Facebook.
 
-[![IFTTT Recipe: Link Post on Facebook to Twitter. #edchat connects facebook-pages to twitter](https://ifttt.com/recipe_embed_img/262059)](https://ifttt.com/view_embed_recipe/262059-link-post-on-facebook-to-twitter-edchat)
 
 
 
 
 After that video link post is on Facebook, it will now post it to Twitter. This also makes sure that the school hashtag shows up.
 
-[![IFTTT Recipe: Post on School Instagram goes to School Facebook Page connects instagram to facebook-pages](https://ifttt.com/recipe_embed_img/262060)](https://ifttt.com/view_embed_recipe/262060-post-on-school-instagram-goes-to-school-facebook-page)
 
 
 
 
 This recipe ensures that all photos on the school's Instagram end up on the school's Facebook page.
 
-[![IFTTT Recipe: Photo posted to School's Facebook page also goes out to School's Twitter. connects facebook-pages to twitter](https://ifttt.com/recipe_embed_img/262061)](https://ifttt.com/view_embed_recipe/262061-photo-posted-to-school-s-facebook-page-also-goes-out-to-school-s-twitter)
 
 
 
 
 This recipe takes any pictures posted to Facebook and publishes them as an image tweet as well. Add your school's hashtag to this recipe. This will also post any other picture to the Twitter, in case you post directly to Facebook instead of through instagram.
 
-[![IFTTT Recipe: Any School Facebook update goes to Twitter, too.  connects facebook-pages to twitter](https://ifttt.com/recipe_embed_img/262062)](https://ifttt.com/view_embed_recipe/262062-any-school-facebook-update-goes-to-twitter-too)
 
 
 
 
 Finally, this recipe just makes sure that all the admins post to your school Facebook page get sent out to Twitter, too.
 
-[![IFTTT Recipe: If a tweet with a particular hashtag is tweeted, text me. #edchat connects twitter to sms](https://ifttt.com/recipe_embed_img/262063)](https://ifttt.com/view_embed_recipe/262063-if-a-tweet-with-a-particular-hashtag-is-tweeted-text-me-edchat)
 
 
 
@@ -199,7 +194,7 @@ Here are some screen grabs to show you how it works:
     
   
     
-![It starts with Instagram. I take a picture there.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1424598616855-J13C0ZMBYPDI9N1LC01I_IMG_6011.PNG_)
+![It starts with Instagram. I take a picture there.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598616855-J13C0ZMBYPDI9N1LC01I_IMG_6011.PNG)
         
           
         
@@ -262,7 +257,7 @@ It starts with Instagram. I take a picture there. 
     
   
     
-![Using IFTTT, the image is pushed to our School's Facebook page.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1424598695860-CWTD30HNOXOBOGNPPUG8_image-asset.png_)
+![Using IFTTT, the image is pushed to our School's Facebook page.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598695860-CWTD30HNOXOBOGNPPUG8_image-asset.png)
         
           
         
@@ -325,7 +320,7 @@ Using IFTTT, the image is pushed to our School's Facebook page. 
     
   
     
-![Then, that picture ends up on Twitter.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1424598733147-33SUVTJZ6B6Z3KIJ02SL_image-asset.png_)
+![Then, that picture ends up on Twitter.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598733147-33SUVTJZ6B6Z3KIJ02SL_image-asset.png)
         
           
         
@@ -388,7 +383,7 @@ Then, that picture ends up on Twitter. 
     
   
     
-![Same post is then texted to me (circled), and then you can see that any post with #KodiakMS comes to me, even from a different user.&nbsp;](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1424598904512-B4SH1B7SVUMBXLKZU841_image-asset.jpeg_)
+![Same post is then texted to me (circled), and then you can see that any post with #KodiakMS comes to me, even from a different user.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598904512-B4SH1B7SVUMBXLKZU841_image-asset.jpeg)
         
           
         

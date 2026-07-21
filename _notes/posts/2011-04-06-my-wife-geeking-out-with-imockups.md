@@ -28,13 +28,7 @@ Well, eventually, she bought the app for her iPad and she struggled with
 it a bit, and then we figured a couple different things out. Below is
 her scrapbook page layout.
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/vnhljBgevDDisDdCaiphoffskspCEiqfCxbjbmEemeDJaeCFoFdkGznJosIz/Week-37.png.scaled500.png"
-width="500" height="362" alt="Week-37" />](http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/vnhljBgevDDisDdCaiphoffskspCEiqfCxbjbmEemeDJaeCFoFdkGznJosIz/Week-37.png.scaled1000.png)
-
-</div>
+_Original image unavailable._
 
 Since she has made this layout, she made about a dozen more layouts, and
 then started plotting out what our backyard is going to look like as we

@@ -85,7 +85,7 @@ I saw this on Facebook the other day (text below the picture):
   
   
     
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1423590648934-34U2HSP0WT321XXZJT9H_image-asset.jpeg_)
+![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1423590648934-34U2HSP0WT321XXZJT9H_image-asset.jpeg)
   
 
 

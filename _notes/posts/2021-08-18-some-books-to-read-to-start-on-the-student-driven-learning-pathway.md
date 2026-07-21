@@ -18,7 +18,7 @@ redirect_from:
   - /2021/08/18/some-books-to-read-to-start-on-the-student-driven-learning-pathway/
 ---
 
-![5stagesSDL white.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1629318348017-RGHQ4TA0LSQLFZMD80GZ_5stagesSDL+white.jpg_)
+![5stagesSDL white.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1629318348017-RGHQ4TA0LSQLFZMD80GZ_5stagesSDL+white.jpg)
   
 
 

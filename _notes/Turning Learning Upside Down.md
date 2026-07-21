@@ -23,7 +23,7 @@ Here's my Four Year Plan (TM haha):
 
 [
 
-![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1514992019296-CDE25WF69S6RA1GINW5G/Tanana+Four+Year+Plan)
+![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/Tanana+Four+Year+Plan.png)
 
 
 

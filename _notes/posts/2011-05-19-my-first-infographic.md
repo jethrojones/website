@@ -16,12 +16,11 @@ last_modified_at: 2026-04-24 14:18:20
 
 <div class="p_embed p_file_embed">
 
-[![](http://posterous.com/images/filetypes/pdf.png)](http://jethrojones.posterous.com/my-first-infographic)  
+PDF attachment (original preview unavailable).
 
 <div class="p_embed_description">
 
-**EBLinfograph update.pdf** [Download this
-file](http://posterous.com/getfile/files.posterous.com/jethrojones/HOsEaNhdexbBc1Oeboddc5x55Zv9GOH4tNjT2GOKf7XGiFo1HNCRG9R1xUdB/EBLinfograph_update.pdf)
+**EBLinfograph update.pdf** (original file unavailable)
 
 </div>
 

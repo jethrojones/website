@@ -70,4 +70,4 @@ Via Tricia Skyles
   
   
     
-![image.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1416384980689-225ES31WXNWFWVLO0SSM_image.jpg_)
+![image.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1416384980689-225ES31WXNWFWVLO0SSM_image.jpg)

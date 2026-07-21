@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:20
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/HnuHofqEABBsJyBolsfcJmiyAEhbueJhpyqfbmfebCzJDeafoEqzDwFahvpw/p145.jpg"
-width="500" height="669" alt="P145" />](http://posterous.com/getfile/files.posterous.com/jethrojones/HnuHofqEABBsJyBolsfcJmiyAEhbueJhpyqfbmfebCzJDeafoEqzDwFahvpw/p145.jpg)
-
-</div>
+_Original image unavailable._
 
 Right now it just looks like an alien.
 

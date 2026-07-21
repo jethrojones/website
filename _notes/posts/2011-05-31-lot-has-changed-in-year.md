@@ -25,22 +25,6 @@ great.
 
 This has been a good year.  
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/JrxZM5ICJeHNlZqt15UirTm7apOM6LotBWY9PpLp3JqYTQhV22Yuv1zLRTs5/may2010.png.scaled.500.jpg"
-width="500" height="674" alt="May2010" />](http://posterous.com/getfile/files.posterous.com/jethrojones/NFRFLGKdLcDtzTaFJ2dqwqYdfCd43hYRSukK2wa6BKJm0uPuK6QYKaYeOEug/may2010.png)
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/vIX5m07s1oL3AwhZKFE3VLZBAPnfPkzlj0qYN8h04CRunenqJOhW4OWV62i1/may2011.png.scaled.500.jpg"
-width="500" height="606" alt="May2011" />](http://posterous.com/getfile/files.posterous.com/jethrojones/WrAKKvm1QwNmIbl3mTrqJWIafM5E3Hs8VXwKuIg2wvD0X0PRPr6uCoi81y78/may2011.png)
-
-<div class="p_see_full_gallery">
-
-[See the full gallery on
-Posterous](http://jethrojones.posterous.com/a-lot-has-changed-in-a-year)
-
-</div>
-
-</div>
+_Original images unavailable._
 
 </div>

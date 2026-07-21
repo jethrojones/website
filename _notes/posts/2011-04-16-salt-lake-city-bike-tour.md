@@ -31,13 +31,7 @@ href="http://www.mapmyride.com/routes/?location=Salt Lake City, UT"
 UT"&gt;Find more Cycling Routes / Bike Rides in Salt Lake City,
 UT&lt;/a&gt;
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/temp-2011-04-16/DgtfuotryazvivrcGwfCxCnAacGAiJAjzDcnAkdeBxosgmofcHkBczjluEHm/DSC_0465.jpg.scaled500.jpg"
-width="500" height="747" alt="Dsc_0465" />](http://posterous.com/getfile/files.posterous.com/temp-2011-04-16/DgtfuotryazvivrcGwfCxCnAacGAiJAjzDcnAkdeBxosgmofcHkBczjluEHm/DSC_0465.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 Since this was my first organized ride, I knew I wanted to push myself
 harder than I do when I usually ride. It took me 1 hour and 20 minutes
@@ -82,13 +76,7 @@ Bonus: My wife took me to the starting line, and then had the kids meet
 me at the finish line. I am really lukcy that she's willing to do that.
 She is so supportive of me, and that is great to have.
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/temp-2011-04-16/ttcmooIHHhcBrznistCGpJuAjmntyhhiHttlleJGcxBjsaFJxGGwsdxnjJAA/DSC_0463.jpg.scaled500.jpg"
-width="500" height="747" alt="Dsc_0463" />](http://posterous.com/getfile/files.posterous.com/temp-2011-04-16/ttcmooIHHhcBrznistCGpJuAjmntyhhiHttlleJGcxBjsaFJxGGwsdxnjJAA/DSC_0463.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
  
 

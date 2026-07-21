@@ -25,9 +25,7 @@ give an educational slant to most of my articles over there.
 
 <div style="text-align: center;">
 
-[<img
-src="http://content.screencast.com/media/a7679864-f49c-4b72-b35c-ff3d0862ba76_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000108.png"
-data-border="0" width="334" height="63" />](http://theappleblog.com/)  
+_Original image unavailable._
 
 </div>
 

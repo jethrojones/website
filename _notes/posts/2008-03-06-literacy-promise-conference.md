@@ -37,8 +37,7 @@ it.
 
 <div class="thumbnail">
 
-[![Bezel
-Interface](http://img.skitch.com/20080307-gcu9g8p1wh8g47b5piu41a96m4.preview.jpg)](http://skitch.com/jethrojones/8mfw/bezel-interface)  
+Bezel interface screenshot (original image unavailable).
 
 </div>
 
@@ -54,9 +53,7 @@ battery would have been dead at that point (45 minutes into the
 conference) and I would have had a hard writing surface to capture the
 essence of his presentation.  
   
-[<img
-src="http://content.screencast.com/media/f187f606-b799-40c3-be21-1981ca982964_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000079.png"
-data-border="0" width="600" height="422" />](http://content.screencast.com/media/f187f606-b799-40c3-be21-1981ca982964_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000079.png)  
+_Original image unavailable._
   
 The only thing that vexes me is that I wasn't able to record video with
 the iSight camera. That would have been better because his performance

@@ -9,7 +9,7 @@ categories:
   - GlobalLearning
 author: Jethro Jones
 excerpt: A heartwarming project connecting classrooms across the world through handmade cards, kindness, and compassion.
-image: /assets/compassionate-classroom-card-project.jpg
+image: /assets/compassionate-classroom-card-project.png
 description: Join the Compassionate Classroom Global Card Project — a global kindness exchange for K–12 classrooms running from Nov 1 to Dec 15, 2025. Help your students connect, create, and spread kindness worldwide.
 keywords:
   - education

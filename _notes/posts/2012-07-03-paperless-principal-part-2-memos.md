@@ -29,7 +29,7 @@ everything. Luckily, memos are pretty standard. Ours look like this:
 
 <figure>
 <img
-src="https://dl.dropbox.com/u/665822/Paperless%20Principals/paperless%20principal%20-%20memos.png"
+src="/assets/recovered-external/paperless-principal-memos.png"
 alt="Memos" />
 <figcaption aria-hidden="true">Memos</figcaption>
 </figure>
@@ -40,7 +40,7 @@ in my email.
 
 <figure>
 <img
-src="https://dl.dropbox.com/u/665822/Paperless%20Principals/paperless%20principals%20-%20memos%20-%201.png"
+src="/assets/recovered-external/paperless-principal-memos-1.png"
 alt="Unreadable Memos" />
 <figcaption aria-hidden="true">Unreadable Memos</figcaption>
 </figure>
@@ -101,12 +101,7 @@ that you can type a string (mine is /memo), and you then it will pop up
 with a list of options that you have predefined. For this case, it looks
 like this:
 
-<figure>
-<img
-src="https://dl.dropbox.com/u/665822/Paperless%20Principals/paperless%20principal%20-%20memo%20-%203.png"
-alt="Aggressive Expansion" />
-<figcaption aria-hidden="true">Aggressive Expansion</figcaption>
-</figure>
+_Original "Aggressive Expansion" screenshot unavailable._
 
 As you can see, there are many options to choose from. That looks like
 it would more difficult, but since I am already renaming by typing, I
@@ -119,12 +114,12 @@ slick, if I do say so, myself.
 Once it is renamed, in the action folder, a Hazel rule recognizes its
 new naming pattern and sends it off to the Memos folder. Then, in the
 Memos folder, a Hazel rule sorts each memo automatically into the
-[subfolders](http://iconaholic.posterous.com/better-tv-renaming-sorting-hazel-rules)
+subfolders
 as seen below.
 
 <figure>
 <img
-src="https://dl.dropbox.com/u/665822/Paperless%20Principals/paperless%20principals%20-%20memos%202%20.png"
+src="/assets/recovered-external/paperless-principal-memos-2.png"
 alt="The Filed Memos" />
 <figcaption aria-hidden="true">The Filed Memos</figcaption>
 </figure>

@@ -30,8 +30,8 @@ mini-app on your computer, or something else to subscribe to what
 also, oh, I don't know, what about [fire
 departments](http://twitter.com/lafd)?  
 [<img
-src="http://content.screencast.com/media/5fded35c-76ae-4779-92a0-b664df0a1b14_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000027.png"
-data-border="0" width="555" height="657" />](http://content.screencast.com/media/5fded35c-76ae-4779-92a0-b664df0a1b14_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000027.png)  
+src="/assets/recovered-external/great-uses-of-twitter.png"
+data-border="0" width="555" height="657" />](/assets/recovered-external/great-uses-of-twitter.png)
   
 This is amazing. I already follow a company,
 [Woot](http://twitter.com/woot).com, on Twitter so I can stay up to date

@@ -30,14 +30,7 @@ technology that would help educators be better at their jobs.
   
   
 
-|  |
-|:--:|
-| <a
-href="http://www.amazon.com/gp/product/B003808FBK/ref=as_li_ss_il?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003808FBK&amp;linkCode=as2&amp;tag=jethrojonesco-20"
-style="margin-left: auto; margin-right: auto;"><img
-src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;ASIN=B003808FBK&amp;Format=_SL110_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=jethrojonesco-20"
-data-border="0" /></a> |
-| Using a hand juicer, but imagine that is a lemon. |
+Using a hand juicer, but imagine that is a lemon.
 
 When I was a kid, I had a lemon tree in my front yard, and lived close
 to orange groves.  When we wanted juice from a lemon, we went out and

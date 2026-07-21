@@ -33,13 +33,12 @@ in the library almost all day long and had 12 other teachers participate
 with their students.  
   
 The second idea was to create a
-[wiki](http://swatteamwiki.wikispaces.com) page for our team. This has
+wiki page for our team. This has
 been the most exciting because it got me started in with another teacher
 in Kansas doing a collaborative wiki for the [Primary
 elections](http://campaigntrailcollaboration.wikispaces.com). Some, not
 all, of my students really took this idea and ran. I am very impressed.
-One girl has been editing a page called "[Fun
-Stuff](http://swatteamwiki.wikispaces.com/page/history/Fun+Stuff)"
+One girl has been editing a page called "Fun Stuff"
 pretty much every single day since we started. That is a big deal for a
 7th grader. Of course, I finally post about her dedication the day she
 misses changing it. ;)  

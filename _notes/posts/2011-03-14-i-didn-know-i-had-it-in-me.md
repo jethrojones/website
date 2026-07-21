@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:19
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/legilFCaCjqspzhunwEzwvfyoJjJuIaGncfxtbDsocBkqIpGjujApifJjFFB/p119.jpg.scaled500.jpg"
-width="500" height="373" alt="P119" />](http://posterous.com/getfile/files.posterous.com/jethrojones/legilFCaCjqspzhunwEzwvfyoJjJuIaGncfxtbDsocBkqIpGjujApifJjFFB/p119.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 For the last few years, probably since my freshman year of college, I
 haven't believed that I could run, unless I have been playing sports

@@ -159,10 +159,7 @@ amazing. 
 ### Scanning
 
 We use a [Fujitsu ScanSnap
-S1500M](http://www.amazon.com/gp/product/B001XWCQO2/ref=as_li_ss_tl?ie=UTF8&tag=jethrojonesco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001XWCQO2)<img
-src="http://www.assoc-amazon.com/e/ir?t=jethrojonesco-20&amp;l=as2&amp;o=1&amp;a=B001XWCQO2"
-style="border: none !important; margin: 0px !important;" data-border="0"
-width="1" height="1" /> (though all their scanners are pretty amazing
+S1500M](http://www.amazon.com/gp/product/B001XWCQO2/ref=as_li_ss_tl?ie=UTF8&tag=jethrojonesco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001XWCQO2) (though all their scanners are pretty amazing
 from what I have heard). The software can do OCR as it scans, which is
 what we have it set up to do, and it will also add keywords to a PDF
 based on highlighted words in the document, which is something I will
@@ -210,8 +207,7 @@ Here are the "sort into subfolders" [rules](http://cl.ly/GkEE) (I use
 [Hazel 3](http://noodlesoft.com/)) that are run when another Hazel rule
 sends files to my "Student Folders" folder.  These are all the rules I
 have set up for that folder, but I'll focus on the witness statement
-rule, and the rest build off of that. Somehow I found [this cool
-Hazel](http://iconaholic.posterous.com/better-tv-renaming-sorting-hazel-rules)
+rule, and the rest build off of that. Somehow I found this cool Hazel
 rule for renaming and automatically sorting files into subfolders, even
 if you don't have the folder they will end up in already created, which
 was a new concept for me. I didn't download his examples, because what I

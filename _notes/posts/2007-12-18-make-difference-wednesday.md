@@ -37,7 +37,7 @@ stats. ;)
   
 My students would really appreciate your help.  
   
-In other news. The [SWAT team wiki](http://swatteamwiki.wikispaces.com/)
+In other news. The SWAT team wiki
 is up and running. It looks great. The students have done almost all of
 that all by themselves. They are doing a remarkable job! Stay posted for
 the website for gratitude if we can ever figure out how to get the form

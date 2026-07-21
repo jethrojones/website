@@ -25,7 +25,7 @@ know. On Friday we had another talk about how they should behave and
 what is expected of them. Yesterday, I posted this on Twitter:  
   
 [<img
-src="http://content.screencast.com/media/3380063b-06ed-4c70-ab00-33fb84afeacf_6b5ba21b-5720-4de3-ae79-882494ea575c_static_0_0_00000233.png"
+src="/assets/recovered-external/twitter-backfires.png"
 data-border="0" width="522" height="161" />](http://twitter.com/jethrojones/statuses/799550076)  
   
 Whenever my students need an assignment, I direct them to my website and

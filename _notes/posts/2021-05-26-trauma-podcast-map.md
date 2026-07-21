@@ -74,7 +74,7 @@ Below, you will find a collection of 5 podcasts from Transformative Principal th
     
   
     
-![Get the PDF here.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1622049689340-09BSA125J588G9JUNAEC_Trauma+Podcast+Map.jpg_)
+![Get the PDF here.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1622049689340-09BSA125J588G9JUNAEC_Trauma+Podcast+Map.jpg)
         
           
         

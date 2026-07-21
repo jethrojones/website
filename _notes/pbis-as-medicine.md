@@ -9,12 +9,12 @@ Our district recently hosted Dr. Terry Scott from the University of Louisville w
 
 Since the first time I heard that analogy, I wanted to _see_ what he was talking about. So, I made this Keynote presentation (and exported it to PowerPoint, too).
 
-[Keynote version](http://static.squarespace.com/static/4fffa949e4b0b4590d67b4e7/t/50211c5be4b098a90b8f085b/1344347227530/)
+[Keynote version](/assets/PBIS+as+medicine.key)
 
 [Keynote]({{ site.url }}/assets/PBIS+as+medicine.key)
 [PowerPoint]({{ site.url }}/PBIS+as+medicine.ppt)
 
-[PowerPoint Version](http://static.squarespace.com/static/4fffa949e4b0b4590d67b4e7/t/50211ab7e4b03f6f4d1a4ad6/1344346807454/)
+[PowerPoint Version](/assets/PBIS+as+medicine.ppt)
 
 Please feel free to use or modify this as you need to. The images are all Creative Commons licensed by attribution, non-commercial at the least, and are credited on the last slide.
 

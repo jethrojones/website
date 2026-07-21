@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:20
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/mbgFmrwbecFeysawiwprDjrCaotgypGngFlvCHHyIeofJidHxmvnGgsDDDli/p152.jpg.scaled500.jpg"
-width="500" height="373" alt="P152" />](http://posterous.com/getfile/files.posterous.com/jethrojones/mbgFmrwbecFeysawiwprDjrCaotgypGngFlvCHHyIeofJidHxmvnGgsDDDli/p152.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 I guess the real April Fools joke is that it was Spring!
 

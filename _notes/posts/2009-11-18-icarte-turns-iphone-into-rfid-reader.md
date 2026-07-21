@@ -34,7 +34,7 @@ Reader](http://feedproxy.google.com/%7Er/TheAppleBlog/%7E3/mzrUPVf-TqA/):
   
 
 <img
-src="http://gigapple.files.wordpress.com/2009/11/icarte.png?w=230&amp;h=212"
+src="/assets/recovered-external/icarte-rfid-reader.png"
 title="icarte" width="230" height="212" />Earlier, [we
 reported](http://theappleblog.com/2009/11/06/rumor-has-it-8gb-3gs-rfid-capable-iphones-on-the-way/)
 that the next generation of iPhone might have an RFID (Radio Frequency
@@ -93,69 +93,6 @@ application would be required for programming in payment card
 information, checking balances, etc. but as of yet no such app is
 available via the iTunes store.
 
-  
-<a
-href="http://feeds.wordpress.com/1.0/gocomments/gigapple.wordpress.com/35931/"
-rel="nofollow"><img
-src="http://feeds.wordpress.com/1.0/comments/gigapple.wordpress.com/35931/"
-data-border="0" /></a> <a
-href="http://feeds.wordpress.com/1.0/godelicious/gigapple.wordpress.com/35931/"
-rel="nofollow"><img
-src="http://feeds.wordpress.com/1.0/delicious/gigapple.wordpress.com/35931/"
-data-border="0" /></a> <a
-href="http://feeds.wordpress.com/1.0/gostumble/gigapple.wordpress.com/35931/"
-rel="nofollow"><img
-src="http://feeds.wordpress.com/1.0/stumble/gigapple.wordpress.com/35931/"
-data-border="0" /></a> <a
-href="http://feeds.wordpress.com/1.0/godigg/gigapple.wordpress.com/35931/"
-rel="nofollow"><img
-src="http://feeds.wordpress.com/1.0/digg/gigapple.wordpress.com/35931/"
-data-border="0" /></a> <a
-href="http://feeds.wordpress.com/1.0/goreddit/gigapple.wordpress.com/35931/"
-rel="nofollow"><img
-src="http://feeds.wordpress.com/1.0/reddit/gigapple.wordpress.com/35931/"
-data-border="0" /></a> <img
-src="http://stats.wordpress.com/b.gif?host=theappleblog.com&amp;blog=5550580&amp;post=35931&amp;subd=gigapple&amp;ref=&amp;feed=1"
-data-border="0" />
-
 </div>
 
 ------------------------------------------------------------------------
-
-  
-[<img
-src="http://ads.gigaom.com/openx/www/images/882338d114410ec8819c4fb6ad88103c.gif"
-class="weatpxgawhjqskuwvnll" data-border="0" width="300" height="250" />](http://ads.gigaom.com/proxy.php?url=http%3A%2F%2Fads.gigaom.com%2Fopenx%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D198__zoneid%3D6__cb%3Da4bae18f3f__oadest%3Dhttp%253A%252F%252Fsalesforce.com%252F)
-
-<div>
-
-<embed
-src="http://ads.gigaom.com/openx/www/delivery/lg.php?bannerid=198&amp;campaignid=22&amp;zoneid=6&amp;loc=http%3A%2F%2Fads.gigaom.com%2F%3Furl%3Dhttp%253A%252F%252Ftheappleblog.com%252Ffeed%252F%253Fnoredirect%253D1&amp;cb=a4bae18f3f"
-class="weatpxgawhjqskuwvnll" style="width: 0px; height: 0px;" width="0"
-height="0" />
-
-</div>
-
-<div>
-
-  
-[<img src="http://feeds.feedburner.com/%7Eff/TheAppleBlog?d=yIl2AUoC8zA"
-data-border="0" />](http://feeds.feedburner.com/%7Eff/TheAppleBlog?a=mzrUPVf-TqA:D9Di-MgnSFM:yIl2AUoC8zA)
-[<img
-src="http://feeds.feedburner.com/%7Eff/TheAppleBlog?i=mzrUPVf-TqA:D9Di-MgnSFM:D7DqB2pKExk"
-data-border="0" />](http://feeds.feedburner.com/%7Eff/TheAppleBlog?a=mzrUPVf-TqA:D9Di-MgnSFM:D7DqB2pKExk)
-[<img
-src="http://feeds.feedburner.com/%7Eff/TheAppleBlog?i=mzrUPVf-TqA:D9Di-MgnSFM:V_sGLiPBpWU"
-data-border="0" />](http://feeds.feedburner.com/%7Eff/TheAppleBlog?a=mzrUPVf-TqA:D9Di-MgnSFM:V_sGLiPBpWU)
-[<img
-src="http://feeds.feedburner.com/%7Eff/TheAppleBlog?i=mzrUPVf-TqA:D9Di-MgnSFM:F7zBnMyn0Lo"
-data-border="0" />](http://feeds.feedburner.com/%7Eff/TheAppleBlog?a=mzrUPVf-TqA:D9Di-MgnSFM:F7zBnMyn0Lo)
-[<img
-src="http://feeds.feedburner.com/%7Eff/TheAppleBlog?i=mzrUPVf-TqA:D9Di-MgnSFM:guobEISWfyQ"
-data-border="0" />](http://feeds.feedburner.com/%7Eff/TheAppleBlog?a=mzrUPVf-TqA:D9Di-MgnSFM:guobEISWfyQ)  
-
-</div>
-
-<img
-src="http://feeds.feedburner.com/%7Er/TheAppleBlog/%7E4/mzrUPVf-TqA"
-width="1" height="1" />"

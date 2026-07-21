@@ -46,12 +46,6 @@ This morning I was at 217 pounds, which means that the weight is finally
 starting to come back. I need to keep it off, and this exercising will
 certainly help that. 
 
-<div class="p_embed p_image_embed">
-
-[<img
-src="http://posterous.com/getfile/files.posterous.com/temp-2011-03-18/ttcgdygkxnfftgFllAChgBCdHvhpcpayjbxpvtczJghxvskskHijxbmHxHHl/Photo_Mar_18_9_29_44_PM.jpg.scaled500.jpg"
-width="500" height="655" alt="Photo_mar_18_9_29_44_pm" />](http://posterous.com/getfile/files.posterous.com/temp-2011-03-18/ttcgdygkxnfftgFllAChgBCdHvhpcpayjbxpvtczJghxvskskHijxbmHxHHl/Photo_Mar_18_9_29_44_PM.jpg.scaled1000.jpg)
-
-</div>
+_Original image unavailable._
 
 </div>

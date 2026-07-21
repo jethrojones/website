@@ -14,13 +14,7 @@ last_modified_at: 2026-04-24 14:18:20
 ---
 <div class="posterous_autopost">
 
-<div class="p_embed p_image_embed">
-
-<img
-src="http://posterous.com/getfile/files.posterous.com/jethrojones/MZ7BATW3WZM3BloRs7KSAJjxrJloG6dybwRyNevnpWr5vGEXKXtXW9wfvu4O/When_people_like_reading_books.jpg"
-width="320" height="240" alt="When_people_like_reading_books" />
-
-</div>
+_Original image unavailable._
 
 From this post:
 <http://speirs.org/blog/2011/5/5/ipad-trials-at-oklahoma-state.html>

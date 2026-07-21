@@ -81,7 +81,7 @@ Here's the jpg version, or enter your email below and I'll send you a PDF of it,
     
   
     
-![Roles in Trauma Informed Schools black.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1545513078598-0SIHKY7MZDSRJ06AZLC7_Roles+in+Trauma+Informed+Schools+black.jpg_)
+![Roles in Trauma Informed Schools black.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1545513078598-0SIHKY7MZDSRJ06AZLC7_Roles+in+Trauma+Informed+Schools+black.jpg)
   
 
 
@@ -139,4 +139,4 @@ Here's the jpg version, or enter your email below and I'll send you a PDF of it,
 View fullsize
               
           
-![Roles in Trauma Informed Schools.jpg](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1545512930255-182II4B4DS5WHX9AYK42_Roles+in+Trauma+Informed+Schools.jpg_)
+![Roles in Trauma Informed Schools.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1545512930255-182II4B4DS5WHX9AYK42_Roles+in+Trauma+Informed+Schools.jpg)

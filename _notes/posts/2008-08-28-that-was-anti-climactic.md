@@ -49,7 +49,7 @@ visit.
   
 The sad thing is that they missed the best part. The kids made a KWL
 chart about being safe online in Google Docs [on the
-wiki](http://swatteamwiki.wikispaces.com/Safe+Online), and now we have a
+wiki, and now we have a
 big list of everything that they know and want to know about being safe
 online. That part really was neat. It was hard to get my kids on task,
 because they were psyched out to be using the laptops.  
