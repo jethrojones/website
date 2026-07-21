@@ -38,7 +38,7 @@
   </div>
 </div>
 
-<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="about:blank">
 </iframe>
 
 <script>
@@ -52,6 +52,14 @@
 
   var linkHistories = {};
 
+  function isPreviewableInternalLink(linkElement) {
+    var url = new URL(linkElement.href, window.location.href);
+    var lastPathSegment = url.pathname.split('/').filter(Boolean).pop() || '';
+
+    return url.origin === window.location.origin &&
+      (!lastPathSegment.includes('.') || /\.html?$/i.test(lastPathSegment));
+  }
+
   function hideTooltip() {
     opacityTimeout = setTimeout(function() {
       tooltipWrapper.style.opacity = 0;
@@ -63,20 +71,20 @@
   }
 
   function showTooltip(event) {
-    var elem = event.target;
+    var elem = event.currentTarget;
     var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
     var top = window.pageYOffset || document.documentElement.scrollTop
 
-    if (event.target.host === window.location.host) {
-      if (!linkHistories[event.target.href]) {
-        iframe.src = event.target.href
+    if (isPreviewableInternalLink(elem)) {
+      if (!linkHistories[elem.href]) {
+        iframe.src = elem.href
         iframe.onload = function() {
-          tooltipContentHtml = ''
+          var tooltipContentHtml = ''
           tooltipContentHtml += '<div style="font-weight: bold;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
           tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML
 
           tooltipContent.innerHTML = tooltipContentHtml
-          linkHistories[event.target.href] = tooltipContentHtml
+          linkHistories[elem.href] = tooltipContentHtml
 
           tooltipWrapper.style.display = 'block';
           setTimeout(function() {
@@ -84,7 +92,7 @@
           }, 1)
         } 
       } else {
-        tooltipContent.innerHTML = linkHistories[event.target.href]
+        tooltipContent.innerHTML = linkHistories[elem.href]
         tooltipWrapper.style.display = 'block';
         setTimeout(function() {
           tooltipWrapper.style.opacity = 1;
@@ -108,6 +116,10 @@
   }
 
   function setupListeners(linkElement) {
+    if (!isPreviewableInternalLink(linkElement)) {
+      return;
+    }
+
     linkElement.addEventListener('mouseleave', function(_event) {
       hideTooltip();
     });
