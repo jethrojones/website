@@ -196,7 +196,7 @@ Thank you!
   
   
     
-[![](/assets/squarespace/content_v1_52a74d9ae4b0253945d2aee9_1535394848185-CGDDU4QCIRSO4U1270H3_image-asset.jpeg)](/about-us)
+[![](/assets/squarespace/home--01.jpeg)](/about-us)
   
 
 
@@ -248,7 +248,7 @@ Thank you!
   
   
     
-[![tumblr_mn8b8sLRb61rkz363o1_1280.jpg](/assets/squarespace/content_v1_52a74d9ae4b0253945d2aee9_1535394867157-MTQAOAQPKWQ68DDY1HTW_tumblr_mn8b8sLRb61rkz363o1_1280.jpg)](/take-action)
+[![tumblr_mn8b8sLRb61rkz363o1_1280.jpg](/assets/squarespace/home--02.jpg)](/take-action)
   
 
 

@@ -87,7 +87,7 @@ last_modified_at: 2026-05-27 08:38:28
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835121811-WGERZJHG6UN5I0AP915M_image-asset.jpeg)
+![](/assets/squarespace/students-who-thrive--01.jpeg)
   
 
 
@@ -142,7 +142,7 @@ last_modified_at: 2026-05-27 08:38:28
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835179178-80EKXIC4UIJEEOMC9O3G_image-asset.jpeg)
+![](/assets/squarespace/students-who-thrive--02.jpeg)
   
 
 
@@ -203,7 +203,7 @@ Our approach ensures that every student is successful. We personalize everything
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835222529-42E5YLQ08TJ67I30TPBO_image-asset.jpeg)
+![](/assets/squarespace/students-who-thrive--03.jpeg)
   
 
 
@@ -258,7 +258,7 @@ Our approach ensures that every student is successful. We personalize everything
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1594835425486-8QQXGQSAUIDJOUDPQ064_image-asset.jpeg)
+![](/assets/squarespace/students-who-thrive--04.jpeg)
   
 
 

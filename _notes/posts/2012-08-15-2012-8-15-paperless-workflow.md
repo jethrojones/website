@@ -89,7 +89,7 @@ This gives a pretty good overview of what you can expect to get from the book an
   
   
     
-![file](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1345046640108-H6X6M21HNTG1AZFLT0ID_file.jpg)
+![file](/assets/squarespace/paperless-workflow--01.jpg)
   
 
 
@@ -98,4 +98,4 @@ This gives a pretty good overview of what you can expect to get from the book an
 
 
 Click 
-[here](/assets/squarespace/1345041052312.jpg) to get an enlarged picture.​
+[here](/assets/squarespace/paperless-workflow--02.jpg) to get an enlarged picture.​

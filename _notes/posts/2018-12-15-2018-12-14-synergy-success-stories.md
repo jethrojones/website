@@ -17,7 +17,7 @@ original_post_path: _posts/2018-12-15-2018-12-14-synergy-success-stories.md
 permalink: /2018/12/15/2018-12-14-synergy-success-stories/
 ---
 
-![IMG_7033.JPG](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1544854535742-29HMDTSEWB3QGCFGDNRC_IMG_7033.JPG)
+![IMG_7033.JPG](/assets/squarespace/synergy-success-stories--01.jpg)
   
 
 
@@ -132,7 +132,7 @@ This is just 8 of the great projects that are engaging kids in something they ca
 View fullsize
               
           
-![Synergy groups. Green means move forward, Yellow means needs more work, Orange means discontinued.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1544854596586-7FOG52OLULL4UHSPLNVH_image-asset.png)
+![Synergy groups. Green means move forward, Yellow means needs more work, Orange means discontinued.&nbsp;](/assets/squarespace/synergy-success-stories--02.png)
           
         
 
@@ -197,4 +197,4 @@ Synergy groups. Green means move forward, Yellow means needs more work, Orange m
 View fullsize
               
           
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1544854659605-KWGC4VTKG7T0YAV4BRQF_image-asset.png)
+![](/assets/squarespace/synergy-success-stories--03.png)

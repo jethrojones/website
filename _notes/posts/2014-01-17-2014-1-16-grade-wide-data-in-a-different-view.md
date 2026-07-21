@@ -90,7 +90,7 @@ Those scores are pretty simple to generate with our data systems. No big deal. W
   
   
     
-![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1389932887013-X36OZT1WYHDKQQFY3M3I_aptm-data.png)
+![This is what the data looks like in a powerpoint presentation. The teachers give parents a folder with their child's name and a number that corresponds to the chart above.&nbsp;](/assets/squarespace/grade-wide-data-in-a-different-view--01.png)
         
           
         

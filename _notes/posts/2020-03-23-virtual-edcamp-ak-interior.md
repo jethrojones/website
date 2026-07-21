@@ -75,7 +75,7 @@ You can see from the images below that there was a lot of really interesting ide
     
   
     
-![Screenshot 2020-03-23 06.35.57.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584975942825-RK62E9BN1JBX12SKY6H0_Screenshot+2020-03-23+06.35.57.png)
+![Screenshot 2020-03-23 06.35.57.png](/assets/squarespace/virtual-edcamp-ak-interior--01.png)
   
 
 

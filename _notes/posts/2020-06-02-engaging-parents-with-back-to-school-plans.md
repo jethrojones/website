@@ -73,7 +73,7 @@ This tweet from
     
   
     
-![Screenshot 2020-06-02 06.47.39.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1591106238935-RMMG6R2NVLHX4ZZ8YWA4_Screenshot+2020-06-02+06.47.39.png)
+![Screenshot 2020-06-02 06.47.39.png](/assets/squarespace/engaging-parents-with-back-to-school-plans--01.png)
   
 
 

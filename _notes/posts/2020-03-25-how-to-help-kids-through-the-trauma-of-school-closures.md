@@ -92,7 +92,7 @@ Go back to Maslow
     
   
     
-![Image source](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1585101022042-RBLHU8AG2F590LMOGLKH_maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpg)
+![Image source](/assets/squarespace/how-to-help-kids-through-the-trauma-of-school-closures--01.jpg)
         
           
         

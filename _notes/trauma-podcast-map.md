@@ -9,7 +9,7 @@ It is tough to know the right place to start and who to listen to.
 
 Below, you will find a collection of 5 podcasts from Transformative Principal that will help you get started on Trauma in your schools. If you find this interesting, [download the whitepaper](https://pages.jethrojones.com) I recently released.
 
-![Get the PDF here.](/assets/squarespace/Trauma+Podcast+Map.jpg)
+![Get the PDF here.](/assets/squarespace/trauma-podcast-map--01.jpg)
 
 Get the [PDF here](https://www.dropbox.com/s/0f5jlh3djspep3l/Trauma%20Podcast%20Map-2.pdf?dl=0).
 

@@ -87,7 +87,7 @@ Here's my Four Year Plan (TM haha):
     
   
     
-[![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1514992019296-CDE25WF69S6RA1GINW5G_Tanana+Four+Year+Plan.png)](http://www.transformativeprincipal.org/enjoy-the-journey-with-jethro-jones-transformative-principal-1035/)
+[![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/turning-learning-upside-down--01.png)](http://www.transformativeprincipal.org/enjoy-the-journey-with-jethro-jones-transformative-principal-1035/)
         
 
         

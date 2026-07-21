@@ -98,7 +98,7 @@ In this book you will learn how to:
   
   
     
-[![iBookstore_Badge.gif](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1357802869712-ST2UABXKFHXWCKGZ80KI_iBookstore_Badge.gif)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
+[![iBookstore_Badge.gif](/assets/squarespace/paperless-principal-book--01.gif)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
   
 
 
@@ -150,4 +150,4 @@ In this book you will learn how to:
   
   
     
-[![Paperless Pricnipal Cover.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1357802765103-IXM0MIVD2M9TOIMD5BMF_Paperless+Pricnipal+Cover.png)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)
+[![Paperless Pricnipal Cover.png](/assets/squarespace/paperless-principal-book--02.png)](https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11)

@@ -14,7 +14,7 @@ original_post_path: _posts/2015-07-21-2015-7-21-listening-to-all-voxes-without-u
 permalink: /2015/07/21/2015-7-21-listening-to-all-voxes-without-unlocking-your-phone/
 ---
 
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1437465743519-CVWU8OWDAH4XBL92H5VF_image-asset.jpeg)
+![](/assets/squarespace/listening-to-all-voxes-without-unlocking-your-phone--01.jpeg)
   
 
 

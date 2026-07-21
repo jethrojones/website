@@ -95,7 +95,7 @@ I met every goal by my deadline (except for the debt one, which was a couple mon
   
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432052016771-O5EA8T8RKCL0DLJ48H2V_image-asset.png)
+![](/assets/squarespace/5-things-app-a-to-do-app-that-helps-you-become-someone--01.png)
   
 
 
@@ -147,7 +147,7 @@ I met every goal by my deadline (except for the debt one, which was a couple mon
   
   
     
-![The 5 areas of growth.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432051747076-NXKWQX5T20B8QLC6M3UU_image-asset.png)
+![The 5 areas of growth.&nbsp;](/assets/squarespace/5-things-app-a-to-do-app-that-helps-you-become-someone--02.png)
         
           
         
@@ -209,7 +209,7 @@ Now, I can review my goals daily and stay focused on what I need to do to become
   
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432051779087-OBTORRLLSILBWG95OEFZ_image-asset.png)
+![](/assets/squarespace/5-things-app-a-to-do-app-that-helps-you-become-someone--03.png)
   
 
 
@@ -263,7 +263,7 @@ You can jot simple notes, like "Sat quietly for 15 minutes", or you can be more 
   
   
     
-![IMG_6725.PNG](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1432051836121-CNY8Z63IKS7L6ITRHIWD_IMG_6725.PNG)
+![IMG_6725.PNG](/assets/squarespace/5-things-app-a-to-do-app-that-helps-you-become-someone--04.png)
   
 
 

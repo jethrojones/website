@@ -11,5 +11,5 @@ last_modified_at: 2026-07-21 18:20:44
 date: 2026-05-27 08:38:28
 ---
 To get Transformative Principal Podcasts delivered to your inbox every week, fill out the form below.
-[![](/assets/squarespace/Listen_on_Apple_Podcasts_CMYK_US.jpg)](https://itunes.apple.com/us/podcast/transformative-principal/id770942472?mt=2)If you're super nerdy, here's the
+[![](/assets/squarespace/subscribe--01.jpg)](https://itunes.apple.com/us/podcast/transformative-principal/id770942472?mt=2)If you're super nerdy, here's the
 [RSS feed](http://transformativeprincipal.libsyn.com/rss)

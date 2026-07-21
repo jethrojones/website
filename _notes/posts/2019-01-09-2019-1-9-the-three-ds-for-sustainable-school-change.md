@@ -72,7 +72,7 @@ I have talked to a lot of school principals about how they do their work. I've f
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1547003123538-XHPYIWVHEJHPAQYIP2C4_image-asset.png)
+![](/assets/squarespace/the-three-d-s-for-sustainable-school-change--01.png)
   
 
 

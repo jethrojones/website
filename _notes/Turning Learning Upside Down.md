@@ -23,7 +23,7 @@ Here's my Four Year Plan (TM haha):
 
 [
 
-![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/Tanana+Four+Year+Plan.png)
+![Click the image above to go to the podcast where I explain this in more detail.&nbsp;](/assets/squarespace/turning-learning-upside-down--01.png)
 
 
 

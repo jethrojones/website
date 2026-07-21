@@ -161,7 +161,7 @@ Our school closures are all happening at a time when we typically are gearing up
     
   
     
-![testing.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584625295581-9ODZ0L4VKX22H71SCZX6_testing.jpg)
+![testing.jpg](/assets/squarespace/what-will-happen-when-parents-find-out-we-ve-been-lying-all-this--01.jpg)
   
 
 

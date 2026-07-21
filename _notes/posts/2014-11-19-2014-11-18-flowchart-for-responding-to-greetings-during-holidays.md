@@ -70,4 +70,4 @@ Via Tricia Skyles
   
   
     
-![image.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1416384980689-225ES31WXNWFWVLO0SSM_image.jpg)
+![image.jpg](/assets/squarespace/flowchart-for-responding-to-greetings-during-holidays--01.jpg)

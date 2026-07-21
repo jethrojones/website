@@ -93,7 +93,7 @@ Here is a handy flowchart to help make sense of it all.
     
   
     
-![](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598358530-406XIJZVPZO7NDN3GB3F_image-asset.jpeg)
+![](/assets/squarespace/how-you-can-be-a-social-media-ninja--01.jpeg)
   
 
 
@@ -194,7 +194,7 @@ Here are some screen grabs to show you how it works:
     
   
     
-![It starts with Instagram. I take a picture there.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598616855-J13C0ZMBYPDI9N1LC01I_IMG_6011.PNG)
+![It starts with Instagram. I take a picture there.&nbsp;](/assets/squarespace/how-you-can-be-a-social-media-ninja--02.png)
         
           
         
@@ -257,7 +257,7 @@ It starts with Instagram. I take a picture there. 
     
   
     
-![Using IFTTT, the image is pushed to our School's Facebook page.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598695860-CWTD30HNOXOBOGNPPUG8_image-asset.png)
+![Using IFTTT, the image is pushed to our School's Facebook page.&nbsp;](/assets/squarespace/how-you-can-be-a-social-media-ninja--03.png)
         
           
         
@@ -320,7 +320,7 @@ Using IFTTT, the image is pushed to our School's Facebook page. 
     
   
     
-![Then, that picture ends up on Twitter.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598733147-33SUVTJZ6B6Z3KIJ02SL_image-asset.png)
+![Then, that picture ends up on Twitter.&nbsp;](/assets/squarespace/how-you-can-be-a-social-media-ninja--04.png)
         
           
         
@@ -383,7 +383,7 @@ Then, that picture ends up on Twitter. 
     
   
     
-![Same post is then texted to me (circled), and then you can see that any post with #KodiakMS comes to me, even from a different user.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1424598904512-B4SH1B7SVUMBXLKZU841_image-asset.jpeg)
+![Same post is then texted to me (circled), and then you can see that any post with #KodiakMS comes to me, even from a different user.&nbsp;](/assets/squarespace/how-you-can-be-a-social-media-ninja--05.jpeg)
         
           
         

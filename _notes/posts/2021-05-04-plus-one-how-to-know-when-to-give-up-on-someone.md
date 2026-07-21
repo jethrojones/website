@@ -76,7 +76,7 @@ One of the principals asked me, "How many chances should I give that person?"
     
   
     
-![IMG_AAB58DE4EEFB-1.jpeg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1620149468495-AY5ZO97PG56NGI5283UC_IMG_AAB58DE4EEFB-1.jpeg)
+![IMG_AAB58DE4EEFB-1.jpeg](/assets/squarespace/plus-one-how-to-know-when-to-give-up-on-someone--01.jpeg)
   
 
 

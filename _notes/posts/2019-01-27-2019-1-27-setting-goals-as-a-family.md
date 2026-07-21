@@ -76,7 +76,7 @@ Here's a picture of it of the tracking sheet.
     
   
     
-![Our Monthly Family Goal Setting Sheet. I want my kids to be able to dream big, so we set weekly, monthly and yearly goals together. We celebrate the successes and failures.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1548625710414-CBXP4UVU7BMKUSB99NBN_Screenshot+2019-01-27+12.44.56.png)
+![Our Monthly Family Goal Setting Sheet. I want my kids to be able to dream big, so we set weekly, monthly and yearly goals together. We celebrate the successes and failures.](/assets/squarespace/setting-goals-as-a-family--01.png)
         
           
         

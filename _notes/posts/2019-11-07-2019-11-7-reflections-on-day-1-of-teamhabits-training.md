@@ -76,7 +76,7 @@ You can see them below:
     
   
     
-![IMG_1811.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1573138546223-O9QHLT26NJ90VWK0GRYB_IMG_1811.jpg)
+![IMG_1811.jpg](/assets/squarespace/reflections-on-day-1-of-teamhabits-training--01.jpg)
   
 
 
@@ -162,4 +162,4 @@ Apparently, I look like
     
   
     
-![783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1573138792252-88RL8UR4E5C61BFY6QMN_783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG)
+![783E0D93-6778-4FD3-AAA5-A2F382902CB3.JPG](/assets/squarespace/reflections-on-day-1-of-teamhabits-training--02.jpg)

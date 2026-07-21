@@ -172,4 +172,4 @@ As you rewrite policies, start with teachers describing the policies that make l
     
   
     
-![IMG_0171.png](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1575866146386-PKHMDNQ3UIXYGEWKKITI_IMG_0171.png)
+![IMG_0171.png](/assets/squarespace/a-different-way-to-write-school-policy--01.png)

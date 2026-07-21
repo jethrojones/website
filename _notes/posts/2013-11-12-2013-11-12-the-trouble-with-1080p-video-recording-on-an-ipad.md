@@ -82,7 +82,7 @@ Another side benefit of using this app is that the video in the Top Camera app c
   
   
     
-![Higher resolution video, smaller visible area.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1384299833465-4D34OJXDG1096V04TJLD_2013-11-12+15.56.13.png)
+![Higher resolution video, smaller visible area.&nbsp;](/assets/squarespace/the-trouble-with-1080p-video-recording-on-an-ipad--01.png)
         
           
         
@@ -142,7 +142,7 @@ Higher resolution video, smaller visible area. 
   
   
     
-![Smaller resolution, yet larger viewable area. Note that you can see the chair in this picture.&nbsp;](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1384299879886-0WVS0K5S7BP0HITT8LA9_2013-11-12+15.56.19.png)
+![Smaller resolution, yet larger viewable area. Note that you can see the chair in this picture.&nbsp;](/assets/squarespace/the-trouble-with-1080p-video-recording-on-an-ipad--02.png)
         
           
         

@@ -15,7 +15,7 @@ date: 2026-05-27 08:38:28
 
   
     
-[![Click the image to get the goal sheet.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561420752193-EINNWRRBE4WI596J273H_1200x630bb.png)](/s/Jones-Family-Monthly-Goals-Template.pages)
+[![Click the image to get the goal sheet.](/assets/squarespace/family-goals--01.png)](/s/Jones-Family-Monthly-Goals-Template.pages)
         
 Click the image to get the goal sheet.
   
@@ -89,7 +89,7 @@ Get the
     
   
     
-[![Click the image above to get the goal sheet.](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1561420860935-3FMEFKMCIT16PX4HM36M_Word-icon.png)](/s/Jones-Family-Monthly-Goals-Template.docx)
+[![Click the image above to get the goal sheet.](/assets/squarespace/family-goals--02.png)](/s/Jones-Family-Monthly-Goals-Template.docx)
         
 
         

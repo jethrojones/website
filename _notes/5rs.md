@@ -8,7 +8,7 @@ date: 2026-05-27 08:38:28
 5 R's for a Rejuvenating Summer
 ===============================
 
-![](/assets/squarespace/CleanShot+2023-06-14+at+13.25.57%402x.png)
+![](/assets/squarespace/5rs--01.png)
 
   
 

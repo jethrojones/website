@@ -93,7 +93,7 @@ Tap settings on the bottom, then tap meetings. 
     
   
     
-![IMG_3043.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727264852-XEB4RSN32DNQJNGZ26CT_IMG_3043.jpg)
+![IMG_3043.jpg](/assets/squarespace/poor-internet-how-to-have-zoom-automatically-call-your-landline--01.jpg)
   
 
 
@@ -174,7 +174,7 @@ Tap “Auto Connect to Audio” which by default is off. 
     
   
     
-![IMG_3044.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584726993993-80UF1LODLAM0CGN03FN6_IMG_3044.jpg)
+![IMG_3044.jpg](/assets/squarespace/poor-internet-how-to-have-zoom-automatically-call-your-landline--02.jpg)
   
 
 
@@ -255,7 +255,7 @@ Then choose, “Call my Phone Number” and they can be called when joining a me
     
   
     
-![IMG_3045.jpg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727050360-EPVAEA3IKE561MAZB53Q_IMG_3045.jpg)
+![IMG_3045.jpg](/assets/squarespace/poor-internet-how-to-have-zoom-automatically-call-your-landline--03.jpg)
   
 
 
@@ -389,4 +389,4 @@ And that is my real number: +1 (801) 252-6368 you can text me or
     
   
     
-![IMG_8C89CF6DDCF9-1.jpeg](/assets/squarespace/content_v1_4fffa949e4b0b4590d67b4e7_1584727169034-LYO33PHH7ALH23F1YLAE_IMG_8C89CF6DDCF9-1.jpeg)
+![IMG_8C89CF6DDCF9-1.jpeg](/assets/squarespace/poor-internet-how-to-have-zoom-automatically-call-your-landline--04.jpeg)
