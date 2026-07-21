@@ -24,9 +24,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/8fe77ed7-16e2-4d10-97ad-cad51ed8c74f_712x750.png"
+src="/assets/recovered-external/our-current-problem-with-identity--01.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/8fe77ed7-16e2-4d10-97ad-cad51ed8c74f_712x750.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:750,&quot;width&quot;:712,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:152423,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/our-current-problem-with-identity--01.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:750,&quot;width&quot;:712,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:152423,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="712" height="750" />
 <div class="image-link-expand">
 <img
@@ -65,9 +65,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/699636fc-0403-4988-b022-9e4f1ec379c0_764x670.png"
+src="/assets/recovered-external/our-current-problem-with-identity--02.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/699636fc-0403-4988-b022-9e4f1ec379c0_764x670.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:670,&quot;width&quot;:764,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:151228,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/our-current-problem-with-identity--02.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:670,&quot;width&quot;:764,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:151228,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" width="764" height="670" />
 <div class="image-link-expand">
 <img

@@ -16,9 +16,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/6e71fa71-3d70-4791-a284-ff8adf2ad9f7_2048x1447.png"
+src="/assets/recovered-external/just-in-time-learning-is-the-only--01.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/6e71fa71-3d70-4791-a284-ff8adf2ad9f7_2048x1447.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1029,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3662084,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/just-in-time-learning-is-the-only--01.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1029,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3662084,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="1456" height="1029" />
 <div class="image-link-expand">
 <img

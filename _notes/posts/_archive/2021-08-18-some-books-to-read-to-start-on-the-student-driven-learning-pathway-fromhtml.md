@@ -17,9 +17,9 @@ class="image-link image2" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/e3f80ed5-98c9-4061-b765-30d98fe1d82b_1000x768.jpeg"
+src="/assets/recovered-external/some-books-to-read-to-start-on-the-student-driven-learning-pathw--01.jpeg"
 title="5stagesSDL white.jpg" class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/e3f80ed5-98c9-4061-b765-30d98fe1d82b_1000x768.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;5stagesSDL white.jpg&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/some-books-to-read-to-start-on-the-student-driven-learning-pathw--01.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;5stagesSDL white.jpg&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" alt="5stagesSDL white.jpg" />
 <div>
 

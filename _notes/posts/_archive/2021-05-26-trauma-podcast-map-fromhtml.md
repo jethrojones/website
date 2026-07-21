@@ -26,9 +26,9 @@ class="image-link image2" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/0852fe66-e1de-416a-8259-384e1dea4e2f_595x842.jpeg"
+src="/assets/recovered-external/trauma-podcast-map--01.jpeg"
 title="Get the PDF here." class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/0852fe66-e1de-416a-8259-384e1dea4e2f_595x842.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Get the PDF here.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/trauma-podcast-map--01.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Get the PDF here.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" alt="Get the PDF here." />
 <div>
 

@@ -16,9 +16,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png"
+src="/assets/recovered-external/sage-on-the-stage-guide-on-the-side--01.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/sage-on-the-stage-guide-on-the-side--01.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="1456" height="662" />
 <div class="image-link-expand">
 <img
@@ -270,9 +270,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png"
+src="/assets/recovered-external/sage-on-the-stage-guide-on-the-side--01.png"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/0a4bcfb9-1c6b-41a5-8214-1bd2b3450a70_2000x909.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/sage-on-the-stage-guide-on-the-side--01.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:662,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:129621,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" loading="lazy" width="1456" height="662" />
 <div class="image-link-expand">
 <img

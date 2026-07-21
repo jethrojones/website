@@ -19,9 +19,9 @@ class="image-link image2" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/786b9bc9-9cc7-4112-b351-75f6078006dd_402x158.png"
+src="/assets/recovered-external/breaking-down-my-bonus-money-month--01.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/786b9bc9-9cc7-4112-b351-75f6078006dd_402x158.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:158,&quot;width&quot;:402,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:25450,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/breaking-down-my-bonus-money-month--01.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:158,&quot;width&quot;:402,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:25450,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="402" height="158" />
 <div>
 

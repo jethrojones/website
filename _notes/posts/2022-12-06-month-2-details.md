@@ -48,9 +48,9 @@ class="image-link image2" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png"
+src="/assets/recovered-external/month-2-details--01.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/bcc56357-5b31-471d-ba8a-3277fa3374c7_396x94.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:94,&quot;width&quot;:396,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17089,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/month-2-details--01.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:94,&quot;width&quot;:396,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17089,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" data-fetchpriority="high" width="396" height="94" />
 <div>
 

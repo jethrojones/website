@@ -105,9 +105,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/b8869789-068a-4665-bc6e-178e438a55b5_614x1142.png"
+src="/assets/recovered-external/how-we-told-families-school-doesnt--01.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/b8869789-068a-4665-bc6e-178e438a55b5_614x1142.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1142,&quot;width&quot;:614,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:215786,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/how-we-told-families-school-doesnt--01.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1142,&quot;width&quot;:614,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:215786,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" loading="lazy" width="614" height="1142" />
 <div class="image-link-expand">
 <img
@@ -142,9 +142,9 @@ class="image-link image2 is-viewable-imag" target="_blank"
 data-component-name="Image2ToDOM"></a>
 <div class="image2-inset">
 <img
-src="/assets/recovered-external/32dff065-91b7-444f-89d4-4e4169d2e947_612x1166.png"
+src="/assets/recovered-external/how-we-told-families-school-doesnt--02.jpg"
 class="sizing-normal"
-data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/32dff065-91b7-444f-89d4-4e4169d2e947_612x1166.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1166,&quot;width&quot;:612,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:223060,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
+data-attrs="{&quot;src&quot;:&quot;/assets/recovered-external/how-we-told-families-school-doesnt--02.jpg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1166,&quot;width&quot;:612,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:223060,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}"
 sizes="100vw" loading="lazy" width="612" height="1166" />
 <div class="image-link-expand">
 <img
