@@ -13,7 +13,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/08/that-was-anti-climactic
 content_type: post
 original_post_path: _posts/2008-08-28-that-was-anti-climactic.html
 permalink: /2008/08/28/that-was-anti-climactic/
-last_modified_at: 2026-04-24 14:18:19
+last_modified_at: 2026-07-21 18:20:42
 ---
 Last week, I found out that [Senator Howard
 Stephenson](http://www.howardstephenson.com/) would be coming to my

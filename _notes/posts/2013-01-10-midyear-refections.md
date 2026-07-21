@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-04-24 14:18:20
+last_modified_at: 2026-07-21 18:20:43
 content_type: post
 date: 2013-01-10
 original_post_path: _posts/2013-01-10-midyear-refections.md

@@ -11,7 +11,7 @@ blogger_orig_url: https://mrjonesed.blogspot.com/2008/03/twitter-update.html
 content_type: post
 original_post_path: _posts/2008-03-05-twitter-update.html
 permalink: /2008/03/05/twitter-update/
-last_modified_at: 2026-04-24 14:18:19
+last_modified_at: 2026-07-21 18:20:42
 ---
 _Original image unavailable._
 I am surprised that I have already updated on Twitter 500 times! I

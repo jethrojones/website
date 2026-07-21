@@ -5,7 +5,7 @@ title: Month 2 Details
 date: 2022-12-06
 original_post_path: _posts/2022-12-06-month-2-details.html
 permalink: /2022/12/06/month-2-details/
-last_modified_at: 2026-04-24 14:18:25
+last_modified_at: 2026-07-21 18:20:43
 ---
 This month, I found some money and invested more. Which means more
 reward!
