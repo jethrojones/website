@@ -27,9 +27,7 @@ professors giving lectures. I think this is better than iTunesU in that
 it doesn't just put a camera up in their lecture hall and call it good.
 They actually get the professors into a room with a touchscreen monitor
 and a pen. So, you have three views in the videos, as shown in the pic
-below. [<img
-src="http://posterous.com/getfile/files.posterous.com/temp-2011-02-25/ilioHyisdGGBojnpkDihxfyaGaxjJdzrIcygtCcvnlCAmHwocfvdwyJbJJsd/Educator.png.scaled500.png"
-width="500" height="342" />](http://posterous.com/getfile/files.posterous.com/temp-2011-02-25/ilioHyisdGGBojnpkDihxfyaGaxjJdzrIcygtCcvnlCAmHwocfvdwyJbJJsd/Educator.png.scaled1000.png)
+below. _Original image unavailable._
 There is the computer monitor, which is an annotated slideshow, and then
 there is a camera on the professor. Finally there is a navigation window
 that allows you to skip forward in the presentation to different parts. 
@@ -67,9 +65,5 @@ So, if you want to give it a shot, follow these steps: 
 5.  Below the "Continue" button, check "Special Billing" and enter
     EDUCBMF30
 6.  Press "Continue" and you are done.
-
-\<img
-src="http://img.bzzagent.com/image/educator.jpg?Type=activity&Activity=6241636359&Campaign=3072098672&Uid=103020&token=13223cc80ca092dff4c0a3f8832bfab1"
-alt=""/\>
 
 </div>
