@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.joeydevilla.com/2013/12/08/the-flowchart-for-dealing-with-greetings-this-holiday-season/
-last_modified_at: 2026-07-21 18:20:43
+last_modified_at: 2026-07-21 18:47:15
 content_type: post
 date: 2014-11-19
 original_post_path: _posts/2014-11-19-2014-11-18-flowchart-for-responding-to-greetings-during-holidays.md

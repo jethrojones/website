@@ -12,7 +12,7 @@ status: draft
 type: post
 published: false
 meta: {}
-last_modified_at: 2026-07-21 18:20:43
+last_modified_at: 2026-07-21 18:47:15
 content_type: post
 date: 2018-01-03
 original_post_path: _posts/2018-01-03-2018-1-3-turning-learning-upside-down.md

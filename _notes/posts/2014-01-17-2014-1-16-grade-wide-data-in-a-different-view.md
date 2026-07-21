@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2026-07-21 18:20:43
+last_modified_at: 2026-07-21 18:47:15
 content_type: post
 date: 2014-01-17
 original_post_path: _posts/2014-01-17-2014-1-16-grade-wide-data-in-a-different-view.md
