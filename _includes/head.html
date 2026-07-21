@@ -9,7 +9,8 @@
 
   <meta property="og:site_name" content="{{ site.title }}">
 
-  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+  <link rel="icon" type="image/png" sizes="450x450" href="{{ site.default_social_image | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ site.default_social_image | relative_url }}">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
@@ -36,11 +37,6 @@
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
-  {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
-  {% endif %}
-
-
   <!-- Fathom - beautiful, simple website analytics -->
                 <script src="https://cdn.usefathom.com/script.js" data-site="HBLZITTF" defer></script>
               <!-- / Fathom -->
@@ -56,6 +52,11 @@ var _segs = _segs || {};
 
 
 {% seo %}
+
+{% unless page.image %}
+  <meta property="og:image" content="{{ site.url }}{{ site.default_social_image | relative_url }}">
+  <meta property="twitter:image" content="{{ site.url }}{{ site.default_social_image | relative_url }}">
+{% endunless %}
 
 {% if page.url == "/" or page.url == "/about" or page.url == "/about/" or page.url == "/about.html" %}
   {% include jethro-person-jsonld.html %}
