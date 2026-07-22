@@ -22,7 +22,11 @@ I used AI through a video editor's API to rebuild the presentation recording. It
 
 ![Completion summary showing 52 timed slide overlays and four full-screen videos added to the presentation recording.](/assets/what-i-built-today-2026-07-21-presentation-video-build.png)
 
-I recovered missing images and downloadable files across older website posts. I moved the files into permanent site storage, gave the recovered assets readable names, updated the affected pages, and removed dead media references.
+The website cleanup started after [a conversation on X](https://x.com/harrypark/status/2079574699357454843) pointed out broken images left over from an earlier site transition. I gave AI a goal to audit and repair the media. The first complete repair took about 90 minutes.
+
+I recovered missing images and eleven downloadable presentation and document files across older posts. I moved the files into permanent site storage, updated 74 affected pages, removed dead tracking graphics and retired media references, and replaced files that could not be recovered with a clear unavailable marker.
+
+I then renamed 139 recovered source files into 136 readable, article-based asset paths. That cleanup removed three duplicate files, corrected eight image extensions, and repaired an older article that still contained merge-conflict text. After deployment, I verified 297 referenced or newly added media and download URLs, followed by all 136 renamed assets and the 74 affected public pages.
 
 I added a new favicon and automatic social preview images. Pages now use their own image when one is available and fall back to the site icon when one is not. I also fixed a link-preview bug that downloaded document templates before a visitor clicked them.
 
