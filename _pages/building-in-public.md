@@ -6,7 +6,7 @@ permalink: /building-in-public
 last_modified_at: 2026-07-27 17:32:28
 ---
 
-Short daily logs of what I shipped with AI. These notes are produced with automation, then published here. They may be thin, wrong in spots, or boring. That is the point of a public log, not a polished essay.
+Short daily logs of what I shipped with AI. These notes are produced with automation, then published here. It is automated to be vague, intentionally, so I do not divulge anything private. I have a much more detailed daily log that I should not publish.
 
 When [Build in Public Daily](https://bipd.bepodcast.network) is active again, episode links will land with the matching day's note.
 
