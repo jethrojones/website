@@ -3,7 +3,7 @@ layout: page
 title: Projects
 description: Ventures, products, side projects, and experiments Jethro Jones is working on or has shipped.
 permalink: /projects
-last_modified_at: 2026-07-27
+last_modified_at: 2026-07-27 18:17:25
 ---
 
 I run several things at once. The [home page](/) ranks what matters most right now. This page is the longer inventory: active work, early products, side projects, and a few things I have handed off or shut down.
