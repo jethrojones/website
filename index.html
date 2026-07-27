@@ -1,56 +1,77 @@
 ---
 layout: page
-title: Home
-description: Jethro Jones is an AI adoption strategist, educator, author, and podcast host.
+title: Jethro Jones
+description: Jethro Jones runs Optimization Doc and the BE Podcast Network. Public notes, writing, and building in public.
+notes_pagination: false
 ---
 
-<h1 id="have-a-good-life">Have a Good Life.</h1>
+<p>I help teams put AI into real work, not demos. I call that cognitive equity: expanding what people can do, without burying them in tool noise.</p>
 
-<p>I am Jethro Jones, an AI adoption strategist, educator, author, and podcast host. I founded <a href="https://optimizationdoc.com/">Optimization Doc</a>, where I help teams adopt AI through human-first AI workflow design, and I host <a href="https://transformativeprincipal.org/">Transformative Principal</a>, a long-running podcast for educational leaders.</p>
+<p>I run <a href="https://optimizationdoc.com/">Optimization Doc</a> and the <a href="https://bepodcast.network/">BE Podcast Network</a>. I founded <a href="https://transformativeprincipal.org/">Transformative Principal</a>, a long-running podcast for educational leaders, and have turned hosting over so I can put more energy into the network. I write books on school leadership and finished a doctorate in 2026.</p>
 
-<p>This web site is my experiment, constantly evolving and changing.</p>
+<p>This site is my public notes and writing. What I am focused on this month: <a class="internal-link" href="/now">Now</a>. Longer bio: <a class="internal-link" href="/about">About</a>. Side projects and experiments: <a class="internal-link" href="/projects">Projects</a>. Link-in-bio: <a href="https://jethrojon.es/">jethrojon.es</a>.</p>
 
-<p>Start with <a class="internal-link" href="/about">my about page</a>, see what I am up to now on my <a class="internal-link" href="/now">now page</a>, or visit my link-in-bio page at <a href="https://jethrojon.es/">jethrojon.es</a>.</p>
-
-<h2 id="notes-vs-blog-posts">Notes vs. Blog Posts</h2>
-<p>As of today, I am in a transition point. I have taken plain text notes since 2009.</p>
-
-<p>In early 2024, I decided to make my note-taking app, <a href="https://obsidian.md">Obsidian</a>, the engine behind my blog posts. I wanted everything to be in one place, here at jethrojones.com.</p>
-
-<p>So, the notes are notes that I take and occasionally update. They are linked together as you can see from the graph view on the bottom of each post page.</p>
-
-<p>The blog posts are posts that I wrote many years ago, going all the way back to 2006, when I started blogging.</p>
-
-<p>I do not know if I will migrate all my old blog posts over to notes or if they will stay as blog posts. It is all an experiment.</p>
-
-<p>See below for my most recently updated notes.</p>
-
-<h2 id="recently-updated-notes">Recently updated notes</h2>
+<h2 id="working-on">Working on</h2>
 
 <ul>
-  {% for note in page.paginated_notes %}
-    {% assign last_updated = note.last_modified_at | default: note.date %}
-    <li>
-      {{ last_updated | date: "%Y-%m-%d" }} - <a class="internal-link" href="{{ note.url | relative_url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
+  <li><a href="https://optimizationdoc.com/"><strong>Optimization Doc</strong></a> — AI for real recurring work: find the workflow, make the result visible, leave a system the team can keep.</li>
+  <li><a href="https://bepodcast.network/"><strong>BE Podcast Network</strong></a> — production, advertising, and the show roster.</li>
+  <li><a href="https://pdayemails.com/"><strong>P-Day Emails</strong></a> — help missionaries write home consistently.</li>
+  <li><strong>Books</strong> — <a class="internal-link" href="/schoolx"><em>SchoolX</em></a>, <a class="internal-link" href="/how2be"><em>How to Be a Transformative Principal</em></a>. Doctoral work: <a href="https://drjethro.com/">DrJethro.com</a>.</li>
 </ul>
 
-{% assign paginator = page.notes_paginator %}
-{% if paginator.total_pages > 1 %}
-<nav class="pagination">
-  {% if paginator.previous_page_path %}
-  <a class="internal-link previous" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
-  {% endif %}
-  <span class="page-number">Page {{ paginator.current_page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page_path %}
-  <a class="internal-link next" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% endif %}
-</nav>
-{% endif %}
+<p>I founded <a href="https://transformativeprincipal.org/">Transformative Principal</a>; hosting is in other hands now so I can focus on the network.</p>
 
-<h2 id="these-are-all-the-blog-posts-from-my-blogger-and-squarespace-blogs">These are all the blog posts from my Blogger and Squarespace blogs</h2>
-{% include blog-archive.html %}
+{% assign base_notes = site.notes | where_exp: "n", "n.content_type != 'post' and n.content_type != 'post_archive'" %}
+{% assign notes_by_date = base_notes | sort: "date" | reverse %}
+
+<h2 id="writing">Writing</h2>
+
+<p>Notes and posts I publish as writing, not the daily AI build log.</p>
+
+<ul>
+{% assign writing_count = 0 %}
+{% for note in notes_by_date %}
+  {% if writing_count >= 8 %}{% break %}{% endif %}
+  {% assign is_witb = false %}
+  {% if note.tags contains "what-i-built-today" %}{% assign is_witb = true %}{% endif %}
+  {% if note.title contains "What I Built Today" %}{% assign is_witb = true %}{% endif %}
+  {% unless is_witb %}
+    {% assign note_date = note.date | default: note.last_modified_at %}
+    <li>
+      {{ note_date | date: "%Y-%m-%d" }} —
+      <a class="internal-link" href="{{ note.url | relative_url }}">{{ note.title }}</a>
+    </li>
+    {% assign writing_count = writing_count | plus: 1 %}
+  {% endunless %}
+{% endfor %}
+</ul>
+
+<p><a class="internal-link" href="/blog">Older blog archive</a> · <a class="internal-link" href="/search">Search</a></p>
+
+<h2 id="building-in-public">Building in public</h2>
+
+<p>Short daily logs of what I shipped with AI. Written by automation, then published here. Expect rough edges. When <a href="https://bipd.bepodcast.network">Build in Public Daily</a> is active again, those episodes will show up with these notes.</p>
+
+<ul>
+{% assign witb_count = 0 %}
+{% for note in notes_by_date %}
+  {% if witb_count >= 5 %}{% break %}{% endif %}
+  {% assign is_witb = false %}
+  {% if note.tags contains "what-i-built-today" %}{% assign is_witb = true %}{% endif %}
+  {% if note.title contains "What I Built Today" %}{% assign is_witb = true %}{% endif %}
+  {% if is_witb %}
+    {% assign note_date = note.date | default: note.last_modified_at %}
+    <li>
+      {{ note_date | date: "%Y-%m-%d" }} —
+      <a class="internal-link" href="{{ note.url | relative_url }}">{{ note.title }}</a>
+    </li>
+    {% assign witb_count = witb_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<p><a class="internal-link" href="/building-in-public">All building-in-public logs</a> · <a href="https://bipd.bepodcast.network">Build in Public Daily</a></p>
 
 <p>Have a Good Life.</p>
 

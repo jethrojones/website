@@ -155,6 +155,33 @@ nav {
   margin: 1em 0 3em;
 }
 
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75em 1.25em;
+}
+
+.site-nav-home {
+  font-weight: 700;
+}
+
+.site-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em 1em;
+}
+
+.site-nav #nav-search-container {
+  margin-left: auto;
+
+  @media (max-width: 700px) {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;

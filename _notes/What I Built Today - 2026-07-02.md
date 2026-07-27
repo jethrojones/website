@@ -6,7 +6,7 @@ image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: ai
+category: build-in-public
 tags:
   - what-i-built-today
   - ai

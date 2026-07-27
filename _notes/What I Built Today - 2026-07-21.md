@@ -6,7 +6,7 @@ image: /assets/what-i-built-today-2026-07-21-presentation-video-build.png
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: ai
+category: build-in-public
 tags:
   - what-i-built-today
   - ai

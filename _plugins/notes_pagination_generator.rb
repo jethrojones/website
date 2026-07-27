@@ -29,6 +29,10 @@ module Jekyll
       index = site.pages.find { |p| p.url == '/' && p.name =~ /^index\.(md|html)$/ }
       return unless index
 
+      # Homepage no longer uses a full notes paginator (see notes_pagination: false).
+      # Skip so we do not clone the sparse home template across /page:N/.
+      return if index.data['notes_pagination'] == false
+
       notes = site.collections['notes'].docs
                   .reject { |n| ['post', 'post_archive'].include?(n.data['content_type']) }
                   .sort_by { |n| n.data['last_modified_at_timestamp'] || n.data['date'] }
