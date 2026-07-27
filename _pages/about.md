@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-07-27
+last_modified_at: 2026-07-27 17:32:28
 layout: page
 title: About
 description: Jethro Jones runs Optimization Doc and the BE Podcast Network. Educator, author, and founder of Transformative Principal.

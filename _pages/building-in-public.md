@@ -3,6 +3,7 @@ layout: page
 title: Building in public
 description: Daily AI-assisted build logs from Jethro Jones, plus Build in Public Daily.
 permalink: /building-in-public
+last_modified_at: 2026-07-27 17:32:28
 ---
 
 Short daily logs of what I shipped with AI. These notes are produced with automation, then published here. They may be thin, wrong in spots, or boring. That is the point of a public log, not a polished essay.
