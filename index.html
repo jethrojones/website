@@ -20,8 +20,6 @@ notes_pagination: false
   <li><strong>Books</strong> — <a class="internal-link" href="/schoolx"><em>SchoolX</em></a>, <a class="internal-link" href="/how2be"><em>How to Be a Transformative Principal</em></a>. Doctoral work: <a href="https://drjethro.com/">DrJethro.com</a>.</li>
 </ul>
 
-<p>I founded <a href="https://transformativeprincipal.org/">Transformative Principal</a>; hosting is in other hands now so I can focus on the network.</p>
-
 {% assign base_notes = site.notes | where_exp: "n", "n.content_type != 'post' and n.content_type != 'post_archive'" %}
 {% assign notes_by_date = base_notes | sort: "date" | reverse %}
 
