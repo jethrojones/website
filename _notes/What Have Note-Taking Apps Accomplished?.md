@@ -27,10 +27,12 @@ These notes have helped me stay in touch and remember key people I care about (n
 
 These notes have helped me set and accomplish goals that would have never been possible without me capturing them somewhere.
 
+These notes are also the basis for this site [[about]].
+
 When I lived in Russia in 2000-2002, I wrote in my journal every single day. Didn't miss a single day. It is a glorious keepsake that I would be devastated to lose.
 
 Same with these notes that I have been writing since 2009. Ironically, 2002-2009 is a black hole since I didn't write in a journal and didn't have a good note-taking system.
 
-What have note taking apps accomplished? For me personally, they have helped me live a life that I love, and will continue to do so for the rest of my life.
+What have note taking apps accomplished? For me personally, they have helped me live a life that I love, and will continue to do so for the rest of my life. 
 
 Will I move away from Obsidian? Probably. The key is that the notes themselves are portable.
