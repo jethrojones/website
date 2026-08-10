@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-02-05 08:16:08
+last_modified_at: 2026-08-09 13:22:00
 permalink: fsff
 description: Fast Sunday Family Feast - A Jones Family Tradition
 title: Fast Sunday Family Feast - A Jones Family Tradition
@@ -47,6 +47,7 @@ Here's our Fast Sunday Family Feast Plans:
 - [[Food from Tanzania - February 2026]]
 - [[FSFF June 2026 - Korean Food]]
 - [[FSFF July 2026 - Colombian Food]]
+- [[FSFF August 2026 - Pioneer Food]]
 
 ## 2025
 - [[Argentinian Food - January 2025]]
