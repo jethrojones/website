@@ -1,14 +1,14 @@
 ---
-last_modified_at:
+last_modified_at: 2026-08-10
 permalink: AIforLinux
-description: A practical walkthrough for installing Arch Linux and Omarchy on a T2 2019 MacBook Air, including bootloader setup, Wi-Fi, and troubleshooting with AI.
-title: Installing Omarchy on a T2 MacBook Air with AI Help
+description: How to install Omarchy on a T2 2019 Intel MacBook Air, including Arch Linux setup, EFI bootloader fixes, Wi-Fi, and AI-assisted troubleshooting.
+title: How to Install Omarchy on a T2 MacBook Air
 image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category:
-tags:
+category: ai
+tags: [omarchy, t2-mac, macbook-air, arch-linux, t2linux]
 date: 2025-08-27
 layout: note
 ---
