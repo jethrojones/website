@@ -5,7 +5,7 @@ description: A curated list of short motivational videos and reels for teachers,
 category: learning
 tags: [motivational-videos, teachers, students, staff-meetings, back-to-school, reels]
 status: publish
-last_modified_at: 2026-08-10
+last_modified_at: 2026-08-11 00:10:05
 date: 2020-01-01
 ---
 # Inspirational Videos for Teachers and Students
