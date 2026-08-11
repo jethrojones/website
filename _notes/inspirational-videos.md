@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The Ultimate Inspirational Videos for Teachers and Students
-description: A curated list of short motivational and inspirational videos for teachers, students, classrooms, staff meetings, and school assemblies.
-category:
-tags:
+description: A curated list of short motivational videos and reels for teachers, students, back-to-school staff meetings, classrooms, and school assemblies.
+category: learning
+tags: [motivational-videos, teachers, students, staff-meetings, back-to-school, reels]
 status: publish
-last_modified_at: 2026-06-23 15:49:46
+last_modified_at: 2026-08-10
 date: 2020-01-01
 ---
 # Inspirational Videos for Teachers and Students
@@ -24,6 +24,33 @@ If you are choosing something fast, start here:
 - **Inspirational videos for students:** use these for advisory, assemblies, class meetings, or the beginning of a unit where students need courage and purpose.
 - **Inspirational videos for high school students:** choose videos with older students in mind, especially when the message is about grit, identity, discipline, kindness, or future goals.
 - **Inspirational videos for teachers to show students:** choose videos that are short, school appropriate, easy to discuss, and connected to a reflection prompt.
+- **Video messages for an elementary class:** use these [ideas and scripts](/video-messages-for-an-elementary-class) when a teacher, guest, or family member needs to record a short message for a grade-school class.
+
+## Back-to-School Motivation Videos for Staff
+
+At the start of the school year, choose one short video and leave time for staff to talk. The video should point to one decision, not try to carry the whole meeting.
+
+- [Every Kid Needs a Champion](https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion) works well before a conversation about relationships with students.
+- [Try Something New for 30 Days](https://ed.ted.com/lessons/try-something-new-for-30-days-matt-cutts) can introduce one small habit each person wants to test.
+- [51 Years of Service](/inspiration/2025/02/06/51-years-of-service/) is a short reminder that steady work adds up.
+- [School Should Be a Place Where Kids Want to Be](/inspiration/2025/04/04/School-should-be-a-place-where-kids-want-to-be/) can open a practical discussion about school culture.
+
+### A 10-Minute Staff Meeting Plan
+
+1. Name one question before the video: “What does this ask us to do for students this week?”
+2. Show one video.
+3. Give people one minute to write, then ask each person to name one action.
+
+## Short Motivational Reels for Teachers
+
+Use a reel when you need a quick opening, closing, or discussion prompt. These short-form videos are easier to fit into a staff meeting than a full talk.
+
+- [Showing Up Matters](/inspiration/2025/04/19/Showing-up-matters/)
+- [Reframing Failure](/inspiration/2025/02/21/Reframing-failure/)
+- [Never Give Up](/inspiration/2025/06/30/Never-give-up/)
+- [Don’t Say It’s Impossible With No Arms](/inspiration/2025/05/22/Don-t-say-it-s-impossible-with-no-arms/)
+
+For any reel, preview the full post first. Check the caption, comments, audio, and suggested content before showing it to staff or students.
 
 ## How to Use These Videos in Class or Staff Meetings
 
