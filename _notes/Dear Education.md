@@ -1,12 +1,12 @@
 ---
-last_modified_at: 2026-05-28 11:14:01
+last_modified_at: 2026-09-04
 title: Dear Education
 description: A plea to education to make the changes needed for the future.
 image:
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category:
 tags:
   - synergy
   - ai
