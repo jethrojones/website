@@ -16,6 +16,14 @@ _includes/notes_graph.json
 /_notes/templates
 .DS_Store
 /_notes/copilot-custom-prompts
+
+# Accidental Obsidian vault-root copies (canonical notes live in _notes/)
+/posts/
+/copilot-custom-prompts/
+/templates/
+/_staging/
+/Clippings/
+.rboxignore
 .env
 .gsc-oauth-client.json
 .gsc-token.json
