@@ -48,6 +48,7 @@ Here's our Fast Sunday Family Feast Plans:
 - [[FSFF June 2026 - Korean Food]]
 - [[FSFF July 2026 - Colombian Food]]
 - [[FSFF August 2026 - Pioneer Food]]
+- [[FSFF September 2026 - Brazilian Food]]
 
 ## 2025
 - [[Argentinian Food - January 2025]]
