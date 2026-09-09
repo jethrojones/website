@@ -36,19 +36,19 @@ Cali is doing home MTC, and we are taking her down to the Provo MTC next week.
 
 ## The feast
 
-![Salad and cheese rolls on a plate](/assets/images/fsff-september-2026/img_9528.jpg)
+<img src="/assets/images/fsff-september-2026/img_9528.jpg" alt="Salad and cheese rolls on a plate" loading="lazy" decoding="async">
 
-![Feijoada, rice, bananas, salad, and cheese rolls ready to eat](/assets/images/fsff-september-2026/img_9529.jpg)
+<img src="/assets/images/fsff-september-2026/img_9529.jpg" alt="Feijoada, rice, bananas, salad, and cheese rolls ready to eat" loading="lazy" decoding="async">
 
-![Overhead view of our Brazilian meal](/assets/images/fsff-september-2026/img_9526.jpg)
+<img src="/assets/images/fsff-september-2026/img_9526.jpg" alt="Overhead view of our Brazilian meal" loading="lazy" decoding="async">
 
-![Brazilian pave dessert with a creamy topping](/assets/images/fsff-september-2026/img_9538.jpg)
+<img src="/assets/images/fsff-september-2026/img_9538.jpg" alt="Brazilian pave dessert with a creamy topping" loading="lazy" decoding="async">
 
-![Close-up of the cabbage and apple salad](/assets/images/fsff-september-2026/img_6097.jpg)
+<img src="/assets/images/fsff-september-2026/img_6097.jpg" alt="Close-up of the cabbage and apple salad" loading="lazy" decoding="async">
 
-![Brazilian lemonade in a mug and glass](/assets/images/fsff-september-2026/img_6098.jpg)
+<img src="/assets/images/fsff-september-2026/img_6098.jpg" alt="Brazilian lemonade in a mug and glass" loading="lazy" decoding="async">
 
-![Brazilian cheese rolls on a white plate](/assets/images/fsff-september-2026/img_6099.jpg)
+<img src="/assets/images/fsff-september-2026/img_6099.jpg" alt="Brazilian cheese rolls on a white plate" loading="lazy" decoding="async">
 
 See the rest of our plans and meals here: [[Fast Sunday Family Feast]]
 
