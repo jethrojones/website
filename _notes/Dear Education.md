@@ -44,15 +44,17 @@ Some things that we thought were important may not be classes anymore. But on th
 
 But classes or subjects are the wrong words. 
 
-Let me give an example. In my school, way back in 2017, we did this. We called it Synergy, and you can find out more about it by searching for synergy at [TransformativePrincipal.org](https://transformativeprincipal.org/search?query=synergy). 
+Let me give an example. In my school, way back in 2017, we did this. We called it Synergy, and you can find out more about it by searching for synergy at [TransformativePrincipal.org](https://transformativeprincipal.org/search?query=synergy) or listening to this [specific episode](https://transformativeprincipal.org/s6/253). 
 
 Synergy was a portion of our day (2 90 minute sessions each week) where kids were challenged to solve a problem that would make the world a better place. It was intentionally outside the regular subjects. Every adult in the building was involved. Kids learned to do all kinds of amazing things. Student to adult ratio dropped to 13:1. 
 
-But here's the best part. We followed one group and checked off the standards they accomplished by doing their project. They showed mastery of over forty standards, extending all the way up to 12th grade level standards. 
+But even more important was their actual achievement. We followed one group and checked off the standards they accomplished by doing their project. They showed mastery of over forty standards, extending all the way up to 12th grade level standards. 
 
 So, not only did they pass off many in their current grade level of 7th or 8th grade, they also showed mastery of levels much higher than we were prepared to teach (but we were prepared to assess at that higher level). In fact, they even learned things that we don't teach in school! 
 
-Here's the amazing part: if we had tried to teach all those skills to them in the traditional way, it would have taken us at leaast 150 direct instruction lessons in 10 different subjects, and they would have been super boring lessons for everyone involved, teachers and students included.
+If we had tried to teach all those skills to them in the traditional way, it would have taken us at least 150 direct instruction lessons in 10 different subjects, and they would have been super boring lessons for everyone involved, teachers and students included.
+
+This is not just at a couple isolated schools, either! [Iowa BIG](https://iowabig.org/about-iowa-big/), [High Tech High](https://www.hightechhigh.org/) (even a [movie](https://www.youtube.com/watch?v=hd1nZMh_FTI)), [Design39](https://design39campus.powayusd.com/), [Tech Valley High School](https://newtechnetwork.org/school-profiles/case-study-tech-valley-high-school/)and [many more](https://www.youtube.com/watch?v=wex7aMseW9M&list=PLaVbyWh6_29z5inuslY1QJmbavPADq5uD).
 
 There are a few things to be aware of. Not every kid will learn the exact same things at the exact same time. 
 
@@ -62,13 +64,13 @@ Not every kid will learn the exact same things as their neighbor.
 
 That's OK, too! 
 
-And you know what? That's the current reality also! 
+And you know what? That's the current reality anyway! 
 
-Kids already don't learn the same things as their neighbor, and then we put them in school more and tell them they are dumb because they didn't get it the first time. 
+Kids already don’t learn the same things as their neighbor. When a kid doesn’t get it the first time, we often give them more of the same instruction and make them feel dumb for needing another way to learn. 
 
 Kids with natural proclivities to certain subjects will do more of that thing they are interested in. Again, that's OK! 
 
-But here's the important thing: If kids know how to learn something new without having to get direct instruction from a teacher, they will be prepared to learn whatever thing they need to learn at the moment they need to learn it. 
+If kids know how to learn something new without having to get direct instruction from a teacher, they will be prepared to learn whatever thing they need to learn at the moment they need to learn it. 
 
 Yes, learning will still take time. That's OK, too! 
 
@@ -82,7 +84,7 @@ There will still be a need for students to learn something specifically, for whi
 
 Teachers can make a great impact by teaching exactly what a kid needs right when he or she needs it. How powerful to be the one who gets to help a kid pass a huge hurdle because of what you can teach them! You know you love that feeling! 
 
-And, the great thing is you can start this today in your schools. This is exactly what I would do if I were a superintendent today: 
+You can start this today in your schools. This is exactly what I would do if I were a superintendent today: 
 
 1. Challenge each teacher to change one assignment from starting with standards to ending with standards. 
 2.  Designate time outside of classes but in the school day for project-focused work by partnering with businesses, community members, nonprofits, churches, and my own district office, to find real problems that need solutions.
