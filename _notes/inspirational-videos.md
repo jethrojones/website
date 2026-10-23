@@ -5,7 +5,7 @@ description: A curated list of short motivational videos and reels for teachers,
 category: learning
 tags: [motivational-videos, teachers, students, staff-meetings, back-to-school, reels]
 status: publish
-last_modified_at: 2026-08-11 00:10:05
+last_modified_at: 2026-10-23 15:20:00
 date: 2020-01-01
 ---
 # Inspirational Videos for Teachers and Students
@@ -63,130 +63,150 @@ A motivational video works best when it is not just shown and forgotten. Before 
 
 For students, I usually prefer short videos followed by a quick written reflection. For teachers, I prefer a short conversation that connects the video to a real challenge they are facing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-  
 ## Inspirational Videos for Everyone
 
+Good videos for students or teachers. If a player is blocked on your network, use the YouTube link below it.
 
-Good videos for students or teachers.
+### Every Kid Needs a Champion
 
+{% include youtube.html id="SFnMTHhKdkw" title="Every Kid Needs a Champion - Rita Pierson" %}
 
-Every kid needs a champion.
+### When Things Get Hard
 
-When things get hard, you bail!
+{% include youtube.html id="7tU6cdzXtAI" title="American Underdog - Panthers" %}
 
+### Learning to Ride a Bike
 
+{% include youtube.html id="c47otcg13Z8" title="Kid Gives Inspiring Speech to Children Learning to Ride a Bike" %}
 
+### Team Addy
 
-  
+{% include youtube.html id="Cke-On2EyhI" title="Team Addy - Full Documentary" %}
 
+### The Greatest Showman
 
+The [original Greatest Showman video](https://www.youtube.com/watch?v=XLFEvHWD_NE) is now private on YouTube.
 
+### Year in Search
 
+{% include youtube.html id="rokGy0huYEA" title="2020 - Year in Search" %}
 
+### Resiliency
 
+{% include youtube.html id="UNQhuFL6CWg" title="Resiliency - Motivational Video" %}
 
-  
+### Know Your Why
 
+{% include youtube.html id="1ytFB8TrkTo" title="Know Your Why - Michael Jr." %}
 
+### Good Job
 
-Now On Digital: http://bit.ly/TheGreatestShowman-DigitalNow On Blu-ray & DVD: http://bit.ly/GreatestShowmanShopInspired by the imagination of P.T. Barnum, Th...
+{% include youtube.html id="NkDNp4ATCso" title="Good Job - One Voice Children's Choir" %}
 
-In times of uncertainty, people seek understanding and meaning. This year, the world searched "why" more than ever. This film features the questions we asked...
+### Chains and Links
 
-Subscribe: http://www.youtube.com/user/TheMiro0r?sub_confirmation=1Website: http://www.mateuszm.comFacebook: http://on.fb.me/R8jxxVInstagram: http://bit.ly/1...
+{% include youtube.html id="o_L7JmKCML4" title="Chains and Links" %}
 
-Comedian Michael Jr. goes Off the Cuff at live comedy show and uses this completely improv moment as a great illustration for knowing your why and purpose in...
+### Try Something New for 30 Days
 
-This is One Voice Children's Choir covering "Good Job" by Alicia Keys: A Tribute to Covid-19 HeroesThe One Voice Children's Choir would like to say "Good Job...
+{% include youtube.html id="JnfBXjWm7hc" title="Try Something New for 30 Days - Matt Cutts" %}
 
-If you liked this video you're going to LOVE the book! www.JustLookUpBook.com ---------LOOKING FOR A SPEAKER??? ----- ~ We are currently doing both live...
+### If It Was Easy
 
-http://www.ted.com Is there something you've always meant to do, wanted to do, but just ... haven't? Matt Cutts suggests: Try it for 30 days. This short, lig...
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thequotebibles/video/6906986780516486402" data-video-id="6906986780516486402">
+  <section><a href="https://www.tiktok.com/@thequotebibles/video/6906986780516486402">Watch If It Was Easy on TikTok</a></section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
 
->[@thequotebibles](https://www.tiktok.com/@thequotebibles) 
-If it was easy there’d be no Denzel Washington. 
-[#denzelwashington](https://www.tiktok.com/tag/denzelwashington) 
-[♬ All I Want for Christmas Is You - Mariah Carey](https://www.tiktok.com/music/All-I-Want-for-Christmas-Is-You-222454852260487168)
- 
-Should you tell your kids they are smart or talented? Professor Carol Dweck answers this question and more, as she talks about her groundbreaking work on dev...
+### Developing a Growth Mindset
 
-Howard University alumnus Chadwick Boseman provides words of inspiration to the Class of 2018 during Howard University's 150th Commencement Ceremony on Satur...
+{% include youtube.html id="hiiEeMN7vbQ" title="Developing a Growth Mindset with Carol Dweck" %}
 
-View full lesson: http://ed.ted.com/lessons/there-s-no-dishonor-in-having-a-disability-steven-claunchWhen faced with a bump in the road, sometimes we forget ...
+### Chadwick Boseman's Commencement Speech
 
-Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hBJust before his passing on January 10, 2014, Sam Berns was a Junior at Foxboro High Sc...
+{% include youtube.html id="RIHZypMyQ2s" title="Chadwick Boseman's Howard University 2018 Commencement Speech" %}
 
+### Overcoming Obstacles
 
+{% include youtube.html id="2MGMvEnoD6U" title="Overcoming Obstacles - Steven Claunch" %}
 
-The official audio video for Jonny Diaz's song "Broken People."If you like this song, check out Jonny's latest album below: https://JonnyDiaz.lnk.to/Sweetnes...
+### My Philosophy for a Happy Life
 
-"You Want First Place Come Play With Me, You Want Second Place Go Somewhere Else." KOBE BRYANT. The Mindset Of A Winner.MAMBA MENTALITY book: https://amzn.to...
+{% include youtube.html id="36m1o-tM05g" title="My Philosophy for a Happy Life - Sam Berns" %}
 
-Watch as the camera tracks an act of kindness as its passed from one individual to the next and manages to boomerang back to the person who set it into motio...
+### Sweet Caroline
 
-A clip from "Remember the Titans."Assistant Coach Yoast shows that you have to do the right thing regardless of the cost. Strive for excellence. And leave no...
+{% include youtube.html id="F8y9dojrjdE" title="Sweet Caroline - Neil Diamond Global Singalong" %}
 
+### Breathe
 
+{% include youtube.html id="hnjeMwxFuBA" title="Breathe - Jonny Diaz" %}
 
-****
+### The Mindset of a Winner
 
+{% include youtube.html id="VSceuiPBpxY" title="The Mindset of a Winner - Kobe Bryant" %}
+
+### Kindness Boomerang
+
+{% include youtube.html id="nwAYpLVyeFU" title="Life Vest Inside - Kindness Boomerang" %}
+
+### Leave No Doubt
+
+{% include youtube.html id="i8vXroMMGdM" title="Leave No Doubt - Remember the Titans" %}
+
+### Masterpiece
+
+{% include youtube.html id="fWC_wKVlErQ" title="FranklinCovey's 7 Habits - Masterpiece" %}
+
+---
 
 ## Short Motivational Videos for Teachers
 
-
 These videos are inspirational for teachers specifically. They work well for faculty meetings, professional development openings, teacher appreciation, or a quick reminder that the work matters even when it is difficult.
 
+### Be a Mr. Jensen
 
-"When we help team members, students, and co-workers to become more of who they already are - retention improves, sales increase, academic success soars and ...
+{% include youtube.html id="4p5286T_kn0" title="Be a Mr. Jensen" %}
 
-Schitt's CreekDear Class of 2020 - An oldie but a goodie!
+### A Salute to Teachers
 
-If you liked this video you're going to LOVE the book! www.JustLookUpBook.com For the follow up PD and for more videos like this (for educators and studen...
+{% include youtube.html id="wMyK0ANuxiU" title="Schitt's Creek Salute to Teachers" %}
 
-Starbucks has a philosophy that just might be the secret to saving our educational system. Monica Genta shares this insight, and how it can be used to build ...
+### The Calling
 
+{% include youtube.html id="5dCq83DhyC8" title="The Calling" %}
 
+### How Starbucks Could Save Education
 
-Author and Motivational Speaker Jeremy Anderson delivers a heartfelt and gripping message for educators today. In this motivational and celebratory video Jer...
+{% include youtube.html id="iFd9bffMtjo" title="How Starbucks Could Save Education - Monica Genta" %}
 
-This is the story of Not Impossible Labs founder Mick Ebeling. After reading about a boy named Daniel who lost both his arms during the civil war in South Su...
+### Landfill Harmonic
 
-Dear teachers, Last spring, you made the shift from face-to-face teaching to pandemic pedagogy. In a matter of days, you found innovative solutions to huge c...
+{% include youtube.html id="4D9Y4WFFcSw" title="Landfill Harmonic" %}
 
-Todd Nesloney is a life-changing principal. He works every day to help establish and build relationships that kids need to grow and develop. Come see what in...
+### Teacher Motivation and Inspiration
 
-Jimmy Page talking about One Word - http://www.GetOneWord.com
+{% include youtube.html id="Mf6HLttmDkI" title="Teacher Motivation and Inspiration - Jeremy Anderson" %}
 
-****
+### Look Inside
 
+{% include youtube.html id="ol19tt3VWhQ" title="Look Inside - Mick Ebeling" %}
 
-### Inspirational Videos For Students
+### Teachers Were a Lifeline
 
+{% include youtube.html id="W5tf5ZJuUBI" title="Teachers Were a Lifeline During the Pandemic" %}
+
+### Kids Deserve It
+
+{% include youtube.html id="mSdl3KIkT44" title="Kids Deserve It - Todd Nesloney" %}
+
+### One Word
+
+{% include youtube.html id="oLHR6wI-9f4" title="One Word - Jimmy Page" %}
+
+---
+
+## Inspirational Videos For Students
 
 These videos are specifically good for students. Use them for advisory, classroom conversations, assemblies, or moments when students need a reset.
 
@@ -198,16 +218,25 @@ For high school students, I look for videos that respect their maturity and do n
 
 When teachers show a motivational video to students, the video should be short enough to leave time for discussion. A good follow-up is to ask students to write one sentence about what the video teaches and one action they can take today.
 
+### The Rainmaker Family
 
-https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)[A post shared by The Rainmaker Family (@therainmakerfamily)](https://www.instagram.com/reel/C2n1DvEPAAE/?utm_source=ig_embed&utm_campaign=loading)
- 
-Special Thanks: Hugo-Purpose.-What do you mean?-Everything has a purpose, even machines.-Clocks tell the time and trains take you places.-They do what they'r...
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C2n1DvEPAAE/" data-instgrm-version="14">
+  <a href="https://www.instagram.com/reel/C2n1DvEPAAE/">Watch the Rainmaker Family's video on Instagram</a>
+</blockquote>
+<script async src="https://www.instagram.com/embed.js"></script>
 
-Destiny belongs to the underdogs
+### Find Your Purpose
 
-Make Your Bed speech - US Navy Admiral, William H. McRaven, delivers a speech about the importance of doing the little things like making your bed, embracing...
+{% include youtube.html id="kPYWFyDdYno" title="Hugo - Find Your Purpose in Life" %}
 
+### Destiny Belongs to the Underdogs
 
-{% include video_embed.html %}
+{% include youtube.html id="Of3tnfJgW7k" title="American Underdog - Welcome to the Rams" %}
+
+### Make Your Bed
+
+{% include youtube.html id="3sK3wJAxGfs" title="Make Your Bed - William McRaven" %}
+
+<!-- Video collection restored from the original site export. Created by Codex GPT-6 on 2026-10-23 15:20 PT on Jethro-MBP. -->
 
 <script async data-uid="6da1a20aed" src="https://jethrojones.kit.com/6da1a20aed/index.js"></script>

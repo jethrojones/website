@@ -1,0 +1,14 @@
+<!-- Created by Codex on 2026-10-23 15:16 PT on Jethro-MBP -->
+<div class="video-container">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/{{ include.id }}"
+    title="{{ include.title | escape }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+<p>
+  <a href="https://www.youtube.com/watch?v={{ include.id }}" target="_blank" rel="noopener noreferrer">{{ include.title | escape }}</a>
+</p>
