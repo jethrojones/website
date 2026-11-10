@@ -3,7 +3,7 @@ layout: page
 title: Grok Bots
 description: Public Grok Bot templates from Jethro Jones, including Zapier, NicheSiteWriter, TheOverseer, ConsumerAdvocate, Best Practices, and the Wall Street Research desk.
 permalink: /grokbots
-last_modified_at: 2026-11-10 12:50:00
+last_modified_at: 2026-11-10 20:53:27
 ---
 
 <!-- Updated by Codex on 2026-11-10 12:50 PT on Jethro-MBP -->
