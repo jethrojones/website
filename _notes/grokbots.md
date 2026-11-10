@@ -1,14 +1,22 @@
 ---
 layout: page
 title: Grok Bots
-description: Public Grok Bot templates from Jethro Jones, including Zapier, NicheSiteWriter, TheOverseer, ConsumerAdvocate, and the Wall Street Research desk.
+description: Public Grok Bot templates from Jethro Jones, including Zapier, NicheSiteWriter, TheOverseer, ConsumerAdvocate, Best Practices, and the Wall Street Research desk.
 permalink: /grokbots
-last_modified_at: 2026-10-26 01:57:25
+last_modified_at: 2026-11-10 12:50:00
 ---
+
+<!-- Updated by Codex on 2026-11-10 12:50 PT on Jethro-MBP -->
 
 Public Grok Bot templates you can add from an [x.ai](https://x.ai) share link. Research support bots are not financial advice.
 
 ## Published templates
+
+### [Best Practices](https://x.ai/bot/pJz-VcBe9UcBij1BtS3BL)
+
+It's good to pay attention to your competitors, but sometimes it is too much! So, I created a Best Practices bot to keep tabs on my competition so I could see what they are objectively doing well. It's done a good job of highlighting areas I can improve without overwhelm.
+
+- Install: [x.ai/bot/pJz-VcBe9UcBij1BtS3BL](https://x.ai/bot/pJz-VcBe9UcBij1BtS3BL)
 
 ### [Zapier](https://x.ai/bot/6zPadTDV2Y7uAt_qbNxzM)
 
